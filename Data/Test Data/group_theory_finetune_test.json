@@ -1,0 +1,190 @@
+[
+    {
+        "Question": "True of false: one can draw a simple connected planar graph with 200 vertices and 400 faces",
+        "Answer": "False"
+    },
+    {
+        "Question": "An auto magazine reports that a certain sports car has 53% of its weight on the front wheels and 47% on its rear wheels. (That is, the total normal forces on the front and rear wheels are 0.53w and 0.47w, respectively, where w is the car\u2019s weight.) The distance between the axles is 2.46 m. How far in front of the rear axle is the car\u2019s center of gravity?",
+        "Answer": "1.3"
+    },
+    {
+        "Question": "In how many ways can a set of 6 distinct letters be partitioned into 3 non-empty groups if each group must contain at least 2 letters?",
+        "Answer": "15"
+    },
+    {
+        "Question": "In how many ways can a group of 9 people be divided into 3 non-empty subsets?",
+        "Answer": "3025"
+    },
+    {
+        "Question": "Let X_1, X_2,... be independent variables each taking values +1 or -1 with probabilities 1/2 and 1/2. It is know that $\\sqrt{3/n^3}*\\sum_{k=1}^n k*X_k$ converges in distribution normal distribution N(a,b) as n goes to infinity. Here a is the expectation and b is the variance. What are the values of a and b? Return the answers as a list. For example, if a=2, b=100, return [2,100].",
+        "Answer": "[0, 1]"
+    },
+    {
+        "Question": "What is the order of group Z_{18}?",
+        "Answer": "18"
+    },
+    {
+        "Question": "Consider a source X with a distortion measure $d(x, \\hat{x})$ that satisfies the following property: all columns of the distortion matrix are permutations of the set $\\{d_1, d_2, \\ldots, d_m\\}$. The function $\\phi(D) = \\max_{b:\\sum_{i=1}^m p_i d_i \\leq D} H(p)$ is concave. True or False?",
+        "Answer": "True"
+    },
+    {
+        "Question": "Fig. Q4 shows the contour of an object. Represent it with an 8-directional chain code. The resultant chain code should be normalized with respect to the starting point of the chain code. Represent the answer as a list with each digit as a element.",
+        "Answer": "[0, 2, 0, 2, 1, 7, 1, 2, 0, 3, 0, 6]"
+    },
+    {
+        "Question": "In how many ways can a group of 7 people be divided into 2 non-empty subsets?",
+        "Answer": "63"
+    },
+    {
+        "Question": "Are groups Z_4 * Z_2 and D_4 isomorphic?",
+        "Answer": "False"
+    },
+    {
+        "Question": "Let M be the inverse of the group element ((3, 5), (4, 6)) in Z_7. What is M[0][1]?",
+        "Answer": "6"
+    },
+    {
+        "Question": "given a finite group A, and a collection of permutations B. Then (a) there exists B such that A is isomorphic to B; (b) for any B, A is isomorphic to B; (c) A can never be isomorphic to B; (d) none of the above. Which option is correct?",
+        "Answer": "(a)"
+    },
+    {
+        "Question": "What's the maximum number of edges in a simple triangle free planar graph with 30 vertices?",
+        "Answer": "56"
+    },
+    {
+        "Question": "Consider a probability density $p_x(x)$ defined over a continuous variable x, and suppose that we make a nonlinear change of variable using $x = g(y)$. The location $\\hat{y}$ of the maximum of the density in $y$ is not in general related to the location $\\hat{x}$ of the maximum of the density over x by the simple functional relation $\\hat{x} = g(\\hat{y})$.",
+        "Answer": "True"
+    },
+    {
+        "Question": "Let $P_5(x)$ be the fifth-degree Taylor polynomial approximation for f(x)=sin(x), centered at x=0. What is the Lagrange error of the polynomial approximation to sin(1)?.",
+        "Answer": "0.000198"
+    },
+    {
+        "Question": "In how many ways can a committee of 2 men and 3 women be selected from a group of 6 men and 8 women?",
+        "Answer": "840"
+    },
+    {
+        "Question": "A QCIF (176x144) image sequence is encoded using the MPEG video coding algorithm with the following Group Of Pictures (GOP). When a single bit error occurs in the 5th picture of a GOP, which pictures could possibly be affected by this error? Represent the answer in a list sorted in ascending order.",
+        "Answer": "[4, 6, 7, 8, 9, 10, 11, 12]"
+    },
+    {
+        "Question": "A perceptual audio codec is used to compress an audio signal. The codec groups every 4 barks into a subband and then allocates bits to different subbands according to the result of a spectrum analysis based on a psychoacoustic model. All samples in the same subband are quantized with the same quantizer, and the bit resolution of which is allocated by the codec. (The Bark scale is a psychoacoustical scale proposed by Eberhard Zwicker in 1961.) Fig. Q1a shows the frequency spectrum of a windowed segment of audio signal. The psychoacoustic model shown in Fig. Q1b is used in the audio codec to derive the masking threshold for the audio segment. How many potential maskers in Fig. Q1a?",
+        "Answer": "7"
+    },
+    {
+        "Question": "What is the order of the group S_3 * Z_2?",
+        "Answer": "12"
+    },
+    {
+        "Question": "In how many ways can a group of 10 people be divided into 3 non-empty subsets?",
+        "Answer": "9330"
+    },
+    {
+        "Question": "For a simple random walk S_n with S_0=0 and P(S_n-S_{n-1}=1)=1/4, P(S_n-S_{n-1}=-1)=3/4. Let M=\\max{S_n:n\\geq 0}. What is the probability of the event {M\\geq 5}? Round the answer to the thousands decimal.",
+        "Answer": "0.01234567"
+    },
+    {
+        "Question": "Every group of order $5\\cdot7\\cdot47=1645 is abelian, and cyclic. Is this true? Answer true or false.",
+        "Answer": "True"
+    },
+    {
+        "Question": "The function f: U_5 \to U_5 given by f(x) = x^2 is a homomorphism. What is K_f?",
+        "Answer": "[4, 1]"
+    },
+    {
+        "Question": "What are the generators of the additive cyclic group Z?",
+        "Answer": "[1, -1]"
+    },
+    {
+        "Question": "A group of 5 patients treated with medicine. A is of weight 42,39,38,60 &41 kgs. Second group of 7 patients from the same hospital treated with medicine B is of weight 38, 42, 56, 64, 68, 69, & 62 kgs. Is there any difference between medicines under significance level of 5%?",
+        "Answer": "False"
+    },
+    {
+        "Question": "Consider a source X uniform on $\\{1,2,\\ldots,m\\}$ with a distortion measure $d(x, \\hat{x})$ that satisfies the following property: all rows and columns of the distortion matrix are permutations of the set $\\{d_1, d_2, \\ldots, d_m\\}$. Then the Shannon lower bound is tight. i.e. $R(D)=H(X)-\\phi(D)$. True or False?",
+        "Answer": "True"
+    },
+    {
+        "Question": "In a group of 1000 people, at least how many people have to share the same birthday?",
+        "Answer": "3"
+    },
+    {
+        "Question": "In how many ways can a set of 6 distinct letters be partitioned into 2 non-empty groups if each group must contain at least 2 letters?",
+        "Answer": "25"
+    },
+    {
+        "Question": "V is a vector space over the real field R. It is known that the vector group u_1, u_2, u_3 in V are linearly independent. Finding the rank of vector group ${u_1-\\lambda u_2, u_2-\\lambda u_3, u_3-\\lambda u_1}$ for $\\lambda=\\sqrt{5}$ and $\\lambda=1$ separately. Return the answer as a list.",
+        "Answer": "[3, 2]"
+    },
+    {
+        "Question": "How many people at least shall we include in one group, such that there must exist two different people in this group whose birthdays are in the same month?",
+        "Answer": "13"
+    },
+    {
+        "Question": "In a group of 10 people, each of whom has one of 3 different eye colors, at least how many people must have the same eye color?",
+        "Answer": "4"
+    },
+    {
+        "Question": "A group of 9 people is split into 3 committees of 3 people. Committees are identical besides of members. In how many ways can this be done?",
+        "Answer": "280"
+    },
+    {
+        "Question": "Given image \\begin{tabular}{|llll|} \\hline 7 & 1 & 6 & 0 \\\\ 3 & 3 & 7 & 6 \\\\ 6 & 6 & 5 & 7 \\\\ \\hline \\end{tabular} , and the bit-depth of the image is 4. Suppose you want to use the thresholding technique to segment the image. What is the appropriate threshold value based on the histogram of the image? Follow the following rule when you do thresholding or grouping: pixel $(i, j) \\in$ Group A pixels if $g(i, j) \\leq$ current threshold $\\mathrm{T}$; pixel $(i, j) \\in$ Group B pixels otherwise, where $g(i, j)$ is the intensity value of pixel $(i, j)$.",
+        "Answer": "4"
+    },
+    {
+        "Question": "A group of 10 people is split into 3 different committees of 3, 4, and 3 people, respectively. In how many ways can this be done?",
+        "Answer": "4200"
+    },
+    {
+        "Question": "./mingyin/mdp.png shows a rectangular gridworld representation of a simple finite MDP. The cells of the grid correspond to the states of the environment. At each cell, four actions are possible: north, south, east, and west, which deterministically cause the agent to move one cell in the respective direction on the grid. Actions that would take the agent off the grid leave its location unchanged, but also result in a reward of $-1$. Other actions result in a reward of $0$, except those move the agent out of the special states A and B. From state A, all four actions yield a reward of +10 and take the agent to A'. From state B, all actions yield a reward of +5 and take the agent to B'. Suppose the discount gamma=0.9. The state-value function of a policy $\\pi$ is defined as the expected cumulative reward of $\\pi$ given the current state. What is the state-value of state A if the policy is random (choose all four directions with equal probabilities)? What is the state-value of state A under the optimal policy? Return the answer of the two questions using a list.",
+        "Answer": "[8.8, 24.4]"
+    },
+    {
+        "Question": "Represent the contour of the object shown in the figure in a clockwise direction with a 4-directional chain code. Use the left upper corner as the starting point. The answer need to be normalized with respect to the orientation of the object. Represent the answer as a list with each digit as a element.",
+        "Answer": "[1, 0, 1, 1, 3, 0, 1, 1, 3, 1, 1, 3]"
+    },
+    {
+        "Question": "If r(t) = (6t+2)i + 5t^2j - 8tk, find the Binormal vector as [xi, yj, zk]. What are x, y, z? Return them as a list.",
+        "Answer": "[0.8, 0.0, 0.6]"
+    },
+    {
+        "Question": "A group of 7 people is to be divided into 3 committees. Within each committee, people are ranked in a certain order. In how many ways can this be done?",
+        "Answer": "12600"
+    },
+    {
+        "Question": "Consider a group of 10 people {A,B,C,D,E,F,G,H,I,J} and we are to choose a committee of 4 people from them. Given that (1) A and B should not be chosen together, and that (2) A, C, F should not be chosen together, then how many ways are there to choose such a committee?",
+        "Answer": "176"
+    },
+    {
+        "Question": "In a sinusoidal sound wave of moderate loudness, the maximum pressure variations are about $3.0 \\times 10 ^ {-2}$ Pa above and below atmospheric pressure. Find the corresponding maximum displacement if the frequency is 1000 Hz. In air at normal atmospheric pressure and density, the speed of sound is 344 m/s and the bulk modulus is $1.42 \\times 10^5$ Pa. (Unit: $10 ^ {-8}$)",
+        "Answer": "1.2"
+    },
+    {
+        "Question": "Suppose we are given the following information. Use this information to calculate abnormal return. Rf: 4%\nRm: 12%\nBeta of the Portfolio: 1.8\nBeginning Value of Portfolio: $50,000\nEnding Value of Portfolio: $60,000\nWhat is the abnormal return?",
+        "Answer": "0.016"
+    },
+    {
+        "Question": "There are only three active stations in a slotted Aloha network: A, B and C. Each station generates a frame in a time slot with the corresponding probabilities p_A=0.2, p_B=0.3 and p_C=0.4 respectively. What is the normalized throughput of the system?",
+        "Answer": "0.452"
+    },
+    {
+        "Question": "In how many ways can 3 students be selected from a class of 20 to form a study group?",
+        "Answer": "1140"
+    },
+    {
+        "Question": "What's the maximum number of edges in a simple planar graph with 30 vertices?",
+        "Answer": "84"
+    },
+    {
+        "Question": "In how many ways can a group of 6 people be divided into 2 teams? Notice that members in each team are ordered.",
+        "Answer": "1800"
+    },
+    {
+        "Question": "Is the transformation T(M) = [[1, 2], [3, 4]]M from R^{2*2} to R^{2*2} an isomorphism?",
+        "Answer": "True"
+    },
+    {
+        "Question": "G = Q, and G is under the operation a * b = a + b + 3. Is G a group?",
+        "Answer": "True"
+    }
+]
