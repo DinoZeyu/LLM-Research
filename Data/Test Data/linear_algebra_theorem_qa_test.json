@@ -1,0 +1,516 @@
+[
+    {
+        "Question": "Is W = {[x, y] in R^2: x >= 0 and y >= 0} a subspace of R^2?",
+        "Answer": false,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_3.json",
+        "explanation": "solutions/math_algebra_3.png",
+        "theorem": "linear subspaces",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Consider the basis B of R^2 consisting of vectors v_1 = [3,1] and v_2 = [-1, 3]. If x = [10, 10], find the B-coordinate vector of x",
+        "Answer": [
+            4,
+            2
+        ],
+        "Answer_type": "list of integer",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_3_6.json",
+        "explanation": "solutions/math_algebra_3_6.txt",
+        "theorem": "basis",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Let V be the space of all infinite sequences of real numbers. Consider the transformation T(x_0, x_1, x_2, ...) = (x_1, x_2, x_3, ...) from V to V. Is the sequence (1,2,3,...) in the image of T?",
+        "Answer": true,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_4_2.json",
+        "explanation": "solutions/math_algebra_4_2.png",
+        "theorem": "image of linear transformations",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "suppose the 10-by-10 matrix A has the form: if i \\neq j, A_{i,j}=a_i*b_j; if i=j,  A_{i,j}=1+a_i*b_j for all 1<=i,j<=10. Here a_i = 1/i, b_i=1/(i+1). Find the determinant of A. return the numeric.",
+        "Answer": 1.9,
+        "Picture": null,
+        "Answer_type": "float",
+        "source": "linear algebra 4.5 example 4",
+        "id": "mingyin/linear-dependence3.json",
+        "explanation": "NONE",
+        "theorem": "linear dependence",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Does the following transformation have an eigenvector: Counterclockwise rotation through an angle of 45 degrees followed by a scaling by 2 in R^2.",
+        "Answer": false,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_7_3.json",
+        "explanation": "NONE",
+        "theorem": "eigenvalues and eigenvectors",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "For the two linear equations $2 * x + 3 * y = 10$ and $4 * x + 4 * y = 12$ iwth variables x and y. Use cramer's rule to solve these two variables.",
+        "Answer": [
+            -1,
+            4
+        ],
+        "Picture": null,
+        "Answer_type": "list of integer",
+        "source": "self",
+        "id": "wenhuchen/cramer's_rule1.json",
+        "explanation": "NONE",
+        "theorem": "cramer's rule",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "What is the determinant of matrix [[0, 1, 2], [7, 8, 3], [6, 5, 4]]?",
+        "Answer": -36,
+        "Answer_type": "integer",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_6_3.json",
+        "explanation": "NONE",
+        "theorem": "matrix determinant formula",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "For matrix A = [[5, 4], [1, 2]], what are its eigen values?",
+        "Answer": [
+            1,
+            6
+        ],
+        "Picture": null,
+        "Answer_type": "list of integer",
+        "source": "self",
+        "id": "wenhuchen/eigen_value1.json",
+        "explanation": "NONE",
+        "theorem": "eigenvalues and eigenvectors",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Find the orthogonal projection of 9e_1 onto the subspace of R^4 spanned by [2, 2, 1, 0] and [-2, 2, 0, 1].",
+        "Answer": [
+            8,
+            0,
+            2,
+            -2
+        ],
+        "Answer_type": "list of integer",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_5.json",
+        "explanation": "NONE",
+        "theorem": "projection theory",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "For a matrix A, is the function F(A) = det A from the linear space R^{3*3} to R a linear transformation?",
+        "Answer": false,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_6.json",
+        "explanation": "NONE",
+        "theorem": "matrix determinant formula",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Are the vectors [1, 2], [2, 3], and [3, 4] linearly independent?",
+        "Answer": false,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_3_4.json",
+        "explanation": "solutions/math_algebra_3_4.txt",
+        "theorem": "linear independence",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Are the vectors v_1 = [1,2,3], v_2 = [4,5,6], v_3 = [7,8,9] linearly independent?",
+        "Answer": false,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_3_2.json",
+        "explanation": "solutions/math_algebra_3_2.png",
+        "theorem": "linear independence",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Let f_1, ..., f_n be polynomials. Do they span the space P of all polynomials?",
+        "Answer": false,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "self",
+        "id": "elainewan/math_algebra_additional_1.json",
+        "explanation": "NONE",
+        "theorem": "linear span",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "What is the determinant of the matrix A = [[1, 0, 0, 0, 0, 0], [2, 7, 0, 0, 0, 0], [3, 8, 6, 0, 0, 0], [4, 9, 5, 2, 1, 4], [5, 8, 4, 0, 2, 5], [6, 7, 3, 0, 3, 6]]?",
+        "Answer": -252,
+        "Answer_type": "integer",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_6_5.json",
+        "explanation": "NONE",
+        "theorem": "matrix determinant formula",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "For the two linear equations $2 * x + 3 * y + z = 8$ and $4 * x + 4 * y + 4z = 12$ and $x + y + 8z = 10$ with variables x, y and z. Use cramer's rule to solve these three variables.",
+        "Answer": [
+            -1,
+            3,
+            1
+        ],
+        "Picture": null,
+        "Answer_type": "list of integer",
+        "source": "self",
+        "id": "wenhuchen/cramer's_rule2.json",
+        "explanation": "NONE",
+        "theorem": "cramer's rule",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "for the matrix $A=(\\begin{array}{rrrrr} 1 & 2 & 3 & 4 & -3 \\1 & 2 & 0 & -5 & 1 \\2 & 4 & -3 & -19 & 6 \\3 & 6 & -3 & -24 & 7\\end{array})$, what is its row rank and column rank? return the two numbers as a list.",
+        "Answer": [
+            2,
+            2
+        ],
+        "Picture": null,
+        "Answer_type": "list of integer",
+        "source": "linear algebra 2.2 example 3",
+        "id": "mingyin/gaussian-elimination1.json",
+        "explanation": "NONE",
+        "theorem": "gaussian elimination",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Both A, B are n-by-n matrices with rank(A)=n, rank(A*B)=0. What is rank(B)?",
+        "Answer": 0.0,
+        "Picture": null,
+        "Answer_type": "float",
+        "source": "linear algebra 4.6 example 6",
+        "id": "mingyin/Sylveete-rank-inequality1.json",
+        "explanation": "NONE",
+        "theorem": "sylveeter rank inequality",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Let A be an invertible n * n matrix and v and eigenvector of both A and B, is v necesarily an eigenvector of A + B?",
+        "Answer": true,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_7.json",
+        "explanation": "NONE",
+        "theorem": "eigenvalues and eigenvectors",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "suppose a,b,c,\\alpha,\\beta,\\gamma are six real numbers with a^2+b^2+c^2>0.  In addition, $a=b*cos(\\gamma)+c*cos(\\beta), b=c*cos(\\alpha)+a*cos(\\gamma), c=a*cos(\\beta)+b*cos(\\alpha)$. What is the value of $cos^2(\\alpha)+cos^2(\\beta)+cos^2(\\gamma)+2*cos(\\alpha)*cos(\\beta)*cos(\\gamma)? return the numeric.",
+        "Answer": 1.0,
+        "Picture": null,
+        "Answer_type": "float",
+        "source": "linear algebra 3.5 example 7",
+        "id": "mingyin/linear-dependence2.json",
+        "explanation": "NONE",
+        "theorem": "linear dependence",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "For matrix A = [[2, 4, 3], [3, 3, 1], [42, 20, 51]], what is its determinant?",
+        "Answer": -376,
+        "Picture": null,
+        "Answer_type": "integer",
+        "source": "self",
+        "id": "wenhuchen/determinant2.json",
+        "explanation": "NONE",
+        "theorem": "matrix determinant formula",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "What is the vector that spans the kernel of A = [[1, 0, 2, 4], [0, 1, -3, -1], [3, 4, -6, 8], [0, -1, 3, 4]]?",
+        "Answer": [
+            -2,
+            3,
+            1,
+            0
+        ],
+        "Answer_type": "list of integer",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_3_3.json",
+        "explanation": "NONE",
+        "theorem": "kernel of linear transformations",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "V is a vector space over the real field R. It is known that the vector group u_1, u_2, u_3 in V are linearly independent. Finding the rank of vector group ${u_1-\\lambda u_2, u_2-\\lambda u_3, u_3-\\lambda u_1}$ for $\\lambda=\\sqrt{5}$ and $\\lambda=1$ separately. Return the answer as a list.",
+        "Answer": [
+            3,
+            2
+        ],
+        "Picture": null,
+        "Answer_type": "list of integer",
+        "source": "linear algebra 2.6 example 1(2)",
+        "id": "mingyin/gaussian-elimination2.json",
+        "explanation": "NONE",
+        "theorem": "gaussian elimination",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Is there an eigenbasis for the identity matrix I_n?",
+        "Answer": true,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_7_2.json",
+        "explanation": "NONE",
+        "theorem": "eigenvalues and eigenvectors",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "For which 2 * 2 matrices A does there exist a nonzero matrix M such that AM = MD, where D = [[2, 0], [0, 3]]? Give your answer in terms of eigenvalues of A.",
+        "Answer": [
+            2,
+            3
+        ],
+        "Answer_type": "list of integer",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_7_5.json",
+        "explanation": "NONE",
+        "theorem": "eigenvalues and eigenvectors",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Is the transformation [[-1, 0], [0, -1]] invertible?",
+        "Answer": true,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_2.json",
+        "explanation": "solutions/math_algebra_2.txt",
+        "theorem": "invertible matrix theorem",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "For matrix A = [[3, 1, 1], [2, 4, 2], [1, 1, 3]], what are its eigen values?",
+        "Answer": [
+            2,
+            6
+        ],
+        "Picture": null,
+        "Answer_type": "list of integer",
+        "source": "self",
+        "id": "wenhuchen/eigen_value2.json",
+        "explanation": "NONE",
+        "theorem": "eigenvalues and eigenvectors",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Consider the matrix of A=[[1, 4], [4, 1]], is this a positive definite matrix?",
+        "Answer": false,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "website | https://www.math.usm.edu/lambers/mat419/lecture3.pdf",
+        "id": "wenhuchen/definite_matrix1.json",
+        "explanation": "NONE",
+        "theorem": "definite matrix criteria",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "What is the determinant of the matrix A = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]?",
+        "Answer": -3,
+        "Answer_type": "integer",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_6_4.json",
+        "explanation": "NONE",
+        "theorem": "matrix determinant formula",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "If A and B are both orthogonal square matrices, and det A = -det B. What is det(A+B)? Return the numerical value.",
+        "Answer": 0.0,
+        "Picture": null,
+        "Answer_type": "float",
+        "source": "linear algebra 9.3.3",
+        "id": "mingyin/orthogonal-similarity1.json",
+        "explanation": "NONE",
+        "theorem": "orthogonal similarity",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Consider the matrix of A=[[1, -1], [-1, 4]], is this a positive definite matrix?",
+        "Answer": true,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "website | https://www.math.usm.edu/lambers/mat419/lecture3.pdf",
+        "id": "wenhuchen/definite_matrix2.json",
+        "explanation": "NONE",
+        "theorem": "definite matrix criteria",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "What are the real eigenvalues of the matrix [[3, -2, 5], [1, 0, 7], [0, 0, 2]]?",
+        "Answer": [
+            1,
+            2,
+            2
+        ],
+        "Answer_type": "list of integer",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_7_4.json",
+        "explanation": "NONE",
+        "theorem": "eigenvalues and eigenvectors",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "For matrix A = [[2, 4, 3], [3, 0, 1], [1, 2, 5]], what is its determinant?",
+        "Answer": -42,
+        "Picture": null,
+        "Answer_type": "integer",
+        "source": "self",
+        "id": "wenhuchen/determinant1.json",
+        "explanation": "NONE",
+        "theorem": "matrix determinant formula",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Is the set of 3 * 3 matrices in reduced row-echelon form a subspace of R^{3 * 3}?",
+        "Answer": false,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_4.json",
+        "explanation": "NONE",
+        "theorem": "linear subspaces",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Consider an m * n matrix A and an n * m matrix B (with n != m) such that AB = I_m. Are the columns of A linearly independent?",
+        "Answer": false,
+        "Answer_type": "bool",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_3_5.json",
+        "explanation": "NONE",
+        "theorem": "linear independence",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Finding all the real roots of the equation $\\sqrt{x^2+x+1}+\\sqrt{2 x^2+x+5}=\\sqrt{x^2-3 x+13}$. Return the answer as a list with ascending order.",
+        "Answer": [
+            -1.7807764064,
+            0.2807764064
+        ],
+        "Picture": null,
+        "Answer_type": "list of float",
+        "source": "linear algebra 2.8 example 2",
+        "id": "mingyin/linear-dependence1.json",
+        "explanation": "NONE",
+        "theorem": "linear dependence",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "matrix $A=(\\begin{array}{rrrr} -2 & -1 & -1 & -1 \\ 2 & 1 & 3 & 2 \\ 1 & 1 & 0 & 1 \\ -1 & -1 & -2 & -2 \\end{array})$. Suppose f is the minimal polynomial of A. What is f(99)? Return the numeric without explanation.",
+        "Answer": 990000.0,
+        "Picture": null,
+        "Answer_type": "float",
+        "source": "linear algebra 7.1 example 1",
+        "id": "mingyin/minimal-polynomial1.json",
+        "explanation": "NONE",
+        "theorem": "minimal polynomial",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Let V be the space spanned by functions cos(2x) and sin(2x). Find the determinant of the linear transformation D(f) = f' from V to V.",
+        "Answer": 4,
+        "Answer_type": "integer",
+        "Picture": null,
+        "source": "text | Otto Bretscher, Linear Algebra with Applications.",
+        "id": "elainewan/math_algebra_6_2.json",
+        "explanation": "NONE",
+        "theorem": "basis",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Suppose V is a finite-dimensional vector space on F. $M1={a_1,a_2,a_3}$ is a basis of V, $M2={b_1,b_2,b_3}$ is another basis of V. Suppose the coordinates of b_1,b_2,b_3 under M1 are $c_1=(1,1,-1),c_2=(1,-1,1),c_3=(-1,1,1)$. Suppose the coordinate of $d\\in V$ under M1 is (1,3,5). What is the coordinate of d under M2? Return the three coordinate values as a list.",
+        "Answer": [
+            2,
+            3,
+            4
+        ],
+        "Picture": null,
+        "Answer_type": "list of integer",
+        "source": "linear algebra 2.6 example 2",
+        "id": "mingyin/gaussian-elimination3.json",
+        "explanation": "NONE",
+        "theorem": "gaussian elimination",
+        "subfield": "Algebra",
+        "field": "Math"
+    },
+    {
+        "Question": "Which of the following matrices takes any vector $v$ and projects it onto the space spanned by the columns of $\\Phi$? (a) $(\\Phi^T\\Phi)^{-1}$. (b) $\\Phi(\\Phi^T\\Phi)^{-1}$. (c) $\\Phi(\\Phi^T\\Phi)^{-1}\\Phi^T$. (d) $\\Phi^T(\\Phi^T\\Phi)^{-1}\\Phi^T$.",
+        "Answer": "(c)",
+        "Answer_type": "option",
+        "Picture": null,
+        "source": "textbook 3.2",
+        "id": "xinyi/linear_projection.json",
+        "explanation": "NONE",
+        "theorem": "projection theory",
+        "subfield": "Algebra",
+        "field": "Math"
+    }
+]
