@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & 7 \\
+ 5 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-\sqrt{39},\sqrt{39}-2\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 5 \\
+ -5 & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(13-i \sqrt{391}\right),\frac{1}{4} \left(13+i \sqrt{391}\right)\right\}$

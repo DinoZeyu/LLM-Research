@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{5} & 3 \\
+ -\frac{32}{5} & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{7}{10} \left(-3-i \sqrt{39}\right),\frac{7}{10} \left(-3+i \sqrt{39}\right)\right\}$

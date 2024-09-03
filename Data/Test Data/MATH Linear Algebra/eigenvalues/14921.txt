@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{4}{5} \\
+ \frac{17}{5} & \frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(2-\sqrt{127}\right),\frac{2}{5} \left(2+\sqrt{127}\right)\right\}$

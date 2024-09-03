@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{5} & -\frac{37}{5} \\
+ -\frac{39}{5} & -\frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-15-\sqrt{381}\right),\frac{2}{5} \left(\sqrt{381}-15\right)\right\}$

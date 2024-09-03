@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{2} & -\frac{15}{2} \\
+ 1 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4,-\frac{7}{2}\right\}$

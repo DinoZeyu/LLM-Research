@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{5} & -7 \\
+ -\frac{16}{5} & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{43}{5},\frac{8}{5}\right\}$

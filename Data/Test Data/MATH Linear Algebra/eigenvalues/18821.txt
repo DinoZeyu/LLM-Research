@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -2 \\
+ \frac{28}{3} & -\frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5,-\frac{2}{3}\right\}$

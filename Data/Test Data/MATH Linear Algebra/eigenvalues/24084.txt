@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{8}{3} \\
+ \frac{26}{3} & \frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(5-\sqrt{3641}\right),\frac{1}{6} \left(5+\sqrt{3641}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{47}{5} \\
+ -\frac{43}{5} & \frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-13-5 i \sqrt{235}\right),\frac{1}{10} \left(-13+5 i \sqrt{235}\right)\right\}$

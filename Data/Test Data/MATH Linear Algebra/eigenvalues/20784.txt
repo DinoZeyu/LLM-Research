@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{49}{5} & \frac{28}{5} \\
+ -\frac{42}{5} & \frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(57-i \sqrt{3023}\right),\frac{1}{10} \left(57+i \sqrt{3023}\right)\right\}$

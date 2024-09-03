@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -2 \\
+ -2 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-7-2 \sqrt{2},2 \sqrt{2}-7\right\}$

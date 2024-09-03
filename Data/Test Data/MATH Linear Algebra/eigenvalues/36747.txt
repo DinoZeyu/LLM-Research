@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{42}{5} & \frac{28}{5} & 8 \\
+ \frac{24}{5} & -\frac{7}{5} & \frac{3}{5} \\
+ -\frac{8}{5} & \frac{16}{5} & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-0.794-0.841 i,-0.794+0.841 i,10.388\}$

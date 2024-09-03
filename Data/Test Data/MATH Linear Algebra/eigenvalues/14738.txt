@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{26}{5} & -7 \\
+ -\frac{37}{5} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(31-\sqrt{5621}\right),\frac{1}{10} \left(31+\sqrt{5621}\right)\right\}$

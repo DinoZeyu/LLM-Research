@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{21}{4} & 9 \\
+ \frac{15}{4} & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-16-\sqrt{565}\right),\frac{1}{4} \left(\sqrt{565}-16\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{3} & 10 \\
+ -\frac{1}{3} & \frac{2}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{26}}{3},\frac{i \sqrt{26}}{3}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{3} & \frac{22}{3} \\
+ \frac{14}{3} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{3} \left(-4-\sqrt{933}\right),\frac{1}{3} \left(\sqrt{933}-4\right)\right\}$

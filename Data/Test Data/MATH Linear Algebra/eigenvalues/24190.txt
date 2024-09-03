@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{6}{5} & -\frac{3}{5} \\
+ -\frac{48}{5} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(-1-\sqrt{17}\right),\frac{3}{5} \left(\sqrt{17}-1\right)\right\}$

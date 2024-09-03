@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{43}{10} & -\frac{39}{10} & \frac{16}{5} \\
+ -\frac{7}{10} & -\frac{49}{10} & \frac{12}{5} \\
+ -\frac{7}{10} & 5 & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{9969}{250}$

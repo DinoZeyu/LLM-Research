@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{31}{5} \\
+ \frac{23}{5} & \frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(19-\sqrt{834}\right),\frac{1}{5} \left(19+\sqrt{834}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{4} & \frac{3}{2} \\
+ -\frac{39}{4} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-43-3 \sqrt{17}\right),\frac{1}{8} \left(3 \sqrt{17}-43\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{7}{2} \\
+ -9 & \frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(9-i \sqrt{47}\right),\frac{3}{4} \left(9+i \sqrt{47}\right)\right\}$

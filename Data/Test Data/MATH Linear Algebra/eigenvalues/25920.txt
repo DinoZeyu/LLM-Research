@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{4}{3} \\
+ \frac{26}{3} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{7 \sqrt{17}}{3},\frac{7 \sqrt{17}}{3}\right\}$

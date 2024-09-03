@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & -\frac{23}{4} \\
+ -\frac{3}{4} & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-71-\sqrt{285}\right),\frac{1}{8} \left(\sqrt{285}-71\right)\right\}$

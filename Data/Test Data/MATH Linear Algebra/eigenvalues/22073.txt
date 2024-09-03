@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -1 \\
+ -5 & -\frac{22}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-49-\sqrt{205}\right),\frac{1}{6} \left(\sqrt{205}-49\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & -7 \\
+ 7 & \frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(31-i \sqrt{3111}\right),\frac{1}{8} \left(31+i \sqrt{3111}\right)\right\}$

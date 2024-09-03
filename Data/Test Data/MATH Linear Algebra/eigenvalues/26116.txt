@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 10 \\
+ \frac{25}{3} & -\frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-29-\sqrt{3529}\right),\frac{1}{6} \left(\sqrt{3529}-29\right)\right\}$

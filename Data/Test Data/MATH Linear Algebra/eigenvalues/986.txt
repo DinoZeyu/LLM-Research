@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -3 \\
+ 4 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-2 i \sqrt{2},5+2 i \sqrt{2}\right\}$

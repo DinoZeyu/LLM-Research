@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -6 \\
+ 6 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-i \sqrt{11},-1+i \sqrt{11}\right\}$

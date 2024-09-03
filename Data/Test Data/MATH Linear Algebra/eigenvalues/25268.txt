@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & 8 \\
+ 7 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-7-\sqrt{393}\right),\frac{1}{2} \left(\sqrt{393}-7\right)\right\}$

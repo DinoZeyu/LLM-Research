@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{2} & -3 \\
+ 8 & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-8-i \sqrt{47}\right),\frac{1}{2} \left(-8+i \sqrt{47}\right)\right\}$

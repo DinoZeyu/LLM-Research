@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{4} & -5 \\
+ -\frac{5}{2} & -\frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-5-2 \sqrt{339}\right),\frac{1}{4} \left(2 \sqrt{339}-5\right)\right\}$

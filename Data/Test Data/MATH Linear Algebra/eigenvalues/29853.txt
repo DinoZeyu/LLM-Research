@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & -8 \\
+ \frac{39}{4} & \frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(35-i \sqrt{4031}\right),\frac{1}{8} \left(35+i \sqrt{4031}\right)\right\}$

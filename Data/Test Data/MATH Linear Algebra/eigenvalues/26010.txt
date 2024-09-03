@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -2 \\
+ 5 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(15-i \sqrt{31}\right),\frac{1}{2} \left(15+i \sqrt{31}\right)\right\}$

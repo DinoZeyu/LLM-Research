@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{4} & \frac{11}{4} \\
+ \frac{19}{2} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(19-\sqrt{1793}\right),\frac{1}{8} \left(19+\sqrt{1793}\right)\right\}$

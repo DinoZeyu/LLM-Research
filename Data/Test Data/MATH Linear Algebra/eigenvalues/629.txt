@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -4 \\
+ 7 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-2 i \sqrt{3},5+2 i \sqrt{3}\right\}$

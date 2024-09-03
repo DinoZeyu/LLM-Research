@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 5 & \frac{44}{5} & \frac{33}{5} \\
+ \frac{9}{5} & 7 & \frac{46}{5} \\
+ 8 & \frac{17}{5} & \frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-0.792-3.607 i,-0.792+3.607 i,17.783\}$

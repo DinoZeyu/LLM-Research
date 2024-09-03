@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -6 \\
+ -\frac{4}{3} & -\frac{10}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(17-\sqrt{1657}\right),\frac{1}{6} \left(17+\sqrt{1657}\right)\right\}$

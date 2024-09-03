@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -3 \\
+ -6 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-\sqrt{43},2+\sqrt{43}\right\}$

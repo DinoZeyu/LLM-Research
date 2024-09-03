@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{46}{5} & 10 \\
+ \frac{27}{5} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-51-\sqrt{7081}\right),\frac{1}{10} \left(\sqrt{7081}-51\right)\right\}$

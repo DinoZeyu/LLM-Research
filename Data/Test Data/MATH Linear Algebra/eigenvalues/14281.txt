@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{2} & 8 \\
+ \frac{19}{2} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(11-\sqrt{1945}\right),\frac{1}{4} \left(11+\sqrt{1945}\right)\right\}$

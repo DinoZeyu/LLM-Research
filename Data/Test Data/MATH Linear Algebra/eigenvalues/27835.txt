@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & 7 \\
+ \frac{7}{2} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-27-\sqrt{401}\right),\frac{1}{4} \left(\sqrt{401}-27\right)\right\}$

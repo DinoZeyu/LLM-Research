@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -6 \\
+ \frac{19}{4} & -\frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5,-\frac{15}{4}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{48}{5} & \frac{47}{5} \\
+ -\frac{8}{5} & \frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-29-\sqrt{2985}\right),\frac{1}{10} \left(\sqrt{2985}-29\right)\right\}$

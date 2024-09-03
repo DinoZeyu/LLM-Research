@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -\frac{15}{2} \\
+ \frac{11}{2} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-16-i \sqrt{149}\right),\frac{1}{2} \left(-16+i \sqrt{149}\right)\right\}$

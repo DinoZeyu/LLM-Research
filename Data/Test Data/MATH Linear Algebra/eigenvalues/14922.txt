@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -7 \\
+ 9 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-i \sqrt{62},i \sqrt{62}\right\}$

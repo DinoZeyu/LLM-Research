@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{1}{4} \\
+ \frac{19}{2} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{\frac{181}{2}}}{2},\frac{\sqrt{\frac{181}{2}}}{2}\right\}$

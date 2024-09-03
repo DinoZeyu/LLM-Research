@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -6 & \frac{11}{2} & -\frac{37}{4} \\
+ -\frac{3}{4} & \frac{27}{4} & -\frac{13}{4} \\
+ -\frac{33}{4} & \frac{1}{2} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\{-11.601,3.745,8.606\}$

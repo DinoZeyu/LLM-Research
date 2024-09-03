@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{33}{4} & 5 \\
+ -2 & \frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-14-\sqrt{201}\right),\frac{1}{4} \left(\sqrt{201}-14\right)\right\}$

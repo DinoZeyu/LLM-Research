@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -5 \\
+ -\frac{13}{3} & -\frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-11-\sqrt{61}\right),\frac{2}{3} \left(\sqrt{61}-11\right)\right\}$

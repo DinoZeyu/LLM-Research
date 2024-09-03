@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 5 & -\frac{14}{3} & \frac{19}{3} \\
+ \frac{22}{3} & -\frac{7}{3} & -\frac{22}{3} \\
+ 9 & \frac{5}{3} & \frac{13}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.662-6.918 i,-2.662+6.918 i,12.324\}$

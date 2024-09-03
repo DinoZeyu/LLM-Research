@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{18}{5} \\
+ -4 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(65-i \sqrt{215}\right),\frac{1}{10} \left(65+i \sqrt{215}\right)\right\}$

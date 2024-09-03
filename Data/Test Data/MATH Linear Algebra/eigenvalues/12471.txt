@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & 8 \\
+ 8 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-2 \sqrt{17},1+2 \sqrt{17}\right\}$

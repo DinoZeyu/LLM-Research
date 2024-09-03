@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{5}{4} \\
+ -\frac{1}{4} & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(10-\sqrt{905}\right),\frac{1}{4} \left(10+\sqrt{905}\right)\right\}$

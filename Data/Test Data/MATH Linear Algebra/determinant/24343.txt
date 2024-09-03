@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -4 & \frac{23}{10} \\
+ -\frac{7}{10} & \frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{1239}{100}$

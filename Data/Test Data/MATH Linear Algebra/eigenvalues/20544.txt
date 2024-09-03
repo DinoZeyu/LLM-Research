@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -\frac{34}{5} \\
+ \frac{44}{5} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{1471}}{5},\frac{i \sqrt{1471}}{5}\right\}$

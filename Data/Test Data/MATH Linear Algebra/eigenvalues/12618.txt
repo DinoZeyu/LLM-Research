@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & \frac{5}{2} \\
+ -4 & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2},3\right\}$

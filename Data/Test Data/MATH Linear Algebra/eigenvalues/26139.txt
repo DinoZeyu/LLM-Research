@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & \frac{17}{2} \\
+ -10 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-i \sqrt{85},i \sqrt{85}\right\}$

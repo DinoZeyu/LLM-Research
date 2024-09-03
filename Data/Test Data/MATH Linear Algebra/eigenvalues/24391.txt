@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 8 \\
+ \frac{25}{4} & -\frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-19-9 \sqrt{41}\right),\frac{1}{8} \left(9 \sqrt{41}-19\right)\right\}$

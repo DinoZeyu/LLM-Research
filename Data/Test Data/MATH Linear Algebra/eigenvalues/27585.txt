@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{5} & -\frac{48}{5} \\
+ -\frac{44}{5} & -\frac{13}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-22-\sqrt{2193}\right),\frac{1}{5} \left(\sqrt{2193}-22\right)\right\}$

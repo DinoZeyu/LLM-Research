@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{17}{4} \\
+ -\frac{37}{4} & \frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(5-2 \sqrt{53}\right),\frac{1}{4} \left(5+2 \sqrt{53}\right)\right\}$

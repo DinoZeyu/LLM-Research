@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{16}{3} \\
+ \frac{13}{3} & \frac{20}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-1-\sqrt{173}\right),\frac{2}{3} \left(\sqrt{173}-1\right)\right\}$

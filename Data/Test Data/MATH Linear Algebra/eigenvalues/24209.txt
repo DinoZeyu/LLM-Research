@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & 3 \\
+ -6 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{31},\sqrt{31}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{3}{2} \\
+ -6 & -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(5-i \sqrt{95}\right),\frac{1}{4} \left(5+i \sqrt{95}\right)\right\}$

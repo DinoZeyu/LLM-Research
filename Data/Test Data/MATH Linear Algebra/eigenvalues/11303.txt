@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & \frac{41}{5} \\
+ \frac{7}{5} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-5-34 \sqrt{2}\right),\frac{1}{5} \left(34 \sqrt{2}-5\right)\right\}$

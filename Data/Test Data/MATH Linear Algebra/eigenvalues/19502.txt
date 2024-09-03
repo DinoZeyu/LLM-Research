@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -3 \\
+ -7 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-\sqrt{133}\right),\frac{1}{2} \left(\sqrt{133}-11\right)\right\}$

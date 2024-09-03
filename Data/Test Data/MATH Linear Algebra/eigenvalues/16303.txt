@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -2 \\
+ 3 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-\sqrt{58},1+\sqrt{58}\right\}$

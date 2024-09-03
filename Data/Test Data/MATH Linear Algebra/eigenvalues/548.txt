@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{22}{3} \\
+ \frac{2}{3} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{181}}{3},\frac{\sqrt{181}}{3}\right\}$

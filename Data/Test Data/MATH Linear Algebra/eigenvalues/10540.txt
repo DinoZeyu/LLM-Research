@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 7 \\
+ 6 & \frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(15-\sqrt{1033}\right),\frac{1}{4} \left(15+\sqrt{1033}\right)\right\}$

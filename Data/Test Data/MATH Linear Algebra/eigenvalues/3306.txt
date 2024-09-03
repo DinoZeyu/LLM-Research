@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{3} & \frac{14}{3} \\
+ 8 & \frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(47-5 \sqrt{57}\right),\frac{1}{6} \left(47+5 \sqrt{57}\right)\right\}$

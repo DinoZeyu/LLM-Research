@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & 5 \\
+ 5 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-17-\sqrt{109}\right),\frac{1}{2} \left(\sqrt{109}-17\right)\right\}$

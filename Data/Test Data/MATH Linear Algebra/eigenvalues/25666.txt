@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{4}{5} \\
+ -\frac{28}{5} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-35-\sqrt{137}\right),\frac{1}{5} \left(\sqrt{137}-35\right)\right\}$

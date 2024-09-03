@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{43}{5} & -\frac{27}{5} \\
+ -\frac{18}{5} & -\frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{\frac{467}{5}},\sqrt{\frac{467}{5}}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 4 \\
+ \frac{41}{5} & -\frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-47-\sqrt{4649}\right),\frac{1}{10} \left(\sqrt{4649}-47\right)\right\}$

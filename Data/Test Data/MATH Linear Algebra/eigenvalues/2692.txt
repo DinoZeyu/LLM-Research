@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{33}{4} \\
+ \frac{39}{4} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-28-\sqrt{1351}\right),\frac{1}{4} \left(\sqrt{1351}-28\right)\right\}$

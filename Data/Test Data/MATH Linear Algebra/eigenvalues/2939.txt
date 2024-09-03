@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{4} & 2 \\
+ -\frac{31}{4} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(37-i \sqrt{943}\right),\frac{1}{8} \left(37+i \sqrt{943}\right)\right\}$

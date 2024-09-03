@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -9 \\
+ -6 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2} \left(3-\sqrt{33}\right),\frac{3}{2} \left(3+\sqrt{33}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{25}{4} \\
+ -\frac{11}{2} & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-3-\sqrt{599}\right),\frac{1}{4} \left(\sqrt{599}-3\right)\right\}$

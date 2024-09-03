@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & 8 \\
+ 9 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-2 \sqrt{22},2 \sqrt{22}-1\right\}$

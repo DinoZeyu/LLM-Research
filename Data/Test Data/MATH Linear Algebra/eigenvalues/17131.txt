@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -4 \\
+ -4 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-13-\sqrt{113}\right),\frac{1}{2} \left(\sqrt{113}-13\right)\right\}$

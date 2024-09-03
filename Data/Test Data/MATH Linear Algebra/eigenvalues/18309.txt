@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & \frac{33}{5} \\
+ 10 & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(16-\sqrt{2226}\right),\frac{1}{5} \left(16+\sqrt{2226}\right)\right\}$

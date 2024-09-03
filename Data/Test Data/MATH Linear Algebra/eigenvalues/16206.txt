@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & -10 \\
+ \frac{1}{2} & \frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-5-4 \sqrt{11}\right),\frac{1}{2} \left(4 \sqrt{11}-5\right)\right\}$

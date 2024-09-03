@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & 4 \\
+ -2 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\{5-2 i,5+2 i\}$

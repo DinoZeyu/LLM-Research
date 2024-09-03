@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{4} & \frac{29}{4} \\
+ \frac{29}{4} & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-14-5 \sqrt{34}\right),\frac{1}{4} \left(5 \sqrt{34}-14\right)\right\}$

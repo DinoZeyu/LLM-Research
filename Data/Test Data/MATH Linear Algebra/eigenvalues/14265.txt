@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & 5 \\
+ -3 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-i \sqrt{14},-4+i \sqrt{14}\right\}$

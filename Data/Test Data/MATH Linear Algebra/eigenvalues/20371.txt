@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{5}{2} \\
+ -10 & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(13-\sqrt{521}\right),\frac{1}{4} \left(13+\sqrt{521}\right)\right\}$

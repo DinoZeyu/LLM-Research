@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 10 & -\frac{35}{4} & -\frac{27}{4} \\
+ -\frac{21}{4} & -\frac{23}{4} & \frac{1}{4} \\
+ 4 & -3 & \frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.363,9.681\, -4.604 i,9.681\, +4.604 i\}$

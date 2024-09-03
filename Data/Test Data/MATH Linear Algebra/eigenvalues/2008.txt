@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & \frac{14}{3} \\
+ \frac{26}{3} & -\frac{20}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-29-\sqrt{1577}\right),\frac{1}{6} \left(\sqrt{1577}-29\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{31}{5} & -\frac{29}{5} \\
+ \frac{8}{5} & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(23-\sqrt{593}\right),\frac{1}{10} \left(23+\sqrt{593}\right)\right\}$

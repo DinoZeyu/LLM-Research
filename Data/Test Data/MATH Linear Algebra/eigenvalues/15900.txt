@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{14}{3} & -10 \\
+ \frac{4}{3} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-7-\sqrt{745}\right),\frac{1}{6} \left(\sqrt{745}-7\right)\right\}$

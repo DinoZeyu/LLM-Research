@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & \frac{7}{3} \\
+ \frac{17}{3} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-15-\sqrt{1997}\right),\frac{1}{6} \left(\sqrt{1997}-15\right)\right\}$

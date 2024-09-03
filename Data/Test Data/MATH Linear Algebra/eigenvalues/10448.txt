@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -5 \\
+ 3 & \frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(7-\sqrt{1309}\right),\frac{1}{6} \left(7+\sqrt{1309}\right)\right\}$

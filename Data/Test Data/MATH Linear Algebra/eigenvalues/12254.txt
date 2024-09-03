@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -\frac{42}{5} \\
+ \frac{11}{5} & \frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(7-i \sqrt{1119}\right),\frac{1}{10} \left(7+i \sqrt{1119}\right)\right\}$

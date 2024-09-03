@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -10 \\
+ 5 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\{-3-7 i,-3+7 i\}$

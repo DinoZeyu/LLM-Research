@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & \frac{21}{4} \\
+ -\frac{15}{4} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-16-i \sqrt{299}\right),\frac{1}{4} \left(-16+i \sqrt{299}\right)\right\}$

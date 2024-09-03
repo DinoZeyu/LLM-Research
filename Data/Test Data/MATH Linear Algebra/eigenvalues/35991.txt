@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -5 & -\frac{38}{5} & -\frac{28}{5} \\
+ -\frac{36}{5} & \frac{38}{5} & \frac{6}{5} \\
+ 0 & 9 & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.342,-3.527,13.269\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{31}{5} & -\frac{42}{5} \\
+ -\frac{38}{5} & \frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(21-4 \sqrt{106}\right),\frac{1}{5} \left(21+4 \sqrt{106}\right)\right\}$

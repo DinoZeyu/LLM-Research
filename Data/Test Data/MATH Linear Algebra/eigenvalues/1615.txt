@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{3} & -\frac{10}{3} \\
+ \frac{2}{3} & -\frac{10}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-35-\sqrt{145}\right),\frac{1}{6} \left(\sqrt{145}-35\right)\right\}$

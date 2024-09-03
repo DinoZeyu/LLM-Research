@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{4} & -\frac{3}{4} \\
+ -3 & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-25-\sqrt{985}\right),\frac{1}{8} \left(\sqrt{985}-25\right)\right\}$

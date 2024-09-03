@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{2}{3} \\
+ -\frac{11}{3} & \frac{4}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-5-\sqrt{257}\right),\frac{1}{6} \left(\sqrt{257}-5\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{43}{5} & -\frac{21}{5} & -\frac{26}{5} \\
+ -\frac{14}{5} & -\frac{47}{5} & \frac{8}{5} \\
+ 3 & 4 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\{-11.409,-5.172,-4.419\}$

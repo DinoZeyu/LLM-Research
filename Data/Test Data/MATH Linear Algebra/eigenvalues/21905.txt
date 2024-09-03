@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -4 \\
+ -1 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-\sqrt{13},3+\sqrt{13}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & \frac{29}{4} \\
+ -\frac{33}{4} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(34-i \sqrt{953}\right),\frac{1}{4} \left(34+i \sqrt{953}\right)\right\}$

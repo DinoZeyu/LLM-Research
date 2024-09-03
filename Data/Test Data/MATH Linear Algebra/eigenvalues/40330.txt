@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{21}{4} & \frac{3}{4} & -7 \\
+ -7 & -\frac{5}{4} & \frac{13}{4} \\
+ \frac{31}{4} & 8 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.147-5.51 i,-3.147+5.51 i,5.294\}$

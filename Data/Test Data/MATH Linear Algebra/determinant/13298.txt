@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -3 & \frac{2}{3} \\
+ \frac{4}{3} & \frac{13}{3} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{125}{9}$

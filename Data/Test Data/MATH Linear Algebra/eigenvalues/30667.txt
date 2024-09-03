@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 5 & 2 & 6 \\
+ 0 & -\frac{23}{3} & 6 \\
+ -\frac{13}{3} & -\frac{13}{3} & -\frac{14}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-4.403-4.438 i,-4.403+4.438 i,1.473\}$

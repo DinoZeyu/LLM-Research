@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{9}{5} \\
+ 10 & -\frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-61-\sqrt{2161}\right),\frac{1}{10} \left(\sqrt{2161}-61\right)\right\}$

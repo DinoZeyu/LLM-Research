@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{5} & -\frac{12}{5} \\
+ \frac{1}{5} & -\frac{34}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-7-\sqrt{3673}\right),\frac{1}{10} \left(\sqrt{3673}-7\right)\right\}$

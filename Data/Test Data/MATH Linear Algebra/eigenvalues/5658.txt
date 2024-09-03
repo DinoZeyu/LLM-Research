@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{17}{2} & -9 & -7 \\
+ 3 & -\frac{13}{4} & \frac{31}{4} \\
+ \frac{37}{4} & \frac{9}{2} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.669,5.959\, -9.655 i,5.959\, +9.655 i\}$

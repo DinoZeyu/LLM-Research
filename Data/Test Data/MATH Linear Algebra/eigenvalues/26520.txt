@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{46}{5} & \frac{36}{5} \\
+ \frac{33}{5} & -\frac{37}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(9-\sqrt{11641}\right),\frac{1}{10} \left(9+\sqrt{11641}\right)\right\}$

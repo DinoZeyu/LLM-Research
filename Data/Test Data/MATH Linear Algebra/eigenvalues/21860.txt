@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{4} & \frac{7}{2} \\
+ -\frac{9}{2} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-1-\sqrt{4321}\right),\frac{1}{8} \left(\sqrt{4321}-1\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{3} & 0 \\
+ -7 & -\frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{7}{3},-\frac{2}{3}\right\}$

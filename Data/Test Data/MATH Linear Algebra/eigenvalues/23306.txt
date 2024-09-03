@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{47}{5} & -4 \\
+ -\frac{27}{5} & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-91-3 \sqrt{241}\right),\frac{1}{10} \left(3 \sqrt{241}-91\right)\right\}$

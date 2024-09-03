@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 5 \\
+ -8 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-5-\sqrt{65}\right),\frac{1}{2} \left(\sqrt{65}-5\right)\right\}$

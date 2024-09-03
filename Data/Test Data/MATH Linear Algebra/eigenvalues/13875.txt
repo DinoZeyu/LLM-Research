@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{19}{3} \\
+ -\frac{8}{3} & -\frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{37}{3},-\frac{10}{3}\right\}$

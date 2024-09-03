@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{4} & \frac{31}{4} \\
+ \frac{19}{4} & -\frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-11,\frac{3}{2}\right\}$

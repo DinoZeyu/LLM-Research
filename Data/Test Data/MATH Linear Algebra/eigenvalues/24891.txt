@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{1}{2} \\
+ -2 & -\frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-25-\sqrt{97}\right),\frac{1}{4} \left(\sqrt{97}-25\right)\right\}$

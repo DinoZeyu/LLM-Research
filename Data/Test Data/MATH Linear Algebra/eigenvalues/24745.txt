@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 3 \\
+ -\frac{3}{2} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-\sqrt{7}\right),\frac{1}{2} \left(\sqrt{7}-11\right)\right\}$

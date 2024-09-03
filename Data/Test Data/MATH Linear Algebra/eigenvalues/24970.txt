@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{3} & \frac{14}{3} \\
+ -\frac{13}{3} & -\frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{133}}{3},\frac{i \sqrt{133}}{3}\right\}$

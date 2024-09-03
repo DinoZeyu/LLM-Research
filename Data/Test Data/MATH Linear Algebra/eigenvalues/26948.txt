@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{10}{3} & -9 \\
+ -\frac{23}{3} & -\frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-15-\sqrt{3709}\right),\frac{1}{6} \left(\sqrt{3709}-15\right)\right\}$

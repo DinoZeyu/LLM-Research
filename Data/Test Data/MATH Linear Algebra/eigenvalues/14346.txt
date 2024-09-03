@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{16}{3} & \frac{11}{3} \\
+ 4 & -\frac{20}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-1-\sqrt{114}\right),\frac{2}{3} \left(\sqrt{114}-1\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{4}{3} & \frac{20}{3} \\
+ -\frac{7}{3} & -\frac{19}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-15-i \sqrt{31}\right),\frac{1}{6} \left(-15+i \sqrt{31}\right)\right\}$

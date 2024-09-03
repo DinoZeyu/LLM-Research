@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{14}{5} & -\frac{13}{5} & -5 \\
+ -1 & \frac{19}{5} & \frac{17}{5} \\
+ 0 & \frac{16}{5} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.575-0.961 i,-2.575+0.961 i,6.15\}$

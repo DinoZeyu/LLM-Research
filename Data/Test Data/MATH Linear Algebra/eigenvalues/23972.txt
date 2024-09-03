@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{5} & \frac{23}{5} \\
+ 2 & \frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(-1-\sqrt{39}\right),\frac{3}{5} \left(\sqrt{39}-1\right)\right\}$

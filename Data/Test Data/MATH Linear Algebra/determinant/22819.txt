@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{23}{5} & -\frac{14}{5} & -\frac{9}{10} \\
+ 0 & -\frac{3}{5} & \frac{16}{5} \\
+ -\frac{47}{10} & -\frac{11}{10} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\frac{8709}{500}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 6 \\
+ \frac{7}{2} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{4-\sqrt{37},4+\sqrt{37}\right\}$

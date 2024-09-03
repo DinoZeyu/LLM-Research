@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & \frac{13}{2} \\
+ -\frac{3}{2} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-6-i \sqrt{39}\right),\frac{1}{2} \left(-6+i \sqrt{39}\right)\right\}$

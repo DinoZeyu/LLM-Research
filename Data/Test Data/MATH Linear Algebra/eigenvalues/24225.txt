@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{3} & \frac{7}{3} \\
+ \frac{11}{3} & -\frac{10}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(1-\sqrt{749}\right),\frac{1}{6} \left(1+\sqrt{749}\right)\right\}$

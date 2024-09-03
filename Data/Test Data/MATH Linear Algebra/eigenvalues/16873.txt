@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -\frac{46}{5} \\
+ -\frac{17}{5} & \frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-23-\sqrt{1511}\right),\frac{1}{5} \left(\sqrt{1511}-23\right)\right\}$

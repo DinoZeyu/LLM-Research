@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -4 & -\frac{22}{5} & \frac{36}{5} \\
+ -5 & 7 & 0 \\
+ 7 & \frac{7}{5} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.146,7.131,10.015\}$

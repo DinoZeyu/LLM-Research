@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 5 \\
+ -10 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-i \sqrt{41},5+i \sqrt{41}\right\}$

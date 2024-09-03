@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{20}{3} & -2 \\
+ -\frac{10}{3} & \frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(9-\sqrt{2641}\right),\frac{1}{6} \left(9+\sqrt{2641}\right)\right\}$

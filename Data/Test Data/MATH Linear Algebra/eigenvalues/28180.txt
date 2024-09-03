@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -3 \\
+ 5 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{21},\sqrt{21}\right\}$

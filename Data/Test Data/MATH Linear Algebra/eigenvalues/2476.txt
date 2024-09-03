@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -10 \\
+ \frac{1}{2} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-\sqrt{59},\sqrt{59}-1\right\}$

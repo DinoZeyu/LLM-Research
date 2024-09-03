@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -9 \\
+ 1 & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(-17-i \sqrt{51}\right),\frac{3}{10} \left(-17+i \sqrt{51}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{21}{5} & -\frac{22}{5} \\
+ \frac{17}{5} & -\frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{836}{25}$

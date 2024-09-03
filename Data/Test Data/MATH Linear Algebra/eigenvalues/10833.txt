@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 7 \\
+ 8 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{137},\sqrt{137}\right\}$

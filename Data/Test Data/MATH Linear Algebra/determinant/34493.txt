@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{17}{10} & \frac{16}{5} \\
+ -\frac{1}{5} & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{701}{100}$

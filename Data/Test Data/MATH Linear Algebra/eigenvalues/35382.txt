@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{12}{5} & \frac{23}{5} & 3 \\
+ \frac{6}{5} & \frac{2}{5} & -\frac{31}{5} \\
+ \frac{38}{5} & \frac{31}{5} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.713,2.756\, -4.599 i,2.756\, +4.599 i\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{3} & -\frac{7}{3} \\
+ -4 & -\frac{4}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-29-\sqrt{777}\right),\frac{1}{6} \left(\sqrt{777}-29\right)\right\}$

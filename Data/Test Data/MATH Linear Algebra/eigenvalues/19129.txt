@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -2 \\
+ 7 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{86},\sqrt{86}\right\}$

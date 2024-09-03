@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{2} & -\frac{35}{4} \\
+ -\frac{19}{4} & \frac{23}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(7-\sqrt{365}\right),\frac{3}{8} \left(7+\sqrt{365}\right)\right\}$

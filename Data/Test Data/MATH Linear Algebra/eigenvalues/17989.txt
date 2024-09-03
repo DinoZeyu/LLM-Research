@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{13}{5} \\
+ 3 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(30-i \sqrt{195}\right),\frac{1}{5} \left(30+i \sqrt{195}\right)\right\}$

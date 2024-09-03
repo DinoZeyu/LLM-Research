@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{38}{5} \\
+ \frac{1}{5} & \frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(73-\sqrt{137}\right),\frac{1}{10} \left(73+\sqrt{137}\right)\right\}$

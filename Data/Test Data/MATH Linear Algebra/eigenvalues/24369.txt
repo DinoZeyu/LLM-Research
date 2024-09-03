@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & \frac{37}{4} \\
+ \frac{13}{2} & -\frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-31-3 \sqrt{433}\right),\frac{1}{8} \left(3 \sqrt{433}-31\right)\right\}$

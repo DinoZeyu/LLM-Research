@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{2} & -6 \\
+ -8 & -\frac{1}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-23-\sqrt{3513}\right),\frac{1}{8} \left(\sqrt{3513}-23\right)\right\}$

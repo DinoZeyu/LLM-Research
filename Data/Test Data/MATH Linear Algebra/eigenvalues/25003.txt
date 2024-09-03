@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{4} & \frac{37}{4} \\
+ 1 & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-57-\sqrt{601}\right),\frac{1}{8} \left(\sqrt{601}-57\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -3 & -\frac{1}{5} & -\frac{7}{5} \\
+ -\frac{21}{5} & \frac{9}{5} & 3 \\
+ 2 & \frac{17}{5} & -\frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{10548}{125}$

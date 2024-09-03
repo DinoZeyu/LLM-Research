@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ 4 & -\frac{22}{5} & -\frac{12}{5} \\
+ 2 & -\frac{9}{5} & 1 \\
+ -\frac{3}{5} & -2 & \frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{3014}{125}$

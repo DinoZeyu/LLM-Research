@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{11}{4} \\
+ -\frac{35}{4} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-12-\sqrt{401}\right),\frac{1}{4} \left(\sqrt{401}-12\right)\right\}$

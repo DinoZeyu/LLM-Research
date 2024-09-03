@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{26}{5} & \frac{41}{5} \\
+ 7 & \frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(21-2 \sqrt{365}\right),\frac{1}{5} \left(21+2 \sqrt{365}\right)\right\}$

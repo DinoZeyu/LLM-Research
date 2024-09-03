@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{28}{5} & 2 \\
+ -5 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-53-i \sqrt{991}\right),\frac{1}{10} \left(-53+i \sqrt{991}\right)\right\}$

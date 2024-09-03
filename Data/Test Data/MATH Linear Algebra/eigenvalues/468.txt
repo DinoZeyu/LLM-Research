@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & \frac{10}{3} \\
+ 8 & \frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(8-\sqrt{85}\right),\frac{2}{3} \left(8+\sqrt{85}\right)\right\}$

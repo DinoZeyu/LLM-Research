@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 6 \\
+ \frac{17}{5} & \frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(27-\sqrt{5289}\right),\frac{1}{10} \left(27+\sqrt{5289}\right)\right\}$

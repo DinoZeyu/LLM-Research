@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{33}{4} & \frac{13}{4} \\
+ \frac{35}{4} & \frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{9-\sqrt{29},9+\sqrt{29}\right\}$

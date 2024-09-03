@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{18}{5} & -\frac{26}{5} \\
+ 9 & \frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(13-i \sqrt{519}\right),\frac{3}{10} \left(13+i \sqrt{519}\right)\right\}$

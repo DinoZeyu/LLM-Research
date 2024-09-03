@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{5} & \frac{12}{5} \\
+ \frac{28}{5} & -\frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(25-\sqrt{2185}\right),\frac{1}{10} \left(25+\sqrt{2185}\right)\right\}$

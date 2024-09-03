@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{8}{5} & -\frac{1}{5} \\
+ \frac{23}{5} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(7-\sqrt{437}\right),\frac{1}{10} \left(7+\sqrt{437}\right)\right\}$

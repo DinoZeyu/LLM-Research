@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{23}{4} \\
+ \frac{19}{4} & \frac{3}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(43-\sqrt{3117}\right),\frac{1}{8} \left(43+\sqrt{3117}\right)\right\}$

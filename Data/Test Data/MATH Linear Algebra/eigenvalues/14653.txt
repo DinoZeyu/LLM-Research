@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{1}{2} \\
+ -9 & \frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-1-7 \sqrt{97}\right),\frac{1}{8} \left(7 \sqrt{97}-1\right)\right\}$

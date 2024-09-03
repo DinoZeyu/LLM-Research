@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{3} & -5 \\
+ -\frac{29}{3} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(29-\sqrt{2581}\right),\frac{1}{6} \left(29+\sqrt{2581}\right)\right\}$

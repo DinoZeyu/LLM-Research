@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{5} & -\frac{24}{5} \\
+ -\frac{46}{5} & -\frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-10-\sqrt{2473}\right),\frac{1}{5} \left(\sqrt{2473}-10\right)\right\}$

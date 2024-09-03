@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{33}{4} & -\frac{13}{4} \\
+ \frac{19}{4} & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(11-\sqrt{237}\right),\frac{1}{4} \left(11+\sqrt{237}\right)\right\}$

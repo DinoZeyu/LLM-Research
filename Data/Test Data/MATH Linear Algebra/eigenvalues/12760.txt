@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{14}{3} & 6 \\
+ 6 & -\frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-3-\sqrt{181}\right),\frac{2}{3} \left(\sqrt{181}-3\right)\right\}$

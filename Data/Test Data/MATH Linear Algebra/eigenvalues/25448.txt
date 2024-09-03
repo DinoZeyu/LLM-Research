@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & \frac{19}{2} \\
+ \frac{5}{2} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-7-2 \sqrt{26}\right),\frac{1}{2} \left(2 \sqrt{26}-7\right)\right\}$

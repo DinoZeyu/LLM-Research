@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{1}{5} \\
+ \frac{2}{5} & \frac{1}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-29-\sqrt{969}\right),\frac{1}{10} \left(\sqrt{969}-29\right)\right\}$

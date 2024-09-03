@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & 10 \\
+ 4 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-\sqrt{41},5+\sqrt{41}\right\}$

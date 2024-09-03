@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{9}{2} \\
+ -9 & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-27-\sqrt{649}\right),\frac{1}{4} \left(\sqrt{649}-27\right)\right\}$

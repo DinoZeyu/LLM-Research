@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{11}{4} & \frac{11}{2} & -\frac{39}{4} \\
+ -\frac{5}{2} & \frac{1}{4} & 4 \\
+ 1 & -4 & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-1.291,1.395\, -6.111 i,1.395\, +6.111 i\}$

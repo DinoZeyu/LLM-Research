@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{4} & -\frac{11}{2} \\
+ \frac{17}{4} & -\frac{25}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-24-i \sqrt{373}\right),\frac{1}{4} \left(-24+i \sqrt{373}\right)\right\}$

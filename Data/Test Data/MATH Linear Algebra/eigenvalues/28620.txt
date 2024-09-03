@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & -\frac{19}{4} \\
+ -6 & \frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-13-\sqrt{2353}\right),\frac{1}{8} \left(\sqrt{2353}-13\right)\right\}$

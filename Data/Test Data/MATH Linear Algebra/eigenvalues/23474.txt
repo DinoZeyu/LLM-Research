@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{46}{5} & 2 \\
+ 5 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-23-\sqrt{779}\right),\frac{1}{5} \left(\sqrt{779}-23\right)\right\}$

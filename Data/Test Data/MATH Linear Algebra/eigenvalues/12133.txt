@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{33}{5} & -9 \\
+ 3 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-43-i \sqrt{2171}\right),\frac{1}{10} \left(-43+i \sqrt{2171}\right)\right\}$

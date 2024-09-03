@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & -8 \\
+ -\frac{15}{2} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-7-\sqrt{1585}\right),\frac{1}{4} \left(\sqrt{1585}-7\right)\right\}$

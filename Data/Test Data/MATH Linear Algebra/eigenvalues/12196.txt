@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{8}{3} & \frac{20}{3} \\
+ -9 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(4-i \sqrt{71}\right),\frac{2}{3} \left(4+i \sqrt{71}\right)\right\}$

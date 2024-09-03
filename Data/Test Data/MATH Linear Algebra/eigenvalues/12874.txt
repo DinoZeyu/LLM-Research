@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{1}{2} \\
+ 9 & -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{0,\frac{17}{2}\right\}$

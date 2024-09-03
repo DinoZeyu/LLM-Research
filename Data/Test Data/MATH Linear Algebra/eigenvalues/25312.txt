@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{10}{3} & -\frac{25}{3} \\
+ -\frac{22}{3} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(1-\sqrt{2561}\right),\frac{1}{6} \left(1+\sqrt{2561}\right)\right\}$

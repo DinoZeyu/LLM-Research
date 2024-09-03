@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{3}{2} \\
+ 5 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-8-\sqrt{34}\right),\frac{1}{2} \left(\sqrt{34}-8\right)\right\}$

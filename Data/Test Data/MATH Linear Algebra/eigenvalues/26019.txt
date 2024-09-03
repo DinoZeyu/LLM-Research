@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & \frac{33}{4} \\
+ -\frac{13}{2} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(22-i \sqrt{758}\right),\frac{1}{4} \left(22+i \sqrt{758}\right)\right\}$

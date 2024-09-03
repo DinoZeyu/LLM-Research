@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -\frac{1}{2} \\
+ \frac{11}{2} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{5}}{2},\frac{\sqrt{5}}{2}\right\}$

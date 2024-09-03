@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{9}{2} \\
+ \frac{17}{2} & \frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(5-i \sqrt{67}\right),\frac{3}{4} \left(5+i \sqrt{67}\right)\right\}$

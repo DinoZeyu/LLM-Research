@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{3} & -9 \\
+ -\frac{14}{3} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(23-\sqrt{2737}\right),\frac{1}{6} \left(23+\sqrt{2737}\right)\right\}$

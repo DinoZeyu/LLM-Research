@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{34}{5} \\
+ -\frac{47}{5} & -\frac{34}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(-9-\sqrt{183}\right),\frac{3}{5} \left(\sqrt{183}-9\right)\right\}$

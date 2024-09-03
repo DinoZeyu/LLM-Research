@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{4} & \frac{5}{4} \\
+ -\frac{3}{2} & -\frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-30-i \sqrt{29}\right),\frac{1}{4} \left(-30+i \sqrt{29}\right)\right\}$

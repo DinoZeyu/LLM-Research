@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{35}{4} & 5 \\
+ \frac{9}{4} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-11,-\frac{15}{4}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{14}{3} \\
+ \frac{8}{3} & -\frac{14}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-8-\sqrt{29}\right),\frac{2}{3} \left(\sqrt{29}-8\right)\right\}$

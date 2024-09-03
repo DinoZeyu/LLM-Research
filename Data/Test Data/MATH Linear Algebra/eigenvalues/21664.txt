@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{5} & 6 \\
+ -\frac{22}{5} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(6-7 i \sqrt{11}\right),\frac{1}{5} \left(6+7 i \sqrt{11}\right)\right\}$

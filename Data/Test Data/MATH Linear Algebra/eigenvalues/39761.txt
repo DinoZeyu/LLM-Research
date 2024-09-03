@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{17}{3} & 7 & -\frac{17}{3} \\
+ \frac{19}{3} & 7 & \frac{1}{3} \\
+ 5 & -\frac{5}{3} & -\frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.57-5.289 i,-8.57+5.289 i,9.807\}$

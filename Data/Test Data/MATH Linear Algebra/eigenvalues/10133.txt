@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{17}{4} \\
+ 3 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2},\frac{23}{2}\right\}$

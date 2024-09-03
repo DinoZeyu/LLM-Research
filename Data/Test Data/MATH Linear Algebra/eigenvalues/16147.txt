@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{2} & \frac{3}{2} \\
+ \frac{25}{4} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(15-\sqrt{271}\right),\frac{1}{4} \left(15+\sqrt{271}\right)\right\}$

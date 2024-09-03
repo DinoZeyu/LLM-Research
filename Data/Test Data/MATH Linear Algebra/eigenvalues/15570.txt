@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{2} & 8 \\
+ \frac{11}{2} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-\sqrt{785}\right),\frac{1}{4} \left(\sqrt{785}-1\right)\right\}$

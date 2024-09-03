@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{2} & -\frac{11}{4} \\
+ 5 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(13-9 \sqrt{5}\right),\frac{1}{4} \left(13+9 \sqrt{5}\right)\right\}$

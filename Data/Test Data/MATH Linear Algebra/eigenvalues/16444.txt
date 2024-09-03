@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{39}{4} & \frac{1}{2} \\
+ -\frac{17}{2} & \frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{37}{4}-2 i,\frac{37}{4}+2 i\right\}$

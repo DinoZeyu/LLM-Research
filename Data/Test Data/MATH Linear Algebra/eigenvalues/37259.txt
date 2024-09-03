@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -5 & -\frac{3}{4} & \frac{1}{4} \\
+ \frac{7}{2} & \frac{27}{4} & 0 \\
+ -4 & \frac{9}{4} & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.144-1.027 i,-5.144+1.027 i,6.538\}$

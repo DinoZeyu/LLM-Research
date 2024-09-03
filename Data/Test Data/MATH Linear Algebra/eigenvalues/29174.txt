@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & \frac{6}{5} \\
+ -\frac{43}{5} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-20-i \sqrt{33}\right),\frac{1}{5} \left(-20+i \sqrt{33}\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{13}{5} & 0 & 0 \\
+ \frac{13}{5} & -\frac{24}{5} & -1 \\
+ \frac{1}{5} & -3 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.129,-2.6,4.329\}$

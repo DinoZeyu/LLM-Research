@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{8}{3} & -4 \\
+ \frac{2}{3} & -\frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-15-\sqrt{865}\right),\frac{1}{6} \left(\sqrt{865}-15\right)\right\}$

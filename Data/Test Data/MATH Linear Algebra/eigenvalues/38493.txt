@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{23}{4} & \frac{9}{2} & 7 \\
+ \frac{19}{4} & -\frac{7}{2} & -\frac{19}{2} \\
+ -\frac{15}{4} & \frac{37}{4} & -\frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.416-10.349 i,-8.416+10.349 i,-0.669\}$

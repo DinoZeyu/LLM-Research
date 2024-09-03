@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{21}{5} & -\frac{27}{5} \\
+ \frac{29}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(-4-\sqrt{34}\right),\frac{3}{5} \left(\sqrt{34}-4\right)\right\}$

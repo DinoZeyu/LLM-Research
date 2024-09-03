@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{43}{5} & -\frac{38}{5} \\
+ -\frac{13}{5} & -\frac{37}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-40-\sqrt{503}\right),\frac{1}{5} \left(\sqrt{503}-40\right)\right\}$

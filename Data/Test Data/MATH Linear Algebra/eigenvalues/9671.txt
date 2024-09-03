@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{35}{4} & \frac{11}{2} & 5 \\
+ \frac{31}{4} & -\frac{13}{2} & \frac{9}{4} \\
+ -3 & -\frac{5}{2} & -\frac{25}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-14.144,-3.678-3.552 i,-3.678+3.552 i\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{37}{5} \\
+ 0 & \frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-9,\frac{7}{5}\right\}$

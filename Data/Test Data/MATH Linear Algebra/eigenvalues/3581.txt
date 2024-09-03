@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{41}{5} & 0 \\
+ \frac{47}{5} & \frac{38}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{38}{5},\frac{41}{5}\right\}$

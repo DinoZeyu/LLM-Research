@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{5} & \frac{14}{5} \\
+ -\frac{49}{5} & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-7-\sqrt{1745}\right),\frac{1}{10} \left(\sqrt{1745}-7\right)\right\}$

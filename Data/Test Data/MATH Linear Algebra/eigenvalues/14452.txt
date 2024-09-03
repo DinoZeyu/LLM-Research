@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -5 \\
+ -9 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{4-\sqrt{70},4+\sqrt{70}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -2 \\
+ \frac{5}{2} & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-9-\sqrt{209}\right),\frac{1}{4} \left(\sqrt{209}-9\right)\right\}$

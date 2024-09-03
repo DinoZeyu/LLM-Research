@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -1 & \frac{17}{4} & \frac{13}{4} \\
+ \frac{11}{4} & -9 & -\frac{33}{4} \\
+ -8 & -9 & \frac{3}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-13.398,-0.602,4.75\}$

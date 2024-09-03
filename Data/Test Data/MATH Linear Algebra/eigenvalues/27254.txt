@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & -\frac{37}{4} \\
+ -\frac{11}{2} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{4} \left(-1-\sqrt{47}\right),\frac{5}{4} \left(\sqrt{47}-1\right)\right\}$

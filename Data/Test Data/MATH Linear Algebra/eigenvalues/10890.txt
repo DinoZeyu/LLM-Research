@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{3}{2} & 10 \\
+ -\frac{11}{2} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-7-i \sqrt{879}\right),\frac{1}{4} \left(-7+i \sqrt{879}\right)\right\}$

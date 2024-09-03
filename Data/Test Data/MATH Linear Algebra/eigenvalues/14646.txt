@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & -\frac{39}{4} \\
+ -5 & \frac{23}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{57+\sqrt{3241}},\frac{1}{8} \left(57+\sqrt{3241}\right)\right\}$

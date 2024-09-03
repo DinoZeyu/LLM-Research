@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{2}{5} & 1 \\
+ \frac{17}{5} & \frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5 \left(45+\sqrt{2021}\right)},\frac{1}{10} \left(45+\sqrt{2021}\right)\right\}$

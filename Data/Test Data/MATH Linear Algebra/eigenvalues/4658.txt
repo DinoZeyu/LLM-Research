@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{5} & \frac{12}{5} \\
+ -\frac{13}{5} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(13-i \sqrt{335}\right),\frac{1}{10} \left(13+i \sqrt{335}\right)\right\}$

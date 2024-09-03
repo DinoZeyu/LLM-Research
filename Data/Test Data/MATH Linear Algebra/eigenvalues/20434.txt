@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{7}{2} \\
+ 6 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-i \sqrt{5},i \sqrt{5}\right\}$

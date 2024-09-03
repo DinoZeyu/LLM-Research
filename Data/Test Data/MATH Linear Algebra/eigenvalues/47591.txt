@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{5}{2} & -7 & -\frac{1}{2} \\
+ -8 & \frac{39}{4} & 4 \\
+ -\frac{3}{2} & -\frac{35}{4} & \frac{21}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.543,9.022\, -3.251 i,9.022\, +3.251 i\}$

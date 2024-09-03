@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & 6 \\
+ -10 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{8-i \sqrt{59},8+i \sqrt{59}\right\}$

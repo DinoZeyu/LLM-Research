@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{38}{5} & \frac{34}{5} \\
+ 2 & -\frac{32}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-35-\sqrt{349}\right),\frac{1}{5} \left(\sqrt{349}-35\right)\right\}$

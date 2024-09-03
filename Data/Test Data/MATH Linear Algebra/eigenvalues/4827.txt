@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{3}{2} \\
+ -\frac{17}{2} & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-35-i \sqrt{647}\right),\frac{1}{8} \left(-35+i \sqrt{647}\right)\right\}$

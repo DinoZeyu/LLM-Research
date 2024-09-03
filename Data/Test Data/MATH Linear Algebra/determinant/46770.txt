@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -1 & \frac{17}{6} & \frac{10}{3} \\
+ 0 & -\frac{17}{6} & -\frac{29}{6} \\
+ \frac{1}{6} & \frac{14}{3} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{1471}{72}$

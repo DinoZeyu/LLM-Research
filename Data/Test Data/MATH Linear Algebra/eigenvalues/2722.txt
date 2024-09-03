@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 9 \\
+ -4 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-2 i \sqrt{5},-5+2 i \sqrt{5}\right\}$

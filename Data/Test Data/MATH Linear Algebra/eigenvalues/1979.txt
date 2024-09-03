@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{21}{5} \\
+ -\frac{48}{5} & -\frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-7-\sqrt{301}\right),\frac{2}{5} \left(\sqrt{301}-7\right)\right\}$

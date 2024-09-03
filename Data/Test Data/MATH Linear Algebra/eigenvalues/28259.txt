@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & 8 \\
+ 7 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-\sqrt{105},3+\sqrt{105}\right\}$

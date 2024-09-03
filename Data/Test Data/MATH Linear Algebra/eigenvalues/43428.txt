@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 10 & -\frac{9}{4} & -9 \\
+ -\frac{5}{4} & \frac{5}{2} & 5 \\
+ 4 & 6 & -\frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.999,6.044,7.206\}$

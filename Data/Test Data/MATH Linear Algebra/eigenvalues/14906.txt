@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & -\frac{25}{4} \\
+ -\frac{39}{4} & \frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(49-\sqrt{4341}\right),\frac{1}{8} \left(49+\sqrt{4341}\right)\right\}$

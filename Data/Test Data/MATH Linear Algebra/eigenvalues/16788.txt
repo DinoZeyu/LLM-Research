@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 0 \\
+ \frac{5}{2} & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-7,\frac{13}{2}\right\}$

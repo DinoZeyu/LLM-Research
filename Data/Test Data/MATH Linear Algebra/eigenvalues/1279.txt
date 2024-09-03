@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{14}{5} \\
+ \frac{28}{5} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(30-\sqrt{617}\right),\frac{1}{5} \left(30+\sqrt{617}\right)\right\}$

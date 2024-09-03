@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & -\frac{15}{2} \\
+ \frac{17}{2} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-7-i \sqrt{939}\right),\frac{1}{4} \left(-7+i \sqrt{939}\right)\right\}$

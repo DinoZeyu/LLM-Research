@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{5} & 0 \\
+ -8 & -\frac{29}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{29}{5},\frac{27}{5}\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -10 & \frac{13}{3} & 8 \\
+ 1 & 0 & \frac{10}{3} \\
+ -\frac{4}{3} & -4 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.033,2.016\, -4.008 i,2.016\, +4.008 i\}$

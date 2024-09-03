@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 7 \\
+ \frac{3}{2} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-1-\sqrt{43}\right),\frac{1}{2} \left(\sqrt{43}-1\right)\right\}$

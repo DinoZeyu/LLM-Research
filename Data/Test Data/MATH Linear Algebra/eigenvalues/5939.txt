@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{5}{4} & \frac{13}{4} & -\frac{5}{2} \\
+ -2 & -\frac{33}{4} & \frac{27}{4} \\
+ 4 & -6 & \frac{21}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-1.138-3.137 i,-1.138+3.137 i,0.526\}$

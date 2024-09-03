@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{31}{5} & -\frac{33}{5} & 2 \\
+ -\frac{33}{5} & -\frac{37}{5} & \frac{14}{5} \\
+ \frac{2}{5} & -\frac{49}{5} & -\frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.834-3.399 i,-9.834+3.399 i,-0.532\}$

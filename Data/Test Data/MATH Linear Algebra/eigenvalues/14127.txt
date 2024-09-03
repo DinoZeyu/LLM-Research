@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{22}{5} \\
+ \frac{42}{5} & -\frac{3}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-24-\sqrt{1365}\right),\frac{1}{5} \left(\sqrt{1365}-24\right)\right\}$

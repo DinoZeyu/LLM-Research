@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{4} & \frac{17}{2} \\
+ \frac{19}{4} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-5-\sqrt{4609}\right),\frac{1}{8} \left(\sqrt{4609}-5\right)\right\}$

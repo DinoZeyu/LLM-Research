@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{48}{5} & -\frac{41}{5} \\
+ -\frac{34}{5} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-43-\sqrt{8385}\right),\frac{1}{10} \left(\sqrt{8385}-43\right)\right\}$

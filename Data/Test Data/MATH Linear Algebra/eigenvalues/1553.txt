@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{7}{2} \\
+ 7 & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-3-\sqrt{233}\right),\frac{1}{4} \left(\sqrt{233}-3\right)\right\}$

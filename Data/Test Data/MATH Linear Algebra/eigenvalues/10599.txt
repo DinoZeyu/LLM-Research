@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{47}{5} & 3 \\
+ \frac{36}{5} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-26-3 \sqrt{109}\right),\frac{1}{5} \left(3 \sqrt{109}-26\right)\right\}$

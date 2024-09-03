@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -2 \\
+ \frac{2}{5} & -\frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-9-\sqrt{61}\right),\frac{1}{5} \left(\sqrt{61}-9\right)\right\}$

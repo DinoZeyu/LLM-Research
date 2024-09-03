@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{41}{5} & \frac{38}{5} \\
+ -\frac{46}{5} & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-53-i \sqrt{6151}\right),\frac{1}{10} \left(-53+i \sqrt{6151}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{37}{4} \\
+ -7 & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-12,\frac{17}{4}\right\}$

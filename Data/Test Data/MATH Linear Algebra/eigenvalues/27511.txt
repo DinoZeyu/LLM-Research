@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{5} & -\frac{12}{5} \\
+ \frac{34}{5} & \frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(7-i \sqrt{1607}\right),\frac{1}{10} \left(7+i \sqrt{1607}\right)\right\}$

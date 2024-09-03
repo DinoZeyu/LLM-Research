@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{2} & -5 \\
+ 1 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(11-\sqrt{145}\right),\frac{1}{4} \left(11+\sqrt{145}\right)\right\}$

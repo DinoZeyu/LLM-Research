@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{31}{4} \\
+ -\frac{17}{4} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{3 \sqrt{87}}{4},\frac{3 \sqrt{87}}{4}\right\}$

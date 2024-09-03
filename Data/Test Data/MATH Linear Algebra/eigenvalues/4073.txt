@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -7 \\
+ -\frac{13}{3} & \frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(23-\sqrt{1093}\right),\frac{1}{6} \left(23+\sqrt{1093}\right)\right\}$

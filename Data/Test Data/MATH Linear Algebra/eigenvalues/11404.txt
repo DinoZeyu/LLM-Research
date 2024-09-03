@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{3} & \frac{1}{3} \\
+ \frac{1}{3} & -\frac{2}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(17-\sqrt{445}\right),\frac{1}{6} \left(17+\sqrt{445}\right)\right\}$

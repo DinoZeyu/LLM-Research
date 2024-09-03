@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{26}{3} & \frac{23}{3} \\
+ 9 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-1-\sqrt{5293}\right),\frac{1}{6} \left(\sqrt{5293}-1\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & 0 \\
+ -\frac{29}{4} & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{9}{2},1\right\}$

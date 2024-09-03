@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{3} & -6 \\
+ \frac{11}{3} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-41-i \sqrt{743}\right),\frac{1}{6} \left(-41+i \sqrt{743}\right)\right\}$

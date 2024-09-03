@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{5}{3} & \frac{14}{3} \\
+ -5 & -\frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-23-\sqrt{249}\right),\frac{1}{6} \left(\sqrt{249}-23\right)\right\}$

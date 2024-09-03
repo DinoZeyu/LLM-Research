@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{21}{4} & -\frac{15}{4} \\
+ \frac{7}{2} & -\frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-30-i \sqrt{129}\right),\frac{1}{4} \left(-30+i \sqrt{129}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & -1 \\
+ \frac{31}{4} & \frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(5-3 \sqrt{537}\right),\frac{1}{8} \left(5+3 \sqrt{537}\right)\right\}$

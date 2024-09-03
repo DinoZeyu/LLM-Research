@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{13}{4} \\
+ -6 & -\frac{1}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(35-\sqrt{2617}\right),\frac{1}{8} \left(35+\sqrt{2617}\right)\right\}$

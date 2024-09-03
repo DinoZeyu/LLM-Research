@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{5} & -\frac{8}{5} \\
+ -\frac{18}{5} & -\frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-29-2 \sqrt{61}\right),\frac{1}{5} \left(2 \sqrt{61}-29\right)\right\}$

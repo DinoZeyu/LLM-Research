@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & \frac{19}{2} \\
+ \frac{7}{2} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-\sqrt{1901}\right),\frac{1}{4} \left(\sqrt{1901}-1\right)\right\}$

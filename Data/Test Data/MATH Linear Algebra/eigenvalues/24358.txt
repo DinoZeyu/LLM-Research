@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{5} & \frac{2}{5} \\
+ \frac{38}{5} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(13-4 \sqrt{35}\right),\frac{1}{5} \left(13+4 \sqrt{35}\right)\right\}$

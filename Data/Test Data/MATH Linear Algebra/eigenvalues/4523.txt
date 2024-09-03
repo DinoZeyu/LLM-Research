@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & \frac{15}{2} \\
+ -5 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-9-5 i \sqrt{5}\right),\frac{1}{2} \left(-9+5 i \sqrt{5}\right)\right\}$

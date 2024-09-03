@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 5 \\
+ -6 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-7-i \sqrt{29},-7+i \sqrt{29}\right\}$

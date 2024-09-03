@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{4} & \frac{11}{2} \\
+ 7 & \frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-10-\sqrt{977}\right),\frac{1}{4} \left(\sqrt{977}-10\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & \frac{19}{2} \\
+ -\frac{7}{2} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(1-i \sqrt{59}\right),\frac{3}{4} \left(1+i \sqrt{59}\right)\right\}$

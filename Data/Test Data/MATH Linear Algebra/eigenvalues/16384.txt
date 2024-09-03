@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{5} & -4 \\
+ -\frac{43}{5} & -\frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-8-\sqrt{861}\right),\frac{1}{5} \left(\sqrt{861}-8\right)\right\}$

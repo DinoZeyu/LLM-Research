@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{11}{5} & 8 & \frac{9}{5} \\
+ -\frac{47}{5} & \frac{9}{5} & -\frac{42}{5} \\
+ -\frac{22}{5} & \frac{48}{5} & \frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{3.162\, -12.365 i,3.162\, +12.365 i,6.077\}$

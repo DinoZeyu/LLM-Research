@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & 7 \\
+ 9 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-\sqrt{79},\sqrt{79}-3\right\}$

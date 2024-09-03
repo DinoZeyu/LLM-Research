@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{4}{5} & -\frac{42}{5} \\
+ -1 & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(13-\sqrt{865}\right),\frac{1}{10} \left(13+\sqrt{865}\right)\right\}$

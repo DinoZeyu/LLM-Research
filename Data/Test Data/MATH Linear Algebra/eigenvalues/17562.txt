@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{4} & -\frac{39}{4} \\
+ \frac{23}{4} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-23-i \sqrt{779}\right),\frac{1}{8} \left(-23+i \sqrt{779}\right)\right\}$

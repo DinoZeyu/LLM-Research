@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{39}{4} & \frac{13}{4} \\
+ -\frac{11}{2} & \frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(38-i \sqrt{285}\right),\frac{1}{4} \left(38+i \sqrt{285}\right)\right\}$

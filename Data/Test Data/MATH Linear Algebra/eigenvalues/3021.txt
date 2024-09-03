@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{43}{5} & \frac{12}{5} \\
+ \frac{11}{5} & -\frac{3}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-23-2 \sqrt{133}\right),\frac{3}{5 \left(23+2 \sqrt{133}\right)}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & -\frac{7}{4} \\
+ -3 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-29-\sqrt{165}\right),\frac{1}{4} \left(\sqrt{165}-29\right)\right\}$

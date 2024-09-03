@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & \frac{16}{5} \\
+ -\frac{24}{5} & \frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(6-\sqrt{1297}\right),\frac{1}{5} \left(6+\sqrt{1297}\right)\right\}$

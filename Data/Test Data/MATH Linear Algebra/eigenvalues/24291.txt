@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -3 \\
+ \frac{21}{4} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(7-3 i \sqrt{3}\right),\frac{1}{4} \left(7+3 i \sqrt{3}\right)\right\}$

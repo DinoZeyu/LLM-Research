@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{34}{5} \\
+ -\frac{12}{5} & -\frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-1-\sqrt{4233}\right),\frac{1}{10} \left(\sqrt{4233}-1\right)\right\}$

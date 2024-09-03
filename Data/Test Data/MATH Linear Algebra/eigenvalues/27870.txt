@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -\frac{29}{5} \\
+ -\frac{47}{5} & -\frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(29-\sqrt{8053}\right),\frac{1}{10} \left(29+\sqrt{8053}\right)\right\}$

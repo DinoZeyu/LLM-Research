@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 10 & -\frac{21}{4} & \frac{15}{4} \\
+ -7 & \frac{33}{4} & -\frac{1}{2} \\
+ -\frac{17}{2} & -\frac{27}{4} & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{0.355\, -4.22 i,0.355\, +4.22 i,15.039\}$

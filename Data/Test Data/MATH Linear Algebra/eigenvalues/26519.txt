@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -3 \\
+ \frac{19}{2} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-8-\sqrt{30}\right),\frac{1}{2} \left(\sqrt{30}-8\right)\right\}$

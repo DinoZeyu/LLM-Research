@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 8 \\
+ 2 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{8-\sqrt{17},8+\sqrt{17}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & \frac{5}{4} \\
+ 5 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{21}{2},\frac{5}{2}\right\}$

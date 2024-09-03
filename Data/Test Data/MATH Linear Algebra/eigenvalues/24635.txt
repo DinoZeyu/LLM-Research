@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & \frac{5}{2} \\
+ -3 & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-15-i \sqrt{26}\right),\frac{1}{2} \left(-15+i \sqrt{26}\right)\right\}$

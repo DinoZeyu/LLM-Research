@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & -8 \\
+ -\frac{23}{4} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-13-\sqrt{1177}\right),\frac{1}{4} \left(\sqrt{1177}-13\right)\right\}$

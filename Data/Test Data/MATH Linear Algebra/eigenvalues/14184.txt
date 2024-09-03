@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 5 \\
+ -3 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(13-i \sqrt{35}\right),\frac{1}{2} \left(13+i \sqrt{35}\right)\right\}$

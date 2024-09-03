@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{23}{4} \\
+ 9 & -\frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(-17-\sqrt{417}\right),\frac{3}{8} \left(\sqrt{417}-17\right)\right\}$

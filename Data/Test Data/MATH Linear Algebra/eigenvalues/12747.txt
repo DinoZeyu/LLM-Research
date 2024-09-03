@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & \frac{14}{5} \\
+ \frac{41}{5} & \frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(23-\sqrt{6265}\right),\frac{1}{10} \left(23+\sqrt{6265}\right)\right\}$

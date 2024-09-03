@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & \frac{15}{2} \\
+ \frac{11}{2} & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(8-\sqrt{214}\right),\frac{1}{2} \left(8+\sqrt{214}\right)\right\}$

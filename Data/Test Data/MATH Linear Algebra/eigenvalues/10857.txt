@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{11}{3} \\
+ 5 & \frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-1-i \sqrt{131}\right),\frac{1}{6} \left(-1+i \sqrt{131}\right)\right\}$

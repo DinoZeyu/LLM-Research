@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{22}{3} & -\frac{23}{3} & -\frac{5}{3} \\
+ 5 & -\frac{29}{3} & 3 \\
+ -9 & 9 & \frac{4}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.107-5.859 i,-10.107+5.859 i,4.547\}$

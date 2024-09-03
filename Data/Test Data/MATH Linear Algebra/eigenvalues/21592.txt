@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{33}{4} & -\frac{15}{4} \\
+ 5 & \frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-10-\sqrt{229}\right),\frac{1}{4} \left(\sqrt{229}-10\right)\right\}$

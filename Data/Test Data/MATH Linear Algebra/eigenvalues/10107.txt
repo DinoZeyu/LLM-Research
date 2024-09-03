@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 5 \\
+ 5 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-6-\sqrt{26},\sqrt{26}-6\right\}$

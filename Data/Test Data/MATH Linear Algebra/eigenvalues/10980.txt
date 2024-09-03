@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 3 \\
+ -7 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-i \sqrt{17},-5+i \sqrt{17}\right\}$

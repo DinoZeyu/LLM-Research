@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{2} & \frac{3}{2} \\
+ -5 & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-1-\sqrt{166}\right),\frac{1}{2} \left(\sqrt{166}-1\right)\right\}$

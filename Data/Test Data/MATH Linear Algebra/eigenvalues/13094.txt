@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{3} & 5 \\
+ 8 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-47-\sqrt{1441}\right),\frac{1}{6} \left(\sqrt{1441}-47\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{4} & -\frac{33}{4} \\
+ -\frac{17}{4} & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(13-\sqrt{3765}\right),\frac{1}{8} \left(13+\sqrt{3765}\right)\right\}$

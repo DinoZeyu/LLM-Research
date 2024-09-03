@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 9 \\
+ -10 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(3-i \sqrt{335}\right),\frac{1}{2} \left(3+i \sqrt{335}\right)\right\}$

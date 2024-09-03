@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{8}{5} & -\frac{14}{5} \\
+ \frac{46}{5} & \frac{3}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(11-i \sqrt{2551}\right),\frac{1}{10} \left(11+i \sqrt{2551}\right)\right\}$

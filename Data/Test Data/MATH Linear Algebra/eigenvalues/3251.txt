@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{2}{3} \\
+ -8 & -\frac{8}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-5-\sqrt{13}\right),\frac{2}{3} \left(\sqrt{13}-5\right)\right\}$

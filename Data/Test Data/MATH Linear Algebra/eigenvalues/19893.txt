@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{11}{2} \\
+ \frac{9}{2} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{9 \sqrt{3}}{2},\frac{9 \sqrt{3}}{2}\right\}$

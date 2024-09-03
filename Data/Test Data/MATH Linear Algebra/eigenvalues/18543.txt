@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{28}{5} & 7 \\
+ \frac{28}{5} & -\frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-61-\sqrt{3945}\right),\frac{1}{10} \left(\sqrt{3945}-61\right)\right\}$

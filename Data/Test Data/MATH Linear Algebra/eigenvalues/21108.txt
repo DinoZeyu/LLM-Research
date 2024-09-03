@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & -8 \\
+ -\frac{19}{4} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-29-\sqrt{609}\right),\frac{1}{4} \left(\sqrt{609}-29\right)\right\}$

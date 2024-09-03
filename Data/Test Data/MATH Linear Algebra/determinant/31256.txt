@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ 5 & 0 \\
+ -\frac{8}{3} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$-5$

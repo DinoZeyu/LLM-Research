@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{31}{5} \\
+ \frac{44}{5} & \frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(24-i \sqrt{1003}\right),\frac{1}{5} \left(24+i \sqrt{1003}\right)\right\}$

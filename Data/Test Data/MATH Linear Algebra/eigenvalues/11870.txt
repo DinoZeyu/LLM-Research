@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 7 \\
+ 8 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{4-\sqrt{57},4+\sqrt{57}\right\}$

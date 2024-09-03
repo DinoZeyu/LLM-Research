@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 2 \\
+ -4 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(1-\sqrt{193}\right),\frac{1}{2} \left(1+\sqrt{193}\right)\right\}$

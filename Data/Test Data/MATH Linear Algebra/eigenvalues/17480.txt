@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -9 \\
+ -\frac{7}{2} & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-9-\sqrt{865}\right),\frac{1}{4} \left(\sqrt{865}-9\right)\right\}$

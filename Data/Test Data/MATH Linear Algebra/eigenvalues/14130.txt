@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -\frac{13}{4} \\
+ -\frac{33}{4} & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-\sqrt{1270}\right),\frac{1}{4} \left(\sqrt{1270}-1\right)\right\}$

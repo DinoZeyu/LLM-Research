@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 1 & 0 & \frac{15}{2} \\
+ 8 & -\frac{15}{2} & 5 \\
+ -1 & -\frac{19}{2} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.752,-2.374-6.896 i,-2.374+6.896 i\}$

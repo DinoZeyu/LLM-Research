@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -7 \\
+ -1 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-9-\sqrt{53}\right),\frac{1}{2} \left(\sqrt{53}-9\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{8}{5} & -\frac{26}{5} \\
+ 9 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5}-\frac{33 i}{5},\frac{1}{5}+\frac{33 i}{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{5} & 3 \\
+ 4 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-28-\sqrt{589}\right),\frac{1}{5} \left(\sqrt{589}-28\right)\right\}$

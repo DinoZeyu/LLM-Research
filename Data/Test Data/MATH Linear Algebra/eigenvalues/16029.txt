@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{37}{5} & -\frac{33}{5} \\
+ \frac{44}{5} & -\frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(31-i \sqrt{3959}\right),\frac{1}{10} \left(31+i \sqrt{3959}\right)\right\}$

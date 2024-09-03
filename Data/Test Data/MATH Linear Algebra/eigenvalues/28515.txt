@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{17}{4} \\
+ -5 & \frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-1-3 \sqrt{409}\right),\frac{1}{8} \left(3 \sqrt{409}-1\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{26}{5} & \frac{26}{5} \\
+ -\frac{43}{5} & -\frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-59-i \sqrt{4423}\right),\frac{1}{10} \left(-59+i \sqrt{4423}\right)\right\}$

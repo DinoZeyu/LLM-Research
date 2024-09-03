@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 3 \\
+ -10 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-i \sqrt{26},-4+i \sqrt{26}\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{13}{2} & -2 & \frac{17}{2} \\
+ -\frac{13}{2} & -\frac{11}{2} & -10 \\
+ -4 & 1 & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.034,-4.733-6.069 i,-4.733+6.069 i\}$

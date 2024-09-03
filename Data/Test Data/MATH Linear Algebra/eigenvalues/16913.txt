@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{38}{5} \\
+ -\frac{24}{5} & -\frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-1-\sqrt{4609}\right),\frac{1}{10} \left(\sqrt{4609}-1\right)\right\}$

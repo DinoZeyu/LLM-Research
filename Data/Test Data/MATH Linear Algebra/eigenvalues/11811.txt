@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{4} & -\frac{23}{4} \\
+ -\frac{1}{2} & \frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(6-\sqrt{95}\right),\frac{1}{4} \left(6+\sqrt{95}\right)\right\}$

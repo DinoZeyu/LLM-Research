@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -7 & 7 & 2 \\
+ -\frac{1}{3} & \frac{8}{3} & \frac{25}{3} \\
+ 6 & \frac{2}{3} & -\frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.698-4.262 i,-7.698+4.262 i,5.729\}$

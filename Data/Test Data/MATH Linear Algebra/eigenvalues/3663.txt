@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -7 \\
+ -\frac{39}{4} & \frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-3-\sqrt{1533}\right),\frac{1}{4} \left(\sqrt{1533}-3\right)\right\}$

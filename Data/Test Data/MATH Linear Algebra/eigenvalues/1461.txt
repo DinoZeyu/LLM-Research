@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{2} & -\frac{13}{4} \\
+ -\frac{25}{4} & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-24-\sqrt{329}\right),\frac{1}{4} \left(\sqrt{329}-24\right)\right\}$

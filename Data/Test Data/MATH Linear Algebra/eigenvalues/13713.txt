@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -9 \\
+ -2 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-\sqrt{19},3+\sqrt{19}\right\}$

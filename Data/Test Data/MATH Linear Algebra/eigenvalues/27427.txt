@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -6 \\
+ 8 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-7-i \sqrt{111}\right),\frac{1}{2} \left(-7+i \sqrt{111}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 8 \\
+ -6 & \frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(13-i \sqrt{719}\right),\frac{1}{4} \left(13+i \sqrt{719}\right)\right\}$

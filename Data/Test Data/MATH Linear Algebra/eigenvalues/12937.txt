@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{48}{5} & \frac{18}{5} \\
+ 10 & \frac{38}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-5-\sqrt{2749}\right),\frac{1}{5} \left(\sqrt{2749}-5\right)\right\}$

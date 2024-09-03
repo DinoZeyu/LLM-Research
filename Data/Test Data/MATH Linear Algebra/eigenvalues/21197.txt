@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{2} & -\frac{17}{2} \\
+ -\frac{5}{2} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-23-\sqrt{349}\right),\frac{1}{4} \left(\sqrt{349}-23\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{16}{5} & \frac{48}{5} \\
+ \frac{32}{5} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-31-\sqrt{6145}\right),\frac{1}{10} \left(\sqrt{6145}-31\right)\right\}$

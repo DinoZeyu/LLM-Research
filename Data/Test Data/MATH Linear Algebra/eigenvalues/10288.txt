@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & -2 \\
+ -\frac{19}{4} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(1-\sqrt{17}\right),\frac{3}{4} \left(1+\sqrt{17}\right)\right\}$

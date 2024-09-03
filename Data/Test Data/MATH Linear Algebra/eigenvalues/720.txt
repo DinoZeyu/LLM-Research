@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 5 \\
+ 8 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-8-\sqrt{41},\sqrt{41}-8\right\}$

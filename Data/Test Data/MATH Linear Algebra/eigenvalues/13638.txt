@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{2} & -9 \\
+ 4 & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-7-6 i \sqrt{3}\right),\frac{1}{2} \left(-7+6 i \sqrt{3}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{5} & \frac{24}{5} \\
+ -9 & \frac{31}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(17-3 i \sqrt{255}\right),\frac{1}{10} \left(17+3 i \sqrt{255}\right)\right\}$

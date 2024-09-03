@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{10}{3} \\
+ -\frac{10}{3} & -\frac{4}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-4-\sqrt{29}\right),\frac{2}{3} \left(\sqrt{29}-4\right)\right\}$

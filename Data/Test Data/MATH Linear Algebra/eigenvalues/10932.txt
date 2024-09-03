@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{20}{3} \\
+ \frac{28}{3} & -\frac{2}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(4-i \sqrt{115}\right),\frac{2}{3} \left(4+i \sqrt{115}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{3}{2} & \frac{9}{4} \\
+ \frac{33}{4} & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{39}{4},\frac{3}{4}\right\}$

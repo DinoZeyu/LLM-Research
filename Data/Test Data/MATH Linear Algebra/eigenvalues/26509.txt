@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -5 \\
+ \frac{43}{5} & -\frac{13}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-33-i \sqrt{4251}\right),\frac{1}{10} \left(-33+i \sqrt{4251}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -9 \\
+ -3 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-\sqrt{157}\right),\frac{1}{2} \left(\sqrt{157}-11\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{5} & -\frac{29}{5} \\
+ \frac{41}{5} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-37-i \sqrt{3667}\right),\frac{1}{10} \left(-37+i \sqrt{3667}\right)\right\}$

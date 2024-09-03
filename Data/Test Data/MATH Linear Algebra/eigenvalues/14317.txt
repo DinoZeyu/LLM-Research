@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & 5 \\
+ 3 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{6-\sqrt{15},6+\sqrt{15}\right\}$

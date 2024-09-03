@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{18}{5} & -3 \\
+ -\frac{26}{5} & \frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(23-\sqrt{415}\right),\frac{1}{5} \left(23+\sqrt{415}\right)\right\}$

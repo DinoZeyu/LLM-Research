@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -5 \\
+ -\frac{26}{3} & \frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{7}{3},12\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{34}{5} & -\frac{26}{5} \\
+ \frac{6}{5} & \frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-4-\sqrt{130}\right),\frac{2}{5} \left(\sqrt{130}-4\right)\right\}$

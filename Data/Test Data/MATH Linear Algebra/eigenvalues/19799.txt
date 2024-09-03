@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -\frac{41}{5} \\
+ -1 & -\frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-51-\sqrt{2341}\right),\frac{1}{10} \left(\sqrt{2341}-51\right)\right\}$

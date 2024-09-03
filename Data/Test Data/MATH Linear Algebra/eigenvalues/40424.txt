@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 3 & 8 & -\frac{31}{4} \\
+ \frac{3}{2} & -4 & -6 \\
+ -\frac{9}{2} & \frac{11}{2} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.514-4.721 i,-8.514+4.721 i,6.527\}$

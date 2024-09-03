@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 5 & \frac{1}{2} & -4 \\
+ \frac{1}{2} & 2 & -\frac{19}{2} \\
+ \frac{11}{2} & -\frac{7}{2} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.824,4.412\, -2.465 i,4.412\, +2.465 i\}$

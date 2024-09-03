@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & 0 \\
+ 5 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5,-1\}$

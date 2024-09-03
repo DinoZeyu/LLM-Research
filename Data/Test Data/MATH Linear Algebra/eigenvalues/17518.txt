@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{5} & \frac{48}{5} \\
+ \frac{17}{5} & \frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(7-2 \sqrt{55}\right),\frac{2}{5} \left(7+2 \sqrt{55}\right)\right\}$

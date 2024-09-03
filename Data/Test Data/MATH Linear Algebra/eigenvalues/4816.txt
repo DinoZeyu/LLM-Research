@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{26}{5} & -\frac{11}{5} \\
+ \frac{3}{5} & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{7}{5},5\right\}$

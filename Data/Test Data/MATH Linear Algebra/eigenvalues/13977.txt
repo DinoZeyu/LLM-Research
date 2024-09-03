@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 10 \\
+ \frac{11}{2} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{71},\sqrt{71}-5\right\}$

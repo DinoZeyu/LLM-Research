@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{6}{5} \\
+ \frac{39}{5} & -\frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(1-\sqrt{42}\right),\frac{3}{5} \left(1+\sqrt{42}\right)\right\}$

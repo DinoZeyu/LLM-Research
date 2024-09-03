@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{3}{5} \\
+ -\frac{24}{5} & \frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-33-\sqrt{1921}\right),\frac{1}{10} \left(\sqrt{1921}-33\right)\right\}$

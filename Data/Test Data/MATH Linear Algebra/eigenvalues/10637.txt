@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{29}{5} \\
+ -\frac{17}{5} & -\frac{39}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{42}{5}-\frac{22 i}{5},-\frac{42}{5}+\frac{22 i}{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{17}{2} \\
+ 9 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-4-i \sqrt{302}\right),\frac{1}{2} \left(-4+i \sqrt{302}\right)\right\}$

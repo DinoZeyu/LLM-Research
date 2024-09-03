@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -7 \\
+ \frac{7}{2} & -\frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(9-\sqrt{137}\right),\frac{1}{4} \left(9+\sqrt{137}\right)\right\}$

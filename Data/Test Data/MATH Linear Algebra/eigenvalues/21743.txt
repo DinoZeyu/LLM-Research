@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{42}{5} & -\frac{7}{5} \\
+ \frac{13}{5} & -\frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-85-11 i \sqrt{3}\right),\frac{1}{10} \left(-85+11 i \sqrt{3}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 4 \\
+ 7 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{9-\sqrt{29},9+\sqrt{29}\right\}$

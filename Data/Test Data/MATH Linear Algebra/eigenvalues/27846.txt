@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{3} & \frac{2}{3} \\
+ -\frac{4}{3} & -\frac{8}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4,-\frac{10}{3}\right\}$

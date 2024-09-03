@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & \frac{8}{3} \\
+ -\frac{25}{3} & -\frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{14}{3}-\frac{2 i}{3},-\frac{14}{3}+\frac{2 i}{3}\right\}$

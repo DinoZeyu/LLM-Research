@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 1 & \frac{27}{5} & 5 \\
+ -\frac{7}{5} & -\frac{2}{5} & 4 \\
+ \frac{3}{5} & -\frac{12}{5} & \frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{0.04\, -3.961 i,0.04\, +3.961 i,4.319\}$

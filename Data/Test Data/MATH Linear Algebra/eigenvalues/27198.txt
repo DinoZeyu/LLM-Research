@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{26}{3} & \frac{2}{3} \\
+ \frac{17}{3} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(5-\sqrt{2345}\right),\frac{1}{6} \left(5+\sqrt{2345}\right)\right\}$

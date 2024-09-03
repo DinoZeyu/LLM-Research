@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{41}{5} & \frac{26}{5} \\
+ \frac{24}{5} & \frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-29-\sqrt{5305}\right),\frac{1}{10} \left(\sqrt{5305}-29\right)\right\}$

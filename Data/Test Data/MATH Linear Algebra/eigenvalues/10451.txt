@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{38}{5} & -5 \\
+ -\frac{9}{5} & \frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-5-3 \sqrt{146}\right),\frac{1}{5} \left(3 \sqrt{146}-5\right)\right\}$

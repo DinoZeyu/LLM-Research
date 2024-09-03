@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{3} & -\frac{7}{3} \\
+ -8 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-19-\sqrt{721}\right),\frac{1}{6} \left(\sqrt{721}-19\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & \frac{5}{2} \\
+ -9 & -\frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-9-i \sqrt{1151}\right),\frac{1}{8} \left(-9+i \sqrt{1151}\right)\right\}$

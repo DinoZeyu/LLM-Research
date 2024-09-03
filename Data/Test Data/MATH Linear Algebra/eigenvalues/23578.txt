@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{43}{5} & \frac{47}{5} \\
+ \frac{46}{5} & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-79-\sqrt{8697}\right),\frac{1}{10} \left(\sqrt{8697}-79\right)\right\}$

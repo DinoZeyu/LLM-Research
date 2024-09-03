@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{39}{5} & \frac{18}{5} \\
+ -\frac{19}{5} & \frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(23-i \sqrt{86}\right),\frac{1}{5} \left(23+i \sqrt{86}\right)\right\}$

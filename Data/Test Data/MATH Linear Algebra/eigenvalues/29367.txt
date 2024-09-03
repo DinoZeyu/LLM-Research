@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{12}{5} & \frac{8}{5} \\
+ \frac{37}{5} & -\frac{49}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-61-\sqrt{2553}\right),\frac{1}{10} \left(\sqrt{2553}-61\right)\right\}$

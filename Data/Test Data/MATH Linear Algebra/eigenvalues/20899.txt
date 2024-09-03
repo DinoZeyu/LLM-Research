@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{4}{5} & -5 \\
+ 4 & \frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(2-i \sqrt{109}\right),\frac{2}{5} \left(2+i \sqrt{109}\right)\right\}$

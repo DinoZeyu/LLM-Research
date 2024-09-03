@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & \frac{5}{2} \\
+ -\frac{19}{2} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-19-\sqrt{61}\right),\frac{1}{4} \left(\sqrt{61}-19\right)\right\}$

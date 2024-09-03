@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 7 \\
+ 1 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-2 \sqrt{2},2 \sqrt{2}-3\right\}$

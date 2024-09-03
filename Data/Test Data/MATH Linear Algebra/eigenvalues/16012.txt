@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{44}{5} & \frac{31}{5} \\
+ \frac{29}{5} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-42-\sqrt{903}\right),\frac{1}{5} \left(\sqrt{903}-42\right)\right\}$

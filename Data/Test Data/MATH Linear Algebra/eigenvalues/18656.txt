@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & \frac{29}{4} \\
+ \frac{19}{2} & \frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(47-\sqrt{4769}\right),\frac{1}{8} \left(47+\sqrt{4769}\right)\right\}$

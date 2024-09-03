@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{28}{5} & -\frac{44}{5} \\
+ \frac{22}{5} & -\frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-19-\sqrt{1753}\right),\frac{1}{10} \left(\sqrt{1753}-19\right)\right\}$

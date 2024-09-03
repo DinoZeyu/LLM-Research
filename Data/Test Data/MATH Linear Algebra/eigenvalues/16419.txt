@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{4} & 8 \\
+ \frac{29}{4} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(31-\sqrt{4337}\right),\frac{1}{8} \left(31+\sqrt{4337}\right)\right\}$

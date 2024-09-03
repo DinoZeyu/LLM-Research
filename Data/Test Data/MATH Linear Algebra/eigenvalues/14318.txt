@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{3} & \frac{8}{3} \\
+ -\frac{11}{3} & \frac{22}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(2-\sqrt{59}\right),\frac{2}{3} \left(2+\sqrt{59}\right)\right\}$

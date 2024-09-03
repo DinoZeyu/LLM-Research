@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{2}{5} & \frac{47}{5} & \frac{38}{5} \\
+ -\frac{43}{5} & -\frac{28}{5} & 7 \\
+ 0 & 8 & \frac{23}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.462,2.031\, -4.188 i,2.031\, +4.188 i\}$

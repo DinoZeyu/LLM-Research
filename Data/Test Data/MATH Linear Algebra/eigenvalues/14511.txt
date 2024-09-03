@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{49}{5} & -\frac{21}{5} \\
+ -\frac{41}{5} & \frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(41-5 \sqrt{37}\right),\frac{1}{5} \left(41+5 \sqrt{37}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{21}{5} & \frac{3}{5} \\
+ \frac{6}{5} & -\frac{46}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-67-\sqrt{697}\right),\frac{1}{10} \left(\sqrt{697}-67\right)\right\}$

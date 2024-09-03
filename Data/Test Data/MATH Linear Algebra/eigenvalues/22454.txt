@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{4} & -\frac{15}{4} \\
+ -\frac{21}{4} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-67-\sqrt{1381}\right),\frac{1}{8} \left(\sqrt{1381}-67\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{2} & -\frac{21}{4} \\
+ -\frac{13}{2} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-\sqrt{715}\right),\frac{1}{4} \left(\sqrt{715}-1\right)\right\}$

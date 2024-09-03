@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{5} & \frac{38}{5} \\
+ \frac{44}{5} & -\frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-79-7 \sqrt{137}\right),\frac{1}{10} \left(7 \sqrt{137}-79\right)\right\}$

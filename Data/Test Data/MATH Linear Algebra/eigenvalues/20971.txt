@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{46}{5} & -4 \\
+ 3 & \frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(16-i \sqrt{26}\right),\frac{2}{5} \left(16+i \sqrt{26}\right)\right\}$

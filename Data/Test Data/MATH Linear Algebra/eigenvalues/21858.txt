@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{19}{2} \\
+ \frac{11}{4} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(2-\sqrt{482}\right),\frac{1}{4} \left(2+\sqrt{482}\right)\right\}$

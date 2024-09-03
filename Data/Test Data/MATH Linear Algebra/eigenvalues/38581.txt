@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{13}{2} & 6 & 6 \\
+ -\frac{9}{2} & -6 & -\frac{35}{4} \\
+ -\frac{7}{2} & -2 & -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.431-6.942 i,-7.431+6.942 i,1.861\}$

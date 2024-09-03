@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & \frac{11}{3} \\
+ \frac{16}{3} & -\frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{29}{3},\frac{19}{3}\right\}$

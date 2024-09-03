@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{2} & \frac{3}{4} \\
+ \frac{35}{4} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-11-\sqrt{106}\right),\frac{1}{4} \left(\sqrt{106}-11\right)\right\}$

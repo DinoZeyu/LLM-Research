@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{5} & -\frac{14}{5} \\
+ -\frac{42}{5} & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(33-\sqrt{3081}\right),\frac{1}{10} \left(33+\sqrt{3081}\right)\right\}$

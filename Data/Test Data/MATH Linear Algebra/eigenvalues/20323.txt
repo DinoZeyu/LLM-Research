@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & \frac{1}{2} \\
+ \frac{19}{2} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-39-\sqrt{77}\right),\frac{1}{4} \left(\sqrt{77}-39\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 9 & \frac{3}{2} & 8 \\
+ -8 & -8 & -6 \\
+ \frac{3}{2} & \frac{13}{2} & -\frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-4.809-2.972 i,-4.809+2.972 i,7.118\}$

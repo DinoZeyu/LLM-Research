@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & 8 \\
+ -5 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-i \sqrt{39},-3+i \sqrt{39}\right\}$

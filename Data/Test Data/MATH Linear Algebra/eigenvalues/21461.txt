@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{21}{4} & 4 \\
+ \frac{5}{4} & -\frac{21}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-21-4 \sqrt{5}\right),\frac{1}{4} \left(4 \sqrt{5}-21\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{17}{2} & \frac{9}{2} & \frac{7}{4} \\
+ 6 & \frac{3}{2} & \frac{1}{2} \\
+ \frac{27}{4} & 6 & \frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-11.141,-0.548,5.939\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{4} & \frac{39}{4} \\
+ 1 & -\frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-28-\sqrt{157}\right),\frac{1}{4} \left(\sqrt{157}-28\right)\right\}$

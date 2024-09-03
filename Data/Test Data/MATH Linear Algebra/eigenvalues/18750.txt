@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{20}{3} & -7 \\
+ -8 & -\frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-9-\sqrt{127}\right),\frac{2}{3} \left(\sqrt{127}-9\right)\right\}$

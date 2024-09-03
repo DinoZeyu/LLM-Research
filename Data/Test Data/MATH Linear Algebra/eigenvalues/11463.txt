@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{4} & -\frac{9}{2} \\
+ -1 & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(-3-\sqrt{561}\right),\frac{3}{8} \left(\sqrt{561}-3\right)\right\}$

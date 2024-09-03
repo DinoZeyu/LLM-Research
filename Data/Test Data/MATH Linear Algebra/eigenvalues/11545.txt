@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 10 \\
+ -\frac{6}{5} & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{0,\frac{13}{5}\right\}$

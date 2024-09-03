@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{13}{2} \\
+ -10 & \frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-3-\sqrt{1121}\right),\frac{1}{4} \left(\sqrt{1121}-3\right)\right\}$

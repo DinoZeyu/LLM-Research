@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & 5 \\
+ -\frac{1}{4} & \frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(21-\sqrt{3169}\right),\frac{1}{8} \left(21+\sqrt{3169}\right)\right\}$

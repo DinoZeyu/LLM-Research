@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{3} & 2 \\
+ \frac{8}{3} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{13}{3},9\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ 5 & 1 & 0 \\
+ -3 & 3 & 0 \\
+ 0 & -2 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$-54$

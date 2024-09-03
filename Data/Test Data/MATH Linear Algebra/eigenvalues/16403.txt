@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{17}{2} \\
+ -9 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2} \left(-6-i \sqrt{34}\right),\frac{3}{2} \left(-6+i \sqrt{34}\right)\right\}$

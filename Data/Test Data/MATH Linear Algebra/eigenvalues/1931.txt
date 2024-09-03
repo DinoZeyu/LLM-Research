@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{5} & \frac{49}{5} \\
+ \frac{12}{5} & -\frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-17-\sqrt{2577}\right),\frac{1}{10} \left(\sqrt{2577}-17\right)\right\}$

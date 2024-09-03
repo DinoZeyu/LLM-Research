@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -\frac{2}{3} \\
+ 3 & \frac{22}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(43-i \sqrt{71}\right),\frac{1}{6} \left(43+i \sqrt{71}\right)\right\}$

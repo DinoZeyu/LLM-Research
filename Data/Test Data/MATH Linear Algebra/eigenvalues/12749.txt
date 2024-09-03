@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{24}{5} & \frac{8}{5} \\
+ \frac{37}{5} & -\frac{41}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-17-3 \sqrt{601}\right),\frac{1}{10} \left(3 \sqrt{601}-17\right)\right\}$

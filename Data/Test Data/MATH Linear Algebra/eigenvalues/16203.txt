@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & \frac{8}{5} \\
+ \frac{13}{5} & -\frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-17-2 \sqrt{42}\right),\frac{1}{5} \left(2 \sqrt{42}-17\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{11}{2} \\
+ \frac{17}{4} & -\frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-63-\sqrt{1497}\right),\frac{1}{8} \left(\sqrt{1497}-63\right)\right\}$

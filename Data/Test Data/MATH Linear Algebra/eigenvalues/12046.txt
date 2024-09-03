@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -\frac{36}{5} \\
+ \frac{17}{5} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-75-i \sqrt{1823}\right),\frac{1}{10} \left(-75+i \sqrt{1823}\right)\right\}$

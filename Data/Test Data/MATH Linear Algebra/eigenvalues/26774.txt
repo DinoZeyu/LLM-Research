@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & 10 \\
+ -4 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2} \left(-1-i \sqrt{15}\right),\frac{3}{2} \left(-1+i \sqrt{15}\right)\right\}$

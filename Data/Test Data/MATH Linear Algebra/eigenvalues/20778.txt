@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -8 \\
+ -4 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-9-\sqrt{33},\sqrt{33}-9\right\}$

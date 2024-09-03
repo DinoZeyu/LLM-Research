@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{4} & 1 \\
+ -3 & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-37-\sqrt{433}\right),\frac{1}{8} \left(\sqrt{433}-37\right)\right\}$

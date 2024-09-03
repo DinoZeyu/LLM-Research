@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{14}{5} & \frac{21}{5} & \frac{33}{5} \\
+ \frac{33}{5} & \frac{14}{5} & \frac{3}{5} \\
+ -2 & -6 & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.11,2.161,4.349\}$

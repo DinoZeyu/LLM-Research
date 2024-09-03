@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & \frac{17}{4} \\
+ -\frac{37}{4} & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-25-2 i \sqrt{151}\right),\frac{1}{4} \left(-25+2 i \sqrt{151}\right)\right\}$

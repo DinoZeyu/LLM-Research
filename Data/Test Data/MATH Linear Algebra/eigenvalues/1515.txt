@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{5} & -\frac{29}{5} \\
+ \frac{17}{5} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-1-\sqrt{803}\right),\frac{1}{5} \left(\sqrt{803}-1\right)\right\}$

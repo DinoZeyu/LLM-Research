@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{47}{5} & -\frac{34}{5} \\
+ -\frac{32}{5} & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(49-\sqrt{6377}\right),\frac{1}{10} \left(49+\sqrt{6377}\right)\right\}$

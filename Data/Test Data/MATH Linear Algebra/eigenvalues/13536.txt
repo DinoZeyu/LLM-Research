@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -5 \\
+ -6 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-\sqrt{34},\sqrt{34}-1\right\}$

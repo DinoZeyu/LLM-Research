@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{4} & -\frac{31}{4} \\
+ 5 & \frac{23}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(23-2 i \sqrt{155}\right),\frac{1}{4} \left(23+2 i \sqrt{155}\right)\right\}$

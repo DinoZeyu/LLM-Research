@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{11}{10} & 4 & -1 \\
+ -\frac{3}{10} & -\frac{17}{5} & -\frac{5}{2} \\
+ -\frac{1}{10} & -\frac{4}{5} & -\frac{19}{10} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{3043}{500}$

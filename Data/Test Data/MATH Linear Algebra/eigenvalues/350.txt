@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -2 \\
+ 10 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\{-2-4 i,-2+4 i\}$

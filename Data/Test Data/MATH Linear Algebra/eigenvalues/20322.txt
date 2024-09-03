@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -4 \\
+ -5 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{4-\sqrt{29},4+\sqrt{29}\right\}$

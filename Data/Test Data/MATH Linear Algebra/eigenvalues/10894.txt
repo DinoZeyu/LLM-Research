@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{8}{5} & -\frac{9}{5} \\
+ 2 & -\frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-41-\sqrt{265}\right),\frac{1}{10} \left(\sqrt{265}-41\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{32}{5} & -\frac{6}{5} \\
+ -\frac{3}{5} & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-15-\sqrt{307}\right),\frac{1}{5} \left(\sqrt{307}-15\right)\right\}$

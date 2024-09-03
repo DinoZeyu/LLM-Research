@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{4} & \frac{27}{4} \\
+ -\frac{7}{4} & -\frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-19-i \sqrt{89}\right),\frac{1}{4} \left(-19+i \sqrt{89}\right)\right\}$

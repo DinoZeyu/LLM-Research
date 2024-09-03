@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{4}{3} \\
+ \frac{5}{3} & \frac{4}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(31-\sqrt{609}\right),\frac{1}{6} \left(31+\sqrt{609}\right)\right\}$

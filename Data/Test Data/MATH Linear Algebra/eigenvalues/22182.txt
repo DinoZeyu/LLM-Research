@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{3} & 6 \\
+ -\frac{28}{3} & \frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{383}}{3},\frac{i \sqrt{383}}{3}\right\}$

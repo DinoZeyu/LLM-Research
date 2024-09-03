@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{5}{2} \\
+ \frac{25}{4} & -\frac{7}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-31-\sqrt{1289}\right),\frac{1}{8} \left(\sqrt{1289}-31\right)\right\}$

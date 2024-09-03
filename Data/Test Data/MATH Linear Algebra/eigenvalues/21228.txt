@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -9 \\
+ -10 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{94},\sqrt{94}-5\right\}$

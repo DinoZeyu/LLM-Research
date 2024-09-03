@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{25}{4} & 7 \\
+ -\frac{17}{4} & \frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(15-2 i \sqrt{94}\right),\frac{1}{4} \left(15+2 i \sqrt{94}\right)\right\}$

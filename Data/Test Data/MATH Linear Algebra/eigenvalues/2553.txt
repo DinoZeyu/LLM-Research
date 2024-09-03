@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{8}{5} \\
+ -\frac{1}{5} & \frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-13-\sqrt{281}\right),\frac{1}{5} \left(\sqrt{281}-13\right)\right\}$

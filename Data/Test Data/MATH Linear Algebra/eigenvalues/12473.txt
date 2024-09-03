@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{4}{5} & -\frac{28}{5} \\
+ \frac{32}{5} & \frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(3-i \sqrt{3463}\right),\frac{1}{10} \left(3+i \sqrt{3463}\right)\right\}$

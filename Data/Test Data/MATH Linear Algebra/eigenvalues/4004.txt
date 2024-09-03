@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{41}{5} & -8 \\
+ -\frac{7}{5} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-91-\sqrt{1201}\right),\frac{1}{10} \left(\sqrt{1201}-91\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{10}{3} & -\frac{19}{3} \\
+ -8 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(11-\sqrt{2785}\right),\frac{1}{6} \left(11+\sqrt{2785}\right)\right\}$

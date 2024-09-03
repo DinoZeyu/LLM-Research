@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -10 \\
+ -1 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{6-\sqrt{14},6+\sqrt{14}\right\}$

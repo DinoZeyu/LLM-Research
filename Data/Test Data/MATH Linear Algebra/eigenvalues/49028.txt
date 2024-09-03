@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{13}{4} & 1 & \frac{31}{4} \\
+ -\frac{13}{4} & \frac{3}{4} & 6 \\
+ -\frac{5}{4} & -\frac{13}{2} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.078-7.1 i,-2.078+7.1 i,0.656\}$

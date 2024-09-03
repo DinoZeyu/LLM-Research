@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & -\frac{17}{2} \\
+ \frac{21}{4} & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-7-\sqrt{1633}\right),\frac{1}{8} \left(\sqrt{1633}-7\right)\right\}$

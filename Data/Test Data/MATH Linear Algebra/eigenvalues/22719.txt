@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{4} & -9 \\
+ \frac{13}{2} & -\frac{23}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-25-2 i \sqrt{233}\right),\frac{1}{4} \left(-25+2 i \sqrt{233}\right)\right\}$

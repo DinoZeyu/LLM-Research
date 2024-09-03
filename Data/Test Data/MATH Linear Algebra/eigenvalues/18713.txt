@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{5} & -10 \\
+ \frac{41}{5} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(57-i \sqrt{8031}\right),\frac{1}{10} \left(57+i \sqrt{8031}\right)\right\}$

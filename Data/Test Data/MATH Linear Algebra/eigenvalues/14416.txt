@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 7 \\
+ 5 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-15-\sqrt{149}\right),\frac{1}{2} \left(\sqrt{149}-15\right)\right\}$

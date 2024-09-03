@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{13}{2} \\
+ -\frac{25}{4} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-8-\sqrt{906}\right),\frac{1}{4} \left(\sqrt{906}-8\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & 6 \\
+ \frac{13}{2} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(13-\sqrt{913}\right),\frac{1}{4} \left(13+\sqrt{913}\right)\right\}$

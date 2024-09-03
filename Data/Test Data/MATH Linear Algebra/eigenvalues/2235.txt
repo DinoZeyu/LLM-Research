@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{4} & -\frac{5}{2} \\
+ \frac{37}{4} & \frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(7-\sqrt{114}\right),\frac{1}{4} \left(7+\sqrt{114}\right)\right\}$

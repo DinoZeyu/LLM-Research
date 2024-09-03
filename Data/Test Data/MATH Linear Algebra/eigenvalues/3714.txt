@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -7 \\
+ -7 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-\sqrt{365}\right),\frac{1}{2} \left(\sqrt{365}-3\right)\right\}$

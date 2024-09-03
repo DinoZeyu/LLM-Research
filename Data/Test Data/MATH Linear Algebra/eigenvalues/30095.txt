@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{20}{3} & -\frac{20}{3} & \frac{20}{3} \\
+ \frac{26}{3} & 4 & -\frac{20}{3} \\
+ -\frac{23}{3} & \frac{13}{3} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\{-1.706-10.452 i,-1.706+10.452 i,-1.255\}$

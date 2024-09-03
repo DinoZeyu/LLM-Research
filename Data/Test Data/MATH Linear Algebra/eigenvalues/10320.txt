@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -9 \\
+ 1 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-\sqrt{55},\sqrt{55}-2\right\}$

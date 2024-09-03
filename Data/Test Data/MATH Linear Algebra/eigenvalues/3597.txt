@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -5 \\
+ -1 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-1-\sqrt{381}\right),\frac{1}{2} \left(\sqrt{381}-1\right)\right\}$

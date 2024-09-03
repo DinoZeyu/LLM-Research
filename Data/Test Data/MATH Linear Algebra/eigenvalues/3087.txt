@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{3} & \frac{10}{3} \\
+ \frac{5}{3} & -\frac{10}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-\sqrt{41}\right),\frac{1}{2} \left(\sqrt{41}-11\right)\right\}$

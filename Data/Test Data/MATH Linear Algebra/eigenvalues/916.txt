@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -6 \\
+ 10 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(3-i \sqrt{231}\right),\frac{1}{2} \left(3+i \sqrt{231}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 3 \\
+ -\frac{1}{4} & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-23-i \sqrt{47}\right),\frac{1}{8} \left(-23+i \sqrt{47}\right)\right\}$

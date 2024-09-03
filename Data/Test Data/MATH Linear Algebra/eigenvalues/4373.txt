@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & \frac{1}{2} \\
+ \frac{13}{2} & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-1-\sqrt{209}\right),\frac{1}{2} \left(\sqrt{209}-1\right)\right\}$

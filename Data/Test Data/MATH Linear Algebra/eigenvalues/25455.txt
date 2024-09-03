@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{3} & -\frac{22}{3} \\
+ -\frac{8}{3} & -\frac{2}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{6} \left(-3-\sqrt{33}\right),\frac{5}{6} \left(\sqrt{33}-3\right)\right\}$

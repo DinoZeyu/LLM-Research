@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{5} & -\frac{38}{5} \\
+ -\frac{27}{5} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-37-\sqrt{4393}\right),\frac{1}{10} \left(\sqrt{4393}-37\right)\right\}$

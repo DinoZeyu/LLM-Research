@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{3} & -5 \\
+ -\frac{2}{3} & \frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(51-\sqrt{145}\right),\frac{1}{6} \left(51+\sqrt{145}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{32}{5} & -\frac{31}{5} \\
+ -4 & -\frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-41-\sqrt{3009}\right),\frac{1}{10} \left(\sqrt{3009}-41\right)\right\}$

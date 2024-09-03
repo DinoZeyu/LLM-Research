@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{26}{5} & \frac{46}{5} \\
+ 0 & \frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{17}{5},\frac{26}{5}\right\}$

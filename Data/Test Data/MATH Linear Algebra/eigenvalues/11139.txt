@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{4} & \frac{11}{4} \\
+ -\frac{25}{4} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{8} \left(-1-\sqrt{5}\right),\frac{5}{8} \left(\sqrt{5}-1\right)\right\}$

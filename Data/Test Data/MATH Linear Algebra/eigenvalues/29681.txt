@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{4} & -\frac{3}{4} \\
+ \frac{7}{2} & -\frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-20-\sqrt{127}\right),\frac{1}{4} \left(\sqrt{127}-20\right)\right\}$

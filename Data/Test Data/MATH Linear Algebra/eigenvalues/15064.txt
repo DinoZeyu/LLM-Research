@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{4} & 2 \\
+ -\frac{21}{4} & \frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-10-\sqrt{673}\right),\frac{1}{4} \left(\sqrt{673}-10\right)\right\}$

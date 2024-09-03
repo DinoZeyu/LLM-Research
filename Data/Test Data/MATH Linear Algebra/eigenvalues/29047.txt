@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 4 \\
+ 10 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-7-\sqrt{209}\right),\frac{1}{2} \left(\sqrt{209}-7\right)\right\}$

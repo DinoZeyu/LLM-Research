@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{7}{5} \\
+ \frac{14}{5} & -\frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(27-7 \sqrt{89}\right),\frac{1}{10} \left(27+7 \sqrt{89}\right)\right\}$

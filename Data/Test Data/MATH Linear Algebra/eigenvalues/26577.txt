@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{5} & \frac{31}{5} \\
+ -\frac{43}{5} & \frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(25-i \sqrt{5323}\right),\frac{1}{10} \left(25+i \sqrt{5323}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 4 \\
+ -10 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-i \sqrt{39},i \sqrt{39}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{5} & -\frac{43}{5} \\
+ \frac{43}{5} & \frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(21-i \sqrt{1771}\right),\frac{1}{10} \left(21+i \sqrt{1771}\right)\right\}$

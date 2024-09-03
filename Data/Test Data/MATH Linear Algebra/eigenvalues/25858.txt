@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{5} & \frac{28}{5} \\
+ \frac{22}{5} & \frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-1-\sqrt{2633}\right),\frac{1}{10} \left(\sqrt{2633}-1\right)\right\}$

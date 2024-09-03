@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{3} & \frac{7}{3} \\
+ -\frac{5}{3} & \frac{1}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{34}}{3},\frac{i \sqrt{34}}{3}\right\}$

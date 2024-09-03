@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{9}{2} \\
+ 5 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2} \left(1-\sqrt{15}\right),\frac{3}{2} \left(1+\sqrt{15}\right)\right\}$

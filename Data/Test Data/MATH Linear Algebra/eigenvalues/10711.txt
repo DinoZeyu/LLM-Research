@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 8 \\
+ -6 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2 \left(-3-i \sqrt{11}\right),2 \left(-3+i \sqrt{11}\right)\right\}$

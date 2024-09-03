@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & 3 \\
+ -\frac{19}{2} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-37-i \sqrt{455}\right),\frac{1}{4} \left(-37+i \sqrt{455}\right)\right\}$

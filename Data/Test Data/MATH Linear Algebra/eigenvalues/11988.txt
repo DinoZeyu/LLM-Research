@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -6 \\
+ \frac{19}{4} & -\frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-63-i \sqrt{1743}\right),\frac{1}{8} \left(-63+i \sqrt{1743}\right)\right\}$

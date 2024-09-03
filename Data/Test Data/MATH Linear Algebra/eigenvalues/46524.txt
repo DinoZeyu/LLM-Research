@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -4 & -5 & -7 \\
+ 5 & -5 & -7 \\
+ -2 & 4 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.867,-0.566-4.278 i,-0.566+4.278 i\}$

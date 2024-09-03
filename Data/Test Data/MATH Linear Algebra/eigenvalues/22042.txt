@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{5} & \frac{42}{5} \\
+ \frac{33}{5} & \frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{6-\sqrt{67},6+\sqrt{67}\right\}$

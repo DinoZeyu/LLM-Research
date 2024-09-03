@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{2}{3} & -8 \\
+ -\frac{11}{3} & \frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(7-\sqrt{102}\right),\frac{2}{3} \left(7+\sqrt{102}\right)\right\}$

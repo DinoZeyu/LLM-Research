@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{32}{5} & \frac{37}{5} \\
+ -\frac{31}{5} & -\frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-28-i \sqrt{1131}\right),\frac{1}{5} \left(-28+i \sqrt{1131}\right)\right\}$

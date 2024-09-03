@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 1 \\
+ -5 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5-2 i,-5+2 i\}$

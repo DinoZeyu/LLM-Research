@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{31}{5} \\
+ \frac{39}{5} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(35-\sqrt{5461}\right),\frac{1}{10} \left(35+\sqrt{5461}\right)\right\}$

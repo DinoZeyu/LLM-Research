@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{3} & \frac{25}{3} \\
+ \frac{7}{3} & \frac{8}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-15-\sqrt{1661}\right),\frac{1}{6} \left(\sqrt{1661}-15\right)\right\}$

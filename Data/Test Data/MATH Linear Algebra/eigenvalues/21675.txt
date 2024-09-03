@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & -6 \\
+ \frac{5}{4} & \frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(47-i \sqrt{359}\right),\frac{1}{8} \left(47+i \sqrt{359}\right)\right\}$

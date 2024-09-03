@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 2 & 7 & \frac{10}{3} \\
+ -\frac{5}{3} & -\frac{22}{3} & \frac{22}{3} \\
+ -\frac{1}{3} & \frac{5}{3} & \frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.271,1.931,5.34\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & 7 \\
+ \frac{3}{2} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-4-\sqrt{58}\right),\frac{1}{2} \left(\sqrt{58}-4\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{46}{5} \\
+ \frac{16}{5} & \frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(19-i \sqrt{2823}\right),\frac{1}{10} \left(19+i \sqrt{2823}\right)\right\}$

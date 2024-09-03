@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & -6 \\
+ 2 & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{177}}{2},\frac{\sqrt{177}}{2}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{3} & \frac{22}{3} \\
+ -\frac{29}{3} & \frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{589}}{3},\frac{i \sqrt{589}}{3}\right\}$

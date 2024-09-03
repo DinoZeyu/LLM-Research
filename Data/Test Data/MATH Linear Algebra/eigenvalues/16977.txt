@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{8}{5} & \frac{12}{5} \\
+ -\frac{42}{5} & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(11-i \sqrt{143}\right),\frac{1}{5} \left(11+i \sqrt{143}\right)\right\}$

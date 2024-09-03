@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & 4 \\
+ -5 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(15-i \sqrt{95}\right),\frac{1}{4} \left(15+i \sqrt{95}\right)\right\}$

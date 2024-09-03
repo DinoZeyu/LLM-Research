@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 0 & 9 & 6 \\
+ -1 & -2 & 10 \\
+ -5 & 5 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.351,3.676\, -6.651 i,3.676\, +6.651 i\}$

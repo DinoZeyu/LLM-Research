@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{49}{10} & \frac{41}{10} \\
+ -\frac{39}{10} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\frac{1109}{100}$

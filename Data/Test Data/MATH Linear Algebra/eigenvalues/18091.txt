@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{2} & -\frac{13}{2} \\
+ -\frac{19}{2} & -\frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-\sqrt{118},\sqrt{118}-1\right\}$

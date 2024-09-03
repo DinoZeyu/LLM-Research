@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{3} & -\frac{4}{3} \\
+ 6 & \frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{457}}{3},\frac{\sqrt{457}}{3}\right\}$

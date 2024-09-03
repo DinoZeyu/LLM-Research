@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{3} & -\frac{7}{3} \\
+ \frac{19}{3} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-7-i \sqrt{483}\right),\frac{1}{6} \left(-7+i \sqrt{483}\right)\right\}$

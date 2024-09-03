@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & -2 \\
+ -5 & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-2 \sqrt{35}\right),\frac{1}{2} \left(2 \sqrt{35}-3\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{4} & 5 \\
+ -2 & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(11-i \sqrt{31}\right),\frac{3}{8} \left(11+i \sqrt{31}\right)\right\}$

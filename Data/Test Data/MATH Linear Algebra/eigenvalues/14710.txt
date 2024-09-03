@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{12}{5} & 5 \\
+ -4 & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-5-2 i \sqrt{31}\right),\frac{2}{5} \left(-5+2 i \sqrt{31}\right)\right\}$

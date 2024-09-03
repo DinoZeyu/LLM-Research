@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{4} & \frac{13}{2} \\
+ -\frac{1}{4} & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-4-\sqrt{1063}\right),\frac{1}{4} \left(\sqrt{1063}-4\right)\right\}$

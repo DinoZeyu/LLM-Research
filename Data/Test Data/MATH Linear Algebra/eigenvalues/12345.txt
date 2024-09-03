@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -7 \\
+ -9 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-3 \sqrt{29}\right),\frac{1}{2} \left(3 \sqrt{29}-11\right)\right\}$

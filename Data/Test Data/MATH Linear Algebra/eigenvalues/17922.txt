@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{42}{5} & \frac{41}{5} \\
+ \frac{31}{5} & \frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(29-12 \sqrt{10}\right),\frac{1}{5} \left(29+12 \sqrt{10}\right)\right\}$

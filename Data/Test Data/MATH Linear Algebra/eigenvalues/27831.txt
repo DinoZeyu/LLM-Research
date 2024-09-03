@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{2} & -\frac{33}{4} \\
+ -1 & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-31-\sqrt{2377}\right),\frac{1}{8} \left(\sqrt{2377}-31\right)\right\}$

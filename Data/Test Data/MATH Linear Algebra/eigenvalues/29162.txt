@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{5}{4} \\
+ -\frac{7}{2} & -\frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(5-\sqrt{5345}\right),\frac{1}{8} \left(5+\sqrt{5345}\right)\right\}$

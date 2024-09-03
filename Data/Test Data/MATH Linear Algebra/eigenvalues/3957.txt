@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -5 \\
+ 7 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-\sqrt{29},1+\sqrt{29}\right\}$

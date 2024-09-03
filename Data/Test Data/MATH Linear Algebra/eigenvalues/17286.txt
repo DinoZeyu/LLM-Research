@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & -4 \\
+ \frac{3}{2} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-3-\sqrt{865}\right),\frac{1}{4} \left(\sqrt{865}-3\right)\right\}$

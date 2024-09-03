@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & \frac{7}{3} \\
+ \frac{20}{3} & \frac{22}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(37-\sqrt{609}\right),\frac{1}{6} \left(37+\sqrt{609}\right)\right\}$

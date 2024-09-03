@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & \frac{5}{2} \\
+ 10 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-29-\sqrt{521}\right),\frac{1}{4} \left(\sqrt{521}-29\right)\right\}$

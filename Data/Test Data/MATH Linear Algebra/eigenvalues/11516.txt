@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 7 \\
+ \frac{13}{3} & -\frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-35-\sqrt{1381}\right),\frac{1}{6} \left(\sqrt{1381}-35\right)\right\}$

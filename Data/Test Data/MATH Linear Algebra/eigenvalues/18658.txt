@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{4}{5} & -\frac{11}{5} \\
+ -1 & -\frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-22-\sqrt{731}\right),\frac{1}{5} \left(\sqrt{731}-22\right)\right\}$

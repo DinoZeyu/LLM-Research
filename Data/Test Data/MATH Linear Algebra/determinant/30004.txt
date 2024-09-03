@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{11}{6} & -3 & -\frac{2}{3} \\
+ -\frac{5}{3} & \frac{19}{6} & 2 \\
+ -\frac{1}{6} & -\frac{5}{6} & \frac{5}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{445}{108}$

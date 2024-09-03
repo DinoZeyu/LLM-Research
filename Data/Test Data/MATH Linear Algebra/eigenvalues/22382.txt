@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{4}{5} & \frac{23}{5} \\
+ \frac{27}{5} & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-20-3 \sqrt{133}\right),\frac{1}{5} \left(3 \sqrt{133}-20\right)\right\}$

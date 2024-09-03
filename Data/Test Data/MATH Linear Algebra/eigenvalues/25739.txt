@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -7 \\
+ -4 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-\sqrt{193}\right),\frac{1}{2} \left(\sqrt{193}-11\right)\right\}$

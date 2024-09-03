@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -9 \\
+ \frac{21}{5} & -\frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-59-3 i \sqrt{371}\right),\frac{1}{10} \left(-59+3 i \sqrt{371}\right)\right\}$

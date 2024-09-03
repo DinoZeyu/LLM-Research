@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{49}{5} & -\frac{4}{5} \\
+ \frac{9}{5} & \frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-8-\sqrt{1645}\right),\frac{1}{5} \left(\sqrt{1645}-8\right)\right\}$

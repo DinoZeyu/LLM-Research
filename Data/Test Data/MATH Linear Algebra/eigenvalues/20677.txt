@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -9 \\
+ -6 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3 \left(2-\sqrt{7}\right),3 \left(2+\sqrt{7}\right)\right\}$

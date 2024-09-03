@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{4} & \frac{7}{2} \\
+ \frac{15}{4} & -\frac{17}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{499}}{4},\frac{\sqrt{499}}{4}\right\}$

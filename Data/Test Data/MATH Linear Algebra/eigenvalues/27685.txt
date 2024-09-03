@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 1 \\
+ 8 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{6-\sqrt{17},6+\sqrt{17}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{2} & 1 \\
+ 4 & \frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(7-4 \sqrt{2}\right),\frac{1}{2} \left(7+4 \sqrt{2}\right)\right\}$

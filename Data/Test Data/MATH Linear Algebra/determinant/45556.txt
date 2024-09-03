@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{2}{3} & \frac{2}{3} \\
+ -\frac{2}{3} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{14}{9}$

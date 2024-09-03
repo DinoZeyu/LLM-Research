@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{9}{5} \\
+ -7 & -\frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(2-\sqrt{29}\right),\frac{3}{5} \left(2+\sqrt{29}\right)\right\}$

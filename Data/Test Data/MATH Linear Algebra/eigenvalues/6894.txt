@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -10 & -\frac{13}{4} & \frac{3}{2} \\
+ \frac{27}{4} & -\frac{31}{4} & -\frac{23}{4} \\
+ -7 & -\frac{21}{4} & \frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.193-3.156 i,-9.193+3.156 i,5.386\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & 1 \\
+ 7 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-5-\sqrt{149}\right),\frac{1}{2} \left(\sqrt{149}-5\right)\right\}$

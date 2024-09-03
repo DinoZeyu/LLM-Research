@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -1 \\
+ -1 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-5 \sqrt{2},5 \sqrt{2}-2\right\}$

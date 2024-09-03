@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{29}{6} & \frac{9}{2} \\
+ -\frac{2}{3} & -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{65}{12}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{4} & -\frac{21}{4} \\
+ -6 & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-12-\sqrt{1129}\right),\frac{1}{4} \left(\sqrt{1129}-12\right)\right\}$

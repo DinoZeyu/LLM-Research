@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 8 \\
+ -3 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-1-i \sqrt{95}\right),\frac{1}{2} \left(-1+i \sqrt{95}\right)\right\}$

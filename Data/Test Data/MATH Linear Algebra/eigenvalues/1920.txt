@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{3}{2} \\
+ \frac{17}{4} & \frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{11}{2},\frac{27}{4}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{5} & 10 \\
+ 8 & -\frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{6 \sqrt{69}}{5},\frac{6 \sqrt{69}}{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{14}{5} & -2 \\
+ -3 & -\frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-6-5 \sqrt{22}\right),\frac{1}{5} \left(5 \sqrt{22}-6\right)\right\}$

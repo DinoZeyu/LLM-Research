@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 10 \\
+ -9 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3 \left(-3-i \sqrt{10}\right),3 \left(-3+i \sqrt{10}\right)\right\}$

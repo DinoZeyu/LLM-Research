@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{19}{2} \\
+ \frac{17}{2} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{1}{2},\frac{35}{2}\right\}$

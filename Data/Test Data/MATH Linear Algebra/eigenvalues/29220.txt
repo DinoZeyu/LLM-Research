@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{3} & \frac{13}{3} \\
+ -\frac{29}{3} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(49-i \sqrt{1483}\right),\frac{1}{6} \left(49+i \sqrt{1483}\right)\right\}$

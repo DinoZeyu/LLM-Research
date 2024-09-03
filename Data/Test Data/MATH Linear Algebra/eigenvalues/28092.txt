@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{3} & \frac{10}{3} \\
+ 1 & \frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{11}{3},\frac{22}{3}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{28}{3} \\
+ -7 & \frac{1}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(1-\sqrt{2353}\right),\frac{1}{6} \left(1+\sqrt{2353}\right)\right\}$

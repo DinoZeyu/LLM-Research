@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{5} & 8 \\
+ \frac{47}{5} & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{59}{5},\frac{28}{5}\right\}$

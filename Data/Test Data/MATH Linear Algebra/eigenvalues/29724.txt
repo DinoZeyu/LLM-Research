@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{8}{5} \\
+ \frac{14}{5} & -\frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-47-\sqrt{1761}\right),\frac{1}{10} \left(\sqrt{1761}-47\right)\right\}$

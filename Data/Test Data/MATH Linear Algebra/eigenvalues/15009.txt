@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{6}{5} & -\frac{8}{5} \\
+ -9 & -\frac{37}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-31-\sqrt{3289}\right),\frac{1}{10} \left(\sqrt{3289}-31\right)\right\}$

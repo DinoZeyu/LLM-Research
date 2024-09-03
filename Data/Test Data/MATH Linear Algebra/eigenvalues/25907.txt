@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{39}{4} & \frac{11}{2} \\
+ -9 & -\frac{7}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(16-i \sqrt{263}\right),\frac{1}{4} \left(16+i \sqrt{263}\right)\right\}$

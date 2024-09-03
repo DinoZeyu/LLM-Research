@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{4} & -\frac{7}{2} \\
+ -\frac{31}{4} & -\frac{7}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-11-15 \sqrt{2}\right),\frac{1}{4} \left(15 \sqrt{2}-11\right)\right\}$

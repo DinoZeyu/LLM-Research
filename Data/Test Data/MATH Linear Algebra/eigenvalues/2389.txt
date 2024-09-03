@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{9}{5} \\
+ \frac{13}{5} & -\frac{29}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(8-\sqrt{1486}\right),\frac{1}{5} \left(8+\sqrt{1486}\right)\right\}$

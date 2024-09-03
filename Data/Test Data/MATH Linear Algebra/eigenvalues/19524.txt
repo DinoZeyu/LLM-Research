@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{3}{2} & 7 \\
+ -\frac{39}{4} & -\frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-45-i \sqrt{3279}\right),\frac{1}{8} \left(-45+i \sqrt{3279}\right)\right\}$

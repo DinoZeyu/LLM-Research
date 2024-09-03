@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{18}{5} & \frac{24}{5} \\
+ \frac{9}{5} & \frac{3}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(-5-\sqrt{145}\right),\frac{3}{10} \left(\sqrt{145}-5\right)\right\}$

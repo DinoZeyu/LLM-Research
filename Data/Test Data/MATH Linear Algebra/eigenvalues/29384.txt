@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & 8 \\
+ \frac{35}{4} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(13-\sqrt{1201}\right),\frac{1}{4} \left(13+\sqrt{1201}\right)\right\}$

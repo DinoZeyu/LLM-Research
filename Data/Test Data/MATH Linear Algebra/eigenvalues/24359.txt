@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{4} & -\frac{17}{2} \\
+ \frac{25}{4} & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-35-3 i \sqrt{319}\right),\frac{1}{8} \left(-35+3 i \sqrt{319}\right)\right\}$

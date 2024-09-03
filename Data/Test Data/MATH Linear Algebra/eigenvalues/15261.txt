@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{3} & -\frac{17}{3} \\
+ 0 & \frac{19}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{19}{3},\frac{22}{3}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{36}{5} \\
+ -\frac{47}{5} & -\frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(-3-2 i \sqrt{31}\right),\frac{3}{5} \left(-3+2 i \sqrt{31}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & 8 \\
+ 5 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(3-\sqrt{1081}\right),\frac{1}{4} \left(3+\sqrt{1081}\right)\right\}$

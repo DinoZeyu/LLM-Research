@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & 9 \\
+ \frac{15}{2} & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(35-\sqrt{1105}\right),\frac{1}{4} \left(35+\sqrt{1105}\right)\right\}$

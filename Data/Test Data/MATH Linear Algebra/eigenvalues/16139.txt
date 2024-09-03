@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{8}{5} & \frac{46}{5} \\
+ \frac{49}{5} & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{2318}}{5},\frac{\sqrt{2318}}{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{2} & \frac{17}{4} \\
+ -\frac{1}{2} & -\frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-59-i \sqrt{87}\right),\frac{1}{8} \left(-59+i \sqrt{87}\right)\right\}$

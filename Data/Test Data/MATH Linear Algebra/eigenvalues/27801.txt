@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & \frac{3}{5} \\
+ -3 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-25-\sqrt{1045}\right),\frac{1}{10} \left(\sqrt{1045}-25\right)\right\}$

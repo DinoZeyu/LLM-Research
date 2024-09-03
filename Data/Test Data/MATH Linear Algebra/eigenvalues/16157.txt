@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & \frac{35}{4} \\
+ \frac{11}{4} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-14-\sqrt{389}\right),\frac{1}{4} \left(\sqrt{389}-14\right)\right\}$

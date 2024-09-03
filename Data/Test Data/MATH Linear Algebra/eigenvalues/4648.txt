@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{4} & -\frac{3}{4} \\
+ -\frac{1}{4} & \frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(13-\sqrt{579}\right),\frac{1}{4} \left(13+\sqrt{579}\right)\right\}$

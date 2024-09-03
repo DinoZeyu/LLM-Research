@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -\frac{38}{5} \\
+ -\frac{33}{5} & \frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(34-\sqrt{1255}\right),\frac{1}{5} \left(34+\sqrt{1255}\right)\right\}$

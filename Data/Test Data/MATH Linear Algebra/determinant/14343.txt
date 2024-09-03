@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & 3 \\
+ -2 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$7$

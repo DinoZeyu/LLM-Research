@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -5 & \frac{23}{6} & -\frac{23}{6} \\
+ -\frac{7}{2} & -\frac{9}{2} & \frac{4}{3} \\
+ -\frac{13}{6} & \frac{1}{6} & -\frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{5849}{108}$

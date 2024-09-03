@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{36}{5} & \frac{48}{5} \\
+ 3 & -\frac{39}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(-1-3 \sqrt{105}\right),\frac{3}{10} \left(3 \sqrt{105}-1\right)\right\}$

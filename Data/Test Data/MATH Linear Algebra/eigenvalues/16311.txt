@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{5} & \frac{39}{5} \\
+ -\frac{44}{5} & \frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-17-i \sqrt{5183}\right),\frac{1}{10} \left(-17+i \sqrt{5183}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{29}{3} \\
+ \frac{16}{3} & \frac{14}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-1-6 \sqrt{5}\right),\frac{2}{3} \left(6 \sqrt{5}-1\right)\right\}$

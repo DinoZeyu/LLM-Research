@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -1 \\
+ 1 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-\sqrt{15},2+\sqrt{15}\right\}$

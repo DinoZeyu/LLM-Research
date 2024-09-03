@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{20}{3} & 2 & -\frac{23}{3} \\
+ -9 & -4 & -\frac{14}{3} \\
+ 4 & -6 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.933,0.858,4.409\}$

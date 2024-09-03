@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 5 \\
+ -\frac{17}{3} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(9-\sqrt{501}\right),\frac{1}{6} \left(9+\sqrt{501}\right)\right\}$

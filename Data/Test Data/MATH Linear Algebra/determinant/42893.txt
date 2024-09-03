@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{19}{5} & \frac{9}{5} & -\frac{1}{5} \\
+ \frac{43}{10} & \frac{5}{2} & -1 \\
+ -\frac{11}{5} & \frac{19}{5} & -\frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{1578}{125}$

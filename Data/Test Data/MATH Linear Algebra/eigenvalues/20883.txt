@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{3} & \frac{14}{3} \\
+ 1 & -\frac{4}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(15-\sqrt{697}\right),\frac{1}{6} \left(15+\sqrt{697}\right)\right\}$

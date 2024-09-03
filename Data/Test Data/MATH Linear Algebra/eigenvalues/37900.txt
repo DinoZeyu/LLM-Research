@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{8}{5} & -\frac{34}{5} & \frac{7}{5} \\
+ \frac{2}{5} & \frac{33}{5} & \frac{49}{5} \\
+ \frac{48}{5} & \frac{36}{5} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.568,7.284\, -2.016 i,7.284\, +2.016 i\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -1 \\
+ 7 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{29},\sqrt{29}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & -9 \\
+ -\frac{13}{4} & \frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(59-\sqrt{1873}\right),\frac{1}{8} \left(59+\sqrt{1873}\right)\right\}$

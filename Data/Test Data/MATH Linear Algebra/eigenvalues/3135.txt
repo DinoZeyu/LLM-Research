@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{24}{5} & \frac{3}{5} \\
+ -\frac{14}{5} & -\frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-25-i \sqrt{41}\right),\frac{1}{5} \left(-25+i \sqrt{41}\right)\right\}$

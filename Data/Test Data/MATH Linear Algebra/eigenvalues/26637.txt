@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{2}{3} & -5 \\
+ \frac{2}{3} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-19-\sqrt{409}\right),\frac{1}{6} \left(\sqrt{409}-19\right)\right\}$

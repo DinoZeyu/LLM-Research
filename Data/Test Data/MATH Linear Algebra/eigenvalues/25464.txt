@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{21}{5} & \frac{23}{5} \\
+ \frac{8}{5} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-7-22 \sqrt{2}\right),\frac{1}{5} \left(22 \sqrt{2}-7\right)\right\}$

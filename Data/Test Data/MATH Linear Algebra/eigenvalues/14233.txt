@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{5} & -5 \\
+ -\frac{11}{5} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-27-2 \sqrt{111}\right),\frac{1}{5} \left(2 \sqrt{111}-27\right)\right\}$

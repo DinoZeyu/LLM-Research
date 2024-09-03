@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 2 \\
+ 10 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-\sqrt{21},\sqrt{21}-4\right\}$

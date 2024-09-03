@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & 7 \\
+ 8 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{6 \left(1-\sqrt{2}\right),6 \left(1+\sqrt{2}\right)\right\}$

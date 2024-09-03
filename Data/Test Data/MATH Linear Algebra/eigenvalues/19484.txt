@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{3} & -\frac{28}{3} \\
+ 5 & \frac{14}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-5-i \sqrt{591}\right),\frac{1}{6} \left(-5+i \sqrt{591}\right)\right\}$

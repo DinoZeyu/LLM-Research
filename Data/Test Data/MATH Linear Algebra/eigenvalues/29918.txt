@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{19}{2} \\
+ -8 & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-7-\sqrt{1577}\right),\frac{1}{4} \left(\sqrt{1577}-7\right)\right\}$

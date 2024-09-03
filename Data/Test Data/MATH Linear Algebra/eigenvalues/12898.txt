@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{29}{5} \\
+ -\frac{11}{5} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-45-i \sqrt{1051}\right),\frac{1}{10} \left(-45+i \sqrt{1051}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & -1 \\
+ -\frac{3}{2} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{2},5\right\}$

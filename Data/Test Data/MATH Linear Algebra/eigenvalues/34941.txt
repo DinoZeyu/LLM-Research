@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{29}{3} & -10 & \frac{25}{3} \\
+ \frac{5}{3} & \frac{5}{3} & -4 \\
+ 4 & 4 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.985,-0.127,8.112\}$

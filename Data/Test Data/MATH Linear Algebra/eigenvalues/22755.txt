@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -8 \\
+ -7 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\{-14,1\}$

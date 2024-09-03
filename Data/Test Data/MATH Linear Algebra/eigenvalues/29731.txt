@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -10 \\
+ -\frac{15}{2} & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-9-\sqrt{1561}\right),\frac{1}{4} \left(\sqrt{1561}-9\right)\right\}$

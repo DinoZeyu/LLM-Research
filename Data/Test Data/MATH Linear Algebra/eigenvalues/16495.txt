@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{5}{2} & -\frac{15}{2} \\
+ -\frac{13}{2} & \frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(7-\sqrt{199}\right),\frac{1}{2} \left(7+\sqrt{199}\right)\right\}$

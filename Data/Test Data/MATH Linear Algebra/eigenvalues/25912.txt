@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & -\frac{1}{2} \\
+ -\frac{9}{2} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-27-\sqrt{85}\right),\frac{1}{4} \left(\sqrt{85}-27\right)\right\}$

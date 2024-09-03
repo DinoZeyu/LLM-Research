@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & 4 \\
+ -4 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-i \sqrt{15}\right),\frac{1}{2} \left(-3+i \sqrt{15}\right)\right\}$

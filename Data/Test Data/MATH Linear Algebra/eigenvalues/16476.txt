@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{16}{5} & -9 \\
+ \frac{13}{5} & \frac{41}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(57-7 i \sqrt{35}\right),\frac{1}{10} \left(57+7 i \sqrt{35}\right)\right\}$

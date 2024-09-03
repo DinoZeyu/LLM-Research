@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{25}{3} & -\frac{19}{3} \\
+ \frac{17}{3} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-5-\sqrt{1733}\right),\frac{1}{6} \left(\sqrt{1733}-5\right)\right\}$

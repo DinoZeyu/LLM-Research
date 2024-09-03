@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{17}{3} \\
+ \frac{29}{3} & \frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(37-\sqrt{2501}\right),\frac{1}{6} \left(37+\sqrt{2501}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{36}{5} & \frac{44}{5} \\
+ \frac{19}{5} & -\frac{23}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(13-5 \sqrt{273}\right),\frac{1}{10} \left(13+5 \sqrt{273}\right)\right\}$

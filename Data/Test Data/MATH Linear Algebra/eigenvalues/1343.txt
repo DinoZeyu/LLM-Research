@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{2} & \frac{5}{4} \\
+ \frac{1}{4} & -\frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-31-3 \sqrt{21}\right),\frac{1}{8} \left(3 \sqrt{21}-31\right)\right\}$

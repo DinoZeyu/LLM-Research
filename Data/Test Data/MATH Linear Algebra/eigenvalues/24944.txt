@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{3} & 7 \\
+ -6 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(7-\sqrt{1297}\right),\frac{1}{6} \left(7+\sqrt{1297}\right)\right\}$

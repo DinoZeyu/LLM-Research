@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{25}{3} & -\frac{4}{3} \\
+ -1 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{7,\frac{28}{3}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{22}{3} & 5 \\
+ \frac{19}{3} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-\sqrt{2101}\right),\frac{1}{6} \left(\sqrt{2101}-13\right)\right\}$

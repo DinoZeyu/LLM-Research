@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{18}{5} & -7 \\
+ -\frac{8}{5} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(23-\sqrt{1289}\right),\frac{1}{10} \left(23+\sqrt{1289}\right)\right\}$

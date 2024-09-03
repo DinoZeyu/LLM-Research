@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{4} & -\frac{35}{4} \\
+ -\frac{29}{4} & \frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(61-\sqrt{4109}\right),\frac{1}{8} \left(61+\sqrt{4109}\right)\right\}$

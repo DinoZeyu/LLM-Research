@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & \frac{13}{3} \\
+ \frac{28}{3} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-21-\sqrt{1897}\right),\frac{1}{6} \left(\sqrt{1897}-21\right)\right\}$

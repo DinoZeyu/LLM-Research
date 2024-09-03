@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{3} & -2 \\
+ 0 & \frac{19}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{14}{3},\frac{19}{3}\right\}$

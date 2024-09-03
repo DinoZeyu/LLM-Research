@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{1}{4} \\
+ -2 & \frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(11-\sqrt{2633}\right),\frac{1}{8} \left(11+\sqrt{2633}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{38}{5} & -\frac{39}{5} \\
+ -\frac{7}{5} & -\frac{41}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-79-\sqrt{1101}\right),\frac{1}{10} \left(\sqrt{1101}-79\right)\right\}$

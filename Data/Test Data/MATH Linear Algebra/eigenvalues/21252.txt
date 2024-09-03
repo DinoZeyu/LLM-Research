@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -9 \\
+ -10 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-\sqrt{91},\sqrt{91}-2\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{5} & \frac{17}{5} \\
+ \frac{22}{5} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-6-\sqrt{1335}\right),\frac{1}{5} \left(\sqrt{1335}-6\right)\right\}$

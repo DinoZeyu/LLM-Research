@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ 3 & \frac{1}{2} & -\frac{10}{3} \\
+ -\frac{5}{6} & -\frac{4}{3} & 4 \\
+ -\frac{5}{2} & \frac{7}{3} & -\frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{619}{216}$

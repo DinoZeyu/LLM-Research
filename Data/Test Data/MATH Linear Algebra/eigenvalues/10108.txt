@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{3} & 1 \\
+ -5 & -\frac{2}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-31-3 \sqrt{61}\right),\frac{1}{6} \left(3 \sqrt{61}-31\right)\right\}$

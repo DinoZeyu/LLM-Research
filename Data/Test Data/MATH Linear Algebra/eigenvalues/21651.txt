@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{33}{4} & -\frac{9}{2} \\
+ -\frac{15}{4} & -\frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-31-\sqrt{274}\right),\frac{1}{4} \left(\sqrt{274}-31\right)\right\}$

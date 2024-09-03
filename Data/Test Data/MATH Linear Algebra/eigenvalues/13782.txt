@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{18}{5} & \frac{19}{5} \\
+ 8 & \frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(11-\sqrt{194}\right),\frac{2}{5} \left(11+\sqrt{194}\right)\right\}$

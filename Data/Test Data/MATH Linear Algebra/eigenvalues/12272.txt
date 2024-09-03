@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & -3 \\
+ -9 & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{3 \sqrt{37}}{2},\frac{3 \sqrt{37}}{2}\right\}$

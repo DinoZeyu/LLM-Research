@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -\frac{22}{5} \\
+ \frac{8}{5} & \frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(3-\sqrt{6185}\right),\frac{1}{10} \left(3+\sqrt{6185}\right)\right\}$

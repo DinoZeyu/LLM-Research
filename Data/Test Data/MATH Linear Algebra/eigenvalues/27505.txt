@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{4} & -\frac{19}{4} \\
+ -8 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(53-3 \sqrt{273}\right),\frac{1}{8} \left(53+3 \sqrt{273}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{27}{4} \\
+ -4 & -\frac{25}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(11-\sqrt{1993}\right),\frac{1}{8} \left(11+\sqrt{1993}\right)\right\}$

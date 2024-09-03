@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{4} & \frac{15}{2} \\
+ -1 & -\frac{3}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{111}}{4},\frac{i \sqrt{111}}{4}\right\}$

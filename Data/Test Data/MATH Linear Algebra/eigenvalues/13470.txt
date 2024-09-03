@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & \frac{43}{5} \\
+ \frac{19}{5} & -\frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-29-\sqrt{3629}\right),\frac{1}{10} \left(\sqrt{3629}-29\right)\right\}$

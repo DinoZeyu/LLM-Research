@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{43}{5} & -\frac{6}{5} \\
+ 9 & \frac{41}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(42-i \sqrt{269}\right),\frac{1}{5} \left(42+i \sqrt{269}\right)\right\}$

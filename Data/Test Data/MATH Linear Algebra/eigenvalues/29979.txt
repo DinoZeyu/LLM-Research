@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 9 \\
+ \frac{20}{3} & -\frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{4}{-47-\sqrt{2185}},\frac{1}{6} \left(-47-\sqrt{2185}\right)\right\}$

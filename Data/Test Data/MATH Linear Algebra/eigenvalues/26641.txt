@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -\frac{17}{4} \\
+ \frac{21}{4} & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(4-\sqrt{939}\right),\frac{1}{4} \left(4+\sqrt{939}\right)\right\}$

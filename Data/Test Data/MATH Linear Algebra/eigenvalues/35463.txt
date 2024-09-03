@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -10 & 0 & -\frac{7}{2} \\
+ \frac{5}{4} & -\frac{37}{4} & \frac{13}{4} \\
+ \frac{1}{2} & -5 & \frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.12-0.755 i,-9.12+0.755 i,7.24\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -5 & -\frac{5}{2} & -\frac{19}{4} \\
+ -\frac{5}{4} & \frac{29}{4} & 4 \\
+ \frac{5}{4} & -\frac{5}{2} & -\frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.355-1.705 i,-6.355+1.705 i,6.711\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{7}{5} & -7 & -\frac{37}{5} \\
+ 8 & -\frac{9}{5} & \frac{18}{5} \\
+ -8 & -\frac{23}{5} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\{-4.967-7.622 i,-4.967+7.622 i,6.733\}$

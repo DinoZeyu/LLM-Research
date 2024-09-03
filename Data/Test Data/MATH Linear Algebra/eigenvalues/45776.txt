@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{41}{5} & -3 & -7 \\
+ -6 & -8 & \frac{26}{5} \\
+ \frac{11}{5} & \frac{1}{5} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.181,4.374,6.008\}$

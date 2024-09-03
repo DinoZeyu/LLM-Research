@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{2} & \frac{19}{2} \\
+ -\frac{11}{4} & \frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(51-i \sqrt{1623}\right),\frac{1}{8} \left(51+i \sqrt{1623}\right)\right\}$

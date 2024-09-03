@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & \frac{29}{4} \\
+ 0 & \frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3,\frac{9}{4}\right\}$

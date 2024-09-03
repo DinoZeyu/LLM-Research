@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{6}{5} & -\frac{42}{5} \\
+ \frac{34}{5} & -\frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-17-i \sqrt{1307}\right),\frac{1}{5} \left(-17+i \sqrt{1307}\right)\right\}$

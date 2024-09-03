@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{2} & -6 \\
+ \frac{17}{2} & \frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(2-i \sqrt{155}\right),\frac{1}{2} \left(2+i \sqrt{155}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -\frac{23}{3} \\
+ -\frac{25}{3} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-9-\sqrt{3389}\right),\frac{1}{6} \left(\sqrt{3389}-9\right)\right\}$

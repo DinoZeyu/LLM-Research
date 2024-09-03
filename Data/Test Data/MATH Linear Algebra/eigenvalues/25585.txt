@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & -\frac{37}{4} \\
+ -\frac{9}{2} & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-20-\sqrt{766}\right),\frac{1}{4} \left(\sqrt{766}-20\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -\frac{36}{5} \\
+ \frac{18}{5} & \frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-31-\sqrt{889}\right),\frac{1}{10} \left(\sqrt{889}-31\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{5}{4} \\
+ -\frac{35}{4} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-18-\sqrt{211}\right),\frac{1}{4} \left(\sqrt{211}-18\right)\right\}$

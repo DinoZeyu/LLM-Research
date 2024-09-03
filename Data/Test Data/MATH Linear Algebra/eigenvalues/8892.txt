@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -10 & \frac{21}{5} & -\frac{44}{5} \\
+ -\frac{3}{5} & -\frac{41}{5} & -\frac{22}{5} \\
+ -\frac{24}{5} & \frac{43}{5} & -\frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.155-3.117 i,-10.155+3.117 i,-2.691\}$

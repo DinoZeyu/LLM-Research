@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & -\frac{7}{4} \\
+ -\frac{9}{2} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(23-\sqrt{247}\right),\frac{1}{4} \left(23+\sqrt{247}\right)\right\}$

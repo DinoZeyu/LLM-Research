@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{25}{3} \\
+ -10 & \frac{19}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(37-i \sqrt{2999}\right),\frac{1}{6} \left(37+i \sqrt{2999}\right)\right\}$

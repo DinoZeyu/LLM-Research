@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -\frac{7}{2} \\
+ -3 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-\sqrt{91}\right),\frac{1}{2} \left(\sqrt{91}-11\right)\right\}$

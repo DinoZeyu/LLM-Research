@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{49}{5} & 3 \\
+ 6 & -\frac{39}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-44-5 \sqrt{19}\right),\frac{1}{5} \left(5 \sqrt{19}-44\right)\right\}$

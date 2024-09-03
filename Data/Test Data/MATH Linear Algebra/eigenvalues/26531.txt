@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{2}{3} \\
+ -\frac{8}{3} & \frac{2}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-\sqrt{353}\right),\frac{1}{6} \left(\sqrt{353}-13\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -\frac{13}{2} \\
+ 1 & -\frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-23-i \sqrt{23}\right),\frac{1}{4} \left(-23+i \sqrt{23}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & \frac{8}{5} \\
+ -\frac{18}{5} & -\frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-19-i \sqrt{215}\right),\frac{1}{10} \left(-19+i \sqrt{215}\right)\right\}$

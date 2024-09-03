@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 6 \\
+ -1 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-\sqrt{30},3+\sqrt{30}\right\}$

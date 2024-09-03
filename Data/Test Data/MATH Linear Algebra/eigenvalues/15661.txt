@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{32}{5} & -\frac{47}{5} \\
+ -\frac{14}{5} & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-38-\sqrt{694}\right),\frac{1}{5} \left(\sqrt{694}-38\right)\right\}$

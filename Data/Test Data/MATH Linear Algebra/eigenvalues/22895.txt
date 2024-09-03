@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -8 \\
+ -1 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2 \left(-1-\sqrt{3}\right),2 \left(\sqrt{3}-1\right)\right\}$

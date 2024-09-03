@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{2} & \frac{1}{2} \\
+ \frac{25}{4} & -\frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-31-\sqrt{929}\right),\frac{1}{8} \left(\sqrt{929}-31\right)\right\}$

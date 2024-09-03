@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & 9 \\
+ -4 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-i \sqrt{35},3+i \sqrt{35}\right\}$

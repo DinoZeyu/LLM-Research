@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & \frac{14}{5} \\
+ \frac{1}{5} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(35-\sqrt{14}\right),\frac{1}{5} \left(35+\sqrt{14}\right)\right\}$

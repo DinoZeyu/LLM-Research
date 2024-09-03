@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -2 \\
+ 1 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-i \sqrt{2},-4+i \sqrt{2}\right\}$

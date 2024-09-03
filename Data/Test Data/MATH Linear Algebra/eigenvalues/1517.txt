@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{6}{5} \\
+ -\frac{19}{5} & -\frac{37}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-57-\sqrt{745}\right),\frac{1}{10} \left(\sqrt{745}-57\right)\right\}$

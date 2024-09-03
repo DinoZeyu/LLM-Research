@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{4} & 0 \\
+ \frac{9}{2} & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{11}{4},\frac{19}{4}\right\}$

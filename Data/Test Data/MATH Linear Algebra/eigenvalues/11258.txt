@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -\frac{13}{2} \\
+ \frac{9}{4} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{\frac{395}{2}}}{2},\frac{\sqrt{\frac{395}{2}}}{2}\right\}$

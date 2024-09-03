@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{1}{2} & -\frac{25}{4} & \frac{39}{4} \\
+ -10 & -3 & \frac{17}{4} \\
+ -6 & -\frac{19}{4} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.856-5.875 i,-2.856+5.875 i,6.212\}$

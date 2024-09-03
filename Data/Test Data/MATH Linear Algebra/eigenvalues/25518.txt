@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & \frac{6}{5} \\
+ -\frac{22}{5} & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(1-2 \sqrt{82}\right),\frac{2}{5} \left(1+2 \sqrt{82}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -5 \\
+ 2 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\{4-3 i,4+3 i\}$

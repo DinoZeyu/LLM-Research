@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -6 \\
+ -9 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-\sqrt{337}\right),\frac{1}{2} \left(\sqrt{337}-3\right)\right\}$

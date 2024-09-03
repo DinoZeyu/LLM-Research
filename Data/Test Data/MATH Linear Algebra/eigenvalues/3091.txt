@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 5 \\
+ -2 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-\sqrt{26},3+\sqrt{26}\right\}$

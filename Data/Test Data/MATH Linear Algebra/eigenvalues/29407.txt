@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{49}{5} & 4 \\
+ \frac{27}{5} & \frac{32}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(81-\sqrt{2449}\right),\frac{1}{10} \left(81+\sqrt{2449}\right)\right\}$

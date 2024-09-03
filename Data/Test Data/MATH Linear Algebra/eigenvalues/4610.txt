@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & -\frac{13}{4} \\
+ \frac{29}{4} & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-4-\sqrt{779}\right),\frac{1}{4} \left(\sqrt{779}-4\right)\right\}$

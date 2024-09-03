@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{6}{5} \\
+ 9 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-20-\sqrt{670}\right),\frac{1}{5} \left(\sqrt{670}-20\right)\right\}$

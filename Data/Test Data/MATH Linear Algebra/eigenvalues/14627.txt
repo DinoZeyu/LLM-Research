@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & 6 \\
+ -7 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-\sqrt{57}\right),\frac{1}{2} \left(\sqrt{57}-3\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{43}{5} & \frac{1}{5} \\
+ 9 & \frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{1894}}{5},\frac{\sqrt{1894}}{5}\right\}$

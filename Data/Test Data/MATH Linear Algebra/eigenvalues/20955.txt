@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & 2 \\
+ 4 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-\sqrt{17},\sqrt{17}-1\right\}$

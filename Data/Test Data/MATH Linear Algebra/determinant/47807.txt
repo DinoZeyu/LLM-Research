@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -3 & -\frac{11}{10} & -\frac{6}{5} \\
+ \frac{12}{5} & \frac{17}{10} & -\frac{7}{2} \\
+ \frac{5}{2} & -\frac{41}{10} & -\frac{21}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{74749}{1000}$

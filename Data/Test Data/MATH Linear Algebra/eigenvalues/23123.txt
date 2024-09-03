@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{2} & -\frac{29}{4} \\
+ 8 & -\frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-41-i \sqrt{3271}\right),\frac{1}{8} \left(-41+i \sqrt{3271}\right)\right\}$

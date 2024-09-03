@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -\frac{5}{4} \\
+ 6 & -\frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(13-\sqrt{2121}\right),\frac{1}{8} \left(13+\sqrt{2121}\right)\right\}$

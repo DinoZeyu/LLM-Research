@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{6}{5} & -\frac{37}{5} & -\frac{14}{5} \\
+ \frac{24}{5} & -\frac{39}{5} & \frac{12}{5} \\
+ -2 & 7 & -\frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.09,-2.155-3.683 i,-2.155+3.683 i\}$

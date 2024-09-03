@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{17}{5} \\
+ -\frac{47}{5} & \frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{4}{5} \left(1-\sqrt{145}\right),\frac{4}{5} \left(1+\sqrt{145}\right)\right\}$

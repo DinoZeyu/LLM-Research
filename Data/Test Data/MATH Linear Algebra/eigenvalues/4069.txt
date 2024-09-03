@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{42}{5} & -\frac{42}{5} \\
+ -2 & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-10-\sqrt{226}\right),\frac{2}{5} \left(\sqrt{226}-10\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{3} & 7 \\
+ \frac{28}{3} & \frac{2}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(21-\sqrt{2641}\right),\frac{1}{6} \left(21+\sqrt{2641}\right)\right\}$

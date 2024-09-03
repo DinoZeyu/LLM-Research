@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & -6 \\
+ -2 & \frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(29-\sqrt{769}\right),\frac{1}{8} \left(29+\sqrt{769}\right)\right\}$

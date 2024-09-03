@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{5} & 0 \\
+ \frac{37}{5} & -\frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{39}{5},-\frac{28}{5}\right\}$

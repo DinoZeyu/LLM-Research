@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{4} & 10 \\
+ -\frac{21}{4} & \frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(27-2 i \sqrt{194}\right),\frac{1}{4} \left(27+2 i \sqrt{194}\right)\right\}$

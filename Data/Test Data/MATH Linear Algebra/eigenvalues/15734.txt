@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{43}{5} & 8 \\
+ \frac{7}{5} & -\frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-31-2 \sqrt{106}\right),\frac{1}{5} \left(2 \sqrt{106}-31\right)\right\}$

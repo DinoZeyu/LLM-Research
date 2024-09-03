@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & -\frac{3}{2} \\
+ \frac{17}{2} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-23-\sqrt{21}\right),\frac{1}{4} \left(\sqrt{21}-23\right)\right\}$

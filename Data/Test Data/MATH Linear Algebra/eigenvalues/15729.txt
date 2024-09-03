@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{4} & 7 \\
+ 10 & -\frac{21}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-24-\sqrt{1129}\right),\frac{1}{4} \left(\sqrt{1129}-24\right)\right\}$

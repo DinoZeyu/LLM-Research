@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 0 \\
+ 4 & -\frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{48}{5},4\right\}$

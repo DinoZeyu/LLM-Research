@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{11}{2} \\
+ 1 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-9-\sqrt{103}\right),\frac{1}{2} \left(\sqrt{103}-9\right)\right\}$

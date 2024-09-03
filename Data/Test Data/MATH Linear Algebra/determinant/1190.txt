@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{19}{10} & -\frac{9}{10} & -\frac{13}{10} \\
+ \frac{18}{5} & \frac{39}{10} & -\frac{29}{10} \\
+ -\frac{23}{10} & 3 & -\frac{11}{10} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{43647}{1000}$

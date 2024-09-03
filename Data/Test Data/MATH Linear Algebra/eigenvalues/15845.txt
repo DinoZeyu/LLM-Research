@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & 8 \\
+ -9 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-9-i \sqrt{71},-9+i \sqrt{71}\right\}$

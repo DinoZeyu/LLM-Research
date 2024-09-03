@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{24}{5} & -\frac{7}{5} \\
+ 6 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(39-i \sqrt{759}\right),\frac{1}{10} \left(39+i \sqrt{759}\right)\right\}$

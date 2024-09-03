@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 4 \\
+ 2 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-2 \sqrt{3},2 \sqrt{3}-3\right\}$

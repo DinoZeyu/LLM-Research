@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & \frac{47}{5} \\
+ -\frac{49}{5} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-35-i \sqrt{8987}\right),\frac{1}{10} \left(-35+i \sqrt{8987}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 8 \\
+ 2 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-9-\sqrt{89}\right),\frac{1}{2} \left(\sqrt{89}-9\right)\right\}$

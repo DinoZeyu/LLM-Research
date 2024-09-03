@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{35}{4} \\
+ \frac{9}{2} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-7-\sqrt{1591}\right),\frac{1}{4} \left(\sqrt{1591}-7\right)\right\}$

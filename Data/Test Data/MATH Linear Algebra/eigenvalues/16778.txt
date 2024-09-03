@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{4} & -3 \\
+ -\frac{5}{4} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-11-\sqrt{4729}\right),\frac{1}{8} \left(\sqrt{4729}-11\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{39}{4} \\
+ -\frac{3}{2} & \frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(47-\sqrt{1465}\right),\frac{1}{8} \left(47+\sqrt{1465}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{4} & \frac{37}{4} \\
+ \frac{15}{4} & \frac{7}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(9-\sqrt{559}\right),\frac{1}{4} \left(9+\sqrt{559}\right)\right\}$

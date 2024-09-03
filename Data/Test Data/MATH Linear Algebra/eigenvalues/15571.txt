@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & 10 \\
+ 6 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2 \left(-2-\sqrt{15}\right),2 \left(\sqrt{15}-2\right)\right\}$

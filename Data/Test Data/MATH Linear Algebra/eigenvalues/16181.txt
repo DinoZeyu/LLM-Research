@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 10 \\
+ -3 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-i \sqrt{29},-4+i \sqrt{29}\right\}$

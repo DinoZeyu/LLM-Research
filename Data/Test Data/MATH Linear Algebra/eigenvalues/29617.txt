@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{2} & -\frac{17}{2} \\
+ 8 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-7-i \sqrt{1079}\right),\frac{1}{4} \left(-7+i \sqrt{1079}\right)\right\}$

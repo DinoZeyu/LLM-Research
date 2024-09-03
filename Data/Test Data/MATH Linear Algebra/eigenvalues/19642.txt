@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -\frac{1}{2} \\
+ -\frac{31}{4} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{3 \sqrt{\frac{7}{2}}}{2},\frac{3 \sqrt{\frac{7}{2}}}{2}\right\}$

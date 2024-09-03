@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & -\frac{15}{2} \\
+ -8 & \frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{23}{2},\frac{23}{2}\right\}$

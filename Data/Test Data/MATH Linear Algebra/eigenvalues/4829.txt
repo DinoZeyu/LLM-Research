@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{37}{5} & -2 \\
+ -5 & \frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(65-\sqrt{1081}\right),\frac{1}{10} \left(65+\sqrt{1081}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & 4 \\
+ -6 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-i \sqrt{23},2+i \sqrt{23}\right\}$

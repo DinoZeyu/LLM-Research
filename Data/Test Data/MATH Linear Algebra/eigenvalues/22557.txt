@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{14}{3} & 4 \\
+ 9 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(5-\sqrt{85}\right),\frac{2}{3} \left(5+\sqrt{85}\right)\right\}$

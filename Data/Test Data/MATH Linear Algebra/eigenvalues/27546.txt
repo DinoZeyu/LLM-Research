@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{4} & -\frac{23}{4} \\
+ \frac{37}{4} & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-2-i \sqrt{770}\right),\frac{1}{4} \left(-2+i \sqrt{770}\right)\right\}$

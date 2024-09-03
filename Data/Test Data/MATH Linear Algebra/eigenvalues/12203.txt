@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 4 \\
+ -4 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-\sqrt{33},\sqrt{33}-3\right\}$

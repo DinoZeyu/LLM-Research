@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{4}{5} & \frac{43}{5} \\
+ \frac{4}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-41-\sqrt{3089}\right),\frac{1}{10} \left(\sqrt{3089}-41\right)\right\}$

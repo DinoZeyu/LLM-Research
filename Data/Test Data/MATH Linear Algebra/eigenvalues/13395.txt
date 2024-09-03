@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{28}{3} & -\frac{25}{3} \\
+ 9 & -\frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(21-5 i \sqrt{59}\right),\frac{1}{6} \left(21+5 i \sqrt{59}\right)\right\}$

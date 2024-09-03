@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{3} & -9 \\
+ 9 & \frac{20}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(13-27 i \sqrt{3}\right),\frac{1}{6} \left(13+27 i \sqrt{3}\right)\right\}$

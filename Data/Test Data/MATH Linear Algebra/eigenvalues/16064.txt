@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{26}{5} & -\frac{48}{5} \\
+ \frac{13}{5} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-14-i \sqrt{155}\right),\frac{2}{5} \left(-14+i \sqrt{155}\right)\right\}$

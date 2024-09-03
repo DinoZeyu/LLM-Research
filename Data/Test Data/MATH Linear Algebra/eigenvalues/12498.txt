@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{28}{5} \\
+ 10 & \frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-41-3 \sqrt{889}\right),\frac{1}{10} \left(3 \sqrt{889}-41\right)\right\}$

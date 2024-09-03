@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{2} & -\frac{33}{4} \\
+ \frac{15}{4} & \frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(20-3 i \sqrt{51}\right),\frac{1}{4} \left(20+3 i \sqrt{51}\right)\right\}$

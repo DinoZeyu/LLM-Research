@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{24}{5} & -\frac{21}{5} \\
+ -\frac{31}{5} & \frac{13}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(37-5 \sqrt{109}\right),\frac{1}{10} \left(37+5 \sqrt{109}\right)\right\}$

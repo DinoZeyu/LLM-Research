@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -2 & \frac{13}{10} & -\frac{13}{10} \\
+ -\frac{43}{10} & -\frac{7}{2} & -\frac{41}{10} \\
+ -\frac{16}{5} & -\frac{21}{5} & -\frac{9}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{31247}{1000}$

@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{21}{5} & 0 & 5 \\
+ 1 & -4 & \frac{13}{5} \\
+ \frac{16}{5} & 1 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\frac{3678}{25}$

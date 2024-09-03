@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & 9 \\
+ -7 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-i \sqrt{47},3+i \sqrt{47}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{35}{4} & -\frac{1}{2} \\
+ -\frac{11}{4} & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-53-\sqrt{377}\right),\frac{1}{8} \left(\sqrt{377}-53\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{39}{5} \\
+ \frac{3}{5} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-30-i \sqrt{17}\right),\frac{1}{5} \left(-30+i \sqrt{17}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{39}{5} \\
+ -\frac{46}{5} & \frac{38}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(43-\sqrt{8265}\right),\frac{1}{10} \left(43+\sqrt{8265}\right)\right\}$

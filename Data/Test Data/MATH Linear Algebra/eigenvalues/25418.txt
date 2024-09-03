@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -5 \\
+ -4 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-2 \sqrt{14},3+2 \sqrt{14}\right\}$

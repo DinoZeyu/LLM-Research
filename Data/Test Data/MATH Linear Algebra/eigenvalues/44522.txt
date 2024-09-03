@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 3 & -3 & -\frac{14}{3} \\
+ -\frac{11}{3} & \frac{14}{3} & -\frac{23}{3} \\
+ 5 & \frac{20}{3} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\{5.119\, -7.377 i,5.119\, +7.377 i,6.428\}$

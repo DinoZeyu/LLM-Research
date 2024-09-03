@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{11}{2} \\
+ 6 & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(1-\sqrt{1897}\right),\frac{1}{4} \left(1+\sqrt{1897}\right)\right\}$

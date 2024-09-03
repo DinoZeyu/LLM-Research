@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{5} & \frac{28}{5} \\
+ -\frac{4}{5} & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-4-\sqrt{57}\right),\frac{1}{5} \left(\sqrt{57}-4\right)\right\}$

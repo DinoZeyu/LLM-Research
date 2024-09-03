@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & \frac{5}{2} \\
+ \frac{9}{2} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-15-\sqrt{709}\right),\frac{1}{4} \left(\sqrt{709}-15\right)\right\}$

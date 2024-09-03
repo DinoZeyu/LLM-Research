@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & -8 \\
+ 7 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{11}{4} \left(-1-i \sqrt{7}\right),\frac{11}{4} \left(-1+i \sqrt{7}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{5} & \frac{31}{5} \\
+ 0 & -\frac{41}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{41}{5},\frac{3}{5}\right\}$

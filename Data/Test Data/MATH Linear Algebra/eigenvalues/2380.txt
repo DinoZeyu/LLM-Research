@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & \frac{1}{2} \\
+ 7 & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(5-\sqrt{65}\right),\frac{3}{4} \left(5+\sqrt{65}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{4} & -\frac{9}{4} \\
+ \frac{39}{4} & -\frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-14-\sqrt{274}\right),\frac{1}{4} \left(\sqrt{274}-14\right)\right\}$

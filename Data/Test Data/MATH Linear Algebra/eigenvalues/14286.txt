@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -3 \\
+ -\frac{35}{4} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(4-\sqrt{109}\right),\frac{1}{2} \left(4+\sqrt{109}\right)\right\}$

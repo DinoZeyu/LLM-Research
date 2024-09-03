@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{11}{4} \\
+ -\frac{39}{4} & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(1-\sqrt{430}\right),\frac{1}{4} \left(1+\sqrt{430}\right)\right\}$

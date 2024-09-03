@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{5} & -\frac{26}{5} \\
+ -\frac{2}{5} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(19-\sqrt{649}\right),\frac{1}{10} \left(19+\sqrt{649}\right)\right\}$

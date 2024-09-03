@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{4} & 4 \\
+ -1 & \frac{17}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-10-\sqrt{665}\right),\frac{1}{4} \left(\sqrt{665}-10\right)\right\}$

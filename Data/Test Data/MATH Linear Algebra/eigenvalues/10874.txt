@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{4} & \frac{39}{4} \\
+ \frac{1}{4} & -\frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-21-\sqrt{139}\right),\frac{1}{4} \left(\sqrt{139}-21\right)\right\}$

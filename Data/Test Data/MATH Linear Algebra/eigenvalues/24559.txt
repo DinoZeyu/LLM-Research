@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -9 \\
+ -6 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3 \left(-1-\sqrt{7}\right),3 \left(\sqrt{7}-1\right)\right\}$

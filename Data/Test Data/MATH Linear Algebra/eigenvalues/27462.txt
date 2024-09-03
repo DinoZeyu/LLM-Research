@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 10 \\
+ 5 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-8-\sqrt{51},\sqrt{51}-8\right\}$

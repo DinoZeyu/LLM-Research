@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{44}{5} & \frac{23}{5} \\
+ \frac{23}{5} & \frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-27-\sqrt{5837}\right),\frac{1}{10} \left(\sqrt{5837}-27\right)\right\}$

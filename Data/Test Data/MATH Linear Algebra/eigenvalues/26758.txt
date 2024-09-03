@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{5} & -4 \\
+ -3 & -\frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-20-\sqrt{829}\right),\frac{1}{5} \left(\sqrt{829}-20\right)\right\}$

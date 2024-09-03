@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{2} & -3 \\
+ -2 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-27-\sqrt{265}\right),\frac{1}{4} \left(\sqrt{265}-27\right)\right\}$

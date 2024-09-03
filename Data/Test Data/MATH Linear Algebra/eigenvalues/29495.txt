@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{2} & -\frac{19}{4} \\
+ -\frac{33}{4} & -\frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-37-\sqrt{3597}\right),\frac{1}{8} \left(\sqrt{3597}-37\right)\right\}$

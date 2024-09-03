@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 6 \\
+ 10 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-8-\sqrt{61},\sqrt{61}-8\right\}$

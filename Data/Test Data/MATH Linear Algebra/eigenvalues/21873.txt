@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & 10 \\
+ -\frac{15}{2} & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{4} \left(5-i \sqrt{39}\right),\frac{5}{4} \left(5+i \sqrt{39}\right)\right\}$

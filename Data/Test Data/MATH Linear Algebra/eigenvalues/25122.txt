@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{5} & -8 \\
+ 6 & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-29-i \sqrt{3711}\right),\frac{1}{10} \left(-29+i \sqrt{3711}\right)\right\}$

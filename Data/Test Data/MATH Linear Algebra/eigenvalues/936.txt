@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{27}{5} \\
+ -\frac{28}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{3 \sqrt{141}}{5},\frac{3 \sqrt{141}}{5}\right\}$

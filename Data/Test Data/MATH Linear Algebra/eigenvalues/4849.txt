@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 10 \\
+ 10 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{149},\sqrt{149}\right\}$

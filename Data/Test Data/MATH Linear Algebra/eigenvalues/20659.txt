@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{16}{5} & -\frac{49}{5} \\
+ -\frac{44}{5} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-11-7 \sqrt{185}\right),\frac{1}{10} \left(7 \sqrt{185}-11\right)\right\}$

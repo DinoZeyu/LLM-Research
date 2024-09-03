@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 3 \\
+ 0 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\{8,9\}$

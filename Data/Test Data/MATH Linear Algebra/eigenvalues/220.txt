@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{4} & -\frac{11}{4} \\
+ -6 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-39-\sqrt{1585}\right),\frac{1}{8} \left(\sqrt{1585}-39\right)\right\}$

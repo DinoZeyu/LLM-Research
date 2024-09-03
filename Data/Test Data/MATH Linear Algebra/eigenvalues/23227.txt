@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{32}{5} & \frac{22}{5} \\
+ -\frac{44}{5} & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-10-i \sqrt{206}\right),\frac{2}{5} \left(-10+i \sqrt{206}\right)\right\}$

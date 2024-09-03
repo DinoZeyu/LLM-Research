@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{5} & -\frac{38}{5} \\
+ -2 & -\frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-22-\sqrt{501}\right),\frac{1}{5} \left(\sqrt{501}-22\right)\right\}$

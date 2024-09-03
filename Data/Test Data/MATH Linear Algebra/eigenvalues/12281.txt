@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & \frac{32}{5} \\
+ -\frac{46}{5} & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-11-7 i \sqrt{103}\right),\frac{1}{10} \left(-11+7 i \sqrt{103}\right)\right\}$

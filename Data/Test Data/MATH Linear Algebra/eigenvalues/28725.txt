@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{2} & 5 \\
+ \frac{19}{2} & \frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-1-\sqrt{290}\right),\frac{1}{2} \left(\sqrt{290}-1\right)\right\}$

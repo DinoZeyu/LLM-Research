@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -\frac{17}{2} \\
+ -5 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-14-\sqrt{186}\right),\frac{1}{2} \left(\sqrt{186}-14\right)\right\}$

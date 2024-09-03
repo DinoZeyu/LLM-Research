@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{17}{2} \\
+ \frac{5}{2} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(13-i \sqrt{259}\right),\frac{1}{4} \left(13+i \sqrt{259}\right)\right\}$

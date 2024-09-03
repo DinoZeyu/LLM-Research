@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{43}{5} & \frac{14}{5} & \frac{43}{5} \\
+ -7 & -7 & 4 \\
+ 0 & 10 & \frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.836,10.118\, -5.49 i,10.118\, +5.49 i\}$

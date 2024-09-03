@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -2 \\
+ 2 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-\sqrt{5},3+\sqrt{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 4 \\
+ 7 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(1-\sqrt{337}\right),\frac{1}{2} \left(1+\sqrt{337}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -9 \\
+ 1 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-i \sqrt{5},5+i \sqrt{5}\right\}$

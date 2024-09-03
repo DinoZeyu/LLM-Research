@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & \frac{10}{3} \\
+ -\frac{19}{3} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-15-i \sqrt{751}\right),\frac{1}{6} \left(-15+i \sqrt{751}\right)\right\}$

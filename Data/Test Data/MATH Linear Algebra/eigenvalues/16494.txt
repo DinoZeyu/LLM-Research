@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -10 \\
+ -1 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-\sqrt{41}\right),\frac{1}{2} \left(\sqrt{41}-3\right)\right\}$

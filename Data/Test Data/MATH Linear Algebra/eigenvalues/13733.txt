@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & \frac{13}{2} \\
+ -4 & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(11-2 i \sqrt{17}\right),\frac{1}{2} \left(11+2 i \sqrt{17}\right)\right\}$

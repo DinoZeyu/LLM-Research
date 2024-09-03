@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{5} & \frac{32}{5} \\
+ \frac{23}{5} & -\frac{38}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-11-\sqrt{7169}\right),\frac{1}{10} \left(\sqrt{7169}-11\right)\right\}$

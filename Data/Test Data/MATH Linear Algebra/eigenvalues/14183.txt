@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{4} & -5 \\
+ -\frac{17}{2} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-9-\sqrt{2721}\right),\frac{1}{8} \left(\sqrt{2721}-9\right)\right\}$

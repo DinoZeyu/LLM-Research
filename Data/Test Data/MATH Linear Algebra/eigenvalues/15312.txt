@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{18}{5} & \frac{36}{5} \\
+ \frac{8}{5} & \frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(-1-\sqrt{57}\right),\frac{3}{5} \left(\sqrt{57}-1\right)\right\}$

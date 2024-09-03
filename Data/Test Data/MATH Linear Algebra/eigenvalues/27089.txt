@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{5} & -\frac{11}{5} \\
+ \frac{47}{5} & \frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(5-2 i \sqrt{13}\right),\frac{3}{5} \left(5+2 i \sqrt{13}\right)\right\}$

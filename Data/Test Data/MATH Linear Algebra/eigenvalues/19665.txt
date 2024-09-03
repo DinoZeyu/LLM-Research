@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & \frac{23}{4} \\
+ \frac{31}{4} & -\frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-59-\sqrt{3293}\right),\frac{1}{8} \left(\sqrt{3293}-59\right)\right\}$

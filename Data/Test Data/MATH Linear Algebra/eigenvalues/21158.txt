@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{4} & -7 \\
+ -8 & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{8} \left(-5-\sqrt{177}\right),\frac{5}{8} \left(\sqrt{177}-5\right)\right\}$

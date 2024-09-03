@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -9 \\
+ 0 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\{-1,2\}$

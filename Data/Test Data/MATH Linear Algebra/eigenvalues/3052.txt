@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -\frac{15}{2} \\
+ -1 & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5,\frac{21}{2}\right\}$

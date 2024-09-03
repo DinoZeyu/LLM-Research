@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{5} & \frac{3}{5} \\
+ -\frac{2}{5} & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-33-\sqrt{3001}\right),\frac{1}{10} \left(\sqrt{3001}-33\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -\frac{7}{3} \\
+ \frac{19}{3} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(15-\sqrt{197}\right),\frac{1}{6} \left(15+\sqrt{197}\right)\right\}$

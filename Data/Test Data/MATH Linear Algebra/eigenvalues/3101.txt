@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{3} & 7 \\
+ -10 & -\frac{4}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-23-3 i \sqrt{255}\right),\frac{1}{6} \left(-23+3 i \sqrt{255}\right)\right\}$

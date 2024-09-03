@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & \frac{38}{5} \\
+ \frac{26}{5} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(15-4 \sqrt{118}\right),\frac{1}{5} \left(15+4 \sqrt{118}\right)\right\}$

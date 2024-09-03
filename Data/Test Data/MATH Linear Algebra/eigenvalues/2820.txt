@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -8 \\
+ 4 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-13-i \sqrt{103}\right),\frac{1}{2} \left(-13+i \sqrt{103}\right)\right\}$

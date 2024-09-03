@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -\frac{2}{5} \\
+ -7 & \frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-19-\sqrt{5321}\right),\frac{1}{10} \left(\sqrt{5321}-19\right)\right\}$

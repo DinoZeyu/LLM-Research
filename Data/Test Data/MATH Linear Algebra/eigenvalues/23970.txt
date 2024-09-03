@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{29}{4} \\
+ \frac{13}{2} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(2-\sqrt{1910}\right),\frac{1}{4} \left(2+\sqrt{1910}\right)\right\}$

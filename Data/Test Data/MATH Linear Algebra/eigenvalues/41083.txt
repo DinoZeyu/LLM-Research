@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -2 & \frac{5}{2} & \frac{37}{4} \\
+ -\frac{9}{2} & -\frac{35}{4} & -\frac{11}{2} \\
+ \frac{5}{4} & -1 & \frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.123-1.616 i,-6.123+1.616 i,8.246\}$

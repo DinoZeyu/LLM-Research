@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{6}{5} & -\frac{23}{5} & -\frac{18}{5} \\
+ -\frac{33}{5} & 4 & -\frac{6}{5} \\
+ \frac{6}{5} & \frac{22}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.962-2.883 i,-6.962+2.883 i,7.724\}$

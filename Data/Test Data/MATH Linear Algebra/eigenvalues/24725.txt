@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 9 \\
+ \frac{7}{2} & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-9,\frac{7}{2}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & \frac{16}{3} \\
+ \frac{14}{3} & -\frac{10}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-31-3 \sqrt{113}\right),\frac{1}{6} \left(3 \sqrt{113}-31\right)\right\}$

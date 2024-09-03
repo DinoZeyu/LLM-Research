@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 5 & -9 & -2 \\
+ 0 & -7 & \frac{25}{3} \\
+ 9 & -9 & -\frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.957-6.314 i,-3.957+6.314 i,-2.42\}$

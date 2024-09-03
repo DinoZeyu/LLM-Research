@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{8}{5} & -\frac{1}{5} \\
+ \frac{37}{5} & \frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{7}{5}-\frac{6 i}{5},\frac{7}{5}+\frac{6 i}{5}\right\}$

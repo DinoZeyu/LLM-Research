@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{4} & -\frac{23}{4} \\
+ \frac{31}{4} & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-9-i \sqrt{166}\right),\frac{1}{2} \left(-9+i \sqrt{166}\right)\right\}$

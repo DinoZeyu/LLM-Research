@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -\frac{29}{5} \\
+ -\frac{11}{5} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-35-\sqrt{4301}\right),\frac{1}{10} \left(\sqrt{4301}-35\right)\right\}$

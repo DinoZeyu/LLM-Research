@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{5} & -\frac{47}{5} \\
+ 7 & -\frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{2 i \sqrt{339}}{5},\frac{2 i \sqrt{339}}{5}\right\}$

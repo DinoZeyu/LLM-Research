@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{15}{2} \\
+ -\frac{31}{4} & \frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(11-\sqrt{3841}\right),\frac{1}{8} \left(11+\sqrt{3841}\right)\right\}$

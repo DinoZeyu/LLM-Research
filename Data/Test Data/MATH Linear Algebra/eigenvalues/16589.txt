@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{3} & -\frac{23}{3} \\
+ \frac{5}{3} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{3} \left(2-3 i \sqrt{10}\right),\frac{1}{3} \left(2+3 i \sqrt{10}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -\frac{7}{2} \\
+ -10 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-9-\sqrt{35},\sqrt{35}-9\right\}$

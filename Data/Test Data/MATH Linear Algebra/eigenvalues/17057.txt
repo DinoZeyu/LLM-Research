@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{16}{5} & -7 \\
+ \frac{24}{5} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(61-i \sqrt{2519}\right),\frac{1}{10} \left(61+i \sqrt{2519}\right)\right\}$

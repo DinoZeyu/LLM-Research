@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 3 \\
+ 2 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-\sqrt{193}\right),\frac{1}{2} \left(\sqrt{193}-3\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & 2 \\
+ 9 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3 \sqrt{3},3 \sqrt{3}\right\}$

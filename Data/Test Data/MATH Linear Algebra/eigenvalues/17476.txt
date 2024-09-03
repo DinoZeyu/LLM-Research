@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -\frac{33}{5} \\
+ -\frac{49}{5} & \frac{46}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(43-\sqrt{1626}\right),\frac{1}{5} \left(43+\sqrt{1626}\right)\right\}$

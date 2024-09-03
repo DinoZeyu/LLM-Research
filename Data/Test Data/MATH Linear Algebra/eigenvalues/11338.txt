@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & \frac{21}{5} \\
+ \frac{48}{5} & -\frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-21-2 \sqrt{301}\right),\frac{1}{5} \left(2 \sqrt{301}-21\right)\right\}$

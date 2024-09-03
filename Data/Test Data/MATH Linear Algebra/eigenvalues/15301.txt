@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & -\frac{33}{4} \\
+ 2 & -\frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(15-\sqrt{969}\right),\frac{1}{8} \left(15+\sqrt{969}\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{35}{4} & \frac{17}{4} & \frac{39}{4} \\
+ -\frac{5}{2} & \frac{11}{2} & 4 \\
+ -9 & -\frac{35}{4} & -\frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{0.776\, -8.688 i,0.776\, +8.688 i,5.949\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{44}{5} \\
+ -2 & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-13-i \sqrt{61}\right),\frac{2}{5} \left(-13+i \sqrt{61}\right)\right\}$

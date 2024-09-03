@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{3} & -8 \\
+ -\frac{20}{3} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-17-\sqrt{2089}\right),\frac{1}{6} \left(\sqrt{2089}-17\right)\right\}$

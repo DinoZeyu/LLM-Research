@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -5 \\
+ 5 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-\sqrt{11},\sqrt{11}-4\right\}$

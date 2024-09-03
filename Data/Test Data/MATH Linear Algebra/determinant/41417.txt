@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ 3 & -\frac{2}{5} & \frac{9}{5} \\
+ -\frac{13}{10} & \frac{1}{2} & -\frac{3}{5} \\
+ -\frac{24}{5} & \frac{7}{10} & \frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{2767}{500}$

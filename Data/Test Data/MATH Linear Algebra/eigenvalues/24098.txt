@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{14}{3} & -\frac{16}{3} \\
+ -\frac{26}{3} & -\frac{14}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2 \sqrt{17},2 \sqrt{17}\right\}$

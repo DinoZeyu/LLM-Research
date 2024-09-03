@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{39}{10} & \frac{18}{5} & -\frac{7}{10} \\
+ -\frac{49}{10} & -\frac{43}{10} & \frac{21}{10} \\
+ \frac{21}{5} & -\frac{2}{5} & -\frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{1531}{25}$

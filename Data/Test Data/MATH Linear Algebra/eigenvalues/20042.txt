@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & \frac{8}{5} \\
+ \frac{13}{5} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-5-2 \sqrt{51}\right),\frac{1}{5} \left(2 \sqrt{51}-5\right)\right\}$

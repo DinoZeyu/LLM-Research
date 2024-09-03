@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{4}{3} \\
+ \frac{2}{3} & \frac{22}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(1-\sqrt{102}\right),\frac{2}{3} \left(1+\sqrt{102}\right)\right\}$

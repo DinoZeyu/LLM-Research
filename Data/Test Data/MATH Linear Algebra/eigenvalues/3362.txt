@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{26}{5} & \frac{28}{5} \\
+ \frac{49}{5} & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-9-7 \sqrt{53}\right),\frac{1}{5} \left(7 \sqrt{53}-9\right)\right\}$

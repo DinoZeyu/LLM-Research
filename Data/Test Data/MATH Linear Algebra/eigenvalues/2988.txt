@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{4} & \frac{13}{4} \\
+ -\frac{31}{4} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-37-i \sqrt{1443}\right),\frac{1}{8} \left(-37+i \sqrt{1443}\right)\right\}$

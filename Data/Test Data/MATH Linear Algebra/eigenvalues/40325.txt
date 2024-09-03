@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{20}{3} & -3 & -6 \\
+ -\frac{20}{3} & -\frac{7}{3} & -\frac{5}{3} \\
+ -6 & 2 & \frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-4.031,2.955,14.743\}$

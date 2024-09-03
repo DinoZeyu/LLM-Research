@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 8 \\
+ -\frac{2}{3} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(21-\sqrt{537}\right),\frac{1}{6} \left(21+\sqrt{537}\right)\right\}$

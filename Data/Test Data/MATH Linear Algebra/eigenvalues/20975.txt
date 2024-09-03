@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & \frac{28}{3} \\
+ -\frac{14}{3} & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(15-7 i \sqrt{23}\right),\frac{1}{6} \left(15+7 i \sqrt{23}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{3} & -\frac{28}{3} \\
+ 7 & -\frac{13}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(9-7 i \sqrt{23}\right),\frac{1}{6} \left(9+7 i \sqrt{23}\right)\right\}$

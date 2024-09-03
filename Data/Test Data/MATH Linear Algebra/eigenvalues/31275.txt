@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -6 & -3 & -\frac{13}{2} \\
+ 10 & -\frac{1}{2} & -\frac{15}{4} \\
+ -\frac{3}{4} & \frac{1}{2} & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.334,-2.333-5.108 i,-2.333+5.108 i\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 1 \\
+ 1 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-\sqrt{37},\sqrt{37}-2\right\}$

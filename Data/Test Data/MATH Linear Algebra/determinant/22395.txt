@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & -4 \\
+ -\frac{3}{2} & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{15}{4}$

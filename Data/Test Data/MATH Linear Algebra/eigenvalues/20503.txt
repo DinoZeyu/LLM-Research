@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{5}{2} \\
+ -\frac{5}{4} & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{13}{4},\frac{7}{2}\right\}$

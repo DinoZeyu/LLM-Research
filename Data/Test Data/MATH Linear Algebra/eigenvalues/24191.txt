@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{5}{4} \\
+ -\frac{9}{4} & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-5-2 \sqrt{229}\right),\frac{1}{4} \left(2 \sqrt{229}-5\right)\right\}$

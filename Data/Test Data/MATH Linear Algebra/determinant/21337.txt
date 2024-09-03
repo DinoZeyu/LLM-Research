@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{17}{10} & -\frac{11}{5} & -2 \\
+ \frac{1}{5} & \frac{49}{10} & \frac{47}{10} \\
+ \frac{2}{5} & -5 & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\frac{10698}{125}$

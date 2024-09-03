@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{13}{3} \\
+ -\frac{29}{3} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-15-\sqrt{2237}\right),\frac{1}{6} \left(\sqrt{2237}-15\right)\right\}$

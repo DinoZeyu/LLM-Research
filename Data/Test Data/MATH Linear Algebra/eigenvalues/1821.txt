@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{2} & \frac{1}{4} \\
+ \frac{39}{4} & -\frac{1}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-27-\sqrt{781}\right),\frac{1}{8} \left(\sqrt{781}-27\right)\right\}$

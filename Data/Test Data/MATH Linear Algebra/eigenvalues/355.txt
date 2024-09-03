@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & 2 \\
+ 1 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-3 \sqrt{3},5+3 \sqrt{3}\right\}$

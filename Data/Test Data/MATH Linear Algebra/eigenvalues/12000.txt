@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -8 \\
+ \frac{15}{2} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{6-i \sqrt{51},6+i \sqrt{51}\right\}$

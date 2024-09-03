@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{3}{2} & -8 \\
+ \frac{1}{4} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-19-\sqrt{137}\right),\frac{1}{4} \left(\sqrt{137}-19\right)\right\}$

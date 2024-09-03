@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{24}{5} & \frac{19}{5} & -2 \\
+ -\frac{1}{5} & -\frac{21}{5} & \frac{34}{5} \\
+ -1 & \frac{3}{5} & \frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.214,-3.153,3.966\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{4} & -\frac{15}{2} \\
+ -\frac{13}{2} & -\frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-24-\sqrt{829}\right),\frac{1}{4} \left(\sqrt{829}-24\right)\right\}$

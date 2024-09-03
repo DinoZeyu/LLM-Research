@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{8}{5} & 4 \\
+ \frac{2}{5} & -\frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-4-\sqrt{74}\right),\frac{2}{5} \left(\sqrt{74}-4\right)\right\}$

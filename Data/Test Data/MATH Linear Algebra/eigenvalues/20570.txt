@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{20}{3} & -\frac{20}{3} \\
+ \frac{14}{3} & \frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(31-i \sqrt{1039}\right),\frac{1}{6} \left(31+i \sqrt{1039}\right)\right\}$

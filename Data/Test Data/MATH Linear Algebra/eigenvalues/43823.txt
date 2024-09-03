@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -6 & -\frac{5}{2} & \frac{33}{4} \\
+ -\frac{21}{4} & \frac{5}{4} & \frac{7}{4} \\
+ -3 & -\frac{17}{4} & \frac{21}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.483-2.757 i,-2.483+2.757 i,5.466\}$

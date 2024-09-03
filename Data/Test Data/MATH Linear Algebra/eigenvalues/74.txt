@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{4} & -\frac{3}{4} \\
+ \frac{37}{4} & \frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-3-\sqrt{145}\right),\frac{1}{4} \left(\sqrt{145}-3\right)\right\}$

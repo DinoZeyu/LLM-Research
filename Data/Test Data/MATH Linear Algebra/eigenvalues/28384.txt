@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{4} & 7 \\
+ \frac{15}{4} & \frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(29-2 \sqrt{105}\right),\frac{1}{4} \left(29+2 \sqrt{105}\right)\right\}$

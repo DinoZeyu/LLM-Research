@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{5} & \frac{31}{5} \\
+ \frac{14}{5} & -\frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-20-\sqrt{1163}\right),\frac{1}{5} \left(\sqrt{1163}-20\right)\right\}$

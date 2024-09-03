@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & \frac{46}{5} \\
+ -\frac{43}{5} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-20-7 i \sqrt{22}\right),\frac{1}{5} \left(-20+7 i \sqrt{22}\right)\right\}$

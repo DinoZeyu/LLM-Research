@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{31}{10} & \frac{43}{10} & 2 \\
+ -\frac{13}{5} & 1 & -\frac{47}{10} \\
+ 3 & -\frac{12}{5} & \frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{787}{100}$

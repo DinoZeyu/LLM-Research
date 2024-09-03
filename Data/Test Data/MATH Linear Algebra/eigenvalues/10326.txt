@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{47}{5} & 4 \\
+ -\frac{19}{5} & -\frac{1}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-24-\sqrt{149}\right),\frac{1}{5} \left(\sqrt{149}-24\right)\right\}$

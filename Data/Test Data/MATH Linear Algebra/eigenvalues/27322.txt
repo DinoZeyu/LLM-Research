@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{4} & -\frac{11}{2} \\
+ -10 & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-45-\sqrt{3601}\right),\frac{1}{8} \left(\sqrt{3601}-45\right)\right\}$

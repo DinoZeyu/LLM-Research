@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & 8 \\
+ 7 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2 \sqrt{23},2 \sqrt{23}\right\}$

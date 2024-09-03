@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{39}{5} \\
+ 9 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(-5-i \sqrt{755}\right),\frac{3}{10} \left(-5+i \sqrt{755}\right)\right\}$

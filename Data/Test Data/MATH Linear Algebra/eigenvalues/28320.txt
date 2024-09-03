@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{21}{4} & -10 \\
+ \frac{7}{2} & -\frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-20-i \sqrt{559}\right),\frac{1}{4} \left(-20+i \sqrt{559}\right)\right\}$

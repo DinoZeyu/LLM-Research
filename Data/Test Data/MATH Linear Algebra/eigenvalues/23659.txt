@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & \frac{17}{2} \\
+ -\frac{17}{4} & -\frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-33-i \sqrt{943}\right),\frac{1}{8} \left(-33+i \sqrt{943}\right)\right\}$

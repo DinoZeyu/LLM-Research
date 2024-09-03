@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{11}{2} \\
+ \frac{9}{2} & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(16-\sqrt{115}\right),\frac{1}{2} \left(16+\sqrt{115}\right)\right\}$

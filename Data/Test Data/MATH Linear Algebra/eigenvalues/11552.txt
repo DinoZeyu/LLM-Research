@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -\frac{44}{5} \\
+ 7 & -\frac{34}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-37-i \sqrt{1531}\right),\frac{1}{5} \left(-37+i \sqrt{1531}\right)\right\}$

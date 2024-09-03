@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{4} & -\frac{19}{2} \\
+ 1 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-17-\sqrt{2417}\right),\frac{1}{8} \left(\sqrt{2417}-17\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 5 & \frac{48}{5} & \frac{18}{5} \\
+ 6 & -\frac{12}{5} & \frac{29}{5} \\
+ \frac{18}{5} & -\frac{1}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.58-2.498 i,-8.58+2.498 i,10.761\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{5} & \frac{27}{5} \\
+ \frac{29}{5} & \frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(55-\sqrt{4813}\right),\frac{1}{10} \left(55+\sqrt{4813}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{5} & 7 \\
+ \frac{29}{5} & -\frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-9-\sqrt{4085}\right),\frac{1}{10} \left(\sqrt{4085}-9\right)\right\}$

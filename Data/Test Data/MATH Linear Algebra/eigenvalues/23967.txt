@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{2} & \frac{13}{2} \\
+ -\frac{29}{4} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-\sqrt{767}\right),\frac{1}{4} \left(\sqrt{767}-1\right)\right\}$

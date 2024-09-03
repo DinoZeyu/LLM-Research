@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{3}{5} & \frac{1}{5} \\
+ \frac{24}{5} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-23-\sqrt{385}\right),\frac{1}{10} \left(\sqrt{385}-23\right)\right\}$

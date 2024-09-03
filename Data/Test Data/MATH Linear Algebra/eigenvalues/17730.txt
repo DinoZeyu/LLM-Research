@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{16}{5} & 8 \\
+ \frac{9}{5} & -\frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-31-3 \sqrt{601}\right),\frac{1}{10} \left(3 \sqrt{601}-31\right)\right\}$

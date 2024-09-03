@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & 9 \\
+ 9 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-\sqrt{106},2+\sqrt{106}\right\}$

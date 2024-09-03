@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{39}{5} & -\frac{17}{5} \\
+ \frac{42}{5} & -\frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(21-\sqrt{393}\right),\frac{1}{10} \left(21+\sqrt{393}\right)\right\}$

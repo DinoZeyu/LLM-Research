@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & 6 \\
+ 7 & \frac{19}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(49-\sqrt{1633}\right),\frac{1}{6} \left(49+\sqrt{1633}\right)\right\}$

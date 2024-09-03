@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{5} & \frac{33}{5} \\
+ 1 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-3-\sqrt{309}\right),\frac{1}{5} \left(\sqrt{309}-3\right)\right\}$

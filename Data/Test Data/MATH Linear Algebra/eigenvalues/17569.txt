@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{5} & -\frac{43}{5} \\
+ \frac{49}{5} & -\frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-1-i \sqrt{1783}\right),\frac{1}{5} \left(-1+i \sqrt{1783}\right)\right\}$

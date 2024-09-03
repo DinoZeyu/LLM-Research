@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -7 \\
+ -7 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-7-\sqrt{317}\right),\frac{1}{2} \left(\sqrt{317}-7\right)\right\}$

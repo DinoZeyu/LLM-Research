@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & \frac{9}{2} \\
+ -\frac{17}{2} & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-i \sqrt{491}\right),\frac{1}{4} \left(-1+i \sqrt{491}\right)\right\}$

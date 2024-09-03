@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 10 \\
+ -8 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-i \sqrt{71},1+i \sqrt{71}\right\}$

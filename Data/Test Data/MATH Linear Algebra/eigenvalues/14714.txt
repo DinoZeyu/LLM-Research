@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{3} & 3 \\
+ \frac{19}{3} & -\frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-23-3 \sqrt{85}\right),\frac{1}{6} \left(3 \sqrt{85}-23\right)\right\}$

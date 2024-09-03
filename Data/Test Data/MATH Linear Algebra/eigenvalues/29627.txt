@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & 6 \\
+ 4 & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-15-4 \sqrt{6}\right),\frac{1}{2} \left(4 \sqrt{6}-15\right)\right\}$

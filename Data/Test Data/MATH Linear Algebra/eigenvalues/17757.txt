@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -8 \\
+ 1 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-i \sqrt{7},-5+i \sqrt{7}\right\}$

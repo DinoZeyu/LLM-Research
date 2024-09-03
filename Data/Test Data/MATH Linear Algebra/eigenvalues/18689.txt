@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{6}{5} \\
+ -10 & -\frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(21-\sqrt{321}\right),\frac{1}{10} \left(21+\sqrt{321}\right)\right\}$

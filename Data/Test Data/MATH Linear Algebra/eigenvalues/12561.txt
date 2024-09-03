@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -7 \\
+ -3 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(5-\sqrt{93}\right),\frac{1}{2} \left(5+\sqrt{93}\right)\right\}$

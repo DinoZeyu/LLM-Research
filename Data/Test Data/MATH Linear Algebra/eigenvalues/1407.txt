@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{20}{3} & \frac{16}{3} \\
+ -\frac{2}{3} & \frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{8-\frac{4 i}{3},8+\frac{4 i}{3}\right\}$

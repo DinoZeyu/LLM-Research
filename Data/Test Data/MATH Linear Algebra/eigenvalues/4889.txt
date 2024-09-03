@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{5} & \frac{19}{5} \\
+ \frac{28}{5} & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-37-\sqrt{3809}\right),\frac{1}{10} \left(\sqrt{3809}-37\right)\right\}$

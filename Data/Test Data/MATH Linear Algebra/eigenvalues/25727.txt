@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -\frac{13}{2} \\
+ \frac{15}{4} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(14-i \sqrt{194}\right),\frac{1}{4} \left(14+i \sqrt{194}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -9 \\
+ \frac{17}{2} & -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{4} \left(1-i \sqrt{47}\right),\frac{5}{4} \left(1+i \sqrt{47}\right)\right\}$

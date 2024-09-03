@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -\frac{25}{3} \\
+ -\frac{26}{3} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{6} \left(-3-\sqrt{185}\right),\frac{5}{6} \left(\sqrt{185}-3\right)\right\}$

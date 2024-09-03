@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{5} & -\frac{47}{5} \\
+ -\frac{46}{5} & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-25-\sqrt{12617}\right),\frac{1}{10} \left(\sqrt{12617}-25\right)\right\}$

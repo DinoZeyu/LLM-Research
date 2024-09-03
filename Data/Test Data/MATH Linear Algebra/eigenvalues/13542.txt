@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -2 \\
+ -\frac{13}{2} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{29},\sqrt{29}-5\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{1}{2} & -\frac{29}{4} & 10 \\
+ \frac{15}{4} & \frac{5}{4} & \frac{19}{4} \\
+ -\frac{5}{2} & -\frac{7}{4} & -\frac{1}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{0.343\, -7.747 i,0.343\, +7.747 i,0.814\}$

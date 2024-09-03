@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{5} & -2 \\
+ -3 & -\frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(9-\sqrt{474}\right),\frac{1}{5} \left(9+\sqrt{474}\right)\right\}$

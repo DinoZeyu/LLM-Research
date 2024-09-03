@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{5} & \frac{22}{5} \\
+ -\frac{44}{5} & \frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{11}{10} \left(3-i \sqrt{31}\right),\frac{11}{10} \left(3+i \sqrt{31}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -2 \\
+ -10 & -\frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-41-\sqrt{1081}\right),\frac{1}{6} \left(\sqrt{1081}-41\right)\right\}$

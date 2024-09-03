@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{13}{2} \\
+ -9 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{9}{2}-\frac{15 i}{2},\frac{9}{2}+\frac{15 i}{2}\right\}$

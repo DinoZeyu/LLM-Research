@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{28}{5} & \frac{27}{5} \\
+ -2 & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-18-i \sqrt{170}\right),\frac{1}{5} \left(-18+i \sqrt{170}\right)\right\}$

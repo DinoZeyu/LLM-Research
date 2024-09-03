@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & -\frac{33}{4} \\
+ 5 & -\frac{3}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-1-i \sqrt{2615}\right),\frac{1}{8} \left(-1+i \sqrt{2615}\right)\right\}$

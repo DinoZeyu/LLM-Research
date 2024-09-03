@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -3 \\
+ -9 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{43},\sqrt{43}\right\}$

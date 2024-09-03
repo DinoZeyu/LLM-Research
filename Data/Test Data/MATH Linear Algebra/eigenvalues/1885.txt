@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -6 \\
+ 10 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-7-i \sqrt{119}\right),\frac{1}{2} \left(-7+i \sqrt{119}\right)\right\}$

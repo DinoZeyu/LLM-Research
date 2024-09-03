@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & -\frac{15}{4} \\
+ -1 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-17-\sqrt{501}\right),\frac{1}{4} \left(\sqrt{501}-17\right)\right\}$

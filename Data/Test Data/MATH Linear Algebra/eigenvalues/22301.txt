@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 1 \\
+ 9 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-\sqrt{10},5+\sqrt{10}\right\}$

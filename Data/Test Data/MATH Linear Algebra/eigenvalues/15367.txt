@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{11}{4} \\
+ \frac{3}{2} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-12-\sqrt{642}\right),\frac{1}{4} \left(\sqrt{642}-12\right)\right\}$

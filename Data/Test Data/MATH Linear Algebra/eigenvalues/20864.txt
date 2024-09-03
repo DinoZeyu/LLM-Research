@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -6 \\
+ 1 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{19},\sqrt{19}-5\right\}$

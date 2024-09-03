@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -10 & \frac{7}{3} & 10 \\
+ \frac{7}{3} & -\frac{23}{3} & -\frac{4}{3} \\
+ 10 & -\frac{10}{3} & -\frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-18.859,-6.694,2.553\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 10 & \frac{31}{4} & -\frac{33}{4} \\
+ -\frac{3}{2} & -\frac{27}{4} & -3 \\
+ -5 & 4 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\{-1.868-0.589 i,-1.868+0.589 i,15.985\}$

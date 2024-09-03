@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{14}{5} & -\frac{19}{5} & \frac{49}{5} \\
+ \frac{32}{5} & -\frac{9}{5} & -\frac{19}{5} \\
+ \frac{4}{5} & \frac{48}{5} & -\frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.896-9.064 i,-5.896+9.064 i,3.592\}$

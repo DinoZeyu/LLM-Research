@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & \frac{17}{2} \\
+ \frac{9}{2} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-7-9 \sqrt{2}\right),\frac{1}{2} \left(9 \sqrt{2}-7\right)\right\}$

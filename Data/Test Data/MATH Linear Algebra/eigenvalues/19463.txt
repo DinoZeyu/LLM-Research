@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{4} & 7 \\
+ -\frac{11}{2} & \frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(11-2 i \sqrt{73}\right),\frac{1}{4} \left(11+2 i \sqrt{73}\right)\right\}$

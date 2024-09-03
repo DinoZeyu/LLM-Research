@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{34}{5} & \frac{2}{5} \\
+ \frac{33}{5} & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-5-23 \sqrt{3}\right),\frac{1}{5} \left(23 \sqrt{3}-5\right)\right\}$

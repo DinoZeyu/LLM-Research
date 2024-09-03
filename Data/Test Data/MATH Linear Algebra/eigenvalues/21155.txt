@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -\frac{19}{3} \\
+ \frac{19}{3} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-3-2 \sqrt{5}\right),\frac{2}{3} \left(2 \sqrt{5}-3\right)\right\}$

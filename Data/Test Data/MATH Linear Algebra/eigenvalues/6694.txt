@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -4 & 6 & \frac{13}{4} \\
+ -2 & -\frac{9}{2} & -\frac{9}{4} \\
+ -\frac{11}{2} & 4 & \frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.051-5.014 i,-3.051+5.014 i,0.851\}$

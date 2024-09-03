@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & 1 \\
+ -\frac{11}{2} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-2-7 \sqrt{3}\right),\frac{1}{2} \left(7 \sqrt{3}-2\right)\right\}$

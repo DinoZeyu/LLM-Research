@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & -7 \\
+ 8 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(11-i \sqrt{143}\right),\frac{1}{2} \left(11+i \sqrt{143}\right)\right\}$

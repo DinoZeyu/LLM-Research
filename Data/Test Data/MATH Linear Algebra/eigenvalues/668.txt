@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 5 \\
+ -\frac{15}{2} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-i \sqrt{\frac{57}{2}},i \sqrt{\frac{57}{2}}\right\}$

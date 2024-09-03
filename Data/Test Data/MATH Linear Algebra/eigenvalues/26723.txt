@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{5} & \frac{4}{5} \\
+ -\frac{21}{5} & \frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(23-i \sqrt{215}\right),\frac{1}{10} \left(23+i \sqrt{215}\right)\right\}$

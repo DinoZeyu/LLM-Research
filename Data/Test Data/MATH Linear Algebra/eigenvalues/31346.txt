@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{19}{2} & 4 & \frac{37}{4} \\
+ \frac{1}{4} & \frac{1}{2} & 5 \\
+ 1 & \frac{19}{2} & -\frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.864,4.391,10.973\}$

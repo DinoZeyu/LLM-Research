@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{4} & \frac{17}{4} \\
+ -4 & -\frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-21-8 i \sqrt{2}\right),\frac{1}{4} \left(-21+8 i \sqrt{2}\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{9}{5} & \frac{2}{5} & \frac{36}{5} \\
+ -\frac{6}{5} & -9 & -8 \\
+ -\frac{43}{5} & \frac{17}{5} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.226-8.357 i,-7.226+8.357 i,-6.349\}$

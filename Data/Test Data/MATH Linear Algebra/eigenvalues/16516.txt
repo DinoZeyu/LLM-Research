@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{5} & -\frac{1}{5} \\
+ 0 & -\frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{6}{5},\frac{23}{5}\right\}$

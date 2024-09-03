@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -\frac{17}{3} \\
+ -\frac{23}{3} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-21-\sqrt{3085}\right),\frac{1}{6} \left(\sqrt{3085}-21\right)\right\}$

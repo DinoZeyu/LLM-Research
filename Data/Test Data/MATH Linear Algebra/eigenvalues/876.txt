@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & \frac{3}{4} \\
+ 10 & \frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-27-\sqrt{3289}\right),\frac{1}{8} \left(\sqrt{3289}-27\right)\right\}$

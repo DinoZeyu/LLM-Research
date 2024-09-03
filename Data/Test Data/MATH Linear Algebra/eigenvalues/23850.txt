@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{3}{5} \\
+ -\frac{42}{5} & \frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(23-5 \sqrt{7}\right),\frac{1}{5} \left(23+5 \sqrt{7}\right)\right\}$

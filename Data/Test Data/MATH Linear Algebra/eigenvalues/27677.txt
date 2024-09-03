@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{5} & -10 \\
+ -\frac{33}{5} & -\frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-26-\sqrt{1699}\right),\frac{1}{5} \left(\sqrt{1699}-26\right)\right\}$

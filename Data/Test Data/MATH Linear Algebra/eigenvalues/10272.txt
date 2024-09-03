@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{5} & -4 \\
+ -10 & -\frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-31-5 \sqrt{329}\right),\frac{1}{10} \left(5 \sqrt{329}-31\right)\right\}$

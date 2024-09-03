@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{31}{5} \\
+ \frac{8}{5} & \frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(33-2 i \sqrt{26}\right),\frac{1}{5} \left(33+2 i \sqrt{26}\right)\right\}$

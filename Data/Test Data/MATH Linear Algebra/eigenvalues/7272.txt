@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 4 & \frac{5}{3} & -\frac{13}{3} \\
+ -\frac{19}{3} & -9 & -10 \\
+ -\frac{25}{3} & \frac{26}{3} & -\frac{17}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.765-9.846 i,-8.765+9.846 i,6.863\}$

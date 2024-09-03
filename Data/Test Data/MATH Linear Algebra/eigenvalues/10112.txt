@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{4} & -1 \\
+ 7 & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-14-\sqrt{417}\right),\frac{1}{4} \left(\sqrt{417}-14\right)\right\}$

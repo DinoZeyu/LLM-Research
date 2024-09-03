@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{5}{2} & \frac{13}{2} \\
+ -\frac{29}{4} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(13-i \sqrt{745}\right),\frac{1}{4} \left(13+i \sqrt{745}\right)\right\}$

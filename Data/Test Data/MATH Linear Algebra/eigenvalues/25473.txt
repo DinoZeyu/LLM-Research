@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{35}{4} \\
+ -\frac{15}{2} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(21-\sqrt{1051}\right),\frac{1}{4} \left(21+\sqrt{1051}\right)\right\}$

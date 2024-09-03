@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & \frac{17}{2} \\
+ -8 & -\frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(13-i \sqrt{2503}\right),\frac{1}{8} \left(13+i \sqrt{2503}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{5} & -5 \\
+ -\frac{2}{5} & -\frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-35-3 \sqrt{41}\right),\frac{1}{10} \left(3 \sqrt{41}-35\right)\right\}$

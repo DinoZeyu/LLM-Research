@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & \frac{24}{5} \\
+ \frac{23}{5} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-35-\sqrt{3433}\right),\frac{1}{10} \left(\sqrt{3433}-35\right)\right\}$

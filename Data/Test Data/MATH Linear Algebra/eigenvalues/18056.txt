@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & \frac{17}{4} \\
+ \frac{9}{2} & \frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(49-\sqrt{1393}\right),\frac{1}{8} \left(49+\sqrt{1393}\right)\right\}$

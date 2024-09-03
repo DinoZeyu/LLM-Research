@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & 2 \\
+ 3 & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(6-\sqrt{145}\right),\frac{1}{2} \left(6+\sqrt{145}\right)\right\}$

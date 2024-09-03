@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{11}{2} \\
+ -4 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-\sqrt{58},3+\sqrt{58}\right\}$

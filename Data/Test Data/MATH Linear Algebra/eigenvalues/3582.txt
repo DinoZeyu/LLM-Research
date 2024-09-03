@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{3} & -\frac{28}{3} \\
+ -\frac{19}{3} & -\frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(1-\sqrt{5377}\right),\frac{1}{6} \left(1+\sqrt{5377}\right)\right\}$

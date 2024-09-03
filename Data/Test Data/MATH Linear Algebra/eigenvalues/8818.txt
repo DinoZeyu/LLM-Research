@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{28}{5} & \frac{27}{5} & 1 \\
+ 0 & \frac{47}{5} & \frac{48}{5} \\
+ 6 & -\frac{2}{5} & -\frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.145,0.492,12.053\}$

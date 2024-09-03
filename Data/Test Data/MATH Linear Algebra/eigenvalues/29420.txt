@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{38}{5} & -2 \\
+ \frac{2}{5} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-7-\sqrt{139}\right),\frac{2}{5} \left(\sqrt{139}-7\right)\right\}$

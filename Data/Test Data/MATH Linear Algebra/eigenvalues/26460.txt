@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{5} & \frac{36}{5} \\
+ \frac{23}{5} & -\frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-73-\sqrt{3433}\right),\frac{1}{10} \left(\sqrt{3433}-73\right)\right\}$

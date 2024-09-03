@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{37}{5} \\
+ -8 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-35-\sqrt{10145}\right),\frac{1}{10} \left(\sqrt{10145}-35\right)\right\}$

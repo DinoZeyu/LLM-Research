@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{3} & -\frac{7}{3} \\
+ -\frac{25}{3} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{3} \left(-4-\sqrt{851}\right),\frac{1}{3} \left(\sqrt{851}-4\right)\right\}$

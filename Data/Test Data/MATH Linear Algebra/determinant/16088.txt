@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ 3 & 4 & \frac{24}{5} \\
+ -\frac{3}{5} & -\frac{18}{5} & -1 \\
+ -\frac{8}{5} & \frac{14}{5} & -\frac{37}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{1271}{125}$

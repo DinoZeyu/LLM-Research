@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{16}{3} \\
+ -\frac{13}{3} & -\frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-47-\sqrt{953}\right),\frac{1}{6} \left(\sqrt{953}-47\right)\right\}$

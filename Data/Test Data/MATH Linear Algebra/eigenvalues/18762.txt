@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 4 \\
+ -2 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-i \sqrt{7},-3+i \sqrt{7}\right\}$

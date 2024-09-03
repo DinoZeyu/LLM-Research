@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{37}{4} \\
+ -4 & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-7-\sqrt{673}\right),\frac{1}{4} \left(\sqrt{673}-7\right)\right\}$

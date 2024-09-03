@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -3 \\
+ -6 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{22},\sqrt{22}-5\right\}$

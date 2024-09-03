@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 4 \\
+ -8 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5-4 i,-5+4 i\}$

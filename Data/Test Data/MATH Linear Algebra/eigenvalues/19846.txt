@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{4}{5} & -\frac{47}{5} \\
+ \frac{49}{5} & -\frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-5-i \sqrt{2302}\right),\frac{1}{5} \left(-5+i \sqrt{2302}\right)\right\}$

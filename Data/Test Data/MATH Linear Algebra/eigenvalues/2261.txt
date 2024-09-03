@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{8}{5} \\
+ -\frac{47}{5} & \frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(13-7 \sqrt{2}\right),\frac{2}{5} \left(13+7 \sqrt{2}\right)\right\}$

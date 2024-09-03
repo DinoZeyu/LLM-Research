@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 9 \\
+ 5 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(13-3 \sqrt{21}\right),\frac{1}{2} \left(13+3 \sqrt{21}\right)\right\}$

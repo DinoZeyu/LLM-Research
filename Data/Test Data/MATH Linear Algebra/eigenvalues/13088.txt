@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{5} & -8 \\
+ \frac{29}{5} & \frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-3-i \sqrt{1159}\right),\frac{1}{10} \left(-3+i \sqrt{1159}\right)\right\}$

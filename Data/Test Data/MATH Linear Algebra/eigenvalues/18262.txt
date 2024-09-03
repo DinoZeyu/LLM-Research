@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{42}{5} \\
+ -\frac{33}{5} & \frac{27}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-13-i \sqrt{1055}\right),\frac{1}{10} \left(-13+i \sqrt{1055}\right)\right\}$

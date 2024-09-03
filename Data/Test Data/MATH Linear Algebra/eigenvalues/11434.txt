@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & -1 \\
+ \frac{19}{2} & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-1-\sqrt{158}\right),\frac{1}{2} \left(\sqrt{158}-1\right)\right\}$

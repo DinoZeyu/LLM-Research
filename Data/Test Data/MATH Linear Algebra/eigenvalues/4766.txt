@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{22}{5} \\
+ \frac{33}{5} & \frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(49-\sqrt{727}\right),\frac{1}{5} \left(49+\sqrt{727}\right)\right\}$

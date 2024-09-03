@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ 1 & \frac{19}{5} \\
+ -\frac{5}{2} & \frac{49}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{72}{5}$

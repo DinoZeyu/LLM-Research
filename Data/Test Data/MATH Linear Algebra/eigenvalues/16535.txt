@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{3} & -\frac{11}{3} \\
+ \frac{7}{3} & -\frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{2 \sqrt{11}}{3},\frac{2 \sqrt{11}}{3}\right\}$

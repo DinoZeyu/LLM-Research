@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{34}{5} & -\frac{47}{5} \\
+ -\frac{21}{5} & \frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(4-\sqrt{2431}\right),\frac{1}{5} \left(4+\sqrt{2431}\right)\right\}$

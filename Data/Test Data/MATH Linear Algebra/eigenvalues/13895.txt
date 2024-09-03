@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{33}{4} & \frac{37}{4} \\
+ -\frac{15}{2} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(5-i \sqrt{719}\right),\frac{1}{8} \left(5+i \sqrt{719}\right)\right\}$

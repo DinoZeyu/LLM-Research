@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 8 & \frac{13}{4} & \frac{35}{4} \\
+ -9 & \frac{3}{2} & \frac{13}{2} \\
+ 2 & -\frac{31}{4} & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{2.283\, -9.657 i,2.283\, +9.657 i,14.434\}$

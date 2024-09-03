@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{9}{2} \\
+ \frac{15}{2} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(1-2 \sqrt{106}\right),\frac{1}{2} \left(1+2 \sqrt{106}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -2 & \frac{13}{3} \\
+ 0 & -\frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{22}{3}$

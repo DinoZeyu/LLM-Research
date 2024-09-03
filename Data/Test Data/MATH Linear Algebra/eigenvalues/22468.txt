@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -9 \\
+ -9 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-9 \sqrt{2},9 \sqrt{2}-1\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{47}{5} & -\frac{28}{5} \\
+ -\frac{22}{5} & \frac{46}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-1-\sqrt{11113}\right),\frac{1}{10} \left(\sqrt{11113}-1\right)\right\}$

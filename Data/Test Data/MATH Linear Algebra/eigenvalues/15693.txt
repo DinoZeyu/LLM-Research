@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{34}{5} & -4 \\
+ \frac{48}{5} & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(4-\sqrt{201}\right),\frac{2}{5} \left(4+\sqrt{201}\right)\right\}$

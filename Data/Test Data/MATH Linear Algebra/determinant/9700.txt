@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{1}{10} & -\frac{11}{10} \\
+ \frac{13}{5} & -\frac{9}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{59}{20}$

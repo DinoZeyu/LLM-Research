@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{47}{5} & -\frac{2}{5} \\
+ 5 & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-59-5 \sqrt{41}\right),\frac{1}{10} \left(5 \sqrt{41}-59\right)\right\}$

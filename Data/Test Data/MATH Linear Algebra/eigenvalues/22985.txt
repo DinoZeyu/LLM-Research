@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{3}{5} & -\frac{33}{5} \\
+ \frac{7}{5} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-43-\sqrt{445}\right),\frac{1}{10} \left(\sqrt{445}-43\right)\right\}$

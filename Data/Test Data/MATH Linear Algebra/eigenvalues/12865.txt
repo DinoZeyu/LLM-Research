@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{4} & \frac{35}{4} \\
+ 7 & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-47-\sqrt{3929}\right),\frac{1}{8} \left(\sqrt{3929}-47\right)\right\}$

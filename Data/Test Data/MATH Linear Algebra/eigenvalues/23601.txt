@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 6 \\
+ 1 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-\sqrt{42},2+\sqrt{42}\right\}$

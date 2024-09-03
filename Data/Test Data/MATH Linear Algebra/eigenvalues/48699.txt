@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 6 & \frac{29}{4} & -\frac{17}{2} \\
+ -\frac{15}{4} & -10 & -\frac{31}{4} \\
+ \frac{5}{2} & -2 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.27,5.135\, -6.004 i,5.135\, +6.004 i\}$

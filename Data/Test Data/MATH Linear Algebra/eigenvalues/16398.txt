@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 6 \\
+ -5 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-7-i \sqrt{71}\right),\frac{1}{2} \left(-7+i \sqrt{71}\right)\right\}$

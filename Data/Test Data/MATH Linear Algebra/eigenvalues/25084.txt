@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -8 \\
+ 7 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2 \left(2-i \sqrt{5}\right),2 \left(2+i \sqrt{5}\right)\right\}$

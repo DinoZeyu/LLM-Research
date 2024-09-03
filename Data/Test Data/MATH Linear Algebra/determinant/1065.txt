@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{1}{10} & \frac{3}{10} & -\frac{13}{5} \\
+ \frac{9}{5} & \frac{6}{5} & -\frac{17}{5} \\
+ \frac{18}{5} & -\frac{21}{5} & -\frac{29}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{15279}{500}$

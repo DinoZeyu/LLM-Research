@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & \frac{29}{3} \\
+ -\frac{20}{3} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-\frac{16 i}{3},-1+\frac{16 i}{3}\right\}$

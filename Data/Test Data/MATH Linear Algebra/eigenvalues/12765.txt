@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{2} & 3 \\
+ -2 & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{145}}{2},\frac{\sqrt{145}}{2}\right\}$

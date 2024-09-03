@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{33}{4} \\
+ \frac{5}{2} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-10-\sqrt{154}\right),\frac{1}{4} \left(\sqrt{154}-10\right)\right\}$

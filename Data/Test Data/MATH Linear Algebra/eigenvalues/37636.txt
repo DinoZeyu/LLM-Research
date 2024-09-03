@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{4}{3} & 4 & 1 \\
+ -\frac{23}{3} & 3 & -8 \\
+ \frac{29}{3} & -\frac{19}{3} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\{-11.763,4.548\, -5.506 i,4.548\, +5.506 i\}$

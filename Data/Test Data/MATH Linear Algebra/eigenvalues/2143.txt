@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{22}{3} & -9 \\
+ \frac{20}{3} & -\frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-33-i \sqrt{2039}\right),\frac{1}{6} \left(-33+i \sqrt{2039}\right)\right\}$

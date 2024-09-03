@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{28}{5} & -\frac{47}{5} \\
+ \frac{37}{5} & \frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(47-25 i \sqrt{11}\right),\frac{1}{10} \left(47+25 i \sqrt{11}\right)\right\}$

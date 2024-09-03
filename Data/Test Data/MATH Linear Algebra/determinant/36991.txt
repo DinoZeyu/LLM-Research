@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{13}{6} & \frac{1}{6} \\
+ -\frac{29}{6} & -\frac{29}{6} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{29}{3}$

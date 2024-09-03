@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{5} & -\frac{48}{5} \\
+ 1 & \frac{23}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-7-2 \sqrt{165}\right),\frac{1}{5} \left(2 \sqrt{165}-7\right)\right\}$

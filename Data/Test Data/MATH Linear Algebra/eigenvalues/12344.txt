@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{5} & \frac{17}{5} \\
+ \frac{43}{5} & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-47-13 \sqrt{21}\right),\frac{1}{10} \left(13 \sqrt{21}-47\right)\right\}$

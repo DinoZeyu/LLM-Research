@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{14}{5} \\
+ -\frac{1}{5} & -\frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-9-\sqrt{1507}\right),\frac{1}{5} \left(\sqrt{1507}-9\right)\right\}$

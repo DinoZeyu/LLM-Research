@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{4} & -\frac{25}{4} \\
+ -\frac{39}{4} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-15-\sqrt{4189}\right),\frac{1}{8} \left(\sqrt{4189}-15\right)\right\}$

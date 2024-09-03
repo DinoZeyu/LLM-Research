@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{22}{5} & -\frac{32}{5} \\
+ 1 & -\frac{1}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-23-i \sqrt{199}\right),\frac{1}{10} \left(-23+i \sqrt{199}\right)\right\}$

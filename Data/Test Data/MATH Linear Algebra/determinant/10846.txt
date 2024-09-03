@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{17}{10} & -\frac{31}{10} \\
+ \frac{33}{10} & -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{277}{25}$

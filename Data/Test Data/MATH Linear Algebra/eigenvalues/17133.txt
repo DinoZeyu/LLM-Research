@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & 5 \\
+ \frac{21}{4} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(19-\sqrt{541}\right),\frac{1}{4} \left(19+\sqrt{541}\right)\right\}$

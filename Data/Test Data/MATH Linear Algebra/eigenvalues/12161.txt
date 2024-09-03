@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{48}{5} & -5 \\
+ \frac{4}{5} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-29-3 \sqrt{29}\right),\frac{1}{5} \left(3 \sqrt{29}-29\right)\right\}$

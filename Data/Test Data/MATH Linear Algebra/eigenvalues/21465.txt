@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -5 \\
+ -4 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-\sqrt{21},\sqrt{21}-1\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -6 \\
+ -9 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-3 \sqrt{7},3 \sqrt{7}-4\right\}$

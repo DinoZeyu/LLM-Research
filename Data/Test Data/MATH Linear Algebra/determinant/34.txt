@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ 3 & \frac{31}{10} & \frac{16}{5} \\
+ -\frac{17}{5} & \frac{4}{5} & \frac{9}{10} \\
+ -\frac{6}{5} & \frac{12}{5} & -\frac{43}{10} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{8851}{100}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & \frac{7}{2} \\
+ 0 & -\frac{17}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{17}{4},\frac{17}{2}\right\}$

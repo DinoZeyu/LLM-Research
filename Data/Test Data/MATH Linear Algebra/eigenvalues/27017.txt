@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{47}{5} & \frac{19}{5} \\
+ \frac{22}{5} & \frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{2627}}{5},\frac{\sqrt{2627}}{5}\right\}$

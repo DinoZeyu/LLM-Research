@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{8}{3} & 5 & \frac{20}{3} \\
+ -7 & 6 & -5 \\
+ \frac{17}{3} & 1 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.877,5.772\, -6.413 i,5.772\, +6.413 i\}$

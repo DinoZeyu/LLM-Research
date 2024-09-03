@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{3} & -\frac{23}{3} \\
+ -\frac{28}{3} & \frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{165},\sqrt{165}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & -\frac{15}{2} \\
+ -\frac{17}{2} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-35-\sqrt{1021}\right),\frac{1}{4} \left(\sqrt{1021}-35\right)\right\}$

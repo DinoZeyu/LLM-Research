@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -9 \\
+ -\frac{28}{3} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{6-\sqrt{93},6+\sqrt{93}\right\}$

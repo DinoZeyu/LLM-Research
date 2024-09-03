@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & \frac{22}{5} \\
+ \frac{7}{5} & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-32-\sqrt{298}\right),\frac{1}{5} \left(\sqrt{298}-32\right)\right\}$

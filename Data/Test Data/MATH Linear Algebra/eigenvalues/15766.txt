@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -6 \\
+ -\frac{48}{5} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-65-\sqrt{6985}\right),\frac{1}{10} \left(\sqrt{6985}-65\right)\right\}$

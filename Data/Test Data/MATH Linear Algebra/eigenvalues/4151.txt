@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{5} & -\frac{39}{5} \\
+ -\frac{11}{5} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-3-\sqrt{3565}\right),\frac{1}{10} \left(\sqrt{3565}-3\right)\right\}$

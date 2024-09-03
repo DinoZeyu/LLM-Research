@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & -\frac{7}{2} \\
+ \frac{7}{2} & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-\sqrt{30},2+\sqrt{30}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -8 \\
+ -\frac{44}{5} & \frac{46}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(1-\sqrt{401}\right),\frac{3}{5} \left(1+\sqrt{401}\right)\right\}$

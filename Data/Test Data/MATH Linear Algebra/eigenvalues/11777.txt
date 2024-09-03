@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & \frac{19}{2} \\
+ -6 & -\frac{21}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-39-i \sqrt{3639}\right),\frac{1}{8} \left(-39+i \sqrt{3639}\right)\right\}$

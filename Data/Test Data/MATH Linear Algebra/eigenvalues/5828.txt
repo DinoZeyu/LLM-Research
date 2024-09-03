@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{24}{5} & 5 & \frac{44}{5} \\
+ 8 & 1 & 6 \\
+ -\frac{22}{5} & \frac{4}{5} & -\frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.84-2.311 i,-2.84+2.311 i,7.079\}$

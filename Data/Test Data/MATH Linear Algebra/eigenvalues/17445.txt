@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{24}{5} \\
+ \frac{26}{5} & -\frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(13-i \sqrt{2207}\right),\frac{1}{10} \left(13+i \sqrt{2207}\right)\right\}$

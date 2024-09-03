@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{3} & -\frac{5}{3} \\
+ \frac{13}{3} & \frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(13-i \sqrt{14}\right),\frac{2}{3} \left(13+i \sqrt{14}\right)\right\}$

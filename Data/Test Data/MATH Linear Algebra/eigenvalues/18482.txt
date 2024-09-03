@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{44}{5} & \frac{44}{5} \\
+ \frac{24}{5} & -\frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-63-\sqrt{4849}\right),\frac{1}{10} \left(\sqrt{4849}-63\right)\right\}$

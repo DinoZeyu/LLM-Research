@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 6 & -5 & -\frac{17}{2} \\
+ -\frac{11}{2} & -\frac{7}{4} & 3 \\
+ 2 & \frac{27}{4} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.585-2.697 i,-5.585+2.697 i,9.42\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{14}{5} & -\frac{7}{2} & -\frac{3}{10} \\
+ \frac{19}{10} & \frac{19}{5} & \frac{29}{10} \\
+ -\frac{13}{10} & -\frac{24}{5} & \frac{27}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{25027}{250}$

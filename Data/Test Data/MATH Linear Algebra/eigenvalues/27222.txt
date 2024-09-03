@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -10 \\
+ -7 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-\sqrt{95},\sqrt{95}-4\right\}$

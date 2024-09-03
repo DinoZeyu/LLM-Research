@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{28}{5} \\
+ 2 & \frac{37}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(17-\sqrt{2129}\right),\frac{1}{10} \left(17+\sqrt{2129}\right)\right\}$

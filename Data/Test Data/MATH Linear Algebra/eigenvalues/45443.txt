@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{37}{4} & -\frac{13}{2} & \frac{7}{4} \\
+ -1 & -\frac{21}{4} & -\frac{29}{4} \\
+ \frac{9}{4} & -\frac{21}{4} & \frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.205-0.997 i,-9.205+0.997 i,7.41\}$

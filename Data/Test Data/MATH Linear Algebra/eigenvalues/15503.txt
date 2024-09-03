@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{22}{3} & -\frac{25}{3} \\
+ -\frac{19}{3} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-\sqrt{2861}\right),\frac{1}{6} \left(\sqrt{2861}-13\right)\right\}$

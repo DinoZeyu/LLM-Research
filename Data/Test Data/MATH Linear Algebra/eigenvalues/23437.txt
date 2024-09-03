@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{5} & \frac{18}{5} \\
+ -\frac{49}{5} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-22-i \sqrt{713}\right),\frac{1}{5} \left(-22+i \sqrt{713}\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{11}{4} & -9 & \frac{13}{2} \\
+ -\frac{29}{4} & \frac{15}{2} & -\frac{7}{4} \\
+ \frac{7}{4} & 0 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.886,5.871,14.265\}$

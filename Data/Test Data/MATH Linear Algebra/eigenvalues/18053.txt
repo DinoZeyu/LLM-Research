@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & -\frac{11}{2} \\
+ 3 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(3-i \sqrt{263}\right),\frac{1}{4} \left(3+i \sqrt{263}\right)\right\}$

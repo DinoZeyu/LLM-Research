@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{7}{2} & -\frac{47}{10} & \frac{12}{5} \\
+ 4 & \frac{31}{10} & -\frac{29}{10} \\
+ \frac{49}{10} & -4 & \frac{11}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{10319}{250}$

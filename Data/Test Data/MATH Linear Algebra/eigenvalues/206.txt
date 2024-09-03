@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{4} & -\frac{7}{4} \\
+ \frac{29}{4} & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(13-i \sqrt{731}\right),\frac{1}{8} \left(13+i \sqrt{731}\right)\right\}$

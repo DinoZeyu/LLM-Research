@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{5} & -\frac{31}{5} \\
+ -\frac{3}{5} & \frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-1-\sqrt{2397}\right),\frac{1}{10} \left(\sqrt{2397}-1\right)\right\}$

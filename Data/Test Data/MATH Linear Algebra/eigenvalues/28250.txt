@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{14}{5} & \frac{22}{5} \\
+ -\frac{29}{5} & -\frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{442}}{5},\frac{i \sqrt{442}}{5}\right\}$

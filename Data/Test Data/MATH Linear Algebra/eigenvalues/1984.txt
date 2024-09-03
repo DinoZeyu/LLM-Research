@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 3 \\
+ -\frac{11}{2} & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-7,\frac{17}{2}\right\}$

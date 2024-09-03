@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{16}{5} & -\frac{19}{5} \\
+ 9 & -\frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(7-3 i \sqrt{86}\right),\frac{1}{5} \left(7+3 i \sqrt{86}\right)\right\}$

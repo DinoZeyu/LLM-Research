@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -7 \\
+ -8 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2 \left(-2-\sqrt{14}\right),2 \left(\sqrt{14}-2\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{38}{5} \\
+ -\frac{14}{5} & \frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-1-\sqrt{309}\right),\frac{1}{5} \left(\sqrt{309}-1\right)\right\}$

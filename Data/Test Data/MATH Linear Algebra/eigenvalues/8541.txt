@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 10 & \frac{1}{2} & 10 \\
+ \frac{7}{2} & -8 & -2 \\
+ 8 & 3 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.302-0.445 i,-5.302+0.445 i,16.604\}$

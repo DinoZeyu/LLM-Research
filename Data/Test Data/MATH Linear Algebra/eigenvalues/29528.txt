@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{4} & -3 \\
+ \frac{23}{4} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-21-i \sqrt{743}\right),\frac{1}{8} \left(-21+i \sqrt{743}\right)\right\}$

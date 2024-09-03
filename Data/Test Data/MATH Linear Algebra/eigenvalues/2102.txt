@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -\frac{13}{5} \\
+ -\frac{47}{5} & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(23-3 \sqrt{517}\right),\frac{1}{10} \left(23+3 \sqrt{517}\right)\right\}$

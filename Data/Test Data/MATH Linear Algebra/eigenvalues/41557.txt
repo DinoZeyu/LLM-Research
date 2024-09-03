@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 7 & \frac{31}{5} & -\frac{4}{5} \\
+ -\frac{2}{5} & -\frac{12}{5} & -7 \\
+ -10 & -\frac{8}{5} & -\frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.056-2.205 i,-7.056+2.205 i,9.312\}$

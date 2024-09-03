@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{6}{5} & \frac{2}{5} & \frac{36}{5} \\
+ -\frac{14}{5} & -2 & -\frac{12}{5} \\
+ -\frac{33}{5} & \frac{36}{5} & -\frac{37}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-4.327,-3.136-7.417 i,-3.136+7.417 i\}$

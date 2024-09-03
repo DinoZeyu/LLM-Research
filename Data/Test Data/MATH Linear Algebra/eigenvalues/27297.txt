@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & -\frac{11}{2} \\
+ -\frac{5}{2} & -\frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2 \left(-1-\sqrt{14}\right),2 \left(\sqrt{14}-1\right)\right\}$

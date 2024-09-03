@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{31}{5} \\
+ -\frac{29}{5} & \frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{14}{5},\frac{46}{5}\right\}$

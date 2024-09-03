@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & -\frac{17}{2} \\
+ 5 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(8-i \sqrt{26}\right),\frac{1}{2} \left(8+i \sqrt{26}\right)\right\}$

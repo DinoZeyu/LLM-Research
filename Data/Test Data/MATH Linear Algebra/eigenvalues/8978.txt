@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 1 & \frac{13}{2} & -6 \\
+ \frac{15}{2} & 10 & -\frac{1}{2} \\
+ \frac{11}{2} & 0 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\{0.689,4.706,12.605\}$

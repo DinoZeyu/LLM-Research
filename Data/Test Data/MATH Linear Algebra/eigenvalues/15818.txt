@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{48}{5} & -\frac{21}{5} \\
+ -\frac{4}{5} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-53-\sqrt{2185}\right),\frac{1}{10} \left(\sqrt{2185}-53\right)\right\}$

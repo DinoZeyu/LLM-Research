@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -2 \\
+ 7 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-i \sqrt{10},-3+i \sqrt{10}\right\}$

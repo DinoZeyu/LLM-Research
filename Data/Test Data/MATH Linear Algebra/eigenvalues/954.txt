@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 6 \\
+ -5 & \frac{19}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(13-i \sqrt{455}\right),\frac{1}{6} \left(13+i \sqrt{455}\right)\right\}$

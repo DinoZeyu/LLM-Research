@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{2} & \frac{9}{2} \\
+ 8 & -\frac{7}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(31-3 \sqrt{481}\right),\frac{1}{8} \left(31+3 \sqrt{481}\right)\right\}$

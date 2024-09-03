@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{26}{5} & -\frac{34}{5} \\
+ -\frac{42}{5} & -\frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-10-\sqrt{366}\right),\frac{2}{5} \left(\sqrt{366}-10\right)\right\}$

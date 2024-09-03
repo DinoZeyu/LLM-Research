@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -6 \\
+ -\frac{22}{5} & \frac{23}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-11-2 \sqrt{454}\right),\frac{1}{5} \left(2 \sqrt{454}-11\right)\right\}$

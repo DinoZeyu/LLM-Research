@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{17}{5} \\
+ -\frac{36}{5} & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(3-i \sqrt{19}\right),\frac{3}{5} \left(3+i \sqrt{19}\right)\right\}$

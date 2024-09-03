@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -7 \\
+ 7 & -\frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{4}{3} \left(-5-i \sqrt{26}\right),\frac{4}{3} \left(-5+i \sqrt{26}\right)\right\}$

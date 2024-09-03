@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & \frac{37}{4} \\
+ 0 & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{13}{2},\frac{15}{2}\right\}$

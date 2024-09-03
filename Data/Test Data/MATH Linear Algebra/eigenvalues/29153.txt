@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{4} & \frac{19}{2} \\
+ \frac{9}{2} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(55-\sqrt{2737}\right),\frac{1}{8} \left(55+\sqrt{2737}\right)\right\}$

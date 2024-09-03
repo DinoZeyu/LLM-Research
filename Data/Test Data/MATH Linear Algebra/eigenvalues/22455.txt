@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & \frac{29}{4} \\
+ -\frac{17}{2} & -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-11-i \sqrt{905}\right),\frac{1}{4} \left(-11+i \sqrt{905}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{3} & -7 \\
+ -\frac{17}{3} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(29-\sqrt{1717}\right),\frac{1}{6} \left(29+\sqrt{1717}\right)\right\}$

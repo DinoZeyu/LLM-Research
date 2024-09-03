@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{4} & \frac{1}{2} \\
+ 10 & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(9-\sqrt{105}\right),\frac{3}{8} \left(9+\sqrt{105}\right)\right\}$

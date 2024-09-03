@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & \frac{23}{3} \\
+ \frac{8}{3} & -\frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-41-\sqrt{857}\right),\frac{1}{6} \left(\sqrt{857}-41\right)\right\}$

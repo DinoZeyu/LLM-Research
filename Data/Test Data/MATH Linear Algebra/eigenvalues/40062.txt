@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{31}{5} & -\frac{22}{5} & -\frac{1}{5} \\
+ -8 & 5 & \frac{32}{5} \\
+ -\frac{6}{5} & 8 & -\frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.599,2.968,13.631\}$

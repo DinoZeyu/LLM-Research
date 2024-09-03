@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & \frac{1}{5} \\
+ 9 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{7}{10} \left(5-3 \sqrt{5}\right),\frac{7}{10} \left(5+3 \sqrt{5}\right)\right\}$

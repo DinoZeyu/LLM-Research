@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{2} & -\frac{19}{2} \\
+ -\frac{31}{4} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(7-\sqrt{131}\right),\frac{3}{4} \left(7+\sqrt{131}\right)\right\}$

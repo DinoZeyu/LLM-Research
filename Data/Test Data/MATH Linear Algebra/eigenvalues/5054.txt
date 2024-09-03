@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{31}{4} & -\frac{21}{4} & 9 \\
+ -\frac{31}{4} & -\frac{13}{4} & 8 \\
+ -5 & 9 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\{-15.396,5.448\, -2.166 i,5.448\, +2.166 i\}$

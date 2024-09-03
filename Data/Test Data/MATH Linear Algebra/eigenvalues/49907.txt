@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{22}{5} & -\frac{16}{5} & -8 \\
+ \frac{29}{5} & \frac{2}{5} & -\frac{42}{5} \\
+ 0 & -\frac{42}{5} & \frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-1.827-3.072 i,-1.827+3.072 i,12.254\}$

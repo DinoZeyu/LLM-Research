@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{8}{5} & -10 \\
+ -\frac{11}{5} & \frac{41}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(33-\sqrt{4601}\right),\frac{1}{10} \left(33+\sqrt{4601}\right)\right\}$

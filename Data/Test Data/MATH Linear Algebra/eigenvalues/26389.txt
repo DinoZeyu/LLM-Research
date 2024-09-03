@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{43}{5} & \frac{3}{5} \\
+ \frac{28}{5} & -\frac{32}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-75-\sqrt{457}\right),\frac{1}{10} \left(\sqrt{457}-75\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{2} & \frac{1}{2} \\
+ \frac{5}{2} & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-12-\sqrt{6}\right),\frac{1}{2} \left(\sqrt{6}-12\right)\right\}$

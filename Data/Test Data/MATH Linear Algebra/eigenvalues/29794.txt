@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{1}{2} \\
+ -\frac{9}{2} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-5-4 \sqrt{10}\right),\frac{1}{2} \left(4 \sqrt{10}-5\right)\right\}$

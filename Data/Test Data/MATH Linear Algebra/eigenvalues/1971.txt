@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -5 \\
+ -6 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{39},\sqrt{39}-5\right\}$

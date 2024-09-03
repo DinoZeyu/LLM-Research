@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -\frac{37}{5} \\
+ -8 & \frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(83-\sqrt{6089}\right),\frac{1}{10} \left(83+\sqrt{6089}\right)\right\}$

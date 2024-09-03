@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{5} & -\frac{2}{5} \\
+ \frac{31}{5} & \frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(5-i \sqrt{58}\right),\frac{1}{5} \left(5+i \sqrt{58}\right)\right\}$

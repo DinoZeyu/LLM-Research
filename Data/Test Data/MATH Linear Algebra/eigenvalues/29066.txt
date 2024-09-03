@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 8 \\
+ 8 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{4 \left(-1-\sqrt{5}\right),4 \left(\sqrt{5}-1\right)\right\}$

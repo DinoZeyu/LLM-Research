@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{4}{5} & -\frac{1}{5} \\
+ -5 & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-24-5 \sqrt{17}\right),\frac{1}{5} \left(5 \sqrt{17}-24\right)\right\}$

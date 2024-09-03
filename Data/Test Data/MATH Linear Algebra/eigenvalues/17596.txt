@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{5} & \frac{13}{5} \\
+ -\frac{31}{5} & -\frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(15-19 i \sqrt{3}\right),\frac{1}{10} \left(15+19 i \sqrt{3}\right)\right\}$

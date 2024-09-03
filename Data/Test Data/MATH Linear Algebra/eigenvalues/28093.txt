@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{33}{4} & -8 \\
+ -4 & -\frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-22-\sqrt{633}\right),\frac{1}{4} \left(\sqrt{633}-22\right)\right\}$

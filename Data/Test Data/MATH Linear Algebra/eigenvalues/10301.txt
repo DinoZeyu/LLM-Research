@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{23}{3} \\
+ 8 & -\frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-41-\sqrt{2233}\right),\frac{1}{6} \left(\sqrt{2233}-41\right)\right\}$

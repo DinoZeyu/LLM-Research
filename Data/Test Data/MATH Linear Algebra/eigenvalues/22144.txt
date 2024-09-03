@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & 9 \\
+ 10 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{91},\sqrt{91}-5\right\}$

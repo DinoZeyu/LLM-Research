@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{28}{5} & -1 \\
+ \frac{23}{5} & -\frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-37-3 i \sqrt{11}\right),\frac{1}{10} \left(-37+3 i \sqrt{11}\right)\right\}$

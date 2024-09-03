@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -\frac{29}{3} \\
+ \frac{5}{3} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(39-i \sqrt{355}\right),\frac{1}{6} \left(39+i \sqrt{355}\right)\right\}$

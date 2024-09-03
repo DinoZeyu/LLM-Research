@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{35}{4} & 3 \\
+ \frac{33}{4} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-73-3 \sqrt{177}\right),\frac{1}{8} \left(3 \sqrt{177}-73\right)\right\}$

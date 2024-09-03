@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 10 \\
+ -4 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{8-i \sqrt{39},8+i \sqrt{39}\right\}$

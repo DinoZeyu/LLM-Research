@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 2 \\
+ \frac{13}{2} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-\sqrt{17},\sqrt{17}-4\right\}$

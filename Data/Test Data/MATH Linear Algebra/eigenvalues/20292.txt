@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{43}{5} & 5 \\
+ \frac{47}{5} & -\frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-59-\sqrt{5429}\right),\frac{1}{10} \left(\sqrt{5429}-59\right)\right\}$

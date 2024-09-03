@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & \frac{7}{2} \\
+ 8 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-4 \sqrt{2},3+4 \sqrt{2}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -8 \\
+ 4 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{8-i \sqrt{31},8+i \sqrt{31}\right\}$

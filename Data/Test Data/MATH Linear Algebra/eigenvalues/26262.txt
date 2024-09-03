@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{3}{5} & -\frac{9}{5} \\
+ \frac{18}{5} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(37-\sqrt{1201}\right),\frac{1}{10} \left(37+\sqrt{1201}\right)\right\}$

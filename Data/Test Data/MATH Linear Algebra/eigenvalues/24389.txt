@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{5} & -\frac{41}{5} \\
+ -6 & -\frac{34}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-33-\sqrt{6145}\right),\frac{1}{10} \left(\sqrt{6145}-33\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{5}{4} & -1 \\
+ -\frac{39}{4} & \frac{7}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(6-\sqrt{157}\right),\frac{1}{4} \left(6+\sqrt{157}\right)\right\}$

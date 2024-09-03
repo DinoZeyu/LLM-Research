@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & \frac{16}{3} \\
+ -1 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(3-\sqrt{537}\right),\frac{1}{6} \left(3+\sqrt{537}\right)\right\}$

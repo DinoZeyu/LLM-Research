@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{16}{5} \\
+ -\frac{39}{5} & -\frac{46}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-61-\sqrt{3457}\right),\frac{1}{10} \left(\sqrt{3457}-61\right)\right\}$

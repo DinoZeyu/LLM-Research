@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{5} & \frac{44}{5} \\
+ \frac{39}{5} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-67-\sqrt{7953}\right),\frac{1}{10} \left(\sqrt{7953}-67\right)\right\}$

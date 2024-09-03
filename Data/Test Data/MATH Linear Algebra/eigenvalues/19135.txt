@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -4 \\
+ 10 & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(11-i \sqrt{159}\right),\frac{1}{2} \left(11+i \sqrt{159}\right)\right\}$

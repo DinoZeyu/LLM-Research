@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{8}{5} & 4 & -\frac{11}{5} \\
+ -7 & \frac{23}{5} & -\frac{31}{5} \\
+ 1 & \frac{17}{5} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\{3.334\, -5.284 i,3.334\, +5.284 i,4.331\}$

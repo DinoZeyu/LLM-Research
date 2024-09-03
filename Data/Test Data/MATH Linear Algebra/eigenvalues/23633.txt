@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{22}{3} \\
+ \frac{11}{3} & -\frac{22}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{3} \left(-20-\sqrt{246}\right),\frac{1}{3} \left(\sqrt{246}-20\right)\right\}$

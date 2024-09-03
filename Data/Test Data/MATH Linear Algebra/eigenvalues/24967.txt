@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 4 \\
+ -\frac{5}{3} & \frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(19-i \sqrt{215}\right),\frac{1}{6} \left(19+i \sqrt{215}\right)\right\}$

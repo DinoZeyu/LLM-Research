@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & -4 \\
+ 7 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-9-\sqrt{281}\right),\frac{1}{4} \left(\sqrt{281}-9\right)\right\}$

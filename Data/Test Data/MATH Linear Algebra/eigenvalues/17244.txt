@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{4} & -\frac{1}{4} \\
+ \frac{21}{4} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(27-\sqrt{277}\right),\frac{1}{8} \left(27+\sqrt{277}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{3} & 2 \\
+ \frac{11}{3} & \frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-\sqrt{2289}\right),\frac{1}{6} \left(\sqrt{2289}-13\right)\right\}$

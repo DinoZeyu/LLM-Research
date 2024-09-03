@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{4}{5} & \frac{2}{5} \\
+ -\frac{2}{5} & -\frac{49}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-53-7 \sqrt{41}\right),\frac{1}{10} \left(7 \sqrt{41}-53\right)\right\}$

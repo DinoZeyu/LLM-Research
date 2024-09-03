@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & 3 \\
+ 6 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-3 \sqrt{11},1+3 \sqrt{11}\right\}$

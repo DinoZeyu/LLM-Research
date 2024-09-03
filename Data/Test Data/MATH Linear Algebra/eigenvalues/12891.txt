@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -\frac{1}{2} \\
+ \frac{7}{2} & \frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(35-\sqrt{249}\right),\frac{1}{8} \left(35+\sqrt{249}\right)\right\}$

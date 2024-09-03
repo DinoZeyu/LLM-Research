@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & \frac{3}{2} \\
+ \frac{13}{4} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-2-\sqrt{402}\right),\frac{1}{4} \left(\sqrt{402}-2\right)\right\}$

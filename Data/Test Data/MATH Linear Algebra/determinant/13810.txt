@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{3}{10} & -\frac{11}{5} & -\frac{7}{10} \\
+ -\frac{19}{10} & \frac{7}{2} & -\frac{9}{2} \\
+ \frac{13}{5} & \frac{22}{5} & -\frac{7}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{46093}{1000}$

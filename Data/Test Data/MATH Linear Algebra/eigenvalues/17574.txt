@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{43}{5} & \frac{16}{5} \\
+ -\frac{33}{5} & -\frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-67-i \sqrt{1751}\right),\frac{1}{10} \left(-67+i \sqrt{1751}\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 4 & 5 & 0 \\
+ 2 & 3 & 8 \\
+ -6 & 1 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.176,5.088\, -3.624 i,5.088\, +3.624 i\}$

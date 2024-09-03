@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{43}{5} & \frac{22}{5} & \frac{23}{5} \\
+ -\frac{26}{5} & -\frac{37}{5} & \frac{1}{5} \\
+ 3 & -6 & -\frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.615-3.528 i,-5.615+3.528 i,9.031\}$

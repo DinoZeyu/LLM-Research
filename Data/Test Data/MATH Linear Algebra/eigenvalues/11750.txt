@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & \frac{15}{2} \\
+ -6 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-2 i \sqrt{11},-5+2 i \sqrt{11}\right\}$

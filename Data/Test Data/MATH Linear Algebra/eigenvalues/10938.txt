@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{13}{4} \\
+ \frac{1}{2} & -\frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-33-\sqrt{329}\right),\frac{1}{8} \left(\sqrt{329}-33\right)\right\}$

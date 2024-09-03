@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{22}{5} \\
+ -\frac{39}{5} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-30-\sqrt{883}\right),\frac{1}{5} \left(\sqrt{883}-30\right)\right\}$

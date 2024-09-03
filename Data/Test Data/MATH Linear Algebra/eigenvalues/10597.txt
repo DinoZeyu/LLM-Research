@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -\frac{29}{4} \\
+ \frac{33}{4} & \frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(41-i \sqrt{3299}\right),\frac{1}{8} \left(41+i \sqrt{3299}\right)\right\}$

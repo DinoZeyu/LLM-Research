@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{2} & \frac{13}{2} \\
+ \frac{15}{2} & -\frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{51},\sqrt{51}-5\right\}$

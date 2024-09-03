@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{2} & -\frac{17}{2} \\
+ 9 & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{185}}{2},\frac{i \sqrt{185}}{2}\right\}$

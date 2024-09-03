@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & -4 \\
+ 3 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-17-\sqrt{249}\right),\frac{1}{4} \left(\sqrt{249}-17\right)\right\}$

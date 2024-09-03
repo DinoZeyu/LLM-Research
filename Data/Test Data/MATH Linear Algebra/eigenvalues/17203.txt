@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{14}{3} & -\frac{13}{3} \\
+ 8 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(35-i \sqrt{1199}\right),\frac{1}{6} \left(35+i \sqrt{1199}\right)\right\}$

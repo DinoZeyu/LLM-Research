@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -\frac{3}{4} \\
+ \frac{29}{4} & \frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(21-i \sqrt{38}\right),\frac{1}{4} \left(21+i \sqrt{38}\right)\right\}$

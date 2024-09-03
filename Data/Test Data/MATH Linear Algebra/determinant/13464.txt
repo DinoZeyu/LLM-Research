@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{13}{3} & \frac{11}{3} & -\frac{11}{6} \\
+ -\frac{11}{3} & 0 & \frac{4}{3} \\
+ 4 & \frac{23}{6} & \frac{11}{6} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{5165}{108}$

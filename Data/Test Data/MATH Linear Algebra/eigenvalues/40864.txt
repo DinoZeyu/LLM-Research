@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -7 & -\frac{13}{3} & -\frac{25}{3} \\
+ 4 & -8 & 0 \\
+ -\frac{13}{3} & -8 & -\frac{5}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.009-5.397 i,-10.009+5.397 i,3.351\}$

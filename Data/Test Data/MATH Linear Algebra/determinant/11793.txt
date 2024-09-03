@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{8}{5} & \frac{41}{10} \\
+ -\frac{21}{5} & -\frac{11}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{773}{50}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 5 \\
+ \frac{3}{2} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{2},8\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{4} & \frac{15}{2} \\
+ \frac{39}{4} & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-41-3 \sqrt{569}\right),\frac{1}{8} \left(3 \sqrt{569}-41\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & 7 \\
+ 7 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-\sqrt{53},\sqrt{53}-2\right\}$

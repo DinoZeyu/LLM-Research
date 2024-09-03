@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & \frac{19}{2} \\
+ -\frac{9}{2} & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(5-9 \sqrt{5}\right),\frac{1}{4} \left(5+9 \sqrt{5}\right)\right\}$

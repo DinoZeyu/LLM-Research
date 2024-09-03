@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -9 \\
+ -5 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{109},\sqrt{109}\right\}$

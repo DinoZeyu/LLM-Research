@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & \frac{13}{2} \\
+ -1 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-i \sqrt{\frac{5}{2}},i \sqrt{\frac{5}{2}}\right\}$

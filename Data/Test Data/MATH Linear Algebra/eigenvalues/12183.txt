@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{4} & \frac{11}{2} \\
+ \frac{19}{4} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-59-\sqrt{1697}\right),\frac{1}{8} \left(\sqrt{1697}-59\right)\right\}$

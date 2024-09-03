@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{2} & -8 \\
+ -\frac{33}{4} & \frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(25-\sqrt{7033}\right),\frac{1}{8} \left(25+\sqrt{7033}\right)\right\}$

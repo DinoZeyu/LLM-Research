@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{21}{5} & \frac{31}{5} \\
+ -\frac{21}{5} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(3-i \sqrt{327}\right),\frac{1}{5} \left(3+i \sqrt{327}\right)\right\}$

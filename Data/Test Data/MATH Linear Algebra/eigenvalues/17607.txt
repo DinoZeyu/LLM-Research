@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{32}{5} & \frac{22}{5} \\
+ \frac{16}{5} & \frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-15-\sqrt{3809}\right),\frac{1}{10} \left(\sqrt{3809}-15\right)\right\}$

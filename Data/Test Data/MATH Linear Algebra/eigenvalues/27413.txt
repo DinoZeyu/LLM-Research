@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -2 \\
+ 8 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\{5,5\}$

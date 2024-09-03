@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{35}{4} & -\frac{1}{4} \\
+ -\frac{29}{4} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(17-\sqrt{53}\right),\frac{3}{8} \left(17+\sqrt{53}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 6 \\
+ -8 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(19-i \sqrt{191}\right),\frac{1}{2} \left(19+i \sqrt{191}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{4} & \frac{21}{4} \\
+ \frac{19}{2} & \frac{17}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-4-\sqrt{1239}\right),\frac{1}{4} \left(\sqrt{1239}-4\right)\right\}$

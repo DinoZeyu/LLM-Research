@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{33}{4} & -\frac{1}{2} \\
+ -6 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(61-\sqrt{217}\right),\frac{1}{8} \left(61+\sqrt{217}\right)\right\}$

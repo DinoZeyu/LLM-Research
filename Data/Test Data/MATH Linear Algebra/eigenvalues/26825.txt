@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{3} & \frac{22}{3} \\
+ \frac{26}{3} & -\frac{2}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-1-\sqrt{143}\right),\frac{2}{3} \left(\sqrt{143}-1\right)\right\}$

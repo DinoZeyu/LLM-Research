@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & 3 \\
+ -\frac{34}{5} & \frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2,\frac{9}{5}\right\}$

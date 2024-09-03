@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{32}{5} & -\frac{9}{5} \\
+ -\frac{6}{5} & \frac{13}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(45-\sqrt{577}\right),\frac{1}{10} \left(45+\sqrt{577}\right)\right\}$

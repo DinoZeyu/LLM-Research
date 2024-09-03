@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -8 & \frac{39}{4} & \frac{13}{4} \\
+ -8 & -6 & \frac{17}{4} \\
+ -\frac{21}{4} & \frac{13}{2} & \frac{17}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.321-7.249 i,-6.321+7.249 i,2.893\}$

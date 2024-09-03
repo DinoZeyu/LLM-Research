@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 10 & \frac{14}{3} & 2 \\
+ \frac{17}{3} & 3 & -\frac{19}{3} \\
+ -2 & 3 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\{-0.367-4.771 i,-0.367+4.771 i,12.734\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & 1 \\
+ \frac{29}{4} & -\frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-13-\sqrt{2145}\right),\frac{1}{8} \left(\sqrt{2145}-13\right)\right\}$

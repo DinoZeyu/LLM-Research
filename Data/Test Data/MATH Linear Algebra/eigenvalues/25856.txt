@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{4} & -4 \\
+ -\frac{23}{4} & \frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(3-2 \sqrt{93}\right),\frac{1}{4} \left(3+2 \sqrt{93}\right)\right\}$

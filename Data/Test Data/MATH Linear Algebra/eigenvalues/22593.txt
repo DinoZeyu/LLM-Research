@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{44}{5} \\
+ -\frac{19}{5} & \frac{29}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-3-2 \sqrt{465}\right),\frac{1}{5} \left(2 \sqrt{465}-3\right)\right\}$

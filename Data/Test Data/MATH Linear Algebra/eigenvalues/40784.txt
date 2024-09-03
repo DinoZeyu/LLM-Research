@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{3}{2} & \frac{3}{2} & -\frac{3}{2} \\
+ \frac{17}{2} & 4 & 3 \\
+ \frac{5}{2} & 10 & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.752,5.451,8.801\}$

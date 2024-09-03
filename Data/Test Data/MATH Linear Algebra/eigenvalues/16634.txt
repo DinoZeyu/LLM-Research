@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{20}{3} & \frac{29}{3} \\
+ \frac{10}{3} & \frac{20}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{\frac{230}{3}},\sqrt{\frac{230}{3}}\right\}$

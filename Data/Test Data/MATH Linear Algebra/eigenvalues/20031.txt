@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{4} & -\frac{1}{2} \\
+ -\frac{17}{4} & -\frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-18-\sqrt{115}\right),\frac{1}{4} \left(\sqrt{115}-18\right)\right\}$

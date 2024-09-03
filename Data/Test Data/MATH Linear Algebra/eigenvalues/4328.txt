@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{4} & \frac{1}{4} \\
+ -7 & \frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(5-6 \sqrt{21}\right),\frac{1}{4} \left(5+6 \sqrt{21}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -\frac{43}{5} \\
+ -\frac{24}{5} & -\frac{38}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-3-7 \sqrt{193}\right),\frac{1}{10} \left(7 \sqrt{193}-3\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -8 \\
+ -5 & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{4-\sqrt{41},4+\sqrt{41}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{26}{3} & -\frac{29}{3} \\
+ -\frac{16}{3} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(53-\sqrt{1857}\right),\frac{1}{6} \left(53+\sqrt{1857}\right)\right\}$

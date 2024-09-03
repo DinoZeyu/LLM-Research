@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{5} & 1 \\
+ \frac{34}{5} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-17-\sqrt{2049}\right),\frac{1}{10} \left(\sqrt{2049}-17\right)\right\}$

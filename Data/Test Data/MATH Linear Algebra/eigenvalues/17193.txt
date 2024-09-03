@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{4} & -\frac{1}{4} \\
+ \frac{15}{4} & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-28-\sqrt{66}\right),\frac{1}{4} \left(\sqrt{66}-28\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{5} & -1 \\
+ -\frac{29}{5} & -\frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-25-\sqrt{1541}\right),\frac{1}{10} \left(\sqrt{1541}-25\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 3 \\
+ 3 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3 \left(-1-\sqrt{5}\right),3 \left(\sqrt{5}-1\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -8 \\
+ -\frac{1}{5} & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(8-\sqrt{59}\right),\frac{2}{5} \left(8+\sqrt{59}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{43}{5} \\
+ -5 & \frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(7-\sqrt{479}\right),\frac{2}{5} \left(7+\sqrt{479}\right)\right\}$

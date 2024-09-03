@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & \frac{1}{2} \\
+ \frac{15}{2} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-4-\sqrt{31}\right),\frac{1}{2} \left(\sqrt{31}-4\right)\right\}$

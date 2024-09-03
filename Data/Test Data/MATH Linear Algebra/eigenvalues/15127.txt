@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{4} & -\frac{35}{4} \\
+ 4 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-31-i \sqrt{2159}\right),\frac{1}{8} \left(-31+i \sqrt{2159}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{42}{5} & 5 \\
+ \frac{1}{5} & -\frac{49}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-7-17 \sqrt{29}\right),\frac{1}{10} \left(17 \sqrt{29}-7\right)\right\}$

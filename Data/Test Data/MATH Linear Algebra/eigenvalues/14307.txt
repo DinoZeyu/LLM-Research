@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{2} & 7 \\
+ -4 & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-5-2 i \sqrt{19}\right),\frac{1}{2} \left(-5+2 i \sqrt{19}\right)\right\}$

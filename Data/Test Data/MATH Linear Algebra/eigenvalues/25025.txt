@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{47}{5} & 2 \\
+ -6 & \frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(95-i \sqrt{1199}\right),\frac{1}{10} \left(95+i \sqrt{1199}\right)\right\}$

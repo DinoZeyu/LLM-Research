@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & -\frac{29}{3} \\
+ -\frac{22}{3} & -\frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(23-\sqrt{3921}\right),\frac{1}{6} \left(23+\sqrt{3921}\right)\right\}$

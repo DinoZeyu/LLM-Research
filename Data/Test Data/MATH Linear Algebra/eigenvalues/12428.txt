@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{5}{2} & -\frac{17}{2} \\
+ -8 & \frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(4-\sqrt{273}\right),\frac{1}{2} \left(4+\sqrt{273}\right)\right\}$

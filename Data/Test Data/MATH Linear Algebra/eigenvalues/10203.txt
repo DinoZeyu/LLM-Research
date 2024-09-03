@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & \frac{21}{5} \\
+ -\frac{4}{5} & \frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(17-2 i \sqrt{3}\right),\frac{2}{5} \left(17+2 i \sqrt{3}\right)\right\}$

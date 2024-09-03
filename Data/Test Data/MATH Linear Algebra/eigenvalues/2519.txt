@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{38}{5} & -6 \\
+ 9 & -\frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-59-i \sqrt{5111}\right),\frac{1}{10} \left(-59+i \sqrt{5111}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -\frac{11}{5} \\
+ \frac{14}{5} & \frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(13-i \sqrt{145}\right),\frac{1}{5} \left(13+i \sqrt{145}\right)\right\}$

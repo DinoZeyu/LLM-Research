@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{11}{4} \\
+ -\frac{3}{4} & \frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-3-\sqrt{573}\right),\frac{1}{8} \left(\sqrt{573}-3\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 10 \\
+ 3 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-\sqrt{46},\sqrt{46}-4\right\}$

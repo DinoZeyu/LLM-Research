@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{9}{2} \\
+ -\frac{1}{2} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(16-\sqrt{13}\right),\frac{1}{2} \left(16+\sqrt{13}\right)\right\}$

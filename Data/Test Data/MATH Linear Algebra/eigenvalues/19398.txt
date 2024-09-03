@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{5} & 3 \\
+ \frac{6}{5} & -\frac{29}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-1-\sqrt{874}\right),\frac{1}{5} \left(\sqrt{874}-1\right)\right\}$

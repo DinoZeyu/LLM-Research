@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & -8 \\
+ -6 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(19-\sqrt{793}\right),\frac{1}{4} \left(19+\sqrt{793}\right)\right\}$

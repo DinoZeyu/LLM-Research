@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & \frac{7}{2} \\
+ 4 & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-9-\sqrt{305}\right),\frac{1}{4} \left(\sqrt{305}-9\right)\right\}$

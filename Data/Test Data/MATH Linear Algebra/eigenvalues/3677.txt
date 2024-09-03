@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{4} & -\frac{33}{4} \\
+ 8 & -\frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-6-i \sqrt{1007}\right),\frac{1}{4} \left(-6+i \sqrt{1007}\right)\right\}$

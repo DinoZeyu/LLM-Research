@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{31}{4} \\
+ 2 & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(31-3 \sqrt{33}\right),\frac{1}{4} \left(31+3 \sqrt{33}\right)\right\}$

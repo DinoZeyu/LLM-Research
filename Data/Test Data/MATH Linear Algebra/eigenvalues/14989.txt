@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{2}{3} \\
+ -\frac{17}{3} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-27-\sqrt{145}\right),\frac{1}{6} \left(\sqrt{145}-27\right)\right\}$

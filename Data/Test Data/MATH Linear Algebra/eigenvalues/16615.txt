@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{41}{5} \\
+ 8 & \frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-13,\frac{37}{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{22}{3} \\
+ -\frac{25}{3} & \frac{14}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(41-i \sqrt{2031}\right),\frac{1}{6} \left(41+i \sqrt{2031}\right)\right\}$

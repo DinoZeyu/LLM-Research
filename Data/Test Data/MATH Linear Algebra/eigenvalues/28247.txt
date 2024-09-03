@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{28}{3} & -\frac{4}{3} \\
+ -\frac{22}{3} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(4-\sqrt{122}\right),\frac{2}{3} \left(4+\sqrt{122}\right)\right\}$

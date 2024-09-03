@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{7}{6} & 0 & \frac{7}{2} \\
+ \frac{9}{2} & -\frac{23}{6} & -\frac{13}{3} \\
+ \frac{14}{3} & 1 & -\frac{13}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{1456}{27}$

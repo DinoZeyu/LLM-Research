@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{29}{4} \\
+ -\frac{5}{2} & \frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-13-\sqrt{1441}\right),\frac{1}{8} \left(\sqrt{1441}-13\right)\right\}$

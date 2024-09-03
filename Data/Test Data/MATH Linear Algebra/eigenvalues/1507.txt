@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{2} & \frac{31}{4} \\
+ \frac{11}{2} & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-14-\sqrt{826}\right),\frac{1}{4} \left(\sqrt{826}-14\right)\right\}$

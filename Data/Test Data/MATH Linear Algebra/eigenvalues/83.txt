@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{5} & -5 \\
+ -\frac{32}{5} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-89-9 \sqrt{41}\right),\frac{1}{10} \left(9 \sqrt{41}-89\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{24}{5} & -\frac{14}{5} & \frac{34}{5} \\
+ 10 & \frac{39}{5} & 0 \\
+ -6 & \frac{13}{5} & \frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{4.257\, -8.541 i,4.257\, +8.541 i,8.885\}$

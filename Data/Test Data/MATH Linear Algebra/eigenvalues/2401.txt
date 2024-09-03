@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 1 \\
+ \frac{20}{3} & -\frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-9,-\frac{4}{3}\right\}$

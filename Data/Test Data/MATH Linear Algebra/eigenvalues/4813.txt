@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{4} & -\frac{21}{4} \\
+ \frac{19}{4} & -\frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-24-i \sqrt{374}\right),\frac{1}{4} \left(-24+i \sqrt{374}\right)\right\}$

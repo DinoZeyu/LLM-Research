@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{37}{5} & -\frac{26}{5} & 0 \\
+ 2 & -\frac{46}{5} & -\frac{19}{5} \\
+ -\frac{46}{5} & 2 & -\frac{37}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.819,-5.239,5.857\}$

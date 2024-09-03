@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{5} & \frac{47}{5} \\
+ \frac{42}{5} & -\frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-7-\sqrt{2074}\right),\frac{1}{5} \left(\sqrt{2074}-7\right)\right\}$

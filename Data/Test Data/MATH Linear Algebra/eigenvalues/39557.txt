@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{21}{4} & -\frac{23}{4} & -\frac{37}{4} \\
+ 5 & -5 & -\frac{9}{4} \\
+ \frac{21}{4} & \frac{23}{4} & -\frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.879,-5.561-9.315 i,-5.561+9.315 i\}$

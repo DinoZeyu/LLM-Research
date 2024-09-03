@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{15}{2} \\
+ 10 & \frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(19-5 i \sqrt{47}\right),\frac{1}{4} \left(19+5 i \sqrt{47}\right)\right\}$

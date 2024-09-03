@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{22}{5} & \frac{22}{5} \\
+ -9 & -\frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-29-3 i \sqrt{415}\right),\frac{1}{10} \left(-29+3 i \sqrt{415}\right)\right\}$

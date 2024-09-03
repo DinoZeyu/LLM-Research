@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{48}{5} & -\frac{37}{5} \\
+ \frac{34}{5} & -\frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{1046}}{5},\frac{\sqrt{1046}}{5}\right\}$

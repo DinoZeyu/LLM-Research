@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{5} & 5 \\
+ 9 & \frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(2-3 \sqrt{134}\right),\frac{1}{5} \left(2+3 \sqrt{134}\right)\right\}$

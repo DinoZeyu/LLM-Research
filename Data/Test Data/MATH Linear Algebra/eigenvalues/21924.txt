@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{2} & \frac{9}{2} \\
+ -\frac{13}{2} & \frac{1}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-1-9 i \sqrt{23}\right),\frac{1}{8} \left(-1+9 i \sqrt{23}\right)\right\}$

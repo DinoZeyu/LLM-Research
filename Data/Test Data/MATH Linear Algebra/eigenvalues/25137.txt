@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{12}{5} & -\frac{48}{5} \\
+ -\frac{43}{5} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(7-\sqrt{685}\right),\frac{2}{5} \left(7+\sqrt{685}\right)\right\}$

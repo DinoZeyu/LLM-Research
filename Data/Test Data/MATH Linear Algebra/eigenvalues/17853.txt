@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & 9 \\
+ 3 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-8-\sqrt{31},\sqrt{31}-8\right\}$

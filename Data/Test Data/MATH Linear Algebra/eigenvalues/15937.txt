@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 7 \\
+ 5 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{6-\sqrt{39},6+\sqrt{39}\right\}$

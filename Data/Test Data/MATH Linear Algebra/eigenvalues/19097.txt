@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{5} & \frac{28}{5} \\
+ \frac{32}{5} & -\frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-47-\sqrt{3945}\right),\frac{1}{10} \left(\sqrt{3945}-47\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & 9 \\
+ 9 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-3 \sqrt{10},3 \sqrt{10}-2\right\}$

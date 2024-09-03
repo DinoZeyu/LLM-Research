@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{5} & \frac{21}{5} \\
+ -\frac{11}{5} & \frac{39}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(24-i \sqrt{6}\right),\frac{1}{5} \left(24+i \sqrt{6}\right)\right\}$

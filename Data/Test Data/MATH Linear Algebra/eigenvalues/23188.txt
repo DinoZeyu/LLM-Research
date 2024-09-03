@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{4} & -4 \\
+ 3 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(23-i \sqrt{543}\right),\frac{1}{8} \left(23+i \sqrt{543}\right)\right\}$

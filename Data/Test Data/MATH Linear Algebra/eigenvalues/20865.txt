@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{5} & -\frac{24}{5} \\
+ -7 & \frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{7}{5},\frac{51}{5}\right\}$

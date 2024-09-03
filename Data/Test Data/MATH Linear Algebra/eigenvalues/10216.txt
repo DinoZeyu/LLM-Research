@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{2} & \frac{5}{2} \\
+ -\frac{5}{2} & \frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{5-2 i,5+2 i\}$

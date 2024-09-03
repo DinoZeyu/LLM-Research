@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & 9 \\
+ 1 & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2} \left(4-\sqrt{5}\right),\frac{3}{2} \left(4+\sqrt{5}\right)\right\}$

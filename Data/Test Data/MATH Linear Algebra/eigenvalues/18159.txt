@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -7 \\
+ -3 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-\sqrt{57},2+\sqrt{57}\right\}$

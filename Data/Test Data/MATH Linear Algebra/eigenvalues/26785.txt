@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -\frac{1}{2} \\
+ \frac{7}{4} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-2-\sqrt{86}\right),\frac{1}{4} \left(\sqrt{86}-2\right)\right\}$

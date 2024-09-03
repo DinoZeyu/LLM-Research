@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & -\frac{11}{2} \\
+ 9 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(19-9 i \sqrt{7}\right),\frac{1}{4} \left(19+9 i \sqrt{7}\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{5}{3} & -\frac{17}{3} & -10 \\
+ 3 & -\frac{7}{3} & -7 \\
+ -\frac{2}{3} & -\frac{7}{3} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.724,-1.138-2.861 i,-1.138+2.861 i\}$

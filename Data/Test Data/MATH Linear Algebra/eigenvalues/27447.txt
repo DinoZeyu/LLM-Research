@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -8 \\
+ \frac{24}{5} & \frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(81-i \sqrt{3759}\right),\frac{1}{10} \left(81+i \sqrt{3759}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{7}{4} \\
+ 2 & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-13-\sqrt{3945}\right),\frac{1}{8} \left(\sqrt{3945}-13\right)\right\}$

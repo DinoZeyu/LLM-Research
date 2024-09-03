@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 7 & \frac{5}{4} & -\frac{31}{4} \\
+ 4 & \frac{15}{2} & -4 \\
+ 7 & 6 & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{4.633,9.683\, -8.944 i,9.683\, +8.944 i\}$

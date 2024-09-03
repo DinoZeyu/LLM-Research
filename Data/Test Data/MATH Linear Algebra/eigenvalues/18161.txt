@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{27}{4} \\
+ -\frac{33}{4} & \frac{21}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(-1-3 \sqrt{69}\right),\frac{3}{8} \left(3 \sqrt{69}-1\right)\right\}$

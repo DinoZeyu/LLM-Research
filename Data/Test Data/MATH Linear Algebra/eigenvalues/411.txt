@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{41}{5} & -\frac{43}{5} \\
+ -\frac{34}{5} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(3-\sqrt{2906}\right),\frac{1}{5} \left(3+\sqrt{2906}\right)\right\}$

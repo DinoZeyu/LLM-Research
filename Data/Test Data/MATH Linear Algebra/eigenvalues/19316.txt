@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -5 \\
+ 2 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-\sqrt{6},5+\sqrt{6}\right\}$

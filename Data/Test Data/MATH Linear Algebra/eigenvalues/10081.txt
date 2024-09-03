@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & \frac{18}{5} \\
+ \frac{49}{5} & -\frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-13-\sqrt{4057}\right),\frac{1}{10} \left(\sqrt{4057}-13\right)\right\}$

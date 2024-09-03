@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -7 \\
+ \frac{22}{5} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-i \sqrt{\frac{29}{5}},i \sqrt{\frac{29}{5}}\right\}$

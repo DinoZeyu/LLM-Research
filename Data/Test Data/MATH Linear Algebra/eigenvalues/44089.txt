@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{17}{5} & -\frac{29}{5} & \frac{43}{5} \\
+ \frac{39}{5} & 5 & -\frac{37}{5} \\
+ \frac{21}{5} & -\frac{42}{5} & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-14.144,4.272\, -4.587 i,4.272\, +4.587 i\}$

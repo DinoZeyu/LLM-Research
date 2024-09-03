@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & \frac{23}{3} \\
+ -\frac{13}{3} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(3-5 \sqrt{13}\right),\frac{1}{6} \left(3+5 \sqrt{13}\right)\right\}$

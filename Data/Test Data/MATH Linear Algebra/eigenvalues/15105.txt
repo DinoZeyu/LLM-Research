@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{34}{5} & -\frac{49}{5} \\
+ -\frac{44}{5} & -\frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-25-\sqrt{2237}\right),\frac{1}{5} \left(\sqrt{2237}-25\right)\right\}$

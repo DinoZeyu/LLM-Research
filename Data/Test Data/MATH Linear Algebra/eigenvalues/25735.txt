@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{2} & -\frac{17}{4} \\
+ -\frac{35}{4} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-11-2 \sqrt{149}\right),\frac{1}{4} \left(2 \sqrt{149}-11\right)\right\}$

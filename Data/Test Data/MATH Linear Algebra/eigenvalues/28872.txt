@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -1 \\
+ -\frac{1}{2} & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(1-\sqrt{57}\right),\frac{1}{4} \left(1+\sqrt{57}\right)\right\}$

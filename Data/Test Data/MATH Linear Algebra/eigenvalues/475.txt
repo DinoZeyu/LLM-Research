@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{15}{2} \\
+ -\frac{11}{2} & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(9-\sqrt{885}\right),\frac{1}{4} \left(9+\sqrt{885}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & \frac{15}{2} \\
+ -\frac{3}{2} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-7-i \sqrt{59}\right),\frac{1}{4} \left(-7+i \sqrt{59}\right)\right\}$

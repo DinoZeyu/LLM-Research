@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & \frac{13}{4} \\
+ \frac{13}{2} & -\frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(-9-\sqrt{43}\right),\frac{3}{4} \left(\sqrt{43}-9\right)\right\}$

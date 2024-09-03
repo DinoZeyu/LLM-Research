@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 1 \\
+ \frac{15}{2} & \frac{25}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(17-\sqrt{1569}\right),\frac{1}{8} \left(17+\sqrt{1569}\right)\right\}$

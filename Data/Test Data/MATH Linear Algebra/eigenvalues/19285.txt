@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{5}{2} \\
+ -\frac{5}{4} & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(17-\sqrt{479}\right),\frac{1}{4} \left(17+\sqrt{479}\right)\right\}$

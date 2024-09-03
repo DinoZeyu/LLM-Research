@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & 2 \\
+ 9 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{7-\sqrt{19},7+\sqrt{19}\right\}$

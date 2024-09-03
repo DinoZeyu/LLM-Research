@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{19}{4} \\
+ -\frac{21}{4} & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(15-4 \sqrt{39}\right),\frac{1}{4} \left(15+4 \sqrt{39}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{29}{3} \\
+ 6 & -\frac{10}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-1-\sqrt{2449}\right),\frac{1}{6} \left(\sqrt{2449}-1\right)\right\}$

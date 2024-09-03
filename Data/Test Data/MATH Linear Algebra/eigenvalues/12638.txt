@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{29}{5} \\
+ \frac{26}{5} & \frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-23-\sqrt{4385}\right),\frac{1}{10} \left(\sqrt{4385}-23\right)\right\}$

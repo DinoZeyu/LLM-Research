@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{4} & -\frac{29}{4} \\
+ -\frac{19}{2} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-59-\sqrt{4577}\right),\frac{1}{8} \left(\sqrt{4577}-59\right)\right\}$

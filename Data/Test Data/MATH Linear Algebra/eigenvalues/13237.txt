@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & \frac{16}{3} \\
+ -9 & -\frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-35-i \sqrt{1199}\right),\frac{1}{6} \left(-35+i \sqrt{1199}\right)\right\}$

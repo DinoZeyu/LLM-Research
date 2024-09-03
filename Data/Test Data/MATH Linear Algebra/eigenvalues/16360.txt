@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{5} & \frac{29}{5} \\
+ -\frac{49}{5} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-9-i \sqrt{5603}\right),\frac{1}{10} \left(-9+i \sqrt{5603}\right)\right\}$

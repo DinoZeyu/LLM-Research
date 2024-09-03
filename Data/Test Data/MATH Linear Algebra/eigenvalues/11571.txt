@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{16}{5} & \frac{4}{5} \\
+ -\frac{12}{5} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{32}{5},-\frac{19}{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{2} & \frac{37}{4} \\
+ -10 & -\frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(7-i \sqrt{3895}\right),\frac{1}{8} \left(7+i \sqrt{3895}\right)\right\}$

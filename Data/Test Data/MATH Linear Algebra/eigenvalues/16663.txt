@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{4} & -\frac{9}{4} \\
+ 4 & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-1-i \sqrt{215}\right),\frac{1}{8} \left(-1+i \sqrt{215}\right)\right\}$

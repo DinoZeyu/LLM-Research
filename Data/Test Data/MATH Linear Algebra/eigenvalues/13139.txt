@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 10 \\
+ 3 & -\frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(17-\sqrt{2041}\right),\frac{1}{6} \left(17+\sqrt{2041}\right)\right\}$

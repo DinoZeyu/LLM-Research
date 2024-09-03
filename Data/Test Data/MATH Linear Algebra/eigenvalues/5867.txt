@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{15}{4} & -10 & -8 \\
+ \frac{5}{2} & -7 & -\frac{5}{4} \\
+ -\frac{9}{4} & -\frac{21}{4} & -\frac{17}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.565-4.137 i,-7.565+4.137 i,0.13\}$

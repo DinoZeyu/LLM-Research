@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{4} & -\frac{29}{4} \\
+ \frac{17}{2} & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5,\frac{21}{4}\right\}$

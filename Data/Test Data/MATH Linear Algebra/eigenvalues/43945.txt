@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{20}{3} & -4 & 7 \\
+ \frac{19}{3} & 2 & 6 \\
+ -3 & \frac{2}{3} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\{2.819\, -5.536 i,2.819\, +5.536 i,3.029\}$

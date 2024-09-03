@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{5} & -\frac{19}{5} \\
+ -3 & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-71-\sqrt{1429}\right),\frac{1}{10} \left(\sqrt{1429}-71\right)\right\}$

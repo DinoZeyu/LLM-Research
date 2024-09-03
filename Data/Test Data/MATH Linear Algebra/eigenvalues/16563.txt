@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & \frac{29}{5} \\
+ -\frac{3}{5} & \frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-13-\sqrt{1282}\right),\frac{1}{5} \left(\sqrt{1282}-13\right)\right\}$

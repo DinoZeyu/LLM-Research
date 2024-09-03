@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{4} & \frac{23}{4} \\
+ -\frac{15}{2} & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(1-i \sqrt{2751}\right),\frac{1}{8} \left(1+i \sqrt{2751}\right)\right\}$

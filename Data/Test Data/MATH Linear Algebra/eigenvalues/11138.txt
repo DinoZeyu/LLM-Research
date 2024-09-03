@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -\frac{7}{2} \\
+ -3 & -\frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-37-\sqrt{177}\right),\frac{1}{4} \left(\sqrt{177}-37\right)\right\}$

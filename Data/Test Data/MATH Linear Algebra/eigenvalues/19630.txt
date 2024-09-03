@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 9 \\
+ -\frac{13}{2} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-i \sqrt{233}\right),\frac{1}{2} \left(-3+i \sqrt{233}\right)\right\}$

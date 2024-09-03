@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & \frac{3}{5} \\
+ 2 & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-22-\sqrt{514}\right),\frac{1}{5} \left(\sqrt{514}-22\right)\right\}$

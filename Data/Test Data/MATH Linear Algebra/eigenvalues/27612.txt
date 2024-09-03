@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & 2 \\
+ 2 & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-19-\sqrt{73}\right),\frac{1}{4} \left(\sqrt{73}-19\right)\right\}$

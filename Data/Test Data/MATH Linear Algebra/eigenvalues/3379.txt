@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{33}{4} & \frac{17}{2} \\
+ -\frac{21}{4} & \frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(21-i \sqrt{570}\right),\frac{1}{4} \left(21+i \sqrt{570}\right)\right\}$

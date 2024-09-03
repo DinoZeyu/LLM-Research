@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{11}{4} \\
+ -\frac{5}{2} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(20-\sqrt{290}\right),\frac{1}{4} \left(20+\sqrt{290}\right)\right\}$

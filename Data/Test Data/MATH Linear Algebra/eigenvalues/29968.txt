@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{4} & -\frac{9}{4} \\
+ \frac{19}{4} & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-9-\sqrt{1165}\right),\frac{1}{8} \left(\sqrt{1165}-9\right)\right\}$

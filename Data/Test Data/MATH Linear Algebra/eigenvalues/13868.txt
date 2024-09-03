@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{4} & -\frac{23}{4} \\
+ -4 & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-17-\sqrt{1913}\right),\frac{1}{8} \left(\sqrt{1913}-17\right)\right\}$

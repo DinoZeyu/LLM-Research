@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{21}{5} \\
+ \frac{8}{5} & \frac{1}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{9}{5},\frac{22}{5}\right\}$

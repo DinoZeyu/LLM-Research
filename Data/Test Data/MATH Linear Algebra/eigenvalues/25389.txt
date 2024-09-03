@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -8 \\
+ 8 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-3 i \sqrt{7},5+3 i \sqrt{7}\right\}$

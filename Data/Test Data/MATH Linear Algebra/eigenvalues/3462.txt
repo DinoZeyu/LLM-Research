@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{4} & -7 \\
+ -\frac{9}{4} & -\frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{53}{4},-\frac{21}{4}\right\}$

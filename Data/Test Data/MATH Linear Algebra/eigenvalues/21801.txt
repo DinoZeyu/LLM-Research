@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 10 \\
+ 7 & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-\sqrt{70},5+\sqrt{70}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{22}{3} \\
+ 6 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{4-i \sqrt{43},4+i \sqrt{43}\right\}$

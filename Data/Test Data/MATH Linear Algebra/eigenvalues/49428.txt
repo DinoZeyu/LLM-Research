@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -9 & \frac{21}{4} & 4 \\
+ \frac{5}{4} & -5 & -3 \\
+ -\frac{25}{4} & 10 & -\frac{3}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-4.983,-4.884-5.605 i,-4.884+5.605 i\}$

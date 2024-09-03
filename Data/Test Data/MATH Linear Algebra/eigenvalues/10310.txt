@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{27}{4} & -\frac{3}{2} \\
+ -5 & \frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-11-2 \sqrt{94}\right),\frac{1}{4} \left(2 \sqrt{94}-11\right)\right\}$

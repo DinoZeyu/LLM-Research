@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{49}{5} \\
+ \frac{17}{5} & \frac{46}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(11-\sqrt{3229}\right),\frac{1}{10} \left(11+\sqrt{3229}\right)\right\}$

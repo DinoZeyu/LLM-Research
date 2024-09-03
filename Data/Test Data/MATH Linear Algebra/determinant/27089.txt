@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{41}{10} & \frac{43}{10} \\
+ -\frac{16}{5} & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{761}{100}$

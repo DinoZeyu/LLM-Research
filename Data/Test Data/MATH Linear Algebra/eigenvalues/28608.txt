@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{9}{2} \\
+ -\frac{3}{2} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2} \left(-1-\sqrt{22}\right),\frac{3}{2} \left(\sqrt{22}-1\right)\right\}$

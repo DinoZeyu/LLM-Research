@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -\frac{2}{3} \\
+ \frac{23}{3} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(39-\sqrt{41}\right),\frac{1}{6} \left(39+\sqrt{41}\right)\right\}$

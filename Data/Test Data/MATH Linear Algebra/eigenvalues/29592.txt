@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -7 \\
+ -2 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-\sqrt{39},\sqrt{39}-3\right\}$

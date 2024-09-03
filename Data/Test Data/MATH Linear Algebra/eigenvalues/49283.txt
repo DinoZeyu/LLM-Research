@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 4 & -\frac{17}{2} & 7 \\
+ -\frac{11}{2} & -\frac{15}{2} & 7 \\
+ -6 & -\frac{7}{2} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.539-7.467 i,-9.539+7.467 i,6.579\}$

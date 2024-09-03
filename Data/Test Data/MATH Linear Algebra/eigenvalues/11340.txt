@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{5} & 0 \\
+ \frac{3}{5} & -\frac{32}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{32}{5},\frac{23}{5}\right\}$

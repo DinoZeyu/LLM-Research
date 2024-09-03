@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{5} & \frac{32}{5} \\
+ 3 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-22-\sqrt{649}\right),\frac{1}{5} \left(\sqrt{649}-22\right)\right\}$

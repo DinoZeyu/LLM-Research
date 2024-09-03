@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 7 \\
+ -7 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-6-i \sqrt{33},-6+i \sqrt{33}\right\}$

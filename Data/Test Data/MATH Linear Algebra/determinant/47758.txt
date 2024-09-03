@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{18}{5} & \frac{21}{5} & 3 \\
+ \frac{21}{5} & -\frac{13}{5} & -\frac{2}{5} \\
+ -\frac{21}{5} & \frac{22}{5} & \frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{8316}{125}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -10 & -\frac{1}{4} & \frac{33}{4} \\
+ \frac{5}{2} & \frac{15}{2} & 4 \\
+ \frac{5}{2} & \frac{25}{4} & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.85,1.626,12.723\}$

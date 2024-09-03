@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -5 \\
+ -6 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-\sqrt{31},\sqrt{31}-2\right\}$

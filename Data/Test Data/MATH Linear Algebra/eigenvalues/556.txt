@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{5}{2} & -4 \\
+ -2 & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-4 \sqrt{6}\right),\frac{1}{2} \left(4 \sqrt{6}-3\right)\right\}$

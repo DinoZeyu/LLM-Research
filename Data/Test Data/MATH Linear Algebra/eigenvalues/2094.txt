@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{5} & -\frac{39}{5} \\
+ \frac{19}{5} & \frac{38}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(51-i \sqrt{2339}\right),\frac{1}{10} \left(51+i \sqrt{2339}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{6}{5} & 9 \\
+ \frac{17}{5} & -\frac{34}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{51}{5},\frac{11}{5}\right\}$

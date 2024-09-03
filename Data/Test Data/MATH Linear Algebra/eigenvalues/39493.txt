@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{32}{5} & 0 & \frac{19}{5} \\
+ 4 & -\frac{1}{5} & \frac{41}{5} \\
+ 6 & \frac{4}{5} & \frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.291,1.254,10.037\}$

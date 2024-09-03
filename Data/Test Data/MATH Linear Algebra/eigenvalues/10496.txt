@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & -\frac{9}{2} \\
+ 7 & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2} \left(1-i \sqrt{10}\right),\frac{3}{2} \left(1+i \sqrt{10}\right)\right\}$

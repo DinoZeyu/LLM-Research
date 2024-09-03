@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{5} & -\frac{12}{5} \\
+ -\frac{43}{5} & \frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(19-\sqrt{2353}\right),\frac{1}{10} \left(19+\sqrt{2353}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & \frac{1}{2} \\
+ 7 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{21}{2},-6\right\}$

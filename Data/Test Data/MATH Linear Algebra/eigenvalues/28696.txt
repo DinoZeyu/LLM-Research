@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{47}{5} \\
+ -\frac{48}{5} & \frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(39-i \sqrt{8943}\right),\frac{1}{10} \left(39+i \sqrt{8943}\right)\right\}$

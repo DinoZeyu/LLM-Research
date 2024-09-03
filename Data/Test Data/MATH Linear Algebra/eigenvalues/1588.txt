@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 1 \\
+ 5 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(7-\sqrt{21}\right),\frac{1}{2} \left(7+\sqrt{21}\right)\right\}$

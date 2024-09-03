@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{8}{3} \\
+ 10 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(9-i \sqrt{951}\right),\frac{1}{6} \left(9+i \sqrt{951}\right)\right\}$

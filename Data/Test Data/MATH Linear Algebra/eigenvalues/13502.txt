@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -\frac{8}{3} \\
+ \frac{22}{3} & -\frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(1-\sqrt{1505}\right),\frac{1}{6} \left(1+\sqrt{1505}\right)\right\}$

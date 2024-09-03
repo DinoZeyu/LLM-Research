@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{9}{10} & \frac{29}{10} & 5 \\
+ -1 & -\frac{21}{5} & \frac{47}{10} \\
+ -\frac{2}{5} & -\frac{14}{5} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\frac{208}{125}$

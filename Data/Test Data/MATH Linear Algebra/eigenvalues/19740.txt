@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & -4 \\
+ \frac{17}{2} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(1-i \sqrt{543}\right),\frac{1}{4} \left(1+i \sqrt{543}\right)\right\}$

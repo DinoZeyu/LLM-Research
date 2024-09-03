@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 3 \\
+ 6 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-3 \sqrt{3},3 \sqrt{3}-5\right\}$

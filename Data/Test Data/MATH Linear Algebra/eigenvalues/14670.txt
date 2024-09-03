@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -\frac{3}{2} \\
+ -7 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-10-\sqrt{78}\right),\frac{1}{2} \left(\sqrt{78}-10\right)\right\}$

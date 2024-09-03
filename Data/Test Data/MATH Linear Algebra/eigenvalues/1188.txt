@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{38}{5} & \frac{41}{5} \\
+ -\frac{22}{5} & \frac{49}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(11-\sqrt{3961}\right),\frac{1}{10} \left(11+\sqrt{3961}\right)\right\}$

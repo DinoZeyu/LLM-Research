@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & \frac{36}{5} \\
+ \frac{9}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-20-\sqrt{949}\right),\frac{1}{5} \left(\sqrt{949}-20\right)\right\}$

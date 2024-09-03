@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & \frac{2}{5} \\
+ 8 & \frac{31}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(33-2 \sqrt{21}\right),\frac{1}{5} \left(33+2 \sqrt{21}\right)\right\}$

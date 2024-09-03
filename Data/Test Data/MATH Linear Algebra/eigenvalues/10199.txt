@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{7}{2} \\
+ -\frac{17}{2} & -\frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-7-5 \sqrt{21}\right),\frac{1}{4} \left(5 \sqrt{21}-7\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 6 & \frac{37}{4} & \frac{27}{4} \\
+ \frac{35}{4} & -\frac{17}{4} & -\frac{1}{4} \\
+ -\frac{17}{2} & -10 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.734,5.242\, -5.477 i,5.242\, +5.477 i\}$

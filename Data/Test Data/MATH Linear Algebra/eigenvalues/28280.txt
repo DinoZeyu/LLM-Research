@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{4}{3} & \frac{4}{3} \\
+ -\frac{14}{3} & \frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(6-5 \sqrt{2}\right),\frac{2}{3} \left(6+5 \sqrt{2}\right)\right\}$

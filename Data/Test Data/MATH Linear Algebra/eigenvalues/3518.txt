@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 6 \\
+ 7 & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-\sqrt{51},2+\sqrt{51}\right\}$

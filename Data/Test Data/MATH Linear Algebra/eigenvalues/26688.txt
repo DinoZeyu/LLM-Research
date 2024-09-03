@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{16}{3} & -\frac{5}{3} \\
+ 8 & -\frac{19}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-3-\sqrt{745}\right),\frac{1}{6} \left(\sqrt{745}-3\right)\right\}$

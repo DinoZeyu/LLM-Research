@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{5} & \frac{41}{5} \\
+ -\frac{17}{5} & -\frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-63-i \sqrt{2563}\right),\frac{1}{10} \left(-63+i \sqrt{2563}\right)\right\}$

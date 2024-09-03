@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{21}{5} & \frac{37}{5} \\
+ -\frac{14}{5} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(31-i \sqrt{1951}\right),\frac{1}{10} \left(31+i \sqrt{1951}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & \frac{17}{2} \\
+ -\frac{5}{2} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-\sqrt{35},\sqrt{35}-2\right\}$

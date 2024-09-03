@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{2} & -5 \\
+ 8 & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-13-2 i \sqrt{31}\right),\frac{1}{2} \left(-13+2 i \sqrt{31}\right)\right\}$

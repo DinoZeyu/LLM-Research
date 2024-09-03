@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{4} & \frac{3}{4} \\
+ \frac{19}{2} & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(29-\sqrt{1081}\right),\frac{1}{8} \left(29+\sqrt{1081}\right)\right\}$

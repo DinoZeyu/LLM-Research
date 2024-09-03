@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & \frac{2}{5} \\
+ 4 & -\frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-1-\sqrt{46}\right),\frac{2}{5} \left(\sqrt{46}-1\right)\right\}$

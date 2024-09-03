@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{42}{5} & \frac{49}{5} \\
+ -\frac{17}{5} & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-33-i \sqrt{731}\right),\frac{1}{10} \left(-33+i \sqrt{731}\right)\right\}$

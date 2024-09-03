@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{17}{2} \\
+ 5 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-i \sqrt{161}\right),\frac{1}{2} \left(-3+i \sqrt{161}\right)\right\}$

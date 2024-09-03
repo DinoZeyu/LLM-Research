@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -6 \\
+ 5 & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{7-i \sqrt{26},7+i \sqrt{26}\right\}$

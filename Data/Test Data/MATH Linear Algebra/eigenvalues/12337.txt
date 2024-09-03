@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{4} & \frac{27}{4} \\
+ \frac{9}{2} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-45-\sqrt{2905}\right),\frac{1}{8} \left(\sqrt{2905}-45\right)\right\}$

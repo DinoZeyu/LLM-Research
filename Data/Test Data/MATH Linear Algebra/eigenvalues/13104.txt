@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 7 \\
+ -7 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{4 \left(-1-i \sqrt{3}\right),4 \left(-1+i \sqrt{3}\right)\right\}$

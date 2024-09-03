@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & \frac{11}{2} \\
+ -\frac{33}{4} & -\frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-9-i \sqrt{2903}\right),\frac{1}{8} \left(-9+i \sqrt{2903}\right)\right\}$

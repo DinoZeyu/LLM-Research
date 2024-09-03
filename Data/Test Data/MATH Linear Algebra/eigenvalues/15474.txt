@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{7}{2} \\
+ -\frac{19}{2} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(21-\sqrt{533}\right),\frac{1}{4} \left(21+\sqrt{533}\right)\right\}$

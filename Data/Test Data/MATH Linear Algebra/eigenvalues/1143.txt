@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -9 \\
+ -2 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-15-\sqrt{73}\right),\frac{1}{2} \left(\sqrt{73}-15\right)\right\}$

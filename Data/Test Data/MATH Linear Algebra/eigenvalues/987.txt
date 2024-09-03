@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{28}{5} & 4 \\
+ \frac{24}{5} & \frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-7-\sqrt{4321}\right),\frac{1}{10} \left(\sqrt{4321}-7\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{7}{5} & -\frac{14}{5} & \frac{2}{5} \\
+ \frac{3}{5} & -\frac{23}{5} & 1 \\
+ -\frac{16}{5} & -4 & \frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{1654}{125}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{17}{2} & \frac{25}{4} & \frac{17}{2} \\
+ \frac{37}{4} & \frac{5}{2} & 8 \\
+ -\frac{3}{4} & -\frac{25}{4} & \frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.261,8.506\, -5.214 i,8.506\, +5.214 i\}$

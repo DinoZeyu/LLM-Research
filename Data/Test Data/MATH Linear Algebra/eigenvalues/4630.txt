@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{37}{5} & -\frac{44}{5} \\
+ 5 & -\frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(33-i \sqrt{2719}\right),\frac{1}{10} \left(33+i \sqrt{2719}\right)\right\}$

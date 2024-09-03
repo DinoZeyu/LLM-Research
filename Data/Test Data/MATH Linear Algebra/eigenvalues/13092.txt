@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{5} & \frac{32}{5} \\
+ \frac{33}{5} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-7-\sqrt{4233}\right),\frac{1}{10} \left(\sqrt{4233}-7\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{17}{5} & -\frac{11}{5} & 2 \\
+ \frac{22}{5} & -\frac{12}{5} & \frac{22}{5} \\
+ -\frac{19}{5} & -1 & -\frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{3012}{125}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{5} & -\frac{33}{5} \\
+ -\frac{43}{5} & -\frac{39}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-31-\sqrt{1483}\right),\frac{1}{5} \left(\sqrt{1483}-31\right)\right\}$

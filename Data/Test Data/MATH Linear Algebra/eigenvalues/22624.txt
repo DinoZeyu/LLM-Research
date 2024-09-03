@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 6 \\
+ 10 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-4 \sqrt{6},4 \sqrt{6}-3\right\}$

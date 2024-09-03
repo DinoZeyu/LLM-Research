@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 7 & -6 & 6 \\
+ 3 & 0 & -\frac{22}{3} \\
+ -8 & \frac{7}{3} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.931,2.465\, -7.091 i,2.465\, +7.091 i\}$

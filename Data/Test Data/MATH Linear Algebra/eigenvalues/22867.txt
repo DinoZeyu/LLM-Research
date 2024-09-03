@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{3} & -8 \\
+ -\frac{20}{3} & \frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(15-\sqrt{3769}\right),\frac{1}{6} \left(15+\sqrt{3769}\right)\right\}$

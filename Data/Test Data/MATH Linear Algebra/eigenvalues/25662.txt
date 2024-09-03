@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{21}{5} & -8 \\
+ \frac{7}{5} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-8-i \sqrt{111}\right),\frac{1}{5} \left(-8+i \sqrt{111}\right)\right\}$

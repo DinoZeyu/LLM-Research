@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{20}{3} & -5 \\
+ 9 & \frac{2}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{11}{3}-6 i,\frac{11}{3}+6 i\right\}$

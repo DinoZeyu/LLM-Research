@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & \frac{48}{5} \\
+ -\frac{4}{5} & \frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(53-i \sqrt{759}\right),\frac{1}{10} \left(53+i \sqrt{759}\right)\right\}$

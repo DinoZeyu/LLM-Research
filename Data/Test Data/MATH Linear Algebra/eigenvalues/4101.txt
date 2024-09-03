@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{13}{2} \\
+ \frac{5}{2} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-31-i \sqrt{211}\right),\frac{1}{4} \left(-31+i \sqrt{211}\right)\right\}$

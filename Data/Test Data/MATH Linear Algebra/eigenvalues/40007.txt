@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{19}{2} & 8 & 9 \\
+ -8 & 0 & 10 \\
+ \frac{13}{2} & -9 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.998-9.458 i,-5.998+9.458 i,2.495\}$

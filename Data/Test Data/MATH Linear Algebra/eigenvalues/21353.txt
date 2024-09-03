@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{38}{5} & \frac{1}{5} \\
+ \frac{43}{5} & -\frac{3}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(35-\sqrt{1853}\right),\frac{1}{10} \left(35+\sqrt{1853}\right)\right\}$

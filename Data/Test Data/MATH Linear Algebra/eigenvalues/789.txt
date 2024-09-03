@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & 4 \\
+ -1 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\{-3,0\}$

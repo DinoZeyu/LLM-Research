@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{5}{2} & -6 \\
+ -\frac{33}{4} & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-2-\sqrt{247}\right),\frac{1}{2} \left(\sqrt{247}-2\right)\right\}$

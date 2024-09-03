@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -\frac{17}{2} \\
+ \frac{1}{2} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{179}}{2},\frac{\sqrt{179}}{2}\right\}$

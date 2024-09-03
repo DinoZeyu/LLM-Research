@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{4} & -\frac{19}{2} \\
+ \frac{35}{4} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(11-i \sqrt{4879}\right),\frac{1}{8} \left(11+i \sqrt{4879}\right)\right\}$

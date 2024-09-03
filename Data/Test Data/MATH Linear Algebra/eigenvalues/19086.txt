@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{16}{3} \\
+ \frac{10}{3} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{151}}{3},\frac{i \sqrt{151}}{3}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 8 \\
+ 5 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-2 \sqrt{14},5+2 \sqrt{14}\right\}$

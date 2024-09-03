@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & 5 \\
+ 9 & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(17-\sqrt{889}\right),\frac{1}{4} \left(17+\sqrt{889}\right)\right\}$

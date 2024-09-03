@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & -\frac{47}{5} \\
+ 3 & -\frac{3}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(47-i \sqrt{11}\right),\frac{1}{10} \left(47+i \sqrt{11}\right)\right\}$

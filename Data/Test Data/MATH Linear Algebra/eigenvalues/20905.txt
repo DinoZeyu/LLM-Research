@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 1 \\
+ -2 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\{-1-i,-1+i\}$

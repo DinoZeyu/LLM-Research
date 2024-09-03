@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & 2 \\
+ -\frac{11}{2} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(3-\sqrt{77}\right),\frac{1}{2} \left(3+\sqrt{77}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & 9 \\
+ 1 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3 \left(2-\sqrt{2}\right),3 \left(2+\sqrt{2}\right)\right\}$

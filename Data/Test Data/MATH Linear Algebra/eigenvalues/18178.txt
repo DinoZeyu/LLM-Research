@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{3} & -\frac{1}{3} \\
+ \frac{25}{3} & -\frac{5}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-7-\sqrt{14}\right),\frac{2}{3} \left(\sqrt{14}-7\right)\right\}$

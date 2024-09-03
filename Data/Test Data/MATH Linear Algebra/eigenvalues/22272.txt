@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 7 \\
+ 9 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-\sqrt{79},5+\sqrt{79}\right\}$

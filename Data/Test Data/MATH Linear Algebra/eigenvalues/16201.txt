@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{4} & \frac{21}{4} \\
+ -\frac{19}{2} & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3,\frac{11}{4}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{9}{4} \\
+ -\frac{13}{4} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-2-\sqrt{601}\right),\frac{1}{4} \left(\sqrt{601}-2\right)\right\}$

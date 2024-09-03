@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 10 \\
+ -7 & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-25-i \sqrt{951}\right),\frac{1}{4} \left(-25+i \sqrt{951}\right)\right\}$

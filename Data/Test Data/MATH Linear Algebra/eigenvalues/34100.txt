@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{20}{3} & 0 & 9 \\
+ \frac{1}{3} & \frac{28}{3} & \frac{8}{3} \\
+ -\frac{17}{3} & \frac{8}{3} & -\frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.352-7.061 i,-7.352+7.061 i,9.704\}$

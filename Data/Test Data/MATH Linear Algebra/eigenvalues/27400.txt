@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -10 \\
+ 2 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(3-i \sqrt{31}\right),\frac{1}{2} \left(3+i \sqrt{31}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{5} & \frac{14}{5} \\
+ -\frac{48}{5} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(51-i \sqrt{1847}\right),\frac{1}{10} \left(51+i \sqrt{1847}\right)\right\}$

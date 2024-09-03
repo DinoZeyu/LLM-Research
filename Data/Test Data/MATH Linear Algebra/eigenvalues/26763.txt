@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{37}{5} & -\frac{3}{5} \\
+ \frac{49}{5} & -\frac{39}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-1-\sqrt{1297}\right),\frac{1}{5} \left(\sqrt{1297}-1\right)\right\}$

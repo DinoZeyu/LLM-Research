@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & 8 \\
+ -\frac{35}{4} & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-2 i \sqrt{34}\right),\frac{1}{2} \left(-3+2 i \sqrt{34}\right)\right\}$

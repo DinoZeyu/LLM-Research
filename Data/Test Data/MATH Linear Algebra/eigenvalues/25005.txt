@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{4} & \frac{35}{4} \\
+ -\frac{37}{4} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-67-i \sqrt{5099}\right),\frac{1}{8} \left(-67+i \sqrt{5099}\right)\right\}$

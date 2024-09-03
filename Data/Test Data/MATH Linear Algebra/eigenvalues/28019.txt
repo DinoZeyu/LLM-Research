@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{15}{2} \\
+ -\frac{11}{2} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-2-\sqrt{91}\right),\frac{1}{2} \left(\sqrt{91}-2\right)\right\}$

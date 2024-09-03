@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{49}{5} & -5 \\
+ -\frac{41}{5} & \frac{41}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(45-\sqrt{1041}\right),\frac{1}{5} \left(45+\sqrt{1041}\right)\right\}$

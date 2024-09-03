@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{33}{4} & \frac{15}{2} \\
+ -\frac{35}{4} & -\frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-\sqrt{106}\right),\frac{1}{4} \left(\sqrt{106}-1\right)\right\}$

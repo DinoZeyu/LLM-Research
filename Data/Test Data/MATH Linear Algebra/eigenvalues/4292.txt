@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{5} & \frac{47}{5} \\
+ 2 & \frac{49}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(21-\sqrt{1254}\right),\frac{1}{5} \left(21+\sqrt{1254}\right)\right\}$

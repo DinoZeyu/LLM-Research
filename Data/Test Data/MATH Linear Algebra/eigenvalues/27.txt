@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & -4 \\
+ -6 & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(11-\sqrt{465}\right),\frac{1}{4} \left(11+\sqrt{465}\right)\right\}$

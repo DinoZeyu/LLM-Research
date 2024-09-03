@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 10 \\
+ -8 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(1-i \sqrt{31}\right),\frac{1}{2} \left(1+i \sqrt{31}\right)\right\}$

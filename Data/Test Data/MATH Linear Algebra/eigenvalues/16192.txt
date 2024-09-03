@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -7 \\
+ \frac{29}{3} & \frac{17}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{4}{3} \left(4-i \sqrt{38}\right),\frac{4}{3} \left(4+i \sqrt{38}\right)\right\}$

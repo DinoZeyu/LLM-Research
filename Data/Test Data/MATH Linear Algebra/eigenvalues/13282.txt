@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & \frac{19}{3} \\
+ -2 & -\frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-35-\sqrt{73}\right),\frac{1}{6} \left(\sqrt{73}-35\right)\right\}$

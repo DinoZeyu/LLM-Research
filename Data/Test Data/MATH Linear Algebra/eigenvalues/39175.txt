@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{15}{2} & 5 & 5 \\
+ \frac{11}{2} & -\frac{31}{4} & -5 \\
+ \frac{15}{2} & 1 & \frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.862,3.144,13.218\}$

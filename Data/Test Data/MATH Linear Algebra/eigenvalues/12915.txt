@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{4} & \frac{19}{4} \\
+ -\frac{11}{2} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{21}{4},\frac{3}{2}\right\}$

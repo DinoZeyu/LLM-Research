@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{5} & -7 \\
+ -4 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-23-\sqrt{7289}\right),\frac{1}{10} \left(\sqrt{7289}-23\right)\right\}$

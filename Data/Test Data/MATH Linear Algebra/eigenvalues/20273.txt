@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 8 \\
+ 10 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\{-12,12\}$

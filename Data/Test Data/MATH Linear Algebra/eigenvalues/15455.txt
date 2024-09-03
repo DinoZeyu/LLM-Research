@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{5} & \frac{19}{5} \\
+ -\frac{39}{5} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-57-i \sqrt{2435}\right),\frac{1}{10} \left(-57+i \sqrt{2435}\right)\right\}$

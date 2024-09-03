@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{4} & -8 \\
+ 7 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(11-i \sqrt{3559}\right),\frac{1}{8} \left(11+i \sqrt{3559}\right)\right\}$

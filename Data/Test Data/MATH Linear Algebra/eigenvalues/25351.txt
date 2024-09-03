@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -3 \\
+ \frac{11}{2} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-5-\sqrt{55}\right),\frac{1}{2} \left(\sqrt{55}-5\right)\right\}$

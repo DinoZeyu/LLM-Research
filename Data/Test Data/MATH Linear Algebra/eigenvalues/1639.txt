@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & \frac{2}{3} \\
+ -\frac{14}{3} & -\frac{20}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-23-\sqrt{177}\right),\frac{1}{6} \left(\sqrt{177}-23\right)\right\}$

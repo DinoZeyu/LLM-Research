@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & \frac{3}{2} \\
+ 3 & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-3-\sqrt{433}\right),\frac{1}{4} \left(\sqrt{433}-3\right)\right\}$

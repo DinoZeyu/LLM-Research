@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{3} & -\frac{5}{3} \\
+ -\frac{14}{3} & -\frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-7,-\frac{4}{3}\right\}$

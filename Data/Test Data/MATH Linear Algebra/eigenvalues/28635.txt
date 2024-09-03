@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{11}{2} \\
+ -\frac{33}{4} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-8-\sqrt{870}\right),\frac{1}{4} \left(\sqrt{870}-8\right)\right\}$

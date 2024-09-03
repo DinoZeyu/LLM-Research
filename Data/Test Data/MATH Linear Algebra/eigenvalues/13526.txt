@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{47}{5} & \frac{39}{5} \\
+ -\frac{44}{5} & \frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(40-i \sqrt{1667}\right),\frac{1}{5} \left(40+i \sqrt{1667}\right)\right\}$

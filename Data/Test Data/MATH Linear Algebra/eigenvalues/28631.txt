@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{2} & -\frac{11}{4} \\
+ -\frac{7}{4} & -\frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(29-\sqrt{2517}\right),\frac{1}{8} \left(29+\sqrt{2517}\right)\right\}$

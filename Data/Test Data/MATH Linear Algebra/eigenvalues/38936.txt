@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -1 & 6 & \frac{14}{3} \\
+ \frac{7}{3} & -\frac{4}{3} & 4 \\
+ -\frac{14}{3} & -4 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.063,2.865\, -6.238 i,2.865\, +6.238 i\}$

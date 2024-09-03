@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{25}{4} & -\frac{25}{4} & \frac{33}{4} \\
+ -3 & 7 & -\frac{15}{2} \\
+ \frac{27}{4} & -\frac{1}{4} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\{-0.317,0.788,15.779\}$

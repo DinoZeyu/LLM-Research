@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -4 \\
+ -1 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{7-\sqrt{13},7+\sqrt{13}\right\}$

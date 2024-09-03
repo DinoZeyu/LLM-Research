@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{18}{5} \\
+ -\frac{24}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-35-2 \sqrt{133}\right),\frac{1}{5} \left(2 \sqrt{133}-35\right)\right\}$

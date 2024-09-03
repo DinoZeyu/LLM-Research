@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & 1 \\
+ \frac{7}{2} & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-23-\sqrt{345}\right),\frac{1}{4} \left(\sqrt{345}-23\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -6 \\
+ 8 & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(29-i \sqrt{759}\right),\frac{1}{4} \left(29+i \sqrt{759}\right)\right\}$

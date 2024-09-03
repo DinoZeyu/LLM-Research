@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{4} & \frac{21}{4} \\
+ -5 & -\frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{251}}{4},\frac{i \sqrt{251}}{4}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & \frac{17}{2} \\
+ -4 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{4} \left(-1-i \sqrt{15}\right),\frac{5}{4} \left(-1+i \sqrt{15}\right)\right\}$

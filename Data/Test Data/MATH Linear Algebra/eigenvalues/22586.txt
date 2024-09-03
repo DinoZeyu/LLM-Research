@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{2} & 3 \\
+ -\frac{19}{2} & -\frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-i \sqrt{78}\right),\frac{1}{2} \left(-11+i \sqrt{78}\right)\right\}$

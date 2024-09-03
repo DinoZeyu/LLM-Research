@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 0 & 7 & \frac{18}{5} \\
+ -\frac{41}{5} & -7 & \frac{19}{5} \\
+ \frac{43}{5} & -\frac{34}{5} & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.157-8.931 i,-5.157+8.931 i,9.314\}$

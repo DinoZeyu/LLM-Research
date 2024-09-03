@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{3}{4} \\
+ -\frac{3}{4} & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-5-\sqrt{298}\right),\frac{1}{4} \left(\sqrt{298}-5\right)\right\}$

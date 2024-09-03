@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{9}{2} \\
+ -\frac{19}{2} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(17-i \sqrt{659}\right),\frac{1}{4} \left(17+i \sqrt{659}\right)\right\}$

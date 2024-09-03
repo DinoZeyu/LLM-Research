@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & -\frac{5}{2} \\
+ -\frac{13}{4} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(17-\sqrt{419}\right),\frac{1}{4} \left(17+\sqrt{419}\right)\right\}$

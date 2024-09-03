@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{28}{5} & \frac{22}{5} \\
+ 0 & \frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{4}{5},\frac{28}{5}\right\}$

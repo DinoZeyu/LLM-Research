@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & 1 \\
+ -9 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-6 \sqrt{2},6 \sqrt{2}-1\right\}$

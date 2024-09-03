@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{5}{2} & -1 \\
+ -\frac{37}{4} & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{\frac{31}{2}},\sqrt{\frac{31}{2}}\right\}$

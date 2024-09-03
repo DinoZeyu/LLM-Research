@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & -\frac{35}{4} \\
+ \frac{17}{2} & \frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(67-i \sqrt{4711}\right),\frac{1}{8} \left(67+i \sqrt{4711}\right)\right\}$

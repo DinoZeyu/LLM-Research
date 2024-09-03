@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 5 \\
+ -4 & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-21-i \sqrt{31}\right),\frac{1}{4} \left(-21+i \sqrt{31}\right)\right\}$

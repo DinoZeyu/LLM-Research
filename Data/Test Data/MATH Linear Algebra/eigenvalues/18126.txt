@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{42}{5} & \frac{6}{5} \\
+ \frac{34}{5} & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{4}{5} \left(1-\sqrt{145}\right),\frac{4}{5} \left(1+\sqrt{145}\right)\right\}$

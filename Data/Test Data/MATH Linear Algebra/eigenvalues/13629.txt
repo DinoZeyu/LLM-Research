@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & \frac{33}{4} \\
+ \frac{35}{4} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(27-2 \sqrt{301}\right),\frac{1}{4} \left(27+2 \sqrt{301}\right)\right\}$

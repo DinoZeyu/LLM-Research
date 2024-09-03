@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 1 \\
+ \frac{13}{2} & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-15-\sqrt{329}\right),\frac{1}{4} \left(\sqrt{329}-15\right)\right\}$

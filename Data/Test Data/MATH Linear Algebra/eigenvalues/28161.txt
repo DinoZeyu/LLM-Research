@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{4} & -\frac{15}{2} \\
+ \frac{33}{4} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-1-i \sqrt{1751}\right),\frac{1}{8} \left(-1+i \sqrt{1751}\right)\right\}$

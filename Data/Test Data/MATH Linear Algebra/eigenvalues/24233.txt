@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -7 \\
+ -7 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-6-5 \sqrt{2},5 \sqrt{2}-6\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 5 & \frac{7}{2} & -3 \\
+ 7 & -6 & \frac{3}{2} \\
+ 3 & -\frac{15}{2} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.293,4.98,8.313\}$

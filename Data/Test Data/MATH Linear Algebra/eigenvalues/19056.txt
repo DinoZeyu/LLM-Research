@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{5}{4} \\
+ -\frac{37}{4} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(14-i \sqrt{85}\right),\frac{1}{4} \left(14+i \sqrt{85}\right)\right\}$

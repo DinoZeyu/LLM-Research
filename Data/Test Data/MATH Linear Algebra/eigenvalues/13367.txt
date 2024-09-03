@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{3} & \frac{4}{3} \\
+ -\frac{11}{3} & \frac{8}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-21-\sqrt{1193}\right),\frac{1}{6} \left(\sqrt{1193}-21\right)\right\}$

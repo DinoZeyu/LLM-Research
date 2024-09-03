@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{5} & \frac{42}{5} \\
+ 8 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-51-\sqrt{9121}\right),\frac{1}{10} \left(\sqrt{9121}-51\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 10 & \frac{3}{2} & -8 \\
+ \frac{3}{2} & \frac{11}{2} & -4 \\
+ 2 & -9 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\{-0.213,7.282,11.432\}$

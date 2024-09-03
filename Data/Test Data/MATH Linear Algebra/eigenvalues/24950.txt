@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{4}{5} & -\frac{2}{5} \\
+ -\frac{44}{5} & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-8-\sqrt{122}\right),\frac{2}{5} \left(\sqrt{122}-8\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{16}{5} & -\frac{9}{5} \\
+ \frac{17}{5} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-41-3 i \sqrt{59}\right),\frac{1}{10} \left(-41+3 i \sqrt{59}\right)\right\}$

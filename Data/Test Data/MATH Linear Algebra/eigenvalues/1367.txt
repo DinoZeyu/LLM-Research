@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 0 \\
+ 0 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\{-6,7\}$

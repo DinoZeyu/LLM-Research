@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -9 \\
+ 7 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-i \sqrt{62},-4+i \sqrt{62}\right\}$

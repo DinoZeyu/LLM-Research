@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{2} & -1 \\
+ -\frac{5}{2} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-7-\sqrt{265}\right),\frac{1}{4} \left(\sqrt{265}-7\right)\right\}$

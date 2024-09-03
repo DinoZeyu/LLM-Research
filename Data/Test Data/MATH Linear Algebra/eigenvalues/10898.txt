@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & \frac{9}{4} \\
+ \frac{3}{4} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(-5-2 \sqrt{7}\right),\frac{3}{4} \left(2 \sqrt{7}-5\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 1 & \frac{9}{2} & \frac{5}{2} \\
+ \frac{1}{2} & -\frac{7}{2} & -\frac{7}{2} \\
+ -7 & -\frac{9}{2} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.266,0.535,7.232\}$

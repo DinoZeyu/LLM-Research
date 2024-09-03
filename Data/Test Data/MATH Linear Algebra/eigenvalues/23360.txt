@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{21}{4} & -\frac{31}{4} \\
+ -\frac{17}{4} & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-29-\sqrt{591}\right),\frac{1}{4} \left(\sqrt{591}-29\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{13}{2} \\
+ -\frac{15}{4} & \frac{7}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(19-\sqrt{1585}\right),\frac{1}{8} \left(19+\sqrt{1585}\right)\right\}$

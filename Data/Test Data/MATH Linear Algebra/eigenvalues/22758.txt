@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{41}{5} & -6 \\
+ \frac{2}{5} & \frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-11-2 \sqrt{210}\right),\frac{1}{5} \left(2 \sqrt{210}-11\right)\right\}$

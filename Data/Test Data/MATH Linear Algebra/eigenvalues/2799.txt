@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -8 \\
+ -8 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-\sqrt{73},1+\sqrt{73}\right\}$

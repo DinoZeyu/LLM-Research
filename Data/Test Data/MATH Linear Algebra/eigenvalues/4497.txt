@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{13}{5} \\
+ \frac{9}{5} & \frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(19-\sqrt{238}\right),\frac{1}{5} \left(19+\sqrt{238}\right)\right\}$

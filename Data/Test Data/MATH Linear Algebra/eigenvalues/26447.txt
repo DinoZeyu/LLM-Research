@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{4} & -\frac{17}{2} \\
+ -\frac{15}{4} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-41-\sqrt{3001}\right),\frac{1}{8} \left(\sqrt{3001}-41\right)\right\}$

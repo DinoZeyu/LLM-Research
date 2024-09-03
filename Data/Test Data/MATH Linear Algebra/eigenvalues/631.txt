@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 3 \\
+ 8 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-2 \sqrt{10},5+2 \sqrt{10}\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 6 & 3 & \frac{9}{2} \\
+ \frac{9}{2} & -\frac{1}{2} & -\frac{19}{2} \\
+ -1 & 6 & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{3.47\, -5.411 i,3.47\, +5.411 i,8.06\}$

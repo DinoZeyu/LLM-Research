@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & \frac{5}{3} \\
+ -3 & -\frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-53-i \sqrt{179}\right),\frac{1}{6} \left(-53+i \sqrt{179}\right)\right\}$

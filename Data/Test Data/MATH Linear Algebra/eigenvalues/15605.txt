@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{4}{3} & -\frac{13}{3} \\
+ -\frac{4}{3} & -\frac{17}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-\sqrt{649}\right),\frac{1}{6} \left(\sqrt{649}-13\right)\right\}$

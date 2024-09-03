@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{3} & 10 \\
+ 3 & -\frac{13}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-27-\sqrt{1081}\right),\frac{1}{6} \left(\sqrt{1081}-27\right)\right\}$

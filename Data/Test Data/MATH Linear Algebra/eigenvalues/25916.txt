@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 7 \\
+ -4 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{7-i \sqrt{19},7+i \sqrt{19}\right\}$

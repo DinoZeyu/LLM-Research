@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{33}{4} & -5 \\
+ -\frac{17}{2} & \frac{25}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{43}{4},\frac{35}{4}\right\}$

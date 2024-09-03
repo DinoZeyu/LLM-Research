@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{33}{4} & \frac{3}{4} \\
+ \frac{23}{4} & -\frac{25}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-29-\sqrt{85}\right),\frac{1}{4} \left(\sqrt{85}-29\right)\right\}$

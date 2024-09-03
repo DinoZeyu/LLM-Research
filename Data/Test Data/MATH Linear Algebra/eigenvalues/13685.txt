@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & 6 \\
+ -10 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-i \sqrt{59},3+i \sqrt{59}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{5} & \frac{1}{5} \\
+ \frac{36}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-23-\sqrt{4633}\right),\frac{1}{10} \left(\sqrt{4633}-23\right)\right\}$

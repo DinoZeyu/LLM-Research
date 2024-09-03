@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{22}{3} & \frac{4}{3} & \frac{17}{3} \\
+ -7 & -\frac{29}{3} & -\frac{28}{3} \\
+ -\frac{11}{3} & \frac{28}{3} & \frac{4}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-0.852-6.61 i,-0.852+6.61 i,0.705\}$

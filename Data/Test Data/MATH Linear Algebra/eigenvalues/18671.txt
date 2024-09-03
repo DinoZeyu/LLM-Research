@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -3 \\
+ -\frac{4}{3} & -\frac{17}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-23-\sqrt{265}\right),\frac{1}{6} \left(\sqrt{265}-23\right)\right\}$

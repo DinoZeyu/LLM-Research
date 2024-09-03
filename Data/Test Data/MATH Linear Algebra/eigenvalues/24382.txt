@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 8 \\
+ \frac{1}{2} & -\frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-21-\sqrt{281}\right),\frac{1}{8} \left(\sqrt{281}-21\right)\right\}$

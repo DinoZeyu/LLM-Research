@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{5} & 10 \\
+ \frac{36}{5} & \frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(25-\sqrt{7249}\right),\frac{1}{10} \left(25+\sqrt{7249}\right)\right\}$

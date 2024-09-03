@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{12}{5} & -\frac{14}{5} \\
+ -\frac{21}{5} & \frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(33-\sqrt{1257}\right),\frac{1}{10} \left(33+\sqrt{1257}\right)\right\}$

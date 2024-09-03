@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{4} & \frac{3}{4} \\
+ -\frac{23}{4} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-63-\sqrt{13}\right),\frac{1}{8} \left(\sqrt{13}-63\right)\right\}$

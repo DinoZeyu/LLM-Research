@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{28}{3} & -\frac{4}{3} \\
+ -\frac{22}{3} & -\frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-51-\sqrt{377}\right),\frac{1}{6} \left(\sqrt{377}-51\right)\right\}$

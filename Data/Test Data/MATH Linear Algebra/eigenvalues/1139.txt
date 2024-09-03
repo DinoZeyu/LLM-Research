@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{37}{5} \\
+ 10 & -\frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-41-i \sqrt{7039}\right),\frac{1}{10} \left(-41+i \sqrt{7039}\right)\right\}$

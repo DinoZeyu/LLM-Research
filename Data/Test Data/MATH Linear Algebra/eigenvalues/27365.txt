@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -2 \\
+ 5 & -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(17-\sqrt{201}\right),\frac{1}{4} \left(17+\sqrt{201}\right)\right\}$

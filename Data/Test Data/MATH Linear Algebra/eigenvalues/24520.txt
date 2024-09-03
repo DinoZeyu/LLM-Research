@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -\frac{25}{3} \\
+ -6 & -\frac{20}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-23-\sqrt{2089}\right),\frac{1}{6} \left(\sqrt{2089}-23\right)\right\}$

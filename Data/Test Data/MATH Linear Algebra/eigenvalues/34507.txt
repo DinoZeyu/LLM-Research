@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{17}{2} & 8 & 10 \\
+ -\frac{9}{2} & \frac{13}{4} & -\frac{13}{2} \\
+ -9 & \frac{27}{4} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\{3.745\, -12.483 i,3.745\, +12.483 i,5.259\}$

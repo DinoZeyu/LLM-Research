@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{4} & \frac{3}{4} \\
+ -6 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(7-\sqrt{257}\right),\frac{3}{8} \left(7+\sqrt{257}\right)\right\}$

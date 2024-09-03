@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 8 \\
+ 6 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{6-\sqrt{57},6+\sqrt{57}\right\}$

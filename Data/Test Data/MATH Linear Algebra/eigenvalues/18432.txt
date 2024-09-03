@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{20}{3} & -7 \\
+ \frac{28}{3} & \frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(43-i \sqrt{2343}\right),\frac{1}{6} \left(43+i \sqrt{2343}\right)\right\}$

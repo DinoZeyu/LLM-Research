@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -9 \\
+ -4 & -\frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-10-\sqrt{97}\right),\frac{2}{3} \left(\sqrt{97}-10\right)\right\}$

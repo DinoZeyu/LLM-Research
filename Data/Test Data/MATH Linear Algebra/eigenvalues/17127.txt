@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 3 \\
+ -\frac{15}{2} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(4-i \sqrt{74}\right),\frac{1}{2} \left(4+i \sqrt{74}\right)\right\}$

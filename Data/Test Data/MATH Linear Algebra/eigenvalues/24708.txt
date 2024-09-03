@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{5} & 1 \\
+ -5 & \frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(25-\sqrt{359}\right),\frac{1}{5} \left(25+\sqrt{359}\right)\right\}$

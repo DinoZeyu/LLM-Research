@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -5 \\
+ -7 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{51},\sqrt{51}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{17}{2} \\
+ -\frac{11}{2} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{17}{2},\frac{11}{2}\right\}$

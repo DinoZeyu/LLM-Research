@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{5}{3} & \frac{11}{3} \\
+ -\frac{13}{3} & -\frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-11-i \sqrt{131}\right),\frac{1}{6} \left(-11+i \sqrt{131}\right)\right\}$

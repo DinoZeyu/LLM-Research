@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -\frac{16}{5} \\
+ 2 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-25-\sqrt{3585}\right),\frac{1}{10} \left(\sqrt{3585}-25\right)\right\}$

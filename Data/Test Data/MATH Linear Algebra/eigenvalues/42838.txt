@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{3}{4} & 10 & 6 \\
+ -\frac{31}{4} & -\frac{11}{4} & \frac{11}{2} \\
+ -\frac{35}{4} & -4 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.862,-1.069-12.176 i,-1.069+12.176 i\}$

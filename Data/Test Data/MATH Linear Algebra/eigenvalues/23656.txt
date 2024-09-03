@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{2} & -\frac{9}{2} \\
+ \frac{23}{4} & \frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(11-3 \sqrt{257}\right),\frac{1}{8} \left(11+3 \sqrt{257}\right)\right\}$

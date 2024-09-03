@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -8 \\
+ -4 & -\frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{12}{5} \left(-1-\sqrt{6}\right),\frac{12}{5} \left(\sqrt{6}-1\right)\right\}$

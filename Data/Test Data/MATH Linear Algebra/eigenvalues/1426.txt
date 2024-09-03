@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -\frac{26}{3} \\
+ \frac{23}{3} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(27-i \sqrt{1951}\right),\frac{1}{6} \left(27+i \sqrt{1951}\right)\right\}$

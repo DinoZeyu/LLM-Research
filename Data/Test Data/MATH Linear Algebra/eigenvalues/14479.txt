@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{17}{5} \\
+ -\frac{26}{5} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-25-\sqrt{4793}\right),\frac{1}{10} \left(\sqrt{4793}-25\right)\right\}$

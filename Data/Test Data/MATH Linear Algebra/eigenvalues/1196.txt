@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{5}{2} \\
+ -4 & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(39-i \sqrt{159}\right),\frac{1}{4} \left(39+i \sqrt{159}\right)\right\}$

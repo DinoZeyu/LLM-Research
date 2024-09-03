@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{4} & -\frac{25}{4} \\
+ \frac{37}{4} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{8} \left(-9-7 i \sqrt{3}\right),\frac{5}{8} \left(-9+7 i \sqrt{3}\right)\right\}$

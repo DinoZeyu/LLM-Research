@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -8 \\
+ 10 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-i \sqrt{79},i \sqrt{79}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{33}{5} & \frac{16}{5} \\
+ 7 & -\frac{13}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{23}{5},\frac{43}{5}\right\}$

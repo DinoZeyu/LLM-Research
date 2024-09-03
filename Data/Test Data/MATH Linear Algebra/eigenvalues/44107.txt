@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 8 & -\frac{21}{5} & -\frac{47}{5} \\
+ 5 & -4 & -\frac{33}{5} \\
+ 1 & -\frac{6}{5} & -\frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.801,-0.881,5.482\}$

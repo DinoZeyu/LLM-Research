@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{3} & -6 \\
+ -\frac{17}{3} & -\frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(7-3 \sqrt{305}\right),\frac{1}{6} \left(7+3 \sqrt{305}\right)\right\}$

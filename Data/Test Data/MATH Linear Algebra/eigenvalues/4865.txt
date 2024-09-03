@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{4} & -\frac{9}{2} \\
+ -\frac{11}{4} & \frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-3-\sqrt{1753}\right),\frac{1}{8} \left(\sqrt{1753}-3\right)\right\}$

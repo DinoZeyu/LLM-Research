@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{4} & 3 \\
+ -7 & \frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{167}}{4},\frac{i \sqrt{167}}{4}\right\}$

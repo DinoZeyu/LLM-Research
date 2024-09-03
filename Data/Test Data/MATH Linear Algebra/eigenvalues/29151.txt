@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{33}{4} & -9 \\
+ -\frac{37}{4} & -\frac{17}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(8-\sqrt{1957}\right),\frac{1}{4} \left(8+\sqrt{1957}\right)\right\}$

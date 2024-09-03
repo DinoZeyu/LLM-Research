@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -10 \\
+ \frac{27}{5} & -\frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-17-i \sqrt{5111}\right),\frac{1}{10} \left(-17+i \sqrt{5111}\right)\right\}$

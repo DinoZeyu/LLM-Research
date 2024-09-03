@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -\frac{38}{5} \\
+ -\frac{33}{5} & \frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(83-\sqrt{5185}\right),\frac{1}{10} \left(83+\sqrt{5185}\right)\right\}$

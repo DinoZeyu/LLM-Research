@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{6}{5} & -\frac{23}{5} \\
+ \frac{24}{5} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(29-i \sqrt{527}\right),\frac{1}{10} \left(29+i \sqrt{527}\right)\right\}$

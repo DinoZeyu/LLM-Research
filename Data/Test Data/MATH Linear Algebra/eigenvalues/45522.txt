@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{16}{5} & 7 & -\frac{36}{5} \\
+ -\frac{23}{5} & \frac{28}{5} & -\frac{36}{5} \\
+ -\frac{2}{5} & -\frac{37}{5} & -\frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.353,6.677\, -5.243 i,6.677\, +5.243 i\}$

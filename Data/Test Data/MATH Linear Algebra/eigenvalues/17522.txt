@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{3}{2} & -8 \\
+ -8 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-15-\sqrt{1105}\right),\frac{1}{4} \left(\sqrt{1105}-15\right)\right\}$

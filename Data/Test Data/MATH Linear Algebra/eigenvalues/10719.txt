@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{5}{3} \\
+ -7 & -\frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-25-\sqrt{541}\right),\frac{1}{6} \left(\sqrt{541}-25\right)\right\}$

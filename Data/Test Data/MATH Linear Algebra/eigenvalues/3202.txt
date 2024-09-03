@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{4} & \frac{5}{4} \\
+ \frac{19}{4} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(5-\sqrt{2981}\right),\frac{1}{8} \left(5+\sqrt{2981}\right)\right\}$

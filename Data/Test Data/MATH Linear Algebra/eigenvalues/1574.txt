@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -4 \\
+ -1 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-\sqrt{13},5+\sqrt{13}\right\}$

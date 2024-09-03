@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{5}{4} & 8 \\
+ 3 & -\frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{409}}{4},\frac{\sqrt{409}}{4}\right\}$

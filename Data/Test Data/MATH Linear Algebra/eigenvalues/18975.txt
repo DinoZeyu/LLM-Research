@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 2 \\
+ \frac{31}{4} & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-21-\sqrt{257}\right),\frac{1}{4} \left(\sqrt{257}-21\right)\right\}$

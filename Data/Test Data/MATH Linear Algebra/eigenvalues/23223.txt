@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & \frac{28}{3} \\
+ 2 & \frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{4}{3},11\right\}$

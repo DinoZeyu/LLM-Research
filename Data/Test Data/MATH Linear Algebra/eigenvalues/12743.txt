@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{11}{3} \\
+ -\frac{14}{3} & \frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(43-\sqrt{737}\right),\frac{1}{6} \left(43+\sqrt{737}\right)\right\}$

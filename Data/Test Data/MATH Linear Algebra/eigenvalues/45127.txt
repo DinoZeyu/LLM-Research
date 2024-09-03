@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{22}{5} & \frac{24}{5} & -\frac{9}{5} \\
+ \frac{8}{5} & \frac{37}{5} & \frac{7}{5} \\
+ \frac{44}{5} & \frac{2}{5} & -\frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.397-4.042 i,-3.397+4.042 i,8.394\}$

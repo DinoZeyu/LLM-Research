@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{28}{5} & -\frac{33}{5} & -10 \\
+ -6 & \frac{9}{5} & \frac{26}{5} \\
+ \frac{24}{5} & \frac{37}{5} & \frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.625-0.829 i,-3.625+0.829 i,11.85\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{16}{3} & \frac{22}{3} \\
+ 10 & \frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(9-\sqrt{4321}\right),\frac{1}{6} \left(9+\sqrt{4321}\right)\right\}$

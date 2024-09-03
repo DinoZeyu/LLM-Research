@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -4 \\
+ 7 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-2 i \sqrt{6},-5+2 i \sqrt{6}\right\}$

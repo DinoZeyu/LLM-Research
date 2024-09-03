@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{32}{5} & \frac{7}{5} \\
+ -4 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(11-\sqrt{301}\right),\frac{1}{5} \left(11+\sqrt{301}\right)\right\}$

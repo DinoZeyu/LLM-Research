@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{23}{4} & -\frac{35}{4} & \frac{1}{4} \\
+ \frac{9}{4} & -1 & -\frac{19}{4} \\
+ \frac{27}{4} & -\frac{3}{2} & -\frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.284-4.976 i,-8.284+4.976 i,1.068\}$

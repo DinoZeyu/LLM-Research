@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & 9 \\
+ 1 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-\sqrt{58},2+\sqrt{58}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ 5 & \frac{10}{3} \\
+ -\frac{25}{6} & -\frac{7}{6} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{145}{18}$

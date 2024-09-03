@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 9 & 8 & \frac{14}{5} \\
+ -\frac{14}{5} & -\frac{19}{5} & \frac{3}{5} \\
+ \frac{44}{5} & -\frac{28}{5} & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.208-3.545 i,-3.208+3.545 i,10.015\}$

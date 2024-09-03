@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -\frac{10}{3} \\
+ \frac{29}{3} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-21-i \sqrt{71}\right),\frac{1}{6} \left(-21+i \sqrt{71}\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{21}{5} & 8 & \frac{46}{5} \\
+ \frac{16}{5} & \frac{14}{5} & \frac{7}{5} \\
+ \frac{49}{5} & -\frac{19}{5} & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.433,2.523,13.711\}$

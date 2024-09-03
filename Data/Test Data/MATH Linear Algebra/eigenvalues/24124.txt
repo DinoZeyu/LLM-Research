@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{26}{3} & -9 \\
+ 1 & -\frac{19}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{6} \left(-9-i \sqrt{11}\right),\frac{5}{6} \left(-9+i \sqrt{11}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{44}{5} & \frac{22}{5} \\
+ \frac{37}{5} & \frac{29}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{7}{5},\frac{66}{5}\right\}$

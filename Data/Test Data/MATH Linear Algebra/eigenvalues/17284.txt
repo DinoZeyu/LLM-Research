@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -\frac{32}{5} \\
+ \frac{44}{5} & -\frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-19-i \sqrt{5631}\right),\frac{1}{10} \left(-19+i \sqrt{5631}\right)\right\}$

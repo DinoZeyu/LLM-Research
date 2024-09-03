@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & 7 \\
+ -1 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(5-3 i \sqrt{3}\right),\frac{1}{2} \left(5+3 i \sqrt{3}\right)\right\}$

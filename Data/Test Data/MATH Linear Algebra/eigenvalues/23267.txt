@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & \frac{35}{4} \\
+ \frac{1}{4} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-5-6 \sqrt{11}\right),\frac{1}{4} \left(6 \sqrt{11}-5\right)\right\}$

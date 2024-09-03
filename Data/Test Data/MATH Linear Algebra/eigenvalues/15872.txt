@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{5} & \frac{2}{5} \\
+ \frac{46}{5} & \frac{32}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-5-\sqrt{5129}\right),\frac{1}{10} \left(\sqrt{5129}-5\right)\right\}$

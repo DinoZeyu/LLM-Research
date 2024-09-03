@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{33}{5} & \frac{9}{5} \\
+ \frac{31}{5} & \frac{32}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-1-7 \sqrt{109}\right),\frac{1}{10} \left(7 \sqrt{109}-1\right)\right\}$

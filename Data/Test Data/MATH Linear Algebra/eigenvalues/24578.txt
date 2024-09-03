@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{28}{3} & -\frac{14}{3} \\
+ 2 & -\frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-14-i \sqrt{21}\right),\frac{2}{3} \left(-14+i \sqrt{21}\right)\right\}$

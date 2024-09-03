@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 1 \\
+ -7 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-\sqrt{57},1+\sqrt{57}\right\}$

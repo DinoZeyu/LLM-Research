@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & 5 \\
+ -\frac{44}{5} & \frac{38}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(9-i \sqrt{259}\right),\frac{1}{5} \left(9+i \sqrt{259}\right)\right\}$

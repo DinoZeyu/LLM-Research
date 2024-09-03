@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & -\frac{15}{4} \\
+ 6 & \frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(19-3 i \sqrt{151}\right),\frac{1}{8} \left(19+3 i \sqrt{151}\right)\right\}$

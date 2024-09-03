@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{5} & -\frac{29}{5} \\
+ -\frac{23}{5} & -\frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-4-\sqrt{323}\right),\frac{2}{5} \left(\sqrt{323}-4\right)\right\}$

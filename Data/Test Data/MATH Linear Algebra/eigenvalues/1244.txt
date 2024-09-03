@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{49}{5} & -\frac{13}{5} \\
+ -\frac{23}{5} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(29-\sqrt{5957}\right),\frac{1}{10} \left(29+\sqrt{5957}\right)\right\}$

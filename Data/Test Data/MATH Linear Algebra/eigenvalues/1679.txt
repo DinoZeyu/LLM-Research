@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{28}{3} & \frac{28}{3} \\
+ -\frac{26}{3} & -\frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(3-i \sqrt{103}\right),\frac{1}{6} \left(3+i \sqrt{103}\right)\right\}$

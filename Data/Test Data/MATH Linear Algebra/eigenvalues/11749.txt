@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{29}{4} \\
+ -\frac{31}{4} & \frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(39-i \sqrt{3371}\right),\frac{1}{8} \left(39+i \sqrt{3371}\right)\right\}$

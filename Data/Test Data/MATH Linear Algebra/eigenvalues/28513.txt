@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & \frac{3}{2} \\
+ -6 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(7-i \sqrt{15}\right),\frac{3}{4} \left(7+i \sqrt{15}\right)\right\}$

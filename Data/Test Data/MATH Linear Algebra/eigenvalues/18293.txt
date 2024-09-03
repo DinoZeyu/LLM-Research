@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{43}{5} & \frac{13}{5} \\
+ -\frac{12}{5} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-19-2 \sqrt{105}\right),\frac{1}{5} \left(2 \sqrt{105}-19\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{27}{4} \\
+ 2 & \frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(3-i \sqrt{87}\right),\frac{3}{8} \left(3+i \sqrt{87}\right)\right\}$

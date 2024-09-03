@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 2 \\
+ 1 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-\sqrt{6},\sqrt{6}-2\right\}$

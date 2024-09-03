@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{4} & -7 \\
+ -\frac{31}{4} & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(23-\sqrt{4097}\right),\frac{1}{8} \left(23+\sqrt{4097}\right)\right\}$

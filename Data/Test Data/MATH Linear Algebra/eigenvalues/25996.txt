@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{2}{3} & -\frac{10}{3} \\
+ 6 & \frac{10}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(3-i \sqrt{41}\right),\frac{2}{3} \left(3+i \sqrt{41}\right)\right\}$

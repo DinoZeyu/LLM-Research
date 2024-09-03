@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{26}{3} \\
+ 2 & -\frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-11-\sqrt{1057}\right),\frac{1}{6} \left(\sqrt{1057}-11\right)\right\}$

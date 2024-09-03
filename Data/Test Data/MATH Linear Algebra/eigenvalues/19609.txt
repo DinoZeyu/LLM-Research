@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{16}{5} & \frac{41}{5} \\
+ -5 & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(25-i \sqrt{4051}\right),\frac{1}{10} \left(25+i \sqrt{4051}\right)\right\}$

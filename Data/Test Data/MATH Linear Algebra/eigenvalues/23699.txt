@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & -4 \\
+ -\frac{15}{2} & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(39-\sqrt{481}\right),\frac{1}{4} \left(39+\sqrt{481}\right)\right\}$

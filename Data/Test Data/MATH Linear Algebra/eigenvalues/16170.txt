@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{26}{5} & -\frac{48}{5} \\
+ -\frac{23}{5} & \frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2 \sqrt{\frac{89}{5}},2 \sqrt{\frac{89}{5}}\right\}$

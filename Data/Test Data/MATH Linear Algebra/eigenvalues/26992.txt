@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{3} & 7 \\
+ \frac{11}{3} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(23-\sqrt{1453}\right),\frac{1}{6} \left(23+\sqrt{1453}\right)\right\}$

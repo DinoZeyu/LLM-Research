@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & \frac{1}{2} \\
+ -\frac{1}{2} & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-2 \sqrt{3},2 \sqrt{3}-5\right\}$

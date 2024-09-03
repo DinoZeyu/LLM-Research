@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{38}{5} & -\frac{34}{5} \\
+ \frac{32}{5} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-1-\sqrt{433}\right),\frac{1}{5} \left(\sqrt{433}-1\right)\right\}$

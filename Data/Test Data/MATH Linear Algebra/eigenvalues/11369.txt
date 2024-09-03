@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & \frac{41}{5} \\
+ 5 & \frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(9-\sqrt{4101}\right),\frac{1}{10} \left(9+\sqrt{4101}\right)\right\}$

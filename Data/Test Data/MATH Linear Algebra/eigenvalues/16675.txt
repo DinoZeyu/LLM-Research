@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 2 \\
+ -1 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{34},\sqrt{34}\right\}$

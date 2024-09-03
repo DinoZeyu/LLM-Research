@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 9 & -9 & \frac{29}{4} \\
+ -5 & -\frac{5}{4} & -4 \\
+ \frac{9}{2} & -\frac{7}{4} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\{-4.94-1.01 i,-4.94+1.01 i,14.63\}$

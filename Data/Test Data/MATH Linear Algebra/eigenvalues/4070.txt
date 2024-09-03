@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -9 \\
+ \frac{15}{2} & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(15-i \sqrt{959}\right),\frac{1}{4} \left(15+i \sqrt{959}\right)\right\}$

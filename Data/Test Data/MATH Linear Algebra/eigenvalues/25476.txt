@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{7}{2} \\
+ -\frac{5}{2} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-13-3 \sqrt{85}\right),\frac{1}{4} \left(3 \sqrt{85}-13\right)\right\}$

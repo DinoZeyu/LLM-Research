@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & \frac{13}{5} \\
+ \frac{47}{5} & -\frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-3-2 \sqrt{285}\right),\frac{1}{5} \left(2 \sqrt{285}-3\right)\right\}$

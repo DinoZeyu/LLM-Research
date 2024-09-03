@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{2} & \frac{11}{4} \\
+ 7 & \frac{29}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(1-\sqrt{473}\right),\frac{3}{8} \left(1+\sqrt{473}\right)\right\}$

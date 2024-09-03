@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & \frac{28}{3} \\
+ -1 & -\frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-7,-\frac{16}{3}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{25}{3} \\
+ \frac{25}{3} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{2 i \sqrt{46}}{3},\frac{2 i \sqrt{46}}{3}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{13}{2} \\
+ -\frac{15}{2} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-2-\sqrt{211}\right),\frac{1}{2} \left(\sqrt{211}-2\right)\right\}$

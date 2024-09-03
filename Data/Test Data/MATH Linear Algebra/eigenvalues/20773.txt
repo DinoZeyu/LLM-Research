@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{47}{5} & -\frac{27}{5} \\
+ -\frac{33}{5} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-3-\sqrt{643}\right),\frac{2}{5} \left(\sqrt{643}-3\right)\right\}$

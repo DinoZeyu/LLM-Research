@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{3}{2} \\
+ 3 & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-17-i \sqrt{47}\right),\frac{1}{4} \left(-17+i \sqrt{47}\right)\right\}$

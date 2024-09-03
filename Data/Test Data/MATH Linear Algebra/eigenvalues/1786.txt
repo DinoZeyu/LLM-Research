@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{4} & \frac{5}{2} \\
+ \frac{19}{2} & -\frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-20-9 \sqrt{5}\right),\frac{5}{4 \left(20+9 \sqrt{5}\right)}\right\}$

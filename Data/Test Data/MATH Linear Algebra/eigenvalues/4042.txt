@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & -2 \\
+ 2 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\{10-2 i,10+2 i\}$

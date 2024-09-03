@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{5} & \frac{9}{5} \\
+ 5 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-59-\sqrt{901}\right),\frac{1}{10} \left(\sqrt{901}-59\right)\right\}$

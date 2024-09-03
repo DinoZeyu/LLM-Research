@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -2 & -2 & \frac{9}{2} \\
+ -1 & -5 & \frac{39}{4} \\
+ -\frac{39}{4} & -\frac{15}{2} & \frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-1.05,1.9\, -7.558 i,1.9\, +7.558 i\}$

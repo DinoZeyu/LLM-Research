@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{35}{4} & -\frac{31}{4} \\
+ -\frac{7}{4} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-55-\sqrt{1093}\right),\frac{1}{8} \left(\sqrt{1093}-55\right)\right\}$

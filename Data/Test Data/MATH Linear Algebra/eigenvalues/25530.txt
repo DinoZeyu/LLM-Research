@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{23}{5} \\
+ \frac{12}{5} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{19}{5},\frac{54}{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{5} & -\frac{37}{5} \\
+ -\frac{44}{5} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(47-\sqrt{6521}\right),\frac{1}{10} \left(47+\sqrt{6521}\right)\right\}$

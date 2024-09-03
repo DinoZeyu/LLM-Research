@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{2} & \frac{39}{4} \\
+ \frac{11}{4} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-15-\sqrt{430}\right),\frac{1}{4} \left(\sqrt{430}-15\right)\right\}$

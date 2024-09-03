@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -9 \\
+ \frac{7}{2} & -\frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(-11-i \sqrt{103}\right),\frac{3}{8} \left(-11+i \sqrt{103}\right)\right\}$

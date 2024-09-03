@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & \frac{11}{2} \\
+ 6 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-15-\sqrt{133}\right),\frac{1}{2} \left(\sqrt{133}-15\right)\right\}$

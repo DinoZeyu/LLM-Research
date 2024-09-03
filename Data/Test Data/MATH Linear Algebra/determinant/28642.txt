@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ 3 & \frac{22}{5} \\
+ \frac{21}{5} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{687}{25}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{3} & -3 \\
+ \frac{16}{3} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-5-2 i \sqrt{5}\right),\frac{2}{3} \left(-5+2 i \sqrt{5}\right)\right\}$

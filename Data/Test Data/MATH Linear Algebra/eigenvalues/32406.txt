@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{16}{3} & 7 & 10 \\
+ -4 & -\frac{1}{3} & -\frac{7}{3} \\
+ \frac{14}{3} & -\frac{13}{3} & \frac{8}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.164-2.628 i,-5.164+2.628 i,7.328\}$

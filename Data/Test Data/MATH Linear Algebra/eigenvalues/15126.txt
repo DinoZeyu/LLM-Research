@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{5} & -\frac{13}{5} \\
+ 2 & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-53-i \sqrt{159}\right),\frac{1}{10} \left(-53+i \sqrt{159}\right)\right\}$

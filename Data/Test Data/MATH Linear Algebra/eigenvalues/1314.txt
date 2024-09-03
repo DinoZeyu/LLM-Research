@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{3}{5} & -\frac{1}{5} \\
+ \frac{31}{5} & \frac{37}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(17-3 \sqrt{41}\right),\frac{1}{5} \left(17+3 \sqrt{41}\right)\right\}$

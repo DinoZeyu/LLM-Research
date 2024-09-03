@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 1 \\
+ -9 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-7-\sqrt{13}\right),\frac{1}{2} \left(\sqrt{13}-7\right)\right\}$

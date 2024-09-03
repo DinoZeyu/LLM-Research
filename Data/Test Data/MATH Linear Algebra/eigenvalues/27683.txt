@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -\frac{34}{5} \\
+ -1 & -\frac{1}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(19-\sqrt{1121}\right),\frac{1}{10} \left(19+\sqrt{1121}\right)\right\}$

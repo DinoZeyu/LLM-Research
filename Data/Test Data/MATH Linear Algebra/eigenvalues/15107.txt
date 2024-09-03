@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 8 \\
+ 5 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-\sqrt{89},1+\sqrt{89}\right\}$

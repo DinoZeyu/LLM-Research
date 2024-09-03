@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & \frac{6}{5} \\
+ -\frac{42}{5} & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-2-3 i \sqrt{6}\right),\frac{2}{5} \left(-2+3 i \sqrt{6}\right)\right\}$

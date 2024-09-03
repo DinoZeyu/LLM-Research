@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{41}{5} \\
+ -\frac{27}{5} & \frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(19-i \sqrt{411}\right),\frac{3}{10} \left(19+i \sqrt{411}\right)\right\}$

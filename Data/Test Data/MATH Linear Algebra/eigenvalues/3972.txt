@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -8 \\
+ 2 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-i \sqrt{15},i \sqrt{15}\right\}$

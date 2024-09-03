@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{3} & -10 \\
+ -2 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(41-\sqrt{745}\right),\frac{1}{6} \left(41+\sqrt{745}\right)\right\}$

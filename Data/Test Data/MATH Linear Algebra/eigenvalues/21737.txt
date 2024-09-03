@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 6 \\
+ -9 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(5-i \sqrt{167}\right),\frac{1}{2} \left(5+i \sqrt{167}\right)\right\}$

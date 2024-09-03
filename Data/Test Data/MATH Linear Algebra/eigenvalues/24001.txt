@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{5} & -\frac{19}{5} \\
+ -\frac{4}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-32-7 \sqrt{5}\right),\frac{1}{5} \left(7 \sqrt{5}-32\right)\right\}$

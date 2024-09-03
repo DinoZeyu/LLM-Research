@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{8}{3} & \frac{26}{3} \\
+ -4 & -\frac{5}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-i \sqrt{1239}\right),\frac{1}{6} \left(-13+i \sqrt{1239}\right)\right\}$

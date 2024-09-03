@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{41}{5} & \frac{8}{5} \\
+ -4 & -\frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-67-i \sqrt{415}\right),\frac{1}{10} \left(-67+i \sqrt{415}\right)\right\}$

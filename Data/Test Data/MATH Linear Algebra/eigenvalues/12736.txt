@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -\frac{24}{5} \\
+ \frac{36}{5} & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-1-i \sqrt{3095}\right),\frac{1}{10} \left(-1+i \sqrt{3095}\right)\right\}$

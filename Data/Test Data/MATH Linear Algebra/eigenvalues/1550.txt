@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -7 \\
+ -10 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-\sqrt{74},\sqrt{74}-3\right\}$

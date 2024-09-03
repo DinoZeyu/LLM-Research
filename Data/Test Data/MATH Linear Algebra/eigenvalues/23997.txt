@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & 10 \\
+ -7 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{8-i \sqrt{66},8+i \sqrt{66}\right\}$

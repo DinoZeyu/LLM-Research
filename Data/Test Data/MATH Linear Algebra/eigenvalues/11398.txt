@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{11}{2} \\
+ -9 & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(-1-\sqrt{89}\right),\frac{3}{4} \left(\sqrt{89}-1\right)\right\}$

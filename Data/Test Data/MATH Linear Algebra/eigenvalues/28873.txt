@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{26}{5} \\
+ -4 & -\frac{1}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-31-i \sqrt{1239}\right),\frac{1}{10} \left(-31+i \sqrt{1239}\right)\right\}$

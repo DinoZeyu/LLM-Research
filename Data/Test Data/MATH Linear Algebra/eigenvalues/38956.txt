@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 2 & \frac{19}{3} & -9 \\
+ -\frac{13}{3} & \frac{5}{3} & 4 \\
+ 2 & 9 & -\frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-4.569-1.484 i,-4.569+1.484 i,4.471\}$

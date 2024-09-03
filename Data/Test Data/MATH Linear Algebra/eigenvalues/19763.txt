@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{5} & \frac{11}{5} \\
+ \frac{6}{5} & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-47-\sqrt{889}\right),\frac{1}{10} \left(\sqrt{889}-47\right)\right\}$

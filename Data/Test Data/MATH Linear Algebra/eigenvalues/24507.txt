@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{13}{2} \\
+ 4 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-i \sqrt{22},-5+i \sqrt{22}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{4} & \frac{21}{4} \\
+ \frac{17}{2} & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-11-\sqrt{2937}\right),\frac{1}{8} \left(\sqrt{2937}-11\right)\right\}$

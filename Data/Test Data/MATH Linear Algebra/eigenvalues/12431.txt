@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & \frac{19}{4} \\
+ -\frac{5}{4} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-4-i \sqrt{31}\right),\frac{1}{4} \left(-4+i \sqrt{31}\right)\right\}$

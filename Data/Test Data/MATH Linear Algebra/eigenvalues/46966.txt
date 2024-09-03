@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{13}{2} & -\frac{19}{2} & 8 \\
+ \frac{21}{4} & \frac{9}{2} & -\frac{13}{2} \\
+ \frac{5}{4} & -\frac{9}{2} & \frac{17}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-0.12,7.685\, -5.423 i,7.685\, +5.423 i\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{3} & \frac{23}{3} \\
+ -8 & \frac{10}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(23-i \sqrt{2199}\right),\frac{1}{6} \left(23+i \sqrt{2199}\right)\right\}$

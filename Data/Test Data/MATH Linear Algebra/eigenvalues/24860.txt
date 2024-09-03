@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & \frac{3}{5} \\
+ \frac{48}{5} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-35-\sqrt{601}\right),\frac{1}{10} \left(\sqrt{601}-35\right)\right\}$

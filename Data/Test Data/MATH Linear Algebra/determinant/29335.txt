@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{11}{10} & \frac{16}{5} \\
+ \frac{18}{5} & \frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{84}{5}$

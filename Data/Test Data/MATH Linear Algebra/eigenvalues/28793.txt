@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{3} & 8 \\
+ -1 & \frac{10}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{14}{3},\frac{7}{3}\right\}$

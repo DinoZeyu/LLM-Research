@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{2} & -\frac{37}{4} \\
+ -\frac{17}{4} & \frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(9-5 \sqrt{21}\right),\frac{3}{8} \left(9+5 \sqrt{21}\right)\right\}$

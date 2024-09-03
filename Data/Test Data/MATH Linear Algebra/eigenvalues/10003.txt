@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & \frac{11}{2} \\
+ -\frac{19}{2} & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-3-i \sqrt{787}\right),\frac{1}{4} \left(-3+i \sqrt{787}\right)\right\}$

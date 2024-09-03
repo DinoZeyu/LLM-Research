@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -\frac{5}{2} \\
+ -\frac{31}{4} & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(31-\sqrt{311}\right),\frac{1}{4} \left(31+\sqrt{311}\right)\right\}$

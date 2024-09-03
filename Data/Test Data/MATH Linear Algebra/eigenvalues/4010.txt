@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & -6 \\
+ -5 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-25-\sqrt{505}\right),\frac{1}{4} \left(\sqrt{505}-25\right)\right\}$

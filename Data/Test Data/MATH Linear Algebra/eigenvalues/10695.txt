@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{13}{2} \\
+ \frac{1}{2} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-\frac{3 i}{2},1+\frac{3 i}{2}\right\}$

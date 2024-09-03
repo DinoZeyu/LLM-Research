@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{33}{5} & \frac{43}{5} \\
+ -\frac{6}{5} & \frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(37-i \sqrt{191}\right),\frac{1}{10} \left(37+i \sqrt{191}\right)\right\}$

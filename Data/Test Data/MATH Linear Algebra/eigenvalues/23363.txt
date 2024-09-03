@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 3 \\
+ 4 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{93},\sqrt{93}\right\}$

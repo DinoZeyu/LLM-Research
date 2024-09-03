@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & \frac{39}{4} \\
+ -\frac{7}{2} & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-13-i \sqrt{521}\right),\frac{1}{4} \left(-13+i \sqrt{521}\right)\right\}$

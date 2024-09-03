@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{5} & 1 \\
+ \frac{1}{5} & -\frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(23-\sqrt{1245}\right),\frac{1}{10} \left(23+\sqrt{1245}\right)\right\}$

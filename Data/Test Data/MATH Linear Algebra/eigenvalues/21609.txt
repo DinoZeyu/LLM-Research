@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & 9 \\
+ 8 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-23-\sqrt{1177}\right),\frac{1}{4} \left(\sqrt{1177}-23\right)\right\}$

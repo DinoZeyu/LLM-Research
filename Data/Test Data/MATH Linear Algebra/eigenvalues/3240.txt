@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{44}{5} & 4 \\
+ -\frac{47}{5} & -\frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-35-i \sqrt{859}\right),\frac{1}{5} \left(-35+i \sqrt{859}\right)\right\}$

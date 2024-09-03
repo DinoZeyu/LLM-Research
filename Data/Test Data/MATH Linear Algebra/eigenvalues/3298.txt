@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{13}{3} \\
+ -\frac{28}{3} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{35}{3},\frac{5}{3}\right\}$

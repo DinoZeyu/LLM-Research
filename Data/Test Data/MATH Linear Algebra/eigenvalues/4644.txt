@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{41}{5} & -\frac{24}{5} \\
+ \frac{33}{5} & \frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-15-\sqrt{1321}\right),\frac{1}{10} \left(\sqrt{1321}-15\right)\right\}$

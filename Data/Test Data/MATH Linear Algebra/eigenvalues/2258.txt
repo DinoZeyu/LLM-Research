@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -6 \\
+ 8 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-i \sqrt{167}\right),\frac{1}{2} \left(-11+i \sqrt{167}\right)\right\}$

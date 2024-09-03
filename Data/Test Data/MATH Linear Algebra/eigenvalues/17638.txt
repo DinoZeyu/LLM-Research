@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 5 \\
+ -\frac{5}{2} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-10-\sqrt{14}\right),\frac{1}{2} \left(\sqrt{14}-10\right)\right\}$

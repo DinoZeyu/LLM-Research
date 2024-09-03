@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{4} & -\frac{35}{4} \\
+ \frac{5}{2} & -\frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{269}}{4},\frac{i \sqrt{269}}{4}\right\}$

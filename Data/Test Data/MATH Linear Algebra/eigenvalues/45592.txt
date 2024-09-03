@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{3}{2} & -8 & \frac{11}{4} \\
+ \frac{33}{4} & \frac{37}{4} & -\frac{9}{2} \\
+ 8 & -\frac{15}{2} & \frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{2.481\, -3.311 i,2.481\, +3.311 i,9.539\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{7}{3} & -\frac{19}{6} & \frac{5}{2} \\
+ -\frac{3}{2} & \frac{7}{3} & \frac{7}{2} \\
+ -\frac{8}{3} & 0 & \frac{23}{6} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{10319}{216}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{4} & 6 \\
+ \frac{5}{2} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-5-\sqrt{4441}\right),\frac{1}{8} \left(\sqrt{4441}-5\right)\right\}$

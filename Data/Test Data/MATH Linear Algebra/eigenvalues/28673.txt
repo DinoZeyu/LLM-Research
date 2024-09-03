@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{2} & 9 \\
+ -\frac{31}{4} & -\frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{8} \left(-9-i \sqrt{167}\right),\frac{5}{8} \left(-9+i \sqrt{167}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 6 \\
+ -\frac{22}{3} & \frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-7-i \sqrt{743}\right),\frac{1}{6} \left(-7+i \sqrt{743}\right)\right\}$

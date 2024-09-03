@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{23}{5} & \frac{12}{5} & \frac{1}{2} \\
+ -\frac{29}{10} & \frac{43}{10} & -\frac{19}{10} \\
+ \frac{11}{5} & \frac{33}{10} & \frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{73471}{1000}$

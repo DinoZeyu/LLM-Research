@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{39}{5} & 8 \\
+ \frac{32}{5} & \frac{41}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(40-\sqrt{1281}\right),\frac{1}{5} \left(40+\sqrt{1281}\right)\right\}$

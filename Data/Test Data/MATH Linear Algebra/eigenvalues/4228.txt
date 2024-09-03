@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 9 \\
+ 8 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-2 \sqrt{19},2 \sqrt{19}-5\right\}$

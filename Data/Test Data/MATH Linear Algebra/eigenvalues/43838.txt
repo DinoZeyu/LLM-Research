@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -8 & 8 & 8 \\
+ \frac{7}{3} & -8 & -7 \\
+ -6 & 0 & \frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.751,-6.422,7.84\}$

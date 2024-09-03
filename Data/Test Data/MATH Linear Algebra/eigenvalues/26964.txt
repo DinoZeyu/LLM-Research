@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{5} & -\frac{27}{5} \\
+ -3 & -\frac{29}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-34-\sqrt{430}\right),\frac{1}{5} \left(\sqrt{430}-34\right)\right\}$

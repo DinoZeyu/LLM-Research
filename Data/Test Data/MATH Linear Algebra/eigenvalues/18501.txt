@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{1}{5} \\
+ -\frac{42}{5} & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-33-\sqrt{457}\right),\frac{1}{10} \left(\sqrt{457}-33\right)\right\}$

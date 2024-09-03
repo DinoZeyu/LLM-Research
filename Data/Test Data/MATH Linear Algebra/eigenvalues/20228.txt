@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -6 \\
+ \frac{5}{2} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\{-1,1\}$

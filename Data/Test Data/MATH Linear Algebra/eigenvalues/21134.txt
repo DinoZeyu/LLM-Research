@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{7}{2} \\
+ -\frac{7}{2} & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(15-2 i \sqrt{6}\right),\frac{1}{2} \left(15+2 i \sqrt{6}\right)\right\}$

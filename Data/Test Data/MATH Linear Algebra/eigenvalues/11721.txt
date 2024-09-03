@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{5} & -\frac{22}{5} \\
+ -\frac{18}{5} & -\frac{23}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-27-2 \sqrt{103}\right),\frac{1}{5} \left(2 \sqrt{103}-27\right)\right\}$

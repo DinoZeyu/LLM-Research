@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 2 & -7 & -\frac{18}{5} \\
+ -\frac{28}{5} & \frac{48}{5} & -\frac{8}{5} \\
+ -\frac{7}{5} & -\frac{18}{5} & -\frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.469,0.37,13.099\}$

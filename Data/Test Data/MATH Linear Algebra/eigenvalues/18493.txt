@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{5} & -5 \\
+ \frac{13}{5} & \frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(18-i \sqrt{69}\right),\frac{2}{5} \left(18+i \sqrt{69}\right)\right\}$

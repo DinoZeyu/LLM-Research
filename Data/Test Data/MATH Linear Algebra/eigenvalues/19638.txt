@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{5} & -\frac{48}{5} \\
+ 9 & \frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(5-i \sqrt{1751}\right),\frac{1}{10} \left(5+i \sqrt{1751}\right)\right\}$

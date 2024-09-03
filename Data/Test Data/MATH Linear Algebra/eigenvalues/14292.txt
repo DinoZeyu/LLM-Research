@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{5} & -8 \\
+ 10 & \frac{3}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-8-i \sqrt{1879}\right),\frac{1}{5} \left(-8+i \sqrt{1879}\right)\right\}$

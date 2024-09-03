@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & 2 \\
+ -6 & \frac{26}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(29-\sqrt{97}\right),\frac{1}{6} \left(29+\sqrt{97}\right)\right\}$

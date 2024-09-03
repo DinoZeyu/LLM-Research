@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{49}{5} & -\frac{22}{5} \\
+ \frac{36}{5} & \frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(73-i \sqrt{2543}\right),\frac{1}{10} \left(73+i \sqrt{2543}\right)\right\}$

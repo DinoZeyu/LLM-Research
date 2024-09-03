@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{5} & -\frac{13}{5} \\
+ \frac{4}{5} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{4}{5} \left(-8-\sqrt{17}\right),\frac{4}{5} \left(\sqrt{17}-8\right)\right\}$

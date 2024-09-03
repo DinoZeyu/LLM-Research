@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -3 \\
+ \frac{3}{2} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{15}{2}-\frac{3 i}{2},\frac{15}{2}+\frac{3 i}{2}\right\}$

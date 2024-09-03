@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -\frac{28}{3} \\
+ -2 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-39-\sqrt{897}\right),\frac{1}{6} \left(\sqrt{897}-39\right)\right\}$

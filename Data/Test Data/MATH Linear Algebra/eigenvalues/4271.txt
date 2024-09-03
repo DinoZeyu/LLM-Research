@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{26}{5} & 7 \\
+ \frac{47}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-19-\sqrt{11621}\right),\frac{1}{10} \left(\sqrt{11621}-19\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{7}{4} \\
+ -\frac{11}{4} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{861}}{4},\frac{\sqrt{861}}{4}\right\}$

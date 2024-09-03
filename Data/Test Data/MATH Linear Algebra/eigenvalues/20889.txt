@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{15}{2} \\
+ -\frac{7}{2} & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-19-\sqrt{501}\right),\frac{1}{4} \left(\sqrt{501}-19\right)\right\}$

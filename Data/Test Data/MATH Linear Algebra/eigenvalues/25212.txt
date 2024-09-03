@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 7 \\
+ -\frac{10}{3} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(33-i \sqrt{399}\right),\frac{1}{6} \left(33+i \sqrt{399}\right)\right\}$

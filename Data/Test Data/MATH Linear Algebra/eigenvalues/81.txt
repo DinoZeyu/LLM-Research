@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{5} & -\frac{36}{5} \\
+ -\frac{19}{5} & \frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(19-\sqrt{5545}\right),\frac{1}{10} \left(19+\sqrt{5545}\right)\right\}$

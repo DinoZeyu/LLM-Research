@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & 6 \\
+ -7 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-i \sqrt{26},2+i \sqrt{26}\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 0 & -4 & -\frac{19}{2} \\
+ -\frac{5}{2} & -\frac{3}{2} & -\frac{15}{2} \\
+ -\frac{11}{2} & \frac{11}{2} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\{-4.,-2.294,4.794\}$

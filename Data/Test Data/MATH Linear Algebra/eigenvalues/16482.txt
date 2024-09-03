@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{38}{5} & -\frac{42}{5} \\
+ 10 & -\frac{29}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-67-i \sqrt{8319}\right),\frac{1}{10} \left(-67+i \sqrt{8319}\right)\right\}$

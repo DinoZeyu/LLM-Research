@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{3} & -\frac{26}{3} \\
+ -\frac{7}{3} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-\sqrt{897}\right),\frac{1}{6} \left(\sqrt{897}-13\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -6 \\
+ 5 & \frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(21-i \sqrt{455}\right),\frac{1}{4} \left(21+i \sqrt{455}\right)\right\}$

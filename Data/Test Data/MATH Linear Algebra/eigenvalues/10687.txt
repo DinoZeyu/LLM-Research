@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -4 \\
+ 9 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2} \left(-5-i \sqrt{15}\right),\frac{3}{2} \left(-5+i \sqrt{15}\right)\right\}$

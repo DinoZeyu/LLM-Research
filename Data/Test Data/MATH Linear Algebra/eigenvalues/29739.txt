@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{35}{4} & 3 \\
+ -8 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-11-\sqrt{1945}\right),\frac{1}{8} \left(\sqrt{1945}-11\right)\right\}$

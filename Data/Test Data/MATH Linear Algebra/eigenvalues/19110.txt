@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 1 \\
+ -\frac{1}{2} & \frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(35-i \sqrt{7}\right),\frac{1}{4} \left(35+i \sqrt{7}\right)\right\}$

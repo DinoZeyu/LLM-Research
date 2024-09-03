@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & -2 \\
+ \frac{1}{2} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-8,-\frac{13}{2}\right\}$

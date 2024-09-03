@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & \frac{17}{2} \\
+ -8 & \frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(23-i \sqrt{1327}\right),\frac{1}{8} \left(23+i \sqrt{1327}\right)\right\}$

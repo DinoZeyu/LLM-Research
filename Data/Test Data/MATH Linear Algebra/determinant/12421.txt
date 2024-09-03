@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ 3 & \frac{23}{5} & \frac{13}{5} \\
+ -\frac{4}{5} & -\frac{14}{5} & -\frac{19}{5} \\
+ \frac{4}{5} & -\frac{23}{5} & -\frac{13}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{969}{25}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 2 \\
+ \frac{11}{2} & -\frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-35-\sqrt{185}\right),\frac{1}{4} \left(\sqrt{185}-35\right)\right\}$

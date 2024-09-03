@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{4} & \frac{15}{2} \\
+ -9 & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(9-i \sqrt{3095}\right),\frac{1}{8} \left(9+i \sqrt{3095}\right)\right\}$

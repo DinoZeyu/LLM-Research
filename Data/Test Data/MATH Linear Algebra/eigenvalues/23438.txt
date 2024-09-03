@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & 7 \\
+ -10 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(1-i \sqrt{111}\right),\frac{1}{2} \left(1+i \sqrt{111}\right)\right\}$

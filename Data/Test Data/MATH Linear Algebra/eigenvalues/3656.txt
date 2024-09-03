@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & \frac{11}{2} \\
+ \frac{5}{2} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-19-\sqrt{221}\right),\frac{1}{4} \left(\sqrt{221}-19\right)\right\}$

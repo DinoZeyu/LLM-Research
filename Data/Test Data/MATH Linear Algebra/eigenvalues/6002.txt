@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 8 & \frac{41}{5} & \frac{3}{5} \\
+ \frac{8}{5} & 0 & \frac{37}{5} \\
+ \frac{38}{5} & \frac{27}{5} & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.447-2.156 i,-2.447+2.156 i,13.295\}$

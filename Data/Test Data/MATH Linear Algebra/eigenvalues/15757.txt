@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{5} & -\frac{2}{5} \\
+ \frac{46}{5} & \frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-11-\sqrt{1841}\right),\frac{1}{10} \left(\sqrt{1841}-11\right)\right\}$

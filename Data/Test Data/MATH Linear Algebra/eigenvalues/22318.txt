@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{24}{5} & \frac{47}{5} \\
+ \frac{34}{5} & -\frac{41}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-17-\sqrt{10617}\right),\frac{1}{10} \left(\sqrt{10617}-17\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -9 & 4 & -10 \\
+ -8 & \frac{26}{5} & \frac{18}{5} \\
+ -\frac{27}{5} & \frac{21}{5} & -\frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-11.239,-1.633,7.473\}$

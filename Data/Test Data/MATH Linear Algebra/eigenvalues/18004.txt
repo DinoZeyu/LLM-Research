@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{36}{5} & -2 \\
+ 8 & \frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(57-5 i \sqrt{55}\right),\frac{1}{10} \left(57+5 i \sqrt{55}\right)\right\}$

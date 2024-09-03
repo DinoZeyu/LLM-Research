@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & \frac{23}{4} \\
+ -\frac{21}{4} & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-5-\sqrt{2829}\right),\frac{1}{8} \left(\sqrt{2829}-5\right)\right\}$

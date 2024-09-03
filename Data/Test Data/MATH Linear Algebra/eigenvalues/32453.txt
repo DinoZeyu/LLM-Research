@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 8 & \frac{1}{5} & -\frac{43}{5} \\
+ -\frac{23}{5} & \frac{34}{5} & \frac{46}{5} \\
+ \frac{32}{5} & \frac{16}{5} & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{3.585\, -5.205 i,3.585\, +5.205 i,9.43\}$

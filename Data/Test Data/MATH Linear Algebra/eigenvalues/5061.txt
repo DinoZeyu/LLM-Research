@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{34}{5} & -\frac{48}{5} & -\frac{16}{5} \\
+ 4 & \frac{27}{5} & \frac{27}{5} \\
+ -\frac{17}{5} & -\frac{14}{5} & \frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-1.37-3.386 i,-1.37+3.386 i,4.14\}$

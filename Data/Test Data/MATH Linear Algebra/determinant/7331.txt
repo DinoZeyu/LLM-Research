@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{9}{5} & -\frac{47}{10} & \frac{6}{5} \\
+ \frac{49}{10} & \frac{33}{10} & -\frac{14}{5} \\
+ -\frac{9}{2} & \frac{43}{10} & -\frac{37}{10} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{101021}{1000}$

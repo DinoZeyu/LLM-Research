@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & -\frac{9}{2} \\
+ 4 & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-15-2 i \sqrt{14}\right),\frac{1}{2} \left(-15+2 i \sqrt{14}\right)\right\}$

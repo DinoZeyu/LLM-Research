@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{39}{4} & -9 \\
+ 5 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(21-i \sqrt{295}\right),\frac{3}{8} \left(21+i \sqrt{295}\right)\right\}$

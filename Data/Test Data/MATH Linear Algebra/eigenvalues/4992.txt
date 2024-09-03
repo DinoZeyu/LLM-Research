@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{5} & -\frac{19}{5} \\
+ \frac{44}{5} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(11-\sqrt{1417}\right),\frac{1}{10} \left(11+\sqrt{1417}\right)\right\}$

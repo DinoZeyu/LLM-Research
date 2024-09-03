@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{3}{5} \\
+ 4 & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1,\frac{22}{5}\right\}$

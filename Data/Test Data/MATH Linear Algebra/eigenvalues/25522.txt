@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{16}{5} & -\frac{28}{5} \\
+ -4 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(61-\sqrt{3081}\right),\frac{1}{10} \left(61+\sqrt{3081}\right)\right\}$

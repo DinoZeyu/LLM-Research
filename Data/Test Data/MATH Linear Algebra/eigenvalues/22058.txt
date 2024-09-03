@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{4} & -\frac{17}{4} \\
+ -\frac{15}{2} & -\frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-\sqrt{1410}\right),\frac{1}{4} \left(\sqrt{1410}-1\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -7 \\
+ -\frac{6}{5} & \frac{32}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2,\frac{37}{5}\right\}$

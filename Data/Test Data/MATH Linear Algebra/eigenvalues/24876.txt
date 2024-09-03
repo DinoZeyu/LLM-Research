@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -9 \\
+ -9 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{85},\sqrt{85}-5\right\}$

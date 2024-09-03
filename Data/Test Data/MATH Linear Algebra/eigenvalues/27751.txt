@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{46}{5} & \frac{48}{5} \\
+ -2 & -\frac{49}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-95-7 i \sqrt{39}\right),\frac{1}{10} \left(-95+7 i \sqrt{39}\right)\right\}$

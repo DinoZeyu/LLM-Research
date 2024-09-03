@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{13}{4} \\
+ -10 & -\frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(35-i \sqrt{55}\right),\frac{1}{8} \left(35+i \sqrt{55}\right)\right\}$

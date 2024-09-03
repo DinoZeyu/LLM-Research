@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{21}{4} & -\frac{3}{4} \\
+ \frac{21}{4} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(-7-\sqrt{21}\right),\frac{3}{8} \left(\sqrt{21}-7\right)\right\}$

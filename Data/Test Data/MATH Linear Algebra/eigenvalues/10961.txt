@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{47}{5} & \frac{33}{5} \\
+ \frac{13}{5} & -\frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{58}{5},-\frac{8}{5}\right\}$

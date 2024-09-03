@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{12}{5} & 8 \\
+ \frac{13}{5} & \frac{1}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(13-\sqrt{2201}\right),\frac{1}{10} \left(13+\sqrt{2201}\right)\right\}$

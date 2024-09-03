@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{3} & \frac{14}{3} \\
+ 8 & -\frac{19}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-21-\sqrt{1633}\right),\frac{1}{6} \left(\sqrt{1633}-21\right)\right\}$

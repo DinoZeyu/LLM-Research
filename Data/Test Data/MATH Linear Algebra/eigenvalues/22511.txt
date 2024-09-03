@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{35}{4} & \frac{25}{4} \\
+ -\frac{13}{2} & -\frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-36-i \sqrt{649}\right),\frac{1}{4} \left(-36+i \sqrt{649}\right)\right\}$

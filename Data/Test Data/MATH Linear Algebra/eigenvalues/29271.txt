@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & 6 \\
+ -\frac{4}{5} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-25-\sqrt{2545}\right),\frac{1}{10} \left(\sqrt{2545}-25\right)\right\}$

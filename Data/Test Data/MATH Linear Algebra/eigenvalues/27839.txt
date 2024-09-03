@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 9 \\
+ -5 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-6-i \sqrt{29},-6+i \sqrt{29}\right\}$

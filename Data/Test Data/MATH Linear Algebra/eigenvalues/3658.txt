@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & -\frac{3}{2} \\
+ -4 & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-2-\sqrt{145}\right),\frac{1}{2} \left(\sqrt{145}-2\right)\right\}$

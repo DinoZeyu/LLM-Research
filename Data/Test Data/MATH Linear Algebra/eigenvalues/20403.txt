@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & 10 \\
+ 7 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-\sqrt{79},\sqrt{79}-1\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{35}{4} \\
+ 1 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(3-\sqrt{134}\right),\frac{1}{2} \left(3+\sqrt{134}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{4} & 1 \\
+ \frac{15}{4} & -\frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-14-\sqrt{501}\right),\frac{1}{4} \left(\sqrt{501}-14\right)\right\}$

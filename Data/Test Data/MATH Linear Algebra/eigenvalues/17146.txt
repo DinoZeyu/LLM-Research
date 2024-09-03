@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & 5 \\
+ -5 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-3 i \sqrt{11}\right),\frac{1}{2} \left(-11+3 i \sqrt{11}\right)\right\}$

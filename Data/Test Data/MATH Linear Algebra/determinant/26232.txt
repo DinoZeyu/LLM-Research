@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -4 & \frac{19}{5} & \frac{22}{5} \\
+ -\frac{6}{5} & \frac{23}{5} & -\frac{16}{5} \\
+ \frac{24}{5} & 3 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{4898}{25}$

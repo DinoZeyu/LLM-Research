@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 4 \\
+ -\frac{4}{3} & -\frac{13}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(11-\sqrt{1177}\right),\frac{1}{6} \left(11+\sqrt{1177}\right)\right\}$

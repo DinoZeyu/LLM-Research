@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{17}{2} \\
+ 10 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5-9 i,-5+9 i\}$

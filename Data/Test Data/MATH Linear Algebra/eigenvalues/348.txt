@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{5}{3} \\
+ -6 & \frac{14}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{3},8\right\}$

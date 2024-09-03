@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 7 & \frac{22}{5} & \frac{31}{5} \\
+ \frac{38}{5} & \frac{22}{5} & \frac{32}{5} \\
+ \frac{11}{5} & -6 & \frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-0.39,4.43,8.16\}$

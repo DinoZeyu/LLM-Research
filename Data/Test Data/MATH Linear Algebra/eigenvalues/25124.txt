@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{3} & -9 \\
+ \frac{8}{3} & -\frac{13}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{47}}{3},\frac{i \sqrt{47}}{3}\right\}$

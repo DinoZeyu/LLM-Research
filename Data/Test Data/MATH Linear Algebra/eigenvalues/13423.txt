@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{2} & -10 \\
+ 9 & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{7}{2}-9 i,\frac{7}{2}+9 i\right\}$

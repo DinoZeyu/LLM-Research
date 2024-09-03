@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -5 & -\frac{9}{2} & -\frac{11}{2} \\
+ -\frac{5}{2} & -\frac{17}{2} & -4 \\
+ \frac{13}{2} & -\frac{7}{2} & -\frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.476,-3.762-3.847 i,-3.762+3.847 i\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & -\frac{19}{2} \\
+ 8 & \frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{223}}{2},\frac{i \sqrt{223}}{2}\right\}$

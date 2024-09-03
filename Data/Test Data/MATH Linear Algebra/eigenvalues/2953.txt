@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{7}{2} \\
+ 8 & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{4} \left(-3-i \sqrt{31}\right),\frac{3}{4} \left(-3+i \sqrt{31}\right)\right\}$

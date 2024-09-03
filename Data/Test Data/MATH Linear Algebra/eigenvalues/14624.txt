@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & \frac{7}{2} \\
+ -4 & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-11-5 i \sqrt{7}\right),\frac{1}{4} \left(-11+5 i \sqrt{7}\right)\right\}$

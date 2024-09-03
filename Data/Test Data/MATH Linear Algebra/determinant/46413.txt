@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{43}{10} & -\frac{7}{10} & -\frac{31}{10} \\
+ -\frac{9}{10} & -\frac{23}{10} & \frac{18}{5} \\
+ -\frac{11}{5} & \frac{37}{10} & \frac{21}{10} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{9563}{200}$

@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{47}{10} & -\frac{21}{10} \\
+ \frac{21}{10} & -\frac{31}{10} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{254}{25}$

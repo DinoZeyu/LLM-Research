@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{22}{3} \\
+ \frac{4}{3} & -\frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-25-\sqrt{473}\right),\frac{1}{6} \left(\sqrt{473}-25\right)\right\}$

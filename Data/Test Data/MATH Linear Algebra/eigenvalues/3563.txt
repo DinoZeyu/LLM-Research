@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{5} & 10 \\
+ -2 & -\frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-29-i \sqrt{1991}\right),\frac{1}{10} \left(-29+i \sqrt{1991}\right)\right\}$

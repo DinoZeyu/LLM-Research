@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & 7 \\
+ -\frac{16}{3} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-21-i \sqrt{1335}\right),\frac{1}{6} \left(-21+i \sqrt{1335}\right)\right\}$

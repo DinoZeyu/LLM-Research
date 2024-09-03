@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{23}{3} \\
+ -\frac{16}{3} & -\frac{13}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-31-\sqrt{1497}\right),\frac{1}{6} \left(\sqrt{1497}-31\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{34}{5} & -\frac{26}{5} \\
+ -\frac{14}{5} & \frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{4}{5} \left(1-\sqrt{113}\right),\frac{4}{5} \left(1+\sqrt{113}\right)\right\}$

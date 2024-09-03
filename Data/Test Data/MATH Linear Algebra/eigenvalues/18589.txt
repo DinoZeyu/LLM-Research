@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{13}{5} \\
+ -\frac{21}{5} & -\frac{34}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-29-\sqrt{2613}\right),\frac{1}{10} \left(\sqrt{2613}-29\right)\right\}$

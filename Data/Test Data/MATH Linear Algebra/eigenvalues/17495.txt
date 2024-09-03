@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{24}{5} & -\frac{1}{5} \\
+ -\frac{44}{5} & \frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-2-\sqrt{111}\right),\frac{2}{5} \left(\sqrt{111}-2\right)\right\}$

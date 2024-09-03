@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & \frac{3}{2} \\
+ \frac{23}{4} & -\frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-53-\sqrt{721}\right),\frac{1}{8} \left(\sqrt{721}-53\right)\right\}$

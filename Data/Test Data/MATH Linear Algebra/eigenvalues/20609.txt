@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{12}{5} & -\frac{28}{5} \\
+ 0 & \frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{12}{5},\frac{44}{5}\right\}$

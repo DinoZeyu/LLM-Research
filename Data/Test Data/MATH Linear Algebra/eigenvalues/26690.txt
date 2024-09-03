@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{3} & \frac{14}{3} \\
+ -\frac{19}{3} & -\frac{20}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(9-\sqrt{1337}\right),\frac{1}{6} \left(9+\sqrt{1337}\right)\right\}$

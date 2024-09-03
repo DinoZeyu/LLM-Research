@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{39}{4} & \frac{5}{4} \\
+ -\frac{37}{4} & \frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-25-\sqrt{2069}\right),\frac{1}{8} \left(\sqrt{2069}-25\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{42}{5} \\
+ -\frac{49}{5} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-15-\sqrt{2158}\right),\frac{1}{5} \left(\sqrt{2158}-15\right)\right\}$

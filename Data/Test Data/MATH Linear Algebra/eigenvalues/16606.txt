@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{4} & -\frac{35}{4} \\
+ -9 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-51-\sqrt{5065}\right),\frac{1}{8} \left(\sqrt{5065}-51\right)\right\}$

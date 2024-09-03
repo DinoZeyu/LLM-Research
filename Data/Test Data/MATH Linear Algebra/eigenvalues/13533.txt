@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{17}{3} \\
+ 8 & -\frac{5}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(25-\sqrt{2857}\right),\frac{1}{6} \left(25+\sqrt{2857}\right)\right\}$

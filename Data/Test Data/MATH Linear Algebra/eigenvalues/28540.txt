@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{4} & \frac{37}{4} \\
+ \frac{37}{4} & \frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(21-\sqrt{1373}\right),\frac{1}{4} \left(21+\sqrt{1373}\right)\right\}$

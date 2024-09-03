@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{1}{4} \\
+ -\frac{13}{2} & \frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-17-5 \sqrt{65}\right),\frac{1}{8} \left(5 \sqrt{65}-17\right)\right\}$

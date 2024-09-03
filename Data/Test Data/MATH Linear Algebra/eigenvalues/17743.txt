@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{26}{3} & \frac{28}{3} \\
+ 8 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{3} \left(-19-\sqrt{721}\right),\frac{1}{3} \left(\sqrt{721}-19\right)\right\}$

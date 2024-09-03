@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & \frac{49}{5} \\
+ -\frac{31}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-35-3 i \sqrt{339}\right),\frac{1}{10} \left(-35+3 i \sqrt{339}\right)\right\}$

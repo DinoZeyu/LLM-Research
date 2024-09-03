@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{21}{5} & -9 \\
+ -\frac{18}{5} & \frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(23-\sqrt{7465}\right),\frac{1}{10} \left(23+\sqrt{7465}\right)\right\}$

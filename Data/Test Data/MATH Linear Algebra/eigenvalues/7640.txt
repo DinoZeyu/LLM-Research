@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -2 & -\frac{20}{3} & -\frac{26}{3} \\
+ 6 & \frac{8}{3} & \frac{19}{3} \\
+ \frac{26}{3} & -\frac{19}{3} & \frac{1}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{0.183\, -12.241 i,0.183\, +12.241 i,0.634\}$

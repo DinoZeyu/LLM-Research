@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 5 \\
+ 7 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-2 \sqrt{15},2 \sqrt{15}-1\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{10}{3} \\
+ \frac{1}{3} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(15-\sqrt{481}\right),\frac{1}{6} \left(15+\sqrt{481}\right)\right\}$

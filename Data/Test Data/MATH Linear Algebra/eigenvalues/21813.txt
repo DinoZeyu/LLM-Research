@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{12}{5} & -\frac{46}{5} \\
+ -1 & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-24-\sqrt{374}\right),\frac{1}{5} \left(\sqrt{374}-24\right)\right\}$

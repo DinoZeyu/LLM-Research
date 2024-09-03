@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{21}{5} & -1 \\
+ \frac{4}{5} & \frac{27}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(24-i \sqrt{11}\right),\frac{1}{5} \left(24+i \sqrt{11}\right)\right\}$

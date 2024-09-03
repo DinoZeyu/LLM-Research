@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{28}{5} \\
+ \frac{16}{5} & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(7-i \sqrt{1783}\right),\frac{1}{10} \left(7+i \sqrt{1783}\right)\right\}$

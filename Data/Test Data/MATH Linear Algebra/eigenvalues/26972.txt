@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{11}{5} & 4 \\
+ \frac{44}{5} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-9-\sqrt{4481}\right),\frac{1}{10} \left(\sqrt{4481}-9\right)\right\}$

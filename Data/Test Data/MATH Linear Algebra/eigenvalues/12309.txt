@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -4 \\
+ -5 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(13-\sqrt{89}\right),\frac{1}{2} \left(13+\sqrt{89}\right)\right\}$

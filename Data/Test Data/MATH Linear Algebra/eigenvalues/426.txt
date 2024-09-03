@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & -\frac{28}{3} \\
+ 8 & \frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-5-\sqrt{337}\right),\frac{1}{6} \left(\sqrt{337}-5\right)\right\}$

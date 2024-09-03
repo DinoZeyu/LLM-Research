@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{2} & 1 \\
+ \frac{5}{2} & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{35}}{2},\frac{\sqrt{35}}{2}\right\}$

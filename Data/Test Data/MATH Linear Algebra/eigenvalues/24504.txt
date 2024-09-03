@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{14}{5} & -\frac{42}{5} \\
+ -\frac{6}{5} & \frac{38}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(13-3 \sqrt{11}\right),\frac{2}{5} \left(13+3 \sqrt{11}\right)\right\}$

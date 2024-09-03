@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{43}{5} \\
+ -\frac{32}{5} & -\frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-19-\sqrt{5865}\right),\frac{1}{10} \left(\sqrt{5865}-19\right)\right\}$

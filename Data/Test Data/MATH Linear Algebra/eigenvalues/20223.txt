@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{4} & -\frac{37}{4} \\
+ \frac{29}{4} & -\frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-23-i \sqrt{973}\right),\frac{1}{4} \left(-23+i \sqrt{973}\right)\right\}$

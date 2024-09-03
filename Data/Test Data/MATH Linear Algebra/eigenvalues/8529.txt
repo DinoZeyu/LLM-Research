@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 0 & \frac{29}{3} & 3 \\
+ -4 & 10 & 1 \\
+ \frac{22}{3} & -8 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.909,5.454\, -3.345 i,5.454\, +3.345 i\}$

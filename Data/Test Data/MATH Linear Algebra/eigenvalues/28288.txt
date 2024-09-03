@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{4}{3} & -\frac{4}{3} \\
+ -\frac{23}{3} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-4-3 \sqrt{3}\right),\frac{2}{3} \left(3 \sqrt{3}-4\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & 1 \\
+ 5 & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(11-\sqrt{21}\right),\frac{1}{2} \left(11+\sqrt{21}\right)\right\}$

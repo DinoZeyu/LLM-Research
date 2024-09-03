@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{7}{2} \\
+ 9 & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(15-i \sqrt{479}\right),\frac{1}{4} \left(15+i \sqrt{479}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & 8 \\
+ 9 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-9-\sqrt{409}\right),\frac{1}{2} \left(\sqrt{409}-9\right)\right\}$

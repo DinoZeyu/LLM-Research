@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & -\frac{13}{4} \\
+ -2 & -\frac{25}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(3-\sqrt{433}\right),\frac{3}{8} \left(3+\sqrt{433}\right)\right\}$

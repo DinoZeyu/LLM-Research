@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{3} & -8 \\
+ \frac{20}{3} & \frac{14}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(1-i \sqrt{1191}\right),\frac{1}{6} \left(1+i \sqrt{1191}\right)\right\}$

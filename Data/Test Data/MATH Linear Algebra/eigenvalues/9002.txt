@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{19}{5} & \frac{36}{5} & -\frac{42}{5} \\
+ \frac{39}{5} & -\frac{11}{5} & -\frac{9}{5} \\
+ -\frac{23}{5} & -\frac{21}{5} & -\frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-12.368,-9.368,7.336\}$

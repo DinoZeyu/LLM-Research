@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{18}{5} & 2 \\
+ \frac{43}{5} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-33-\sqrt{1729}\right),\frac{1}{10} \left(\sqrt{1729}-33\right)\right\}$

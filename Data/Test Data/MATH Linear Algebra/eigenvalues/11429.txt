@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{33}{4} & 7 \\
+ \frac{9}{4} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(-11-\sqrt{233}\right),\frac{3}{8} \left(\sqrt{233}-11\right)\right\}$

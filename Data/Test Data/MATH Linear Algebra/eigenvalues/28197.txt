@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & \frac{7}{2} \\
+ -\frac{21}{4} & -\frac{7}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{7}{8} \left(-1-i \sqrt{23}\right),\frac{7}{8} \left(-1+i \sqrt{23}\right)\right\}$

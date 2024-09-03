@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & \frac{41}{5} \\
+ -\frac{1}{5} & -\frac{46}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-21-\sqrt{4877}\right),\frac{1}{10} \left(\sqrt{4877}-21\right)\right\}$

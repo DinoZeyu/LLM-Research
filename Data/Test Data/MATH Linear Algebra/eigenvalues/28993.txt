@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & \frac{36}{5} \\
+ -\frac{29}{5} & -\frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-1-12 i \sqrt{7}\right),\frac{1}{5} \left(-1+12 i \sqrt{7}\right)\right\}$

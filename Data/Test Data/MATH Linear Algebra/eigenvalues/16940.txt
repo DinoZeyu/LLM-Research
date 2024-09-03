@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & -\frac{17}{2} \\
+ -2 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(13-\sqrt{713}\right),\frac{1}{4} \left(13+\sqrt{713}\right)\right\}$

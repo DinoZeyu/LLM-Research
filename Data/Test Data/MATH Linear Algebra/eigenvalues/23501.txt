@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -\frac{33}{5} \\
+ -\frac{18}{5} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(15-\sqrt{619}\right),\frac{1}{5} \left(15+\sqrt{619}\right)\right\}$

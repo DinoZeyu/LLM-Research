@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{3}{5} & -\frac{16}{5} & \frac{27}{10} \\
+ -\frac{31}{10} & 0 & -\frac{49}{10} \\
+ \frac{23}{5} & -\frac{23}{5} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\frac{57117}{500}$

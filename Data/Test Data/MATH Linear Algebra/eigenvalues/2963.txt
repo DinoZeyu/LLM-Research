@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -7 \\
+ \frac{25}{3} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-9-5 i \sqrt{3}\right),\frac{1}{6} \left(-9+5 i \sqrt{3}\right)\right\}$

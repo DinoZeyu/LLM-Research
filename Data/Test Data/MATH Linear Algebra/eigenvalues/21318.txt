@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 2 \\
+ -5 & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-5-3 i \sqrt{15}\right),\frac{1}{4} \left(-5+3 i \sqrt{15}\right)\right\}$

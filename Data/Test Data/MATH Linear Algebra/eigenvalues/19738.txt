@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{39}{4} & 5 \\
+ -\frac{31}{4} & -\frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(6-\sqrt{469}\right),\frac{1}{4} \left(6+\sqrt{469}\right)\right\}$

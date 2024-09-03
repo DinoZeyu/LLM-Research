@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & 5 \\
+ 1 & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-10-\sqrt{69}\right),\frac{1}{2} \left(\sqrt{69}-10\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{17}{5} & -\frac{3}{5} \\
+ \frac{2}{5} & -\frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{351}{25}$

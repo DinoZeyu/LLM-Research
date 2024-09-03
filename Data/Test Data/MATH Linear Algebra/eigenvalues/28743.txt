@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{5} & \frac{16}{5} \\
+ 0 & -\frac{23}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{23}{5},\frac{7}{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 7 \\
+ -3 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-i \sqrt{17},3+i \sqrt{17}\right\}$

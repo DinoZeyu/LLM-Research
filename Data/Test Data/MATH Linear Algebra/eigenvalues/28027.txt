@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{5} & 1 \\
+ -\frac{28}{5} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(12-i \sqrt{131}\right),\frac{1}{5} \left(12+i \sqrt{131}\right)\right\}$

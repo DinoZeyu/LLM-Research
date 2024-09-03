@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{1}{2} & -\frac{17}{2} & -3 \\
+ 8 & -4 & \frac{13}{4} \\
+ -\frac{1}{2} & 7 & -\frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-10.683,-0.284-7.921 i,-0.284+7.921 i\}$

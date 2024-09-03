@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 5 \\
+ \frac{11}{2} & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-2-3 \sqrt{34}\right),\frac{1}{2} \left(3 \sqrt{34}-2\right)\right\}$

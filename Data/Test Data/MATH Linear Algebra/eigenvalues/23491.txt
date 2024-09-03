@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{4}{5} & \frac{17}{5} \\
+ \frac{28}{5} & -\frac{32}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-7-10 \sqrt{2}\right),\frac{2}{5} \left(10 \sqrt{2}-7\right)\right\}$

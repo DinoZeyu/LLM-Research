@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -8 \\
+ \frac{11}{2} & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-21-i \sqrt{679}\right),\frac{1}{4} \left(-21+i \sqrt{679}\right)\right\}$

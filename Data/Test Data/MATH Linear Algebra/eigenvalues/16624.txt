@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -8 \\
+ -9 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-6 \sqrt{3},1+6 \sqrt{3}\right\}$

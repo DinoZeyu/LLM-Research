@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{5} & \frac{39}{5} \\
+ 0 & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{12}{5},-\frac{1}{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{33}{4} & \frac{29}{4} \\
+ \frac{15}{4} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-45-\sqrt{2181}\right),\frac{1}{8} \left(\sqrt{2181}-45\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & 1 \\
+ 6 & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{105}}{2},\frac{\sqrt{105}}{2}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{6}{5} & \frac{36}{5} \\
+ -\frac{22}{5} & \frac{27}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(11-i \sqrt{303}\right),\frac{3}{10} \left(11+i \sqrt{303}\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{26}{5} & -8 & \frac{31}{5} \\
+ -\frac{3}{5} & \frac{19}{5} & -3 \\
+ -4 & 5 & \frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{1.755,7.222\, -6.484 i,7.222\, +6.484 i\}$

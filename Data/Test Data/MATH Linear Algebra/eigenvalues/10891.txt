@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -4 \\
+ \frac{11}{5} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-25-i \sqrt{655}\right),\frac{1}{10} \left(-25+i \sqrt{655}\right)\right\}$

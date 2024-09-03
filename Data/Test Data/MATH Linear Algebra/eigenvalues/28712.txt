@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{35}{4} & \frac{39}{4} \\
+ -6 & -\frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(11-6 i \sqrt{10}\right),\frac{1}{4} \left(11+6 i \sqrt{10}\right)\right\}$

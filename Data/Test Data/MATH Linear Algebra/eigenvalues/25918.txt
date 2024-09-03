@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{4} & \frac{1}{4} \\
+ \frac{27}{4} & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-49-\sqrt{277}\right),\frac{1}{8} \left(\sqrt{277}-49\right)\right\}$

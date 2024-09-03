@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{3} & 9 \\
+ -\frac{10}{3} & \frac{4}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-1-3 i \sqrt{111}\right),\frac{1}{6} \left(-1+3 i \sqrt{111}\right)\right\}$

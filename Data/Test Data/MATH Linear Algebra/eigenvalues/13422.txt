@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & 3 \\
+ 2 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-\sqrt{55},\sqrt{55}-1\right\}$

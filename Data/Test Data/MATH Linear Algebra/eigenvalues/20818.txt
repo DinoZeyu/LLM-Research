@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{3} & -7 \\
+ 10 & -\frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-27-i \sqrt{1991}\right),\frac{1}{6} \left(-27+i \sqrt{1991}\right)\right\}$

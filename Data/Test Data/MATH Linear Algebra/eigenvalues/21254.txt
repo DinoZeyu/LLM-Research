@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{4} & -\frac{15}{2} \\
+ \frac{13}{4} & -\frac{17}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{i \sqrt{101}}{4},\frac{i \sqrt{101}}{4}\right\}$

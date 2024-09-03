@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & 6 \\
+ 7 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-\sqrt{78},\sqrt{78}-4\right\}$

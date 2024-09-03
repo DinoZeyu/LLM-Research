@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{8}{3} & 0 & \frac{17}{3} \\
+ -1 & 5 & -\frac{2}{3} \\
+ \frac{20}{3} & 6 & \frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-1.121,5.942,12.512\}$

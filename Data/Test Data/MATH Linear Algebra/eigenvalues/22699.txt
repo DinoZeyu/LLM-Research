@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 7 \\
+ -5 & \frac{11}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-13-i \sqrt{1015}\right),\frac{1}{8} \left(-13+i \sqrt{1015}\right)\right\}$

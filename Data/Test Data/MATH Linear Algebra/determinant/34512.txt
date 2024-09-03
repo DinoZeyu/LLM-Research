@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{14}{5} & -4 \\
+ 1 & \frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{54}{25}$

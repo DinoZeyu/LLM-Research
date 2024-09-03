@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{26}{5} & -\frac{36}{5} \\
+ \frac{22}{5} & -\frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-33-i \sqrt{2807}\right),\frac{1}{10} \left(-33+i \sqrt{2807}\right)\right\}$

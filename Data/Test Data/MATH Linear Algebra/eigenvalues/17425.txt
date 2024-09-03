@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{49}{5} & \frac{28}{5} \\
+ -10 & \frac{37}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(43-2 i \sqrt{341}\right),\frac{1}{5} \left(43+2 i \sqrt{341}\right)\right\}$

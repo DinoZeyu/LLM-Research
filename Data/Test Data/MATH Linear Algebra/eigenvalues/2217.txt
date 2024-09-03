@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -3 \\
+ 8 & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-9-5 i \sqrt{15}\right),\frac{1}{4} \left(-9+5 i \sqrt{15}\right)\right\}$

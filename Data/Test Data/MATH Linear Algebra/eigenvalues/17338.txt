@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & \frac{37}{4} \\
+ -\frac{11}{4} & \frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-19-\sqrt{1621}\right),\frac{1}{8} \left(\sqrt{1621}-19\right)\right\}$

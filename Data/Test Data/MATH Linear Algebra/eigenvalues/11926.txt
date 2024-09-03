@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{3}{5} & -\frac{12}{5} \\
+ \frac{48}{5} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-23-i \sqrt{2015}\right),\frac{1}{10} \left(-23+i \sqrt{2015}\right)\right\}$

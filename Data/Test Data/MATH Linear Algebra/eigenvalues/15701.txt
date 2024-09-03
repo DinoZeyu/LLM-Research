@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -2 \\
+ -7 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-\sqrt{30},\sqrt{30}-4\right\}$

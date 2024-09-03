@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{5} & -\frac{19}{5} \\
+ -9 & -\frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-11-\sqrt{3709}\right),\frac{1}{10} \left(\sqrt{3709}-11\right)\right\}$

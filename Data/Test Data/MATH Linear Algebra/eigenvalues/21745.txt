@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{38}{5} & -\frac{48}{5} \\
+ -\frac{17}{5} & -\frac{33}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-71-\sqrt{3289}\right),\frac{1}{10} \left(\sqrt{3289}-71\right)\right\}$

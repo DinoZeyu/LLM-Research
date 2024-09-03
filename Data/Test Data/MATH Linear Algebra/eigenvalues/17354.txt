@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 4 \\
+ \frac{16}{5} & -\frac{39}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-49-\sqrt{2121}\right),\frac{1}{10} \left(\sqrt{2121}-49\right)\right\}$

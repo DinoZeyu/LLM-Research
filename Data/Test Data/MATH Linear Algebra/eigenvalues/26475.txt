@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & -4 \\
+ -\frac{13}{2} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-9 \sqrt{17}\right),\frac{1}{4} \left(9 \sqrt{17}-1\right)\right\}$

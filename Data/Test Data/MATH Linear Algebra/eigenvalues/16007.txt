@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & \frac{42}{5} \\
+ \frac{9}{5} & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(2-\sqrt{1822}\right),\frac{1}{5} \left(2+\sqrt{1822}\right)\right\}$

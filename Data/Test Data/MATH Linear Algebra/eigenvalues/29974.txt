@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{1}{2} & -\frac{5}{4} \\
+ \frac{15}{2} & -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{1}{2} i \sqrt{\frac{73}{2}},\frac{1}{2} i \sqrt{\frac{73}{2}}\right\}$

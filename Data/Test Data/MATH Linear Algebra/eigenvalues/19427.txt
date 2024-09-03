@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -5 \\
+ -7 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-\sqrt{35},\sqrt{35}-1\right\}$

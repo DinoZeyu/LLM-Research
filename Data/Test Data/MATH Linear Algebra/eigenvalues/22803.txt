@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -4 \\
+ 8 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-i \sqrt{31},-1+i \sqrt{31}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{21}{4} & 5 \\
+ \frac{15}{4} & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-5-\sqrt{3409}\right),\frac{1}{8} \left(\sqrt{3409}-5\right)\right\}$

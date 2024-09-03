@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{21}{5} & -\frac{11}{5} \\
+ \frac{18}{5} & \frac{46}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(25-\sqrt{3697}\right),\frac{1}{10} \left(25+\sqrt{3697}\right)\right\}$

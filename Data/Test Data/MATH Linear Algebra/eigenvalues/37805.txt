@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 9 & \frac{3}{5} & -\frac{19}{5} \\
+ -\frac{19}{5} & 0 & -\frac{46}{5} \\
+ -\frac{29}{5} & \frac{39}{5} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\{-1.847-8.372 i,-1.847+8.372 i,10.693\}$

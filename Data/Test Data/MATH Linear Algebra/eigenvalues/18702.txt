@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{3} & \frac{13}{3} \\
+ -\frac{8}{3} & \frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(17-\sqrt{1105}\right),\frac{1}{6} \left(17+\sqrt{1105}\right)\right\}$

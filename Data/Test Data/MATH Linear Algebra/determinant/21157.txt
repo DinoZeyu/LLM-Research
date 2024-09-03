@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ 5 & -\frac{18}{5} & \frac{13}{5} \\
+ -\frac{5}{2} & \frac{31}{10} & -\frac{3}{10} \\
+ -\frac{13}{5} & 0 & \frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{20449}{500}$

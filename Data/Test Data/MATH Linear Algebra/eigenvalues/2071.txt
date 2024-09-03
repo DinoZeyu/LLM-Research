@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{5} & \frac{29}{5} \\
+ -\frac{41}{5} & \frac{46}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(9-i \sqrt{59}\right),\frac{3}{10} \left(9+i \sqrt{59}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & \frac{11}{5} \\
+ \frac{37}{5} & -\frac{41}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-91-\sqrt{1709}\right),\frac{1}{10} \left(\sqrt{1709}-91\right)\right\}$

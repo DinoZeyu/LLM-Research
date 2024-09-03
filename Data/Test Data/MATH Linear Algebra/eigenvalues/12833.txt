@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & -5 \\
+ \frac{3}{2} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-9-\sqrt{321}\right),\frac{1}{4} \left(\sqrt{321}-9\right)\right\}$

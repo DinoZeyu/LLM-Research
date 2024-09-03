@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{2}{3} & 3 \\
+ \frac{29}{3} & -\frac{11}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-9-\sqrt{1213}\right),\frac{1}{6} \left(\sqrt{1213}-9\right)\right\}$

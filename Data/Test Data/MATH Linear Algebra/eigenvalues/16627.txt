@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & \frac{25}{4} \\
+ -9 & \frac{1}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(15-i \sqrt{3431}\right),\frac{1}{8} \left(15+i \sqrt{3431}\right)\right\}$

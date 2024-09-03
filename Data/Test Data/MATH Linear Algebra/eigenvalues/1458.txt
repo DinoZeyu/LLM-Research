@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{24}{5} & -\frac{37}{5} \\
+ \frac{4}{5} & -\frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-71-3 i \sqrt{7}\right),\frac{1}{10} \left(-71+3 i \sqrt{7}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -\frac{20}{3} \\
+ -\frac{14}{3} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(27-\sqrt{1561}\right),\frac{1}{6} \left(27+\sqrt{1561}\right)\right\}$

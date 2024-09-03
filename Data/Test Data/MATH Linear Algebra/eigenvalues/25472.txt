@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{22}{5} & -\frac{4}{5} \\
+ \frac{13}{5} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-37-i \sqrt{159}\right),\frac{1}{10} \left(-37+i \sqrt{159}\right)\right\}$

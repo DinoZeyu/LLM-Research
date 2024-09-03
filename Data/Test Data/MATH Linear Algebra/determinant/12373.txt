@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{23}{6} & -\frac{7}{2} & -\frac{29}{6} \\
+ \frac{11}{6} & \frac{8}{3} & -\frac{19}{6} \\
+ -\frac{14}{3} & \frac{2}{3} & \frac{11}{6} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{9565}{72}$

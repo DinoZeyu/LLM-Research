@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{48}{5} & \frac{36}{5} \\
+ \frac{22}{5} & \frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(-13-\sqrt{713}\right),\frac{3}{10} \left(\sqrt{713}-13\right)\right\}$

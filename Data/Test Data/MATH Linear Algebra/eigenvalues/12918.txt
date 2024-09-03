@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -3 \\
+ -5 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-\sqrt{51},\sqrt{51}-3\right\}$

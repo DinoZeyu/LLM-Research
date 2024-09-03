@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{2} & 5 \\
+ -\frac{7}{4} & \frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-3-\sqrt{2689}\right),\frac{1}{8} \left(\sqrt{2689}-3\right)\right\}$

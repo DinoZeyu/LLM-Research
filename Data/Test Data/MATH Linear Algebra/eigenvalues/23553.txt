@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{42}{5} & -\frac{42}{5} \\
+ -\frac{33}{5} & \frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(53-\sqrt{6505}\right),\frac{1}{10} \left(53+\sqrt{6505}\right)\right\}$

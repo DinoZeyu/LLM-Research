@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{3}{2} \\
+ -4 & \frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-11-\sqrt{385}\right),\frac{1}{4} \left(\sqrt{385}-11\right)\right\}$

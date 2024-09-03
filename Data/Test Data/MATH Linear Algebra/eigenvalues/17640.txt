@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{42}{5} & -\frac{32}{5} \\
+ -\frac{13}{5} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5 \left(13+2 \sqrt{42}\right)},\frac{2}{5} \left(13+2 \sqrt{42}\right)\right\}$

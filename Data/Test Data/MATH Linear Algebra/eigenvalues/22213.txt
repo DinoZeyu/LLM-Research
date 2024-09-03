@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{24}{5} & \frac{34}{5} \\
+ -\frac{47}{5} & -\frac{49}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-73-i \sqrt{5767}\right),\frac{1}{10} \left(-73+i \sqrt{5767}\right)\right\}$

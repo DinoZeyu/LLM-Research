@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 6 & \frac{17}{3} & -5 \\
+ 9 & -6 & \frac{23}{3} \\
+ \frac{19}{3} & \frac{22}{3} & -\frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-14.812,-0.727,7.872\}$

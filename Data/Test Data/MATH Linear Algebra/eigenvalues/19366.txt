@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -\frac{4}{5} \\
+ 6 & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-25-2 \sqrt{70}\right),\frac{1}{5} \left(2 \sqrt{70}-25\right)\right\}$

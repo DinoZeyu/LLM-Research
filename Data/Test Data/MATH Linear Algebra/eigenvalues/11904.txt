@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{8}{5} & -\frac{46}{5} \\
+ -9 & -\frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{54}{5},\frac{37}{5}\right\}$

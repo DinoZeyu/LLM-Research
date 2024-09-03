@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{9}{4} \\
+ \frac{1}{2} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(22-\sqrt{118}\right),\frac{1}{4} \left(22+\sqrt{118}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 9 \\
+ -\frac{3}{2} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-2-3 \sqrt{10}\right),\frac{1}{2} \left(3 \sqrt{10}-2\right)\right\}$

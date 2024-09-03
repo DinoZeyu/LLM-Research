@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -5 \\
+ -\frac{19}{3} & -\frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-19-\sqrt{2509}\right),\frac{1}{6} \left(\sqrt{2509}-19\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & 1 \\
+ \frac{3}{2} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-3-\sqrt{7}\right),\frac{1}{2} \left(\sqrt{7}-3\right)\right\}$

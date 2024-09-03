@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{2}{3} & 0 \\
+ -\frac{11}{3} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-10,\frac{2}{3}\right\}$

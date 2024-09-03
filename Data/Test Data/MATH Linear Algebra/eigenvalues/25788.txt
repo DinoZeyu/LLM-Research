@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{38}{5} & -\frac{23}{5} \\
+ -\frac{44}{5} & \frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-19-\sqrt{7297}\right),\frac{1}{10} \left(\sqrt{7297}-19\right)\right\}$

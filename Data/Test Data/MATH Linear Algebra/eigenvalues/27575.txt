@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{46}{5} & -\frac{2}{5} \\
+ \frac{47}{5} & -\frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(-10-3 \sqrt{2}\right),\frac{3}{5} \left(3 \sqrt{2}-10\right)\right\}$

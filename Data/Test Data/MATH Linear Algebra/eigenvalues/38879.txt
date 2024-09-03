@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 7 & 3 & 0 \\
+ \frac{8}{5} & -\frac{34}{5} & \frac{13}{5} \\
+ \frac{22}{5} & -3 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.637-3.106 i,-7.637+3.106 i,7.475\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -9 \\
+ 3 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(3-\sqrt{181}\right),\frac{1}{2} \left(3+\sqrt{181}\right)\right\}$

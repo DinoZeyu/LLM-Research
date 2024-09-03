@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{4} & 6 \\
+ 4 & -\frac{3}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-35-\sqrt{2065}\right),\frac{1}{8} \left(\sqrt{2065}-35\right)\right\}$

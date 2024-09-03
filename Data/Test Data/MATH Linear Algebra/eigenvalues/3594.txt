@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 7 \\
+ 8 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-15-\sqrt{233}\right),\frac{1}{2} \left(\sqrt{233}-15\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{14}{5} & -8 \\
+ -\frac{38}{5} & \frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-5-\sqrt{1601}\right),\frac{1}{5} \left(\sqrt{1601}-5\right)\right\}$

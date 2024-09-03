@@ -1,0 +1,4 @@
+{"ts": "2024-09-03T01:11:56.219630Z", "msg": "Creating Navigator model!", "ctx": {}, "seq": 1, "stage": null}
+{"ts": "2024-09-03T01:11:56.221040Z", "msg": "Navigator model created successfully!", "ctx": {}, "seq": 2, "stage": null}
+{"ts": "2024-09-03T01:11:56.223452Z", "msg": "Uploading artifacts to Gretel Cloud...", "ctx": {}, "seq": 3, "stage": "post"}
+{"ts": "2024-09-03T01:11:56.547459Z", "msg": "Upload to Gretel Cloud is completed.", "ctx": {}, "seq": 4, "stage": "post"}

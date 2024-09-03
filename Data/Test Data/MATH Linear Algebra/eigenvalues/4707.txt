@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{11}{3} \\
+ \frac{2}{3} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(15-\sqrt{1433}\right),\frac{1}{6} \left(15+\sqrt{1433}\right)\right\}$

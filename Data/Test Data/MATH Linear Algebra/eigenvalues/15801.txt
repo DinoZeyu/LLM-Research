@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{34}{5} & 2 \\
+ -6 & -\frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(9-5 \sqrt{13}\right),\frac{1}{5} \left(9+5 \sqrt{13}\right)\right\}$

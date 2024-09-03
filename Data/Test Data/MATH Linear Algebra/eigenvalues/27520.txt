@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{5} & -\frac{36}{5} \\
+ \frac{22}{5} & -\frac{49}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-25-6 i \sqrt{6}\right),\frac{1}{5} \left(-25+6 i \sqrt{6}\right)\right\}$

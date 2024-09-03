@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & -2 \\
+ 1 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-4-\sqrt{23},\sqrt{23}-4\right\}$

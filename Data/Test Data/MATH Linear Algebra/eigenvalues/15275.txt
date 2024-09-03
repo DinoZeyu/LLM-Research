@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{1}{5} \\
+ -2 & \frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(89-\sqrt{41}\right),\frac{1}{10} \left(89+\sqrt{41}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{5} & -4 \\
+ \frac{39}{5} & -\frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-26-i \sqrt{755}\right),\frac{1}{5} \left(-26+i \sqrt{755}\right)\right\}$

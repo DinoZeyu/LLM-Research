@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 3 \\
+ \frac{13}{2} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{\frac{71}{2}},\sqrt{\frac{71}{2}}\right\}$

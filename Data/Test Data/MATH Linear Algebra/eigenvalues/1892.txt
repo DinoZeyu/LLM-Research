@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 4 \\
+ \frac{34}{5} & \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(21-\sqrt{1041}\right),\frac{1}{5} \left(21+\sqrt{1041}\right)\right\}$

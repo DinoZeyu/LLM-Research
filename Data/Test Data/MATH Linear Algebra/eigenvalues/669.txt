@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -8 \\
+ -9 & \frac{23}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(35-\sqrt{4729}\right),\frac{1}{8} \left(35+\sqrt{4729}\right)\right\}$

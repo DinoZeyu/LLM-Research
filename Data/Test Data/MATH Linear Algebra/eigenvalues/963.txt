@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & \frac{22}{3} \\
+ \frac{19}{3} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-3-\sqrt{3697}\right),\frac{1}{6} \left(\sqrt{3697}-3\right)\right\}$

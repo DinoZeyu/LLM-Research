@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{31}{4} & -\frac{5}{4} \\
+ \frac{11}{4} & \frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(18-\sqrt{114}\right),\frac{1}{4} \left(18+\sqrt{114}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{1}{5} & \frac{32}{5} \\
+ \frac{36}{5} & -\frac{13}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-7-6 \sqrt{33}\right),\frac{1}{5} \left(6 \sqrt{33}-7\right)\right\}$

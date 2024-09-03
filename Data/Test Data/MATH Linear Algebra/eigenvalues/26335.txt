@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{4} & \frac{27}{4} \\
+ -\frac{15}{4} & \frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{11}{2}-\frac{9 i}{2},\frac{11}{2}+\frac{9 i}{2}\right\}$

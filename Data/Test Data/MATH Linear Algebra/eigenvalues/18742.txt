@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{21}{4} & -\frac{17}{4} \\
+ -3 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(29-\sqrt{985}\right),\frac{1}{8} \left(29+\sqrt{985}\right)\right\}$

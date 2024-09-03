@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{4} & -3 \\
+ -\frac{15}{2} & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-5-\sqrt{2281}\right),\frac{1}{8} \left(\sqrt{2281}-5\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{1}{5} & 2 & 6 \\
+ \frac{6}{5} & -\frac{7}{5} & -\frac{12}{5} \\
+ -\frac{2}{5} & \frac{24}{5} & -\frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.718-2.645 i,-5.718+2.645 i,1.236\}$

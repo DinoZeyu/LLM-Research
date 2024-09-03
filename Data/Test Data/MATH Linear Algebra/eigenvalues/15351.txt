@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & 7 \\
+ 2 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(13-\sqrt{57}\right),\frac{1}{2} \left(13+\sqrt{57}\right)\right\}$

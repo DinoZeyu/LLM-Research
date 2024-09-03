@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & \frac{13}{2} \\
+ -4 & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(9-i \sqrt{415}\right),\frac{1}{4} \left(9+i \sqrt{415}\right)\right\}$

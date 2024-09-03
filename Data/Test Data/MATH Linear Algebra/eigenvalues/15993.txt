@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 3 \\
+ 2 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-\sqrt{31},3+\sqrt{31}\right\}$

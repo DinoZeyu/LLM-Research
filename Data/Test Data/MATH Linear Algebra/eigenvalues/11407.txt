@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 1 \\
+ 2 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-\sqrt{51},1+\sqrt{51}\right\}$

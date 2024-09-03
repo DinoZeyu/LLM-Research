@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{20}{3} & 4 \\
+ -\frac{19}{3} & \frac{25}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(5-\sqrt{1113}\right),\frac{1}{6} \left(5+\sqrt{1113}\right)\right\}$

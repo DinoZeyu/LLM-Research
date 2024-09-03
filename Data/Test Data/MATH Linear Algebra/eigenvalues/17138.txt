@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{49}{5} & -\frac{11}{5} \\
+ -\frac{31}{5} & \frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-27-\sqrt{6405}\right),\frac{1}{10} \left(\sqrt{6405}-27\right)\right\}$

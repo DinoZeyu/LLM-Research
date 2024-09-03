@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & \frac{17}{2} \\
+ \frac{27}{4} & \frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{11}{2},\frac{39}{4}\right\}$

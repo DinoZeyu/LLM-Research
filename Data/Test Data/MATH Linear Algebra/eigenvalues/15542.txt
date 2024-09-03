@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 0 \\
+ 5 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\{-9,-8\}$

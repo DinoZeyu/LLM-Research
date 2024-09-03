@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -2 \\
+ 8 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-11-i \sqrt{39}\right),\frac{1}{2} \left(-11+i \sqrt{39}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{36}{5} & -\frac{43}{5} \\
+ -\frac{32}{5} & \frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-7-\sqrt{2217}\right),\frac{1}{5} \left(\sqrt{2217}-7\right)\right\}$

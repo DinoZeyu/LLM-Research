@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{27}{10} & 5 & \frac{8}{5} \\
+ \frac{4}{5} & 2 & -\frac{29}{10} \\
+ -\frac{6}{5} & -\frac{3}{5} & -\frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{4807}{500}$

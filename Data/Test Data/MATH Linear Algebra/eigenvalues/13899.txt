@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{5} & -\frac{43}{5} \\
+ 8 & \frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-3-i \sqrt{3855}\right),\frac{1}{10} \left(-3+i \sqrt{3855}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -4 \\
+ 5 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-13-i \sqrt{55}\right),\frac{1}{2} \left(-13+i \sqrt{55}\right)\right\}$

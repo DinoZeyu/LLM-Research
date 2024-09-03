@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{2}{5} & -\frac{44}{5} \\
+ -\frac{1}{5} & -\frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{4}{5} \left(-5-\sqrt{33}\right),\frac{4}{5} \left(\sqrt{33}-5\right)\right\}$

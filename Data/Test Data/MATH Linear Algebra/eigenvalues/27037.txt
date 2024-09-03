@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{41}{5} & \frac{26}{5} \\
+ \frac{23}{5} & -\frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(13-\sqrt{7153}\right),\frac{1}{10} \left(13+\sqrt{7153}\right)\right\}$

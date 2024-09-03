@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{23}{3} \\
+ \frac{23}{3} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-27-13 \sqrt{13}\right),\frac{1}{6} \left(13 \sqrt{13}-27\right)\right\}$

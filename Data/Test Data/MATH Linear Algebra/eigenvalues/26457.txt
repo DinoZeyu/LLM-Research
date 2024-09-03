@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{4} & -9 \\
+ -\frac{5}{2} & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(29-\sqrt{2065}\right),\frac{1}{8} \left(29+\sqrt{2065}\right)\right\}$

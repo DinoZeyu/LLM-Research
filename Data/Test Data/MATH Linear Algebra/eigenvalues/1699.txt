@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{47}{5} & -\frac{18}{5} \\
+ -\frac{18}{5} & -\frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-34-\sqrt{493}\right),\frac{1}{5} \left(\sqrt{493}-34\right)\right\}$

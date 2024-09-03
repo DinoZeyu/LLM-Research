@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{3} & -\frac{26}{3} \\
+ \frac{13}{3} & -\frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-9-\sqrt{857}\right),\frac{1}{6} \left(\sqrt{857}-9\right)\right\}$

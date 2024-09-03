@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & 4 \\
+ -\frac{27}{5} & -\frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(3-i \sqrt{191}\right),\frac{3}{10} \left(3+i \sqrt{191}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{38}{5} \\
+ -\frac{33}{5} & \frac{22}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-4-17 i \sqrt{2}\right),\frac{1}{5} \left(-4+17 i \sqrt{2}\right)\right\}$

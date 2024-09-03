@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{25}{3} & 8 \\
+ 3 & -\frac{20}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-45-\sqrt{889}\right),\frac{1}{6} \left(\sqrt{889}-45\right)\right\}$

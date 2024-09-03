@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 7 & 2 & -\frac{48}{5} \\
+ \frac{33}{5} & \frac{44}{5} & \frac{17}{5} \\
+ -\frac{14}{5} & \frac{12}{5} & \frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-0.375,12.287\, -2.076 i,12.287\, +2.076 i\}$

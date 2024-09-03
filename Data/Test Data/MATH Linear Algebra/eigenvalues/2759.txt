@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -\frac{3}{2} \\
+ 8 & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(27-i \sqrt{71}\right),\frac{1}{4} \left(27+i \sqrt{71}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{2}{3} & 9 \\
+ \frac{20}{3} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-23-\sqrt{2521}\right),\frac{1}{6} \left(\sqrt{2521}-23\right)\right\}$

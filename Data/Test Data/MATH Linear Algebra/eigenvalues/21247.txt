@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & 6 \\
+ \frac{17}{2} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-\sqrt{115},\sqrt{115}-1\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{4} & -\frac{25}{4} \\
+ -\frac{27}{4} & \frac{37}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(10-\sqrt{241}\right),\frac{1}{2} \left(10+\sqrt{241}\right)\right\}$

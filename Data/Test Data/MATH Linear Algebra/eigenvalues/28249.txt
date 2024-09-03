@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -4 \\
+ 0 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\{9,10\}$

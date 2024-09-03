@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -5 \\
+ -9 & -\frac{5}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{3} \left(11-\sqrt{661}\right),\frac{1}{3} \left(11+\sqrt{661}\right)\right\}$

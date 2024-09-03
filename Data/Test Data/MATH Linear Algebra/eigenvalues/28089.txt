@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{13}{3} \\
+ 8 & \frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-11-\sqrt{1873}\right),\frac{1}{6} \left(\sqrt{1873}-11\right)\right\}$

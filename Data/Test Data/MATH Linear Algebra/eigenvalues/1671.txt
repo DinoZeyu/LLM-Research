@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -\frac{4}{5} \\
+ \frac{8}{5} & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(55-\sqrt{97}\right),\frac{1}{10} \left(55+\sqrt{97}\right)\right\}$

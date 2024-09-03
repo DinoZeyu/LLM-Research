@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{35}{4} & -\frac{11}{4} \\
+ \frac{17}{2} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-5-\sqrt{4129}\right),\frac{1}{8} \left(\sqrt{4129}-5\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{12}{5} & -\frac{9}{5} \\
+ \frac{24}{5} & -\frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{6}{5} \left(-1-\sqrt{3}\right),\frac{6}{5} \left(\sqrt{3}-1\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{3}{2} & -\frac{11}{3} \\
+ 3 & \frac{19}{6} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{25}{4}$

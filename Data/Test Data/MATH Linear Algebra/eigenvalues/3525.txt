@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & -3 \\
+ -\frac{13}{2} & -1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(5-\sqrt{393}\right),\frac{1}{4} \left(5+\sqrt{393}\right)\right\}$

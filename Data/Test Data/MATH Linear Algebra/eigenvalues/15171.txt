@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{3} & \frac{20}{3} \\
+ \frac{4}{3} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(1-\sqrt{489}\right),\frac{1}{6} \left(1+\sqrt{489}\right)\right\}$

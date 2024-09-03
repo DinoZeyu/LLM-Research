@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -\frac{14}{3} \\
+ -5 & \frac{17}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(41-\sqrt{889}\right),\frac{1}{6} \left(41+\sqrt{889}\right)\right\}$

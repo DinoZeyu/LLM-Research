@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{5}{2} \\
+ 9 & 10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(6-\sqrt{106}\right),\frac{1}{2} \left(6+\sqrt{106}\right)\right\}$

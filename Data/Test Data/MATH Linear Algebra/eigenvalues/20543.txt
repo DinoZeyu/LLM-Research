@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{17}{2} \\
+ -2 & -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2},8\right\}$

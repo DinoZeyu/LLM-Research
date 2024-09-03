@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 1 \\
+ -9 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\{-3,-3\}$

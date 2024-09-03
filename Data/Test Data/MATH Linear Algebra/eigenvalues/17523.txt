@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{41}{5} & -\frac{6}{5} \\
+ \frac{27}{5} & \frac{43}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(42-i \sqrt{161}\right),\frac{1}{5} \left(42+i \sqrt{161}\right)\right\}$

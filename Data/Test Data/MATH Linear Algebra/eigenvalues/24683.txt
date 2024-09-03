@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -6 \\
+ 0 & -\frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{29}{3},-3\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{18}{5} \\
+ \frac{27}{5} & -\frac{31}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-1-\sqrt{1777}\right),\frac{1}{10} \left(\sqrt{1777}-1\right)\right\}$

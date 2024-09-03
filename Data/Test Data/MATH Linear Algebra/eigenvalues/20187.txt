@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{5} & \frac{8}{5} \\
+ -\frac{29}{5} & -\frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5}-\frac{6 i}{5},\frac{3}{5}+\frac{6 i}{5}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -7 \\
+ \frac{21}{5} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-25-\sqrt{2685}\right),\frac{1}{10} \left(\sqrt{2685}-25\right)\right\}$

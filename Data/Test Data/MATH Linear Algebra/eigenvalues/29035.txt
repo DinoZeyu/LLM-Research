@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{5} & 1 \\
+ -\frac{29}{5} & \frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(1-\sqrt{255}\right),\frac{1}{5} \left(1+\sqrt{255}\right)\right\}$

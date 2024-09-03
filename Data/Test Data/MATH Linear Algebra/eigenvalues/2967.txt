@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{5} & 9 \\
+ -7 & -\frac{29}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-3-i \sqrt{899}\right),\frac{1}{5} \left(-3+i \sqrt{899}\right)\right\}$

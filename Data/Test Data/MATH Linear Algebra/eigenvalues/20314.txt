@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & \frac{9}{2} \\
+ 8 & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-4-\sqrt{265}\right),\frac{1}{2} \left(\sqrt{265}-4\right)\right\}$

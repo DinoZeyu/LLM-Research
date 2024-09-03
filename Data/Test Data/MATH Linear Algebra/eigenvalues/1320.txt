@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{31}{4} & 4 \\
+ 3 & \frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(25-2 \sqrt{57}\right),\frac{1}{4} \left(25+2 \sqrt{57}\right)\right\}$

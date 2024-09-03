@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & \frac{9}{4} \\
+ \frac{15}{2} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(2-\sqrt{466}\right),\frac{1}{4} \left(2+\sqrt{466}\right)\right\}$

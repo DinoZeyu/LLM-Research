@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{44}{5} & -\frac{1}{5} \\
+ \frac{29}{5} & -\frac{29}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-73-\sqrt{109}\right),\frac{1}{10} \left(\sqrt{109}-73\right)\right\}$

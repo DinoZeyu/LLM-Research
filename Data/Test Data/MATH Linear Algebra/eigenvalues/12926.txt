@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -7 \\
+ -9 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3 \left(-1-\sqrt{11}\right),3 \left(\sqrt{11}-1\right)\right\}$

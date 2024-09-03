@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{4} & \frac{9}{4} \\
+ \frac{27}{4} & -\frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-\sqrt{439}\right),\frac{1}{4} \left(\sqrt{439}-1\right)\right\}$

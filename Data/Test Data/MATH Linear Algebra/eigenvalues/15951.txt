@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{49}{5} & -\frac{3}{5} \\
+ \frac{26}{5} & -\frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-65-\sqrt{777}\right),\frac{1}{10} \left(\sqrt{777}-65\right)\right\}$

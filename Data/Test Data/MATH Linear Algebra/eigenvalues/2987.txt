@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{4} & -5 \\
+ \frac{17}{4} & -\frac{5}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-21-2 i \sqrt{21}\right),\frac{1}{4} \left(-21+2 i \sqrt{21}\right)\right\}$

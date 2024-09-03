@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ 1 & -2 & 4 \\
+ 1 & \frac{8}{5} & -\frac{14}{5} \\
+ \frac{12}{5} & \frac{16}{5} & \frac{19}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{838}{25}$

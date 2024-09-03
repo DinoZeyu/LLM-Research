@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{32}{5} & -\frac{13}{5} & -3 \\
+ -\frac{32}{5} & -\frac{49}{5} & 3 \\
+ -9 & \frac{28}{5} & \frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-11.415,-1.227,11.442\}$

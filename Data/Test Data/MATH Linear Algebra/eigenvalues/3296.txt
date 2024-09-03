@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{3} & 3 \\
+ -1 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-11-\sqrt{2101}\right),\frac{1}{6} \left(\sqrt{2101}-11\right)\right\}$

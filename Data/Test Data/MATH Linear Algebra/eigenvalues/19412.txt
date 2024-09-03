@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & 8 \\
+ -\frac{15}{2} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(17-i \sqrt{791}\right),\frac{1}{4} \left(17+i \sqrt{791}\right)\right\}$

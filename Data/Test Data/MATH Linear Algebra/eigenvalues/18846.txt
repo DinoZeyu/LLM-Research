@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & -\frac{17}{2} \\
+ -9 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(16-3 \sqrt{34}\right),\frac{1}{2} \left(16+3 \sqrt{34}\right)\right\}$

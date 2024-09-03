@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{4} & 3 \\
+ -3 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{8} \left(-5-\sqrt{73}\right),\frac{5}{8} \left(\sqrt{73}-5\right)\right\}$

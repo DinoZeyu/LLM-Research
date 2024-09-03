@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{24}{5} & -1 \\
+ 8 & -\frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-6-\sqrt{274}\right),\frac{2}{5} \left(\sqrt{274}-6\right)\right\}$

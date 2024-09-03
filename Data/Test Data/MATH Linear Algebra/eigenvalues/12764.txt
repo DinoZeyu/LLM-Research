@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & \frac{15}{2} \\
+ -9 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-i \sqrt{\frac{133}{2}},i \sqrt{\frac{133}{2}}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{9}{5} \\
+ \frac{39}{5} & \frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(27-\sqrt{3085}\right),\frac{1}{10} \left(27+\sqrt{3085}\right)\right\}$

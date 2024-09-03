@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{27}{5} \\
+ -\frac{32}{5} & -\frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-29-\sqrt{3457}\right),\frac{1}{10} \left(\sqrt{3457}-29\right)\right\}$

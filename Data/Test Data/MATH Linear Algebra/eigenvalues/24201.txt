@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{5} & \frac{34}{5} \\
+ \frac{12}{5} & -\frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-77-\sqrt{1993}\right),\frac{1}{10} \left(\sqrt{1993}-77\right)\right\}$

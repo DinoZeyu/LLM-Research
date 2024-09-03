@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{5}{4} & -6 & 3 \\
+ -\frac{17}{4} & -\frac{3}{2} & -10 \\
+ 5 & \frac{33}{4} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.122-7.924 i,-7.122+7.924 i,4.994\}$

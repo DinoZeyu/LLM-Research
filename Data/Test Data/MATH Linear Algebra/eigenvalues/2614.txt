@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -4 \\
+ \frac{16}{5} & \frac{37}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-4-\sqrt{1361}\right),\frac{1}{5} \left(\sqrt{1361}-4\right)\right\}$

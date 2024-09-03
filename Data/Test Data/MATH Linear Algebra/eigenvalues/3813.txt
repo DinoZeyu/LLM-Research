@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -1 \\
+ 9 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{2} \left(3-\sqrt{5}\right),\frac{3}{2} \left(3+\sqrt{5}\right)\right\}$

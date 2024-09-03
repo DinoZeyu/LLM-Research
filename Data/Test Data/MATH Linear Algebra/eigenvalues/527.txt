@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{15}{2} \\
+ -3 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{\frac{83}{2}},\sqrt{\frac{83}{2}}\right\}$

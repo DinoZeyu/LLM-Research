@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{4} & 8 \\
+ \frac{19}{2} & \frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(14-\sqrt{1217}\right),\frac{1}{4} \left(14+\sqrt{1217}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -2 & -\frac{1}{3} \\
+ 4 & \frac{23}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(17-\sqrt{793}\right),\frac{1}{6} \left(17+\sqrt{793}\right)\right\}$

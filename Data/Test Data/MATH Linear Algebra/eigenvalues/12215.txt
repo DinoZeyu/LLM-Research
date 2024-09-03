@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{43}{5} & \frac{4}{5} \\
+ \frac{26}{5} & -\frac{48}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{56}{5},-7\right\}$

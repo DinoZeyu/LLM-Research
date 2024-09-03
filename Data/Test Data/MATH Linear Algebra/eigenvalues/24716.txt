@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{10}{3} \\
+ -\frac{25}{3} & -\frac{10}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-31-\sqrt{1121}\right),\frac{1}{6} \left(\sqrt{1121}-31\right)\right\}$

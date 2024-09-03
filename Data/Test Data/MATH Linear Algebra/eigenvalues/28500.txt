@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & -6 \\
+ 9 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{9-i \sqrt{53},9+i \sqrt{53}\right\}$

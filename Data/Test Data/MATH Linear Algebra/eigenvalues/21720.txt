@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{49}{5} & -\frac{28}{5} \\
+ -7 & \frac{1}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-24-\sqrt{1605}\right),\frac{1}{5} \left(\sqrt{1605}-24\right)\right\}$

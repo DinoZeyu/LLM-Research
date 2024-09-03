@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{13}{5} & \frac{22}{5} & -\frac{21}{10} \\
+ \frac{19}{5} & -\frac{17}{10} & 4 \\
+ \frac{29}{10} & -\frac{7}{5} & \frac{1}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{62191}{1000}$

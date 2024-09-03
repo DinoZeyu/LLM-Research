@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{2} & 4 \\
+ -\frac{27}{4} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2},2\right\}$

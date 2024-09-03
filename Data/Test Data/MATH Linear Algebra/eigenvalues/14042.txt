@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -2 \\
+ \frac{15}{4} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{\frac{3}{2}},\sqrt{\frac{3}{2}}\right\}$

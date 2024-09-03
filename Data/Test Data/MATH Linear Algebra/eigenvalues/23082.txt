@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -7 \\
+ 7 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-2 i \sqrt{10},3+2 i \sqrt{10}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{4} & -\frac{29}{4} \\
+ -\frac{19}{2} & \frac{17}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(22-7 \sqrt{23}\right),\frac{1}{4} \left(22+7 \sqrt{23}\right)\right\}$

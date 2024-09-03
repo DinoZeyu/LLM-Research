@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{11}{2} \\
+ -4 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{23},\sqrt{23}-5\right\}$

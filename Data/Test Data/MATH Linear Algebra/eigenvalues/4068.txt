@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{3} & 5 \\
+ -7 & \frac{16}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-3 \sqrt{85}\right),\frac{1}{6} \left(3 \sqrt{85}-13\right)\right\}$

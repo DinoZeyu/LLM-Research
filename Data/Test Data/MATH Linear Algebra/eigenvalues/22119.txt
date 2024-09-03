@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{21}{5} \\
+ -6 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(35-\sqrt{2545}\right),\frac{1}{10} \left(35+\sqrt{2545}\right)\right\}$

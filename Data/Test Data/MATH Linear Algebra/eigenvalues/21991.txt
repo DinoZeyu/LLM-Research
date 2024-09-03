@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{37}{4} & -2 \\
+ -\frac{37}{4} & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-1-\sqrt{6513}\right),\frac{1}{8} \left(\sqrt{6513}-1\right)\right\}$

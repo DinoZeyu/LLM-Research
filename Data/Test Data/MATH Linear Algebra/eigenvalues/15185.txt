@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & -1 \\
+ 4 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-\sqrt{21},\sqrt{21}-3\right\}$

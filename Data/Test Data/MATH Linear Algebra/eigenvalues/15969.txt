@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{23}{3} & 2 \\
+ \frac{19}{3} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(1-\sqrt{2665}\right),\frac{1}{6} \left(1+\sqrt{2665}\right)\right\}$

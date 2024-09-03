@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -5 \\
+ 6 & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-i \sqrt{26},-3+i \sqrt{26}\right\}$

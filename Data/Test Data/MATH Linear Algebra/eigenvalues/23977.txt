@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & \frac{37}{4} \\
+ -\frac{11}{4} & \frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-6-\sqrt{377}\right),\frac{1}{4} \left(\sqrt{377}-6\right)\right\}$

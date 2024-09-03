@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -5 \\
+ 8 & 5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-2 i \sqrt{10},5+2 i \sqrt{10}\right\}$

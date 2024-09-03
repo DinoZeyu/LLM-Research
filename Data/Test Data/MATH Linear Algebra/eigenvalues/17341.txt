@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{5} & \frac{6}{5} \\
+ 2 & -\frac{29}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-20-\sqrt{141}\right),\frac{1}{5} \left(\sqrt{141}-20\right)\right\}$

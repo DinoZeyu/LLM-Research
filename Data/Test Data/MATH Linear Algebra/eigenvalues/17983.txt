@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -7 \\
+ -\frac{34}{5} & \frac{6}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(41-\sqrt{5601}\right),\frac{1}{10} \left(41+\sqrt{5601}\right)\right\}$

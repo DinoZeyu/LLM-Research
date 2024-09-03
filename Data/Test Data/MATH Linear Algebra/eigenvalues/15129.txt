@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 7 & -6 \\
+ -6 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(11-3 \sqrt{17}\right),\frac{1}{2} \left(11+3 \sqrt{17}\right)\right\}$

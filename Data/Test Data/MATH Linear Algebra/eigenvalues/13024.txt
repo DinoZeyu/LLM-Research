@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -10 \\
+ 7 & -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-i \sqrt{69},-2+i \sqrt{69}\right\}$

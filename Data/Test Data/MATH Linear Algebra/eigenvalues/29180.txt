@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -\frac{5}{2} \\
+ 1 & \frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-1-i \sqrt{31}\right),\frac{1}{4} \left(-1+i \sqrt{31}\right)\right\}$

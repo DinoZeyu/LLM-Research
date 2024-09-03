@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{19}{4} & -1 \\
+ -\frac{23}{4} & \frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(27-2 \sqrt{39}\right),\frac{1}{4} \left(27+2 \sqrt{39}\right)\right\}$

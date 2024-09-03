@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & \frac{31}{5} \\
+ \frac{42}{5} & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-5-\sqrt{2202}\right),\frac{1}{5} \left(\sqrt{2202}-5\right)\right\}$

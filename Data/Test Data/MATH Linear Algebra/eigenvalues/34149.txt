@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{9}{5} & \frac{31}{5} & \frac{46}{5} \\
+ -\frac{2}{5} & -\frac{22}{5} & \frac{22}{5} \\
+ \frac{27}{5} & \frac{24}{5} & \frac{3}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.804,-4.731,9.535\}$

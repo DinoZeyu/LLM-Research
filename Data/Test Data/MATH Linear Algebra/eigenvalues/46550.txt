@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -10 & -\frac{5}{2} & 6 \\
+ \frac{33}{4} & -\frac{3}{2} & \frac{9}{2} \\
+ -\frac{1}{4} & -1 & -\frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-8.259,-3.245-3.855 i,-3.245+3.855 i\}$

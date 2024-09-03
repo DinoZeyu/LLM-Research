@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 8 \\
+ 8 & -\frac{5}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-5-\sqrt{2329}\right),\frac{1}{6} \left(\sqrt{2329}-5\right)\right\}$

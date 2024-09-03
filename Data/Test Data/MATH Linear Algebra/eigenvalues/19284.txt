@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{9}{2} \\
+ 4 & \frac{7}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(25-i \sqrt{167}\right),\frac{1}{4} \left(25+i \sqrt{167}\right)\right\}$

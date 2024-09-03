@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -1 \\
+ 10 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-5-\sqrt{6},\sqrt{6}-5\right\}$

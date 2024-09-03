@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{5}{3} & -5 & 3 \\
+ -6 & \frac{14}{3} & -9 \\
+ -\frac{26}{3} & 9 & \frac{5}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.683,5.342\, -9.771 i,5.342\, +9.771 i\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & 3 \\
+ -2 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(21-i \sqrt{15}\right),\frac{1}{4} \left(21+i \sqrt{15}\right)\right\}$

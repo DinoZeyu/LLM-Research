@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -\frac{36}{5} \\
+ -9 & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-37-\sqrt{6649}\right),\frac{1}{10} \left(\sqrt{6649}-37\right)\right\}$

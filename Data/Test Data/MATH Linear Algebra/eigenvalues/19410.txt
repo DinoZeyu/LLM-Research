@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{5} & -\frac{34}{5} \\
+ \frac{32}{5} & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(3-i \sqrt{4063}\right),\frac{1}{10} \left(3+i \sqrt{4063}\right)\right\}$

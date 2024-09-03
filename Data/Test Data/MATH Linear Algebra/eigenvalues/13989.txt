@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{23}{5} & \frac{44}{5} \\
+ \frac{4}{5} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(63-\sqrt{993}\right),\frac{1}{10} \left(63+\sqrt{993}\right)\right\}$

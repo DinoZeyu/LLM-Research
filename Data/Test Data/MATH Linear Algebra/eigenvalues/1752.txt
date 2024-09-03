@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{4} & \frac{3}{2} \\
+ \frac{5}{2} & -\frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-17-\sqrt{249}\right),\frac{1}{8} \left(\sqrt{249}-17\right)\right\}$

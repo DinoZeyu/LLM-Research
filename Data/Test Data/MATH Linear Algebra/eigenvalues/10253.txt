@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{46}{5} & \frac{44}{5} \\
+ -8 & \frac{26}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-5-2 i \sqrt{29}\right),\frac{2}{5} \left(-5+2 i \sqrt{29}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -\frac{13}{5} \\
+ -\frac{9}{5} & \frac{27}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-4-7 \sqrt{22}\right),\frac{1}{5} \left(7 \sqrt{22}-4\right)\right\}$

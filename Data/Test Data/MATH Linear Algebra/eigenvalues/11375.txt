@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{12}{5} \\
+ -\frac{29}{5} & \frac{49}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(79-\sqrt{1753}\right),\frac{1}{10} \left(79+\sqrt{1753}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{31}{4} & \frac{37}{4} \\
+ \frac{17}{4} & \frac{17}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{8} \left(13-\sqrt{101}\right),\frac{5}{8} \left(13+\sqrt{101}\right)\right\}$

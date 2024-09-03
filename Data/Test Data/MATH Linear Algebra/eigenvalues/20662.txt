@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & -\frac{31}{5} \\
+ -7 & -\frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(3-\sqrt{11909}\right),\frac{1}{10} \left(3+\sqrt{11909}\right)\right\}$

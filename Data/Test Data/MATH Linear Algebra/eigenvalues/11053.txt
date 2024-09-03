@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & -7 \\
+ \frac{7}{2} & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(2-\sqrt{226}\right),\frac{1}{2} \left(2+\sqrt{226}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{24}{5} & -1 \\
+ -\frac{14}{5} & -\frac{36}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-30-\sqrt{106}\right),\frac{1}{5} \left(\sqrt{106}-30\right)\right\}$

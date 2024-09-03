@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{33}{4} & \frac{13}{4} \\
+ 3 & -\frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(9-2 \sqrt{183}\right),\frac{1}{4} \left(9+2 \sqrt{183}\right)\right\}$

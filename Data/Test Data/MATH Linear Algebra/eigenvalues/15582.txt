@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 8 & 5 \\
+ 3 & -8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{79},\sqrt{79}\right\}$

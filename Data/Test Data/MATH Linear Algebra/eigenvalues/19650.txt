@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{29}{3} & \frac{28}{3} \\
+ 9 & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-19,-\frac{2}{3}\right\}$

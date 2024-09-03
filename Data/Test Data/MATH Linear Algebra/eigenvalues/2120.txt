@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{13}{4} & -\frac{9}{4} \\
+ \frac{5}{2} & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-9-\sqrt{865}\right),\frac{1}{8} \left(\sqrt{865}-9\right)\right\}$

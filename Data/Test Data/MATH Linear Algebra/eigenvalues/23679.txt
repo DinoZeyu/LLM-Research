@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 5 \\
+ 2 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\sqrt{74},\sqrt{74}\right\}$

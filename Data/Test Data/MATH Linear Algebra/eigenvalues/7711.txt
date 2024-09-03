@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{9}{4} & 10 & -\frac{23}{4} \\
+ -\frac{25}{4} & -8 & 1 \\
+ 9 & 1 & \frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.289-8.879 i,-3.289+8.879 i,1.077\}$

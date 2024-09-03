@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{26}{5} & \frac{26}{5} \\
+ \frac{13}{5} & \frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-5-\sqrt{3561}\right),\frac{1}{10} \left(\sqrt{3561}-5\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{49}{5} & \frac{18}{5} \\
+ \frac{18}{5} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-49-\sqrt{3697}\right),\frac{1}{10} \left(\sqrt{3697}-49\right)\right\}$

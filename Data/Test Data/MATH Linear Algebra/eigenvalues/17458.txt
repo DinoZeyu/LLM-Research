@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & \frac{6}{5} \\
+ -\frac{11}{5} & \frac{21}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(51-i \sqrt{183}\right),\frac{1}{10} \left(51+i \sqrt{183}\right)\right\}$

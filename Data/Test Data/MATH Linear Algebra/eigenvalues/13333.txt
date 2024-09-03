@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & -\frac{17}{2} \\
+ -4 & \frac{19}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(17-\sqrt{985}\right),\frac{1}{4} \left(17+\sqrt{985}\right)\right\}$

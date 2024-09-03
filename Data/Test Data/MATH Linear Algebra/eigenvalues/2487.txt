@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{43}{5} & -\frac{31}{5} \\
+ 9 & -\frac{32}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(11-3 \sqrt{5}\right),\frac{1}{10} \left(11+3 \sqrt{5}\right)\right\}$

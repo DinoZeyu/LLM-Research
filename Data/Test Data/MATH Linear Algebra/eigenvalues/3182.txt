@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{38}{5} & \frac{21}{5} \\
+ 10 & \frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(27-\sqrt{1171}\right),\frac{1}{5} \left(27+\sqrt{1171}\right)\right\}$

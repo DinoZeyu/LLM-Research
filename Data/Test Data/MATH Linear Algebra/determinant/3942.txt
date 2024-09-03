@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{14}{3} & \frac{8}{3} \\
+ 3 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{52}{3}$

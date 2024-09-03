@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{5} & -\frac{16}{5} \\
+ 6 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-51-i \sqrt{1799}\right),\frac{1}{10} \left(-51+i \sqrt{1799}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{31}{4} & -\frac{3}{2} \\
+ \frac{15}{4} & -\frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-33-i \sqrt{86}\right),\frac{1}{4} \left(-33+i \sqrt{86}\right)\right\}$

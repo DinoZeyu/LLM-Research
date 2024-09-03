@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & \frac{33}{4} \\
+ \frac{1}{4} & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{\sqrt{1057}}{4},\frac{\sqrt{1057}}{4}\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 6 \\
+ \frac{7}{2} & \frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(51-\sqrt{1705}\right),\frac{1}{8} \left(51+\sqrt{1705}\right)\right\}$

@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{4}{3} & -5 & -4 \\
+ -8 & \frac{17}{3} & -\frac{13}{3} \\
+ \frac{10}{3} & -3 & -\frac{22}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.329-1.79 i,-6.329+1.79 i,9.659\}$

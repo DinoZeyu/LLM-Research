@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{9}{5} & -1 & 5 \\
+ -\frac{19}{5} & \frac{41}{5} & -\frac{46}{5} \\
+ -\frac{9}{5} & -\frac{33}{5} & -\frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-2.024-0.881 i,-2.024+0.881 i,13.248\}$

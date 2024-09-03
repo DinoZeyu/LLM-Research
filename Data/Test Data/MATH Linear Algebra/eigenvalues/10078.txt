@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & 9 \\
+ \frac{9}{2} & -\frac{13}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-13-\sqrt{2761}\right),\frac{1}{8} \left(\sqrt{2761}-13\right)\right\}$

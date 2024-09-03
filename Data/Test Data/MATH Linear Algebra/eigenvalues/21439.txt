@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -\frac{7}{2} \\
+ 6 & -\frac{11}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-19-i \sqrt{327}\right),\frac{1}{4} \left(-19+i \sqrt{327}\right)\right\}$

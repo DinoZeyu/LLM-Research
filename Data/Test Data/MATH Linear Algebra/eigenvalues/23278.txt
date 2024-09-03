@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{46}{5} \\
+ -5 & \frac{34}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(2-3 i \sqrt{14}\right),\frac{1}{5} \left(2+3 i \sqrt{14}\right)\right\}$

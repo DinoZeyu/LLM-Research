@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -5 & -2 \\
+ 6 & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-5-\sqrt{33}\right),\frac{1}{4} \left(\sqrt{33}-5\right)\right\}$

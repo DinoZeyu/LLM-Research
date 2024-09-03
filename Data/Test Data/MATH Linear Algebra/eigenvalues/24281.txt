@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & -9 \\
+ 1 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-2 \sqrt{10},3+2 \sqrt{10}\right\}$

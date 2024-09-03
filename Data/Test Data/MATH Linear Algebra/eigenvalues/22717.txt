@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -4 \\
+ -7 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-\sqrt{37},\sqrt{37}-3\right\}$

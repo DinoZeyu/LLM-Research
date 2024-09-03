@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{3} & -\frac{5}{3} \\
+ -\frac{8}{3} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-29-\sqrt{209}\right),\frac{1}{6} \left(\sqrt{209}-29\right)\right\}$

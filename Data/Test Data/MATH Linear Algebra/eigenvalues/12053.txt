@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & 10 \\
+ 9 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-8-\sqrt{91},\sqrt{91}-8\right\}$

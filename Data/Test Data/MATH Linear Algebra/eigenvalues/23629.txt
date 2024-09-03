@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{2} & -\frac{11}{2} \\
+ -2 & 8 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(5-\sqrt{905}\right),\frac{1}{4} \left(5+\sqrt{905}\right)\right\}$

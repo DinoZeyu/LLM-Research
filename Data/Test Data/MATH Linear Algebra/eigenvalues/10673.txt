@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{39}{4} & \frac{5}{2} \\
+ 8 & -\frac{23}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(8-\sqrt{1281}\right),\frac{1}{4} \left(8+\sqrt{1281}\right)\right\}$

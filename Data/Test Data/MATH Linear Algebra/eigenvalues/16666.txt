@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & \frac{3}{5} \\
+ \frac{29}{5} & -\frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-47-4 \sqrt{6}\right),\frac{1}{5} \left(4 \sqrt{6}-47\right)\right\}$

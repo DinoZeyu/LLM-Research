@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 1 & \frac{7}{2} \\
+ 8 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-2 \sqrt{11},2 \sqrt{11}-3\right\}$

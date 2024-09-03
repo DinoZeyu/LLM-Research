@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{29}{4} & \frac{11}{2} \\
+ 2 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(1-\sqrt{3953}\right),\frac{1}{8} \left(1+\sqrt{3953}\right)\right\}$

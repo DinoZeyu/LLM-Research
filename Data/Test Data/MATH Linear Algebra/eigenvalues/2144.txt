@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & \frac{29}{5} \\
+ -\frac{47}{5} & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-25-3 i \sqrt{107}\right),\frac{1}{5} \left(-25+3 i \sqrt{107}\right)\right\}$

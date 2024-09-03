@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 2 & 9 \\
+ 3 & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{4-\sqrt{31},4+\sqrt{31}\right\}$

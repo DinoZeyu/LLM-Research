@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -8 \\
+ 8 & -\frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-21-i \sqrt{943}\right),\frac{1}{4} \left(-21+i \sqrt{943}\right)\right\}$

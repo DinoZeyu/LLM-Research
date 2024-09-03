@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{15}{2} & -\frac{23}{4} \\
+ \frac{15}{4} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(7-2 \sqrt{46}\right),\frac{1}{4} \left(7+2 \sqrt{46}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{36}{5} & \frac{9}{5} \\
+ -\frac{43}{5} & \frac{27}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(-3-\sqrt{269}\right),\frac{3}{10} \left(\sqrt{269}-3\right)\right\}$

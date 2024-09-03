@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{22}{5} & -\frac{36}{5} \\
+ -\frac{34}{5} & 6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(13-\sqrt{310}\right),\frac{2}{5} \left(13+\sqrt{310}\right)\right\}$

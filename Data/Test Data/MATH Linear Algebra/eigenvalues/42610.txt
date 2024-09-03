@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ -\frac{2}{5} & \frac{19}{5} & \frac{33}{5} \\
+ 3 & \frac{8}{5} & -\frac{6}{5} \\
+ -\frac{8}{5} & \frac{46}{5} & \frac{28}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-0.176-4.333 i,-0.176+4.333 i,7.153\}$

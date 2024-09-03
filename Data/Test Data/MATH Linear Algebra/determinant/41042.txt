@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{10}{3} & -\frac{11}{3} \\
+ -\frac{7}{3} & -\frac{8}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{1}{3}$

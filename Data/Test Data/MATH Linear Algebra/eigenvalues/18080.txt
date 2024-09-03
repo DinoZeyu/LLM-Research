@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & \frac{16}{5} \\
+ \frac{43}{5} & -\frac{32}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-47-\sqrt{3041}\right),\frac{1}{10} \left(\sqrt{3041}-47\right)\right\}$

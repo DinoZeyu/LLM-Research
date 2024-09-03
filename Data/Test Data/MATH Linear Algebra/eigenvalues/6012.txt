@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 2 & \frac{33}{5} & \frac{23}{5} \\
+ \frac{38}{5} & 0 & \frac{33}{5} \\
+ -2 & 4 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.647,5.674,11.973\}$

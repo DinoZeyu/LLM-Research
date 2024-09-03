@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{2} & -1 \\
+ \frac{3}{2} & -\frac{35}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-69-i \sqrt{95}\right),\frac{1}{8} \left(-69+i \sqrt{95}\right)\right\}$

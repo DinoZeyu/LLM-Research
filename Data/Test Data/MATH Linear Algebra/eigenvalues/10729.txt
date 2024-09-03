@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -1 & 0 \\
+ -\frac{13}{3} & -\frac{17}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{17}{3},-1\right\}$

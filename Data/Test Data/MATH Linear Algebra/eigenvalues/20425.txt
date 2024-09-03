@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & 7 \\
+ -\frac{1}{2} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-10-\sqrt{22}\right),\frac{1}{2} \left(\sqrt{22}-10\right)\right\}$

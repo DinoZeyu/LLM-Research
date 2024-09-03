@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{17}{2} & -8 \\
+ -\frac{5}{2} & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(19-\sqrt{545}\right),\frac{1}{4} \left(19+\sqrt{545}\right)\right\}$

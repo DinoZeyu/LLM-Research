@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -\frac{31}{4} \\
+ -\frac{9}{4} & -\frac{33}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(-7-\sqrt{349}\right),\frac{3}{8} \left(\sqrt{349}-7\right)\right\}$

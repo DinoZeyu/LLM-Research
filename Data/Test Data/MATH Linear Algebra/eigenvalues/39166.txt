@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 10 & -\frac{5}{4} & -\frac{35}{4} \\
+ \frac{7}{4} & -7 & -\frac{3}{4} \\
+ \frac{17}{4} & -\frac{5}{2} & -\frac{27}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\{-6.702,-4.452,7.404\}$

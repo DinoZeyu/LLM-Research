@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{26}{3} & \frac{5}{3} \\
+ -\frac{14}{3} & -\frac{2}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{3} \left(-14-\sqrt{74}\right),\frac{1}{3} \left(\sqrt{74}-14\right)\right\}$

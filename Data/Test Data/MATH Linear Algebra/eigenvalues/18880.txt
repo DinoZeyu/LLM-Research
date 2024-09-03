@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{27}{4} \\
+ 3 & -\frac{21}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(-11-3 i \sqrt{15}\right),\frac{3}{8} \left(-11+3 i \sqrt{15}\right)\right\}$

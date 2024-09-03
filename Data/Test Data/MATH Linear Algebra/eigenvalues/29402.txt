@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & 7 \\
+ -9 & -7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-1-i \sqrt{83}\right),\frac{1}{2} \left(-1+i \sqrt{83}\right)\right\}$

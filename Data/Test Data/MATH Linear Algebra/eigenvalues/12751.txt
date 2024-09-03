@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & \frac{7}{4} \\
+ -\frac{7}{2} & -5 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-2-\sqrt{226}\right),\frac{1}{4} \left(\sqrt{226}-2\right)\right\}$

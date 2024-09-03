@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & \frac{2}{3} \\
+ -\frac{13}{3} & -\frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{23}{3}-\frac{i}{3},-\frac{23}{3}+\frac{i}{3}\right\}$

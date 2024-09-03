@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{42}{5} \\
+ \frac{41}{5} & \frac{42}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(67-i \sqrt{6599}\right),\frac{1}{10} \left(67+i \sqrt{6599}\right)\right\}$

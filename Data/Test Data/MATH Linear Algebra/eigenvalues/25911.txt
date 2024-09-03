@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{10}{3} & 0 \\
+ -2 & \frac{14}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{10}{3},\frac{14}{3}\right\}$

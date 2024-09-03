@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{26}{3} & \frac{10}{3} \\
+ -\frac{22}{3} & -\frac{29}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-3-\sqrt{2145}\right),\frac{1}{6} \left(\sqrt{2145}-3\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & -7 \\
+ -9 & 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(7-\sqrt{253}\right),\frac{1}{2} \left(7+\sqrt{253}\right)\right\}$

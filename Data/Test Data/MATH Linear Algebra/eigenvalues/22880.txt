@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{8}{5} & -\frac{38}{5} \\
+ \frac{8}{5} & \frac{31}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(39-i \sqrt{687}\right),\frac{1}{10} \left(39+i \sqrt{687}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & -7 \\
+ -3 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{2} \left(-13-\sqrt{85}\right),\frac{1}{2} \left(\sqrt{85}-13\right)\right\}$

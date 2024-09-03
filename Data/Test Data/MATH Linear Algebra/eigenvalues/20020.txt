@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 4 & 10 \\
+ -6 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-i \sqrt{51},1+i \sqrt{51}\right\}$

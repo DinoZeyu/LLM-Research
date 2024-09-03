@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{11}{4} & \frac{19}{2} \\
+ -\frac{23}{4} & -\frac{19}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-15-i \sqrt{858}\right),\frac{1}{4} \left(-15+i \sqrt{858}\right)\right\}$

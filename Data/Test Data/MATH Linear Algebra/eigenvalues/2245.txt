@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{5} & 2 \\
+ \frac{43}{5} & \frac{44}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(47-\sqrt{3401}\right),\frac{1}{10} \left(47+\sqrt{3401}\right)\right\}$

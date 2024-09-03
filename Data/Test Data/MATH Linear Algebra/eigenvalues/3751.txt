@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 3 & -8 \\
+ -4 & -9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-3-2 \sqrt{17},2 \sqrt{17}-3\right\}$

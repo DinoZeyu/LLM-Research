@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & 5 \\
+ -2 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3-i \sqrt{6},3+i \sqrt{6}\right\}$

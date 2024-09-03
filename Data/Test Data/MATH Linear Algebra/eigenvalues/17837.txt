@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{46}{5} & -\frac{3}{5} \\
+ -1 & -\frac{23}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-69-\sqrt{589}\right),\frac{1}{10} \left(\sqrt{589}-69\right)\right\}$

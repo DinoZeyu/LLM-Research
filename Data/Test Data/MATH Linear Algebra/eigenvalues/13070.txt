@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -10 & \frac{6}{5} \\
+ \frac{6}{5} & -\frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-27-\sqrt{565}\right),\frac{1}{5} \left(\sqrt{565}-27\right)\right\}$

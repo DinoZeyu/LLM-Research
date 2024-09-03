@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{13}{2} & \frac{3}{2} \\
+ -\frac{11}{2} & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-13-\sqrt{37}\right),\frac{1}{4} \left(\sqrt{37}-13\right)\right\}$

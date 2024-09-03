@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -3 & -\frac{20}{3} \\
+ \frac{2}{3} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-15-i \sqrt{151}\right),\frac{1}{6} \left(-15+i \sqrt{151}\right)\right\}$

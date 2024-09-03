@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{46}{5} & -\frac{19}{5} \\
+ -\frac{1}{5} & -\frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-24-\sqrt{503}\right),\frac{1}{5} \left(\sqrt{503}-24\right)\right\}$

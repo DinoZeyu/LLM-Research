@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{16}{3} & 5 \\
+ 10 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-\sqrt{2161}\right),\frac{1}{6} \left(\sqrt{2161}-13\right)\right\}$

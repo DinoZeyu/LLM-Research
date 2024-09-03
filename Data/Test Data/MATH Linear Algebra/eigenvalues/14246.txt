@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{15}{4} & -\frac{1}{2} \\
+ 0 & \frac{15}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{15}{4},\frac{15}{4}\right\}$

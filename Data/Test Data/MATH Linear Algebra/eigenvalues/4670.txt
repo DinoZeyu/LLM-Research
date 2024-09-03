@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -9 & -2 \\
+ 10 & 7 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-1-2 \sqrt{11},2 \sqrt{11}-1\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & -\frac{23}{3} \\
+ -5 & \frac{5}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-\sqrt{1909}\right),\frac{1}{6} \left(\sqrt{1909}-13\right)\right\}$

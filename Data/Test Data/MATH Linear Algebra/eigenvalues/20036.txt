@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{4} & 4 \\
+ \frac{11}{2} & \frac{15}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(23-\sqrt{2777}\right),\frac{1}{8} \left(23+\sqrt{2777}\right)\right\}$

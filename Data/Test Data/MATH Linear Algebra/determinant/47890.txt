@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{5}{2} & 5 \\
+ -\frac{7}{2} & 4 \\
+\end{array}
+\right)$.
+Answer:
+$\frac{55}{2}$

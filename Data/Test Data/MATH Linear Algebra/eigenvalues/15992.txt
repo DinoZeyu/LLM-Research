@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & 1 \\
+ 8 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{1-6 \sqrt{2},1+6 \sqrt{2}\right\}$

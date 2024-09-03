@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{9}{4} \\
+ \frac{5}{2} & -\frac{21}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(1-\sqrt{185}\right),\frac{3}{8} \left(1+\sqrt{185}\right)\right\}$

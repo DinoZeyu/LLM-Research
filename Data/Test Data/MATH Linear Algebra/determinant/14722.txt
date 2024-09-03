@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{9}{5} & \frac{7}{2} \\
+ -\frac{19}{5} & \frac{47}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{121}{25}$

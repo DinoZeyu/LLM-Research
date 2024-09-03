@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 6 & 8 & \frac{3}{2} \\
+ \frac{9}{2} & -\frac{3}{4} & \frac{5}{2} \\
+ -\frac{33}{4} & \frac{7}{2} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$\{-7.366,0.706,7.909\}$

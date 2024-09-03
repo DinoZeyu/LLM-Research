@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{38}{5} & -\frac{23}{5} \\
+ 9 & \frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(45-17 i \sqrt{11}\right),\frac{1}{10} \left(45+17 i \sqrt{11}\right)\right\}$

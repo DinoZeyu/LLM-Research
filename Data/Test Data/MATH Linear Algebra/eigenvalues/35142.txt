@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{15}{2} & 4 & -9 \\
+ \frac{15}{2} & 1 & -2 \\
+ 0 & -\frac{3}{2} & -\frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\{-3.579-1.822 i,-3.579+1.822 i,11.159\}$

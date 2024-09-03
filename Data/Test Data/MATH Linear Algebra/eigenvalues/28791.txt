@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{3} & \frac{23}{3} \\
+ 5 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-35-\sqrt{1381}\right),\frac{1}{6} \left(\sqrt{1381}-35\right)\right\}$

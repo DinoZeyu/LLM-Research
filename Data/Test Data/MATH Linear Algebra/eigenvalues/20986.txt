@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{48}{5} & \frac{9}{5} \\
+ -\frac{34}{5} & \frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{5} \left(-5-\sqrt{87}\right),\frac{3}{5} \left(\sqrt{87}-5\right)\right\}$

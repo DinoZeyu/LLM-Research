@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -6 & 1 \\
+ 1 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-2-\sqrt{17},\sqrt{17}-2\right\}$

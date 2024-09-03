@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{38}{5} & \frac{12}{5} \\
+ 4 & -\frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(31-\sqrt{2985}\right),\frac{1}{10} \left(31+\sqrt{2985}\right)\right\}$

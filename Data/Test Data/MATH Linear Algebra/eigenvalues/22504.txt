@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{19}{2} & -\frac{29}{4} \\
+ \frac{21}{4} & -\frac{13}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(-32-i \sqrt{573}\right),\frac{1}{4} \left(-32+i \sqrt{573}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{17}{5} & -\frac{29}{5} \\
+ \frac{32}{5} & \frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{10} \left(-3-7 i \sqrt{7}\right),\frac{3}{10} \left(-3+7 i \sqrt{7}\right)\right\}$

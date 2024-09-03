@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{8}{3} & -\frac{26}{3} \\
+ -\frac{28}{3} & -\frac{20}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{3} \left(-7-\sqrt{191}\right),\frac{2}{3} \left(\sqrt{191}-7\right)\right\}$

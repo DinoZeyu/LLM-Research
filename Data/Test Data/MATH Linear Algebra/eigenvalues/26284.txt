@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -4 & -2 \\
+ \frac{24}{5} & \frac{18}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{-\frac{12}{5},2\right\}$

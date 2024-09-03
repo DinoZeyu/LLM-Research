@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & \frac{5}{2} \\
+ \frac{37}{4} & \frac{1}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(37-\sqrt{2705}\right),\frac{1}{8} \left(37+\sqrt{2705}\right)\right\}$

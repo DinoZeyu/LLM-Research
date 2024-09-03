@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & 0 \\
+ -2 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\{1,10\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{47}{10} & -\frac{29}{10} \\
+ -\frac{3}{5} & -4 \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{1027}{50}$

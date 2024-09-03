@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{32}{5} & -\frac{6}{5} \\
+ -\frac{49}{5} & -\frac{23}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-55-\sqrt{1257}\right),\frac{1}{10} \left(\sqrt{1257}-55\right)\right\}$

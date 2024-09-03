@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{7}{3} & \frac{29}{3} \\
+ \frac{22}{3} & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-\sqrt{2553}\right),\frac{1}{6} \left(\sqrt{2553}-13\right)\right\}$

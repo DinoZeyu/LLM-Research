@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -4 \\
+ 9 & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{3 \left(-1-i \sqrt{3}\right),3 \left(-1+i \sqrt{3}\right)\right\}$

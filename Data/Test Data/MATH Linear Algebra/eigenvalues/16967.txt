@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{3}{4} & \frac{15}{4} \\
+ -3 & 9 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{3}{8} \left(13-\sqrt{41}\right),\frac{3}{8} \left(13+\sqrt{41}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -8 & -\frac{4}{5} \\
+ \frac{42}{5} & \frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-29-\sqrt{1929}\right),\frac{1}{10} \left(\sqrt{1929}-29\right)\right\}$

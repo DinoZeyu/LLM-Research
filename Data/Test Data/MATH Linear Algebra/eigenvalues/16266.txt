@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -7 & \frac{14}{3} \\
+ -\frac{10}{3} & \frac{8}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(-13-\sqrt{281}\right),\frac{1}{6} \left(\sqrt{281}-13\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{26}{5} & \frac{4}{5} \\
+ -10 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{2}{5} \left(-9-i \sqrt{34}\right),\frac{2}{5} \left(-9+i \sqrt{34}\right)\right\}$

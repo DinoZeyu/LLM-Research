@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 10 & \frac{21}{4} \\
+ 4 & 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{5-\sqrt{46},5+\sqrt{46}\right\}$

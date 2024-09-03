@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{43}{10} & -\frac{11}{5} & \frac{16}{5} \\
+ -\frac{12}{5} & 5 & -\frac{7}{5} \\
+ -\frac{7}{2} & \frac{31}{10} & -\frac{41}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{28137}{250}$

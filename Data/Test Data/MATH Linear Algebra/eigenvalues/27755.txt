@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{27}{4} & -\frac{31}{4} \\
+ \frac{13}{2} & \frac{21}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{4} \left(24-i \sqrt{797}\right),\frac{1}{4} \left(24+i \sqrt{797}\right)\right\}$

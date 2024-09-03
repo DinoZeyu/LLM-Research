@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & \frac{3}{4} \\
+ 1 & -\frac{39}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{8} \left(-39-\sqrt{1569}\right),\frac{1}{8} \left(\sqrt{1569}-39\right)\right\}$

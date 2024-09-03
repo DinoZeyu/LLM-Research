@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 7 & \frac{27}{5} & \frac{6}{5} \\
+ \frac{22}{5} & -\frac{31}{5} & \frac{31}{5} \\
+ -\frac{46}{5} & -\frac{4}{5} & \frac{3}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\{-9.,5.2\, -3.985 i,5.2\, +3.985 i\}$

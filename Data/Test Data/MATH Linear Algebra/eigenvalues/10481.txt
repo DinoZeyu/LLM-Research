@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 9 & 8 \\
+ 2 & \frac{28}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{6} \left(55-\sqrt{577}\right),\frac{1}{6} \left(55+\sqrt{577}\right)\right\}$

@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 6 & -\frac{23}{5} \\
+ -10 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{2-\sqrt{62},2+\sqrt{62}\right\}$

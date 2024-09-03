@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & -9 \\
+ -9 & \frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(7-\sqrt{2074}\right),\frac{1}{5} \left(7+\sqrt{2074}\right)\right\}$

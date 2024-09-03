@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ -\frac{5}{2} & -\frac{33}{4} \\
+ -\frac{1}{4} & \frac{31}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{7}{8} \left(3-\sqrt{37}\right),\frac{7}{8} \left(3+\sqrt{37}\right)\right\}$

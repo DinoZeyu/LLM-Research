@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 2 & \frac{2}{3} & \frac{10}{3} \\
+ -6 & -9 & -\frac{23}{3} \\
+ -9 & \frac{10}{3} & -6 \\
+\end{array}
+\right)$.
+Answer:
+$\{-5.077-5.374 i,-5.077+5.374 i,-2.846\}$

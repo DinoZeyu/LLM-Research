@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ \frac{7}{5} & -\frac{36}{5} \\
+ \frac{38}{5} & -\frac{47}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{5} \left(-20-3 i \sqrt{71}\right),\frac{1}{5} \left(-20+3 i \sqrt{71}\right)\right\}$

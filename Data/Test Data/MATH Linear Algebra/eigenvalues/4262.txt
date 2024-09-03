@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 5 & -\frac{25}{3} \\
+ \frac{28}{3} & -10 \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{5}{6} \left(-3-i \sqrt{31}\right),\frac{5}{6} \left(-3+i \sqrt{31}\right)\right\}$

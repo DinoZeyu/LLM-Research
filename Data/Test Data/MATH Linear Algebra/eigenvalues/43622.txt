@@ -1,0 +1,11 @@
+Problem:
+Find the eigenvalues of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ \frac{17}{3} & -\frac{26}{3} & -\frac{25}{3} \\
+ -\frac{29}{3} & \frac{11}{3} & \frac{2}{3} \\
+ -\frac{17}{3} & -6 & -\frac{19}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\{-12.076,1.206,13.87\}$

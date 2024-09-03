@@ -1,0 +1,10 @@
+Problem:
+Find the eigenvalues of the following matrix:
+$\left(
+\begin{array}{cc}
+ 0 & \frac{16}{5} \\
+ \frac{13}{5} & -\frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left\{\frac{1}{10} \left(-11-\sqrt{953}\right),\frac{1}{10} \left(\sqrt{953}-11\right)\right\}$
