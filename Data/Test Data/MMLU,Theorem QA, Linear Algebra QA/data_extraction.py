@@ -2,18 +2,9 @@ import pandas as pd
 import datasets
 import json
 
+## Section 1
 # Since the format of linear algebra qa data is different from our expectation, we need to eliminate the unwanted parts and save it in a csv file
 def separate_qa(data):
-    """
-    Separates a list of strings containing question-answer pairs into two columns, removing any "<s> Level-1:" prefix from questions and "</s>" from answers
-
-    Args:
-        data: A list of strings, each containing a question-answer pair in the format "[INST] Question [/INST] Answer", potentially with a "<s> Level-1:" prefix before the question and "</s>" at the end of the answer
-
-    Returns:
-        A Pandas DataFrame with two columns: "Question" and "Answer".
-    """
-
     questions = []
     answers = []
 
@@ -35,28 +26,19 @@ def separate_qa(data):
     df = pd.DataFrame({"Question": questions, "Answer": answers})
     return df
 
-
 # Loading the linear algebra QA data from huggingface datasets
 df = pd.read_parquet("hf://datasets/Likhi2003/linearalgebra_QA/data/train-00000-of-00001.parquet")
 linear_algebra_qa = separate_qa(df["text"].tolist())
  
-# Save the DataFrame to a CSV file
-linear_algebra_qa.to_csv("linear_algebra_qa_test.csv", index=False)
+# Convert the DataFrame to a json file 
+linear_algebra_qa.to_json("linear_algebra_qa.json", orient='records')
 
 
+
+## Section 2
 # The TheoremQA dataset contains "Algebra" subfield, which requires human evaluation to extract linear algebra questions
 # Extracting linear algebra part from the TheoremQA dataset
 def filter_data_by_subfield(data, subfield):
-  """
-  Filters data based on the 'subfield' key in a list of dictionaries.
-
-  Args:
-      data: A list of dictionaries representing the data.
-      subfield: The value of the 'subfield' key to filter by.
-
-  Returns:
-      A list of dictionaries where the 'subfield' key matches the given value.
-  """
   filtered_data = [item for item in data if item.get('subfield') == subfield]
   return filtered_data
 
@@ -66,24 +48,15 @@ filtered_data = filter_data_by_subfield(data, 'Algebra')
 
 # Save the filtered data to a new JSON file
 with open('linear_algebra_theorem_qa_test.json', 'w') as f:
-    json.dump(filtered_data, f, indent=4) 
+    json.dump(filtered_data, f, indent=4)
 
 
 
+## Section 3
 # Load MMLU abstract_algebra dataset, MMLU is a widely used benchmark for evaluating the performance of model's mathematical abilities.
 dataset = datasets.load_dataset("lukaemon/mmlu", "abstract_algebra")
 
 def transform_data(data):
-  """
-  Transforms the given data dictionary into a question-answer pair.
-
-  Args:
-      data: A dictionary containing 'input', 'A', 'B', 'C', 'D', and 'target' keys.
-
-  Returns:
-      A tuple containing the transformed question and answer strings.
-  """
-
   question = data['input']
   answer = None  
 
@@ -101,6 +74,6 @@ for i in range(len(dataset['test'])):
     questions.append(question)
     answers.append(answer)
 
-# Transform extracted questions and answers into a DataFrame, and save it to a CSV file
+# Transform extracted questions and answers into a DataFrame, and save it to a json file
 abstract_algebra_qa_test = pd.DataFrame({'Question': questions, 'Answer': answers})
-abstract_algebra_qa_test.to_csv("abstract_algebra_qa_test.csv", index=False)
+abstract_algebra_qa_test.to_json("abstract_algebra_qa_test.json", orient='records')

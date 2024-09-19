@@ -15,27 +15,39 @@ eigenvalue_file_list = [f for f in os.listdir(eigenvalue_folder_path) if f.endsw
 selected_determinant_files = random.sample(determinant_file_list, 1000)
 selected_eigenvalue_files = random.sample(eigenvalue_file_list, 1000)
 
-# Initialize an empty list to store the data
+
+def process_files(file_list, folder_path):
+    """Reads and processes files from a specified folder, extracting problem and answer pairs."""
+
+    processed_data = []
+
+    for file_name in file_list:
+        file_path = os.path.join(folder_path, file_name)
+
+        with open(file_path, "r") as f:
+            content = f.read()
+
+            # Split the content into problem and answer
+            problem, answer = content.split("Answer:\n")
+
+            # Since the problem set contains unnecessary characters, we remove them for prepration of the dataset
+            problem = problem.replace("Answer:\n", "")
+            problem = re.sub(r"\s+", " ", problem)
+            problem = problem.replace("Problem:", "")
+
+            # Assign the question and answer contents to the dictionary
+            processed_data.append({"Question": problem, "Answer": answer})
+
+    return processed_data
+
+
+# Initialize data list
 data = []
 
-# Read and process determinant files
-for file_name in selected_determinant_files:
-  file_path = os.path.join(determinant_folder_path, file_name)
-  with open(file_path, "r") as f:
-    content = f.read()
-    problem, answer = content.split("Answer:\n")
-    problem = problem.replace("Answer:\n", "")
-    data.append({"Question": content, 'Answer': answer })  
+# Process existing files
+data.extend(process_files(selected_determinant_files, determinant_folder_path))
+data.extend(process_files(selected_eigenvalue_files, eigenvalue_folder_path))
 
-# Read and process eigenvalue files
-for file_name in selected_eigenvalue_files:
-  file_path = os.path.join(eigenvalue_folder_path, file_name)
-  with open(file_path, "r") as f:
-    content = f.read()
-    problem, answer = content.split("Answer:\n")
-    problem = problem.replace("Answer:\n", "")
-    data.append({"Question": content, "Answer": answer})  
-
-# Create a JSON file and write the data
-with open("linear_algebra_data.json", "w") as f:
-  json.dump(data, f, indent=4)
+# Write to JSON
+with open("linear_algebra_data_test.json", "w") as f:
+    json.dump(data, f, indent=4)
