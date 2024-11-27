@@ -16,7 +16,7 @@ This project explored using synthetic mathematical data: linear algebra and abst
 |                           | LLaMA-2-13B (SLM)        | 1.05%    |
 |                           | Mistral-7B-v0.1 (SLM)    | 1.95%    |
 |                           | BLOOM 7B1 (SLM)          | 0.00%    |
-
+** There is a typo in paper's table 2, the accuracy of BLOOM 7B1 (SLM) is 0.00% instead of 0.01%.
 
 ## Finetuned Models on Benchmarks (Highest Performance)
 All finetuned version could be found in [Huggingface](https://huggingface.co/Charlie-Han-01).
