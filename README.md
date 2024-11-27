@@ -37,5 +37,5 @@ All finetuned version could be found in [Huggingface](https://huggingface.co/Cha
 ## Files
 * Code: the evalution process of pre-trained models and finetuned models on benchmarks, and corresponding visualizations.
 * Data: Including finetuning data and benchmarks. There exists different formats of data such as csv and json. And we used data_combine.py and data_convert.py to acquire the final required data for model finetuning and evaluation.
-* Figures: directry contains the collected figures and citations.
-* Math QA paper: directory is the overleaf Latex version of the paper. 
+* Figures: Collected figures and citations.
+* Math QA paper: Overleaf Latex version of the paper. 
