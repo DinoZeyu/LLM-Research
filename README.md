@@ -39,3 +39,6 @@ All finetuned version could be found in [Huggingface](https://huggingface.co/Cha
 * Data: Including finetuning data and benchmarks. There exists different formats of data such as csv and json. And we used data_combine.py and data_convert.py to acquire the final required data for model finetuning and evaluation.
 * Figures: Collected figures and citations.
 * Math QA paper: Overleaf Latex version of the paper. 
+
+## Mini Typo
+The old version paper has a little typo in Figure 11 caption. It should be "Performance of SLMs and their costs on different benchmarks" instead of "Performance of SLMs and their performance on different benchmarks"
