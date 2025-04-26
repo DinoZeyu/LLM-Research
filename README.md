@@ -40,5 +40,4 @@ All finetuned version could be found in [Huggingface](https://huggingface.co/Cha
 * Figures: Collected figures and citations.
 * Math QA paper: Overleaf Latex version of the paper. 
 
-## Mini Typo
-The old version paper has a little typo in Figure 11 caption. It should be "Performance of SLMs and their costs on different benchmarks" instead of "Performance of SLMs and their performance on different benchmarks"
+
